@@ -916,12 +916,24 @@ zeotap.com
 ###adsense_read_728x90_04
 ###adsentop
 ###adside_L
+###aI_4banner
+##.mbanner_pyeongchang.mbanner
 ###adSlide_right
+###ads_wing_l01
+###ads_wing_l02
+###ads_wing_r01
+###ads_wing_r02
 ###adTCA
 ###adv
 ###adv-60
+##.eventBanner
 ###art_ad_top1
 ###article > .mbnr300_250.m_ad
+###aI_fbanner1
+###aI_fbanner2
+###aI_fbanner
+###slide_fbanner
+###aI_outbanner
 ###article_banner1
 ###article_banner2
 ###article_banner3
@@ -936,6 +948,7 @@ zeotap.com
 ###blogTopAd
 ###bn_con_15097
 ###bn_container
+###bnr_bottom
 ###bnr01
 ###bnr02
 ###bnr03
@@ -1559,19 +1572,26 @@ zeotap.com
 ##.band_ad_middle.ad_h100
 ##.banner
 ##.banner.list_type
+###ban_mtre14
+##div.ban_mtre
 ##.banner_304101
+###right_scrollbanner
+###left_scrollbanner
 ##.banner_553
+##.ban_newsstand
 ##.banner_area
 ##.banner_area2
 ##.banner_big
 ##.banner_box
 ##.banner_box.W100.ib_box
+##.ban690_115
 ##.banner_cont
 ##.banner_cp
 ##.banner_left
 ##.banner_list
 ##.banner_main
 ##.banner_main_s
+##.ban300_250
 ##.banner_recommend_post
 ##.banner_sub_tit
 ##.banner_system
@@ -1634,6 +1654,7 @@ zeotap.com
 ##.contents.banner
 ##.content-ti-ad
 ##.content-top-ad
+
 ##.counsel_banner
 ##.da_250
 ##.da_300
@@ -1810,6 +1831,7 @@ zeotap.com
 ##.N\=a\:rig\.pbanner.bnr
 ##.new_hot
 ##.news_ad_top
+##.news_article_ads
 ##.newsAd.fltAd
 ##.newsBnr300
 ##.newsBnr300B
@@ -1975,14 +1997,23 @@ zeotap.com
 ##div.ad2013
 ##div.ad3
 ##div.ad4
+##.side_banner_area
+##div.adBlock
+##.ad_wing_l
+##.ad_wing_r
 ##div.ad5
 ##div.ad6
+###bannerJS4
 ##div.ad7
 ##div.ad8
 ##div.ad9
 ##div.ad-box
 ##div.adlink.adtext
 ##div.adright_box
+##div.ad_content
+##.ifr_ad1
+##.ifr_ad
+##.ifr_ad2
 ##div.ad-wrap01.contents-box
 ##div.asideBanner
 ##div.banner
@@ -2007,6 +2038,7 @@ zeotap.com
 ##div.sub_adbox4
 ##div.sub_adbox5
 ##div.sub_adbox6
+##div.ban300_140_1
 ##div.sub_adbox7
 ##div.sub_adbox8
 ##div.sub_adbox9
@@ -2049,6 +2081,7 @@ zeotap.com
 */MK_banner/*
 */mtn/ad/*
 */n/banner/*
+*/ads_t/*
 */n2017/ad/*
 */news2011/banner/*
 */newsCommunity/eventSkin/*
@@ -2075,6 +2108,7 @@ mtn.co.kr/banner/*
 mydaily.co.kr/ad/*
 tvdaily.co.kr/banner/*
 ytndmb.com/bnr/*
+livere.com/liveContents/*
 
 ! ---------------------------------------------------------------------------------------------
 
@@ -2095,6 +2129,7 @@ adsbygoogle
 bogoapp_01.gif
 bogoapp_02.gif
 filejo_200x70.gif
+*/images/*_ban.jpg
 img_roulette_banner_1.gif
 img_roulette_banner_1.png
 img_roulette_banner_2.gif
@@ -2471,3 +2506,6 @@ zipbogo.net##li:nth-of-type(6) > [href="javascript:;"]
 zipbogo.net##li:nth-of-type(7) > [href="javascript:;"]
 zipbogo.net##li:nth-of-type(8) > [href="javascript:;"]
 zipbogo.net##li:nth-of-type(9) > [href="javascript:;"]
+ikbc.co.kr##.popup
+dailian.co.kr###popup_layer
+dailian.co.kr###overlay_t
