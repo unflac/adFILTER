@@ -1021,6 +1021,7 @@
 ##.ad_right7
 ##.ad_right8
 ##.ad_right9
+##.ad_right_300bn
 ##.ad_section.ad_caster
 ##.ad_shoopng
 ##.ad_shoppingnlife_bottom
