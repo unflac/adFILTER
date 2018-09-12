@@ -1253,7 +1253,6 @@
 ##.big_banner_wrap
 ##.bigevent_bnr_w
 ##.blog2_post_adpost
-##.bn
 ##.bn_left.bn_box
 ##.bn_nworks
 ##.bn_pro
