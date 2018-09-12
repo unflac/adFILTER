@@ -1244,6 +1244,7 @@
 ##.banner-box09
 ##.bannerL
 ##.bannerR
+##.banners
 ##.banners_area
 ##.bbs_power_link
 ##.bg_type_v2._bz_section.section.ad_section
