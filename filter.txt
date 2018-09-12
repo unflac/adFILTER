@@ -1836,6 +1836,7 @@
 */theleader/banner/*
 */webzine/banner/*
 */wingBanner/*
+*/www/banner/*
 *_banner.*
 ad.*
 ad_left.*
