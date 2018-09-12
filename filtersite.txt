@@ -2379,3 +2379,5 @@ yljiaoluo.com
 yume.com
 zemanta.com
 zeotap.com
+pressian.com/data/banner/*
+pr-adimage.newscloud.or.kr
