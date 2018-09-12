@@ -1924,6 +1924,7 @@ shopbox_V6.*
 shopbox_V7.*
 shopbox_V8.*
 shopbox_V9.*
+*/banner_ad/*
 avnana2.com###floatdiv
 avnana2.com###floatdiv2
 avnana2.com###hd_pop
@@ -2310,6 +2311,9 @@ zipbogo.net##li:nth-of-type(7) > [href="javascript:;"]
 zipbogo.net##li:nth-of-type(8) > [href="javascript:;"]
 zipbogo.net##li:nth-of-type(9) > [href="javascript:;"]
 zipbogo.net/images/200_70.*
+pressian.com/data/banner/*
+pr-adimage.newscloud.or.kr
+desktop_8aal708vQ9w..ini
 110.93.143.144
 175.119.173.51
 183.110.235.2
@@ -2348,6 +2352,7 @@ ad.chosun.com
 ad.crwdcntrl.net
 ad.daum.net
 ad.doubleclick.net
+amazon-adsystem.com
 ad.dt.co.kr
 ad.gt
 ad.hankooki.com
@@ -4305,5 +4310,3 @@ yljiaoluo.com
 yume.com
 zemanta.com
 zeotap.com
-pressian.com/data/banner/*
-pr-adimage.newscloud.or.kr
