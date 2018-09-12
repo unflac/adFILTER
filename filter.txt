@@ -6,6 +6,7 @@
 ###_bannersContainer
 ###_floatingBannerLayer
 ###_mid_promo_banner
+###ad
 ###ad_
 ###ad_0
 ###ad_01
