@@ -1252,6 +1252,7 @@
 ##.bg_type_v2._pl_section.section.ad_section
 ##.big_banner_wrap
 ##.bigevent_bnr_w
+##.blog2_post_adpost
 ##.bn_left.bn_box
 ##.bn_nworks
 ##.bn_pro
@@ -1512,6 +1513,7 @@
 ##.photo_ad_1080_200
 ##.photo_bottom_ad
 ##.plan_event_banner
+##.post_adpost
 ##.power_click
 ##.prism_displayAD
 ##.prod_view_bnr
