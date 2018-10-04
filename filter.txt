@@ -7,6 +7,7 @@
 ###_BNT_NEWS_BODY_AD_
 ###_floatingBannerLayer
 ###_mid_promo_banner
+###_topBannerContainer
 ###a_randBanner
 ###ad
 ###ad_
@@ -191,6 +192,8 @@
 ###ad_68
 ###ad_69
 ###ad_7
+###ad_7_8
+###ad_7_8_1
 ###ad_70
 ###ad_71
 ###ad_72
@@ -223,6 +226,7 @@
 ###ad_97
 ###ad_98
 ###ad_99
+###ad_aa
 ###ad_area
 ###ad_area_01
 ###ad_area_02
@@ -533,6 +537,7 @@
 ###adsense_read_728x90_03
 ###adsense_read_728x90_04
 ###adsentop
+###adShopping
 ###adside_L
 ###adSlide_right
 ###adsmnctext
@@ -590,6 +595,7 @@
 ###aswift_8_expand
 ###aswift_9_expand
 ###ban_mtre14
+###bandBannerWrap
 ###banner_aside_t
 ###banner_menuinfo
 ###banner_right01
@@ -604,6 +610,7 @@
 ###bannerDisplay
 ###bannerImage
 ###bannerJS4
+###bannerSlider
 ###bestdoctor_banner
 ###blogTopAd
 ###bn_con_15097
@@ -637,6 +644,7 @@
 ###da_300
 ###dablewidget_2o28mzle
 ###danawa-gnb-header-adBanner-self
+###daum-ad-root
 ###dc_advertisement
 ###detail3-1.ad_border_bottom
 ###diablo3TopRight
@@ -644,8 +652,11 @@
 ###div_leftWingBanner
 ###div_rightWingBanner
 ###divArticleAdnetworkBanner
+###dsGnbBanner
+###dsLeftWingBannerMiddle
 ###event_banner
 ###eventBanner
+###evt_adbnr
 ###FadeADLayer
 ###ff_banner_wrap
 ###fifaonline4AdSky
@@ -666,12 +677,14 @@
 ###gad_wrap
 ###ggadsense1
 ###gnb_banner
+###gnbRBannerWrapper
 ###google_ad
 ###google-ad
 ###head-ad
 ###header_left_ad
 ###header_left_adimage
 ###header_right_ad
+###headlineBanner
 ###homeFinder_adver
 ###hongboInfoList
 ###html_banner
@@ -849,6 +862,7 @@
 ###openmatch_ad\
 ###player-advertising
 ###POWER_LINK_NAVER
+###powerLink > .productInner
 ###pp_ban_bbs
 ###pp_ban_right
 ###pp_ban_top
@@ -925,6 +939,7 @@
 ###rollImgAd9
 ###rt_imc_banner
 ###sbs-sports-main-container-ad-origin-top-left
+###searchSponsorAd
 ###sec_ad_headline_0
 ###sec_ad_headline_1
 ###sec_ad_headline_2
@@ -939,6 +954,8 @@
 ###SectionLeftTopBanner
 ###share_bottom_ad
 ###side_banner
+###SideBannerLeft
+###SideBannerRight
 ###siteleft_banner
 ###siteleft_banner1
 ###siteleft_banner2
@@ -982,10 +999,22 @@
 ###top_ad
 ###top_AD_Wrap
 ###top_adv_img
+###top_event_banner
+###top_event_banner1
+###top_event_banner2
+###top_event_banner3
+###top_event_banner4
+###top_event_banner5
+###top_event_banner6
+###top_event_banner7
+###top_event_banner8
+###top_event_banner9
 ###top_hdAd_area
 ###topAD
 ###topAdBox
 ###topBanner
+###topline_ad
+###topline_banner
 ###topskyAd
 ###topslideAd
 ###uniqubeAd_area
@@ -1011,8 +1040,10 @@
 ###wif_adx_banner_wrap
 ###wingBnLeft
 ###wingBnRight
+###wingRecmPrd
 ###wp_adbn_root
 ###wp_edge_mobon
+###ytp-pause-overlay ytp-scroll-min
 ##._banner.end_da
 ##._BTN_AD_
 ##._da_banner.ad_box.r_group_comp
@@ -1136,6 +1167,7 @@
 ##.ad_floating_wrap
 ##.ad_footer.ad_img
 ##.ad_gigigi
+##.ad_header
 ##.ad_header_wrapper
 ##.ad_ic
 ##.ad_imad_line8thumb2.group_cont_etc
@@ -1284,6 +1316,7 @@
 ##.adbanner_sponsor
 ##.adBanner210
 ##.adBanner280
+##.adBannerBox
 ##.adbox
 ##.ad-box01
 ##.ad-box02
@@ -1308,6 +1341,16 @@
 ##.adframe7
 ##.adframe8
 ##.adframe9
+##.ad-google-side
+##.ad-google-side1
+##.ad-google-side2
+##.ad-google-side3
+##.ad-google-side4
+##.ad-google-side5
+##.ad-google-side6
+##.ad-google-side7
+##.ad-google-side8
+##.ad-google-side9
 ##.ad-hng
 ##.ad-ifm01
 ##.adiframe300x250
@@ -1317,6 +1360,16 @@
 ##.ads_title_bottom
 ##.adsbyadop
 ##.adsbygoogle
+##.adsense
+##.adsense1
+##.adsense2
+##.adsense3
+##.adsense4
+##.adsense5
+##.adsense6
+##.adsense7
+##.adsense8
+##.adsense9
 ##.adSlide_right
 ##.ads-main-juyo01
 ##.ads-sub-juyo01
@@ -1333,6 +1386,8 @@
 ##.adtitle
 ##.adtop
 ##.adv
+##.advarea
+##.advert_area_btm
 ##.advert_bnr
 ##.advert_svcbnr
 ##.advertising
@@ -1356,6 +1411,7 @@
 ##.ad-youtube08
 ##.ad-youtube09
 ##.after_box.article_bottom_ad
+##.api_banner
 ##.app_top_banner
 ##.app-banner
 ##.art_list_banner
@@ -1390,6 +1446,15 @@
 ##.banner_304101
 ##.banner_area
 ##.banner_area2
+##.banner_aside01
+##.banner_aside02
+##.banner_aside03
+##.banner_aside04
+##.banner_aside05
+##.banner_aside06
+##.banner_aside07
+##.banner_aside08
+##.banner_aside09
 ##.banner_big
 ##.banner_box
 ##.banner_box.W100.ib_box
@@ -1551,9 +1616,11 @@
 ##.head-ad
 ##.header_banner
 ##.header_left_adimage
+##.headlineBanner
 ##.hed_ad
 ##.home_ad_group
 ##.home-ad__fullwidth
+##.hp_side_banner
 ##.html_banner
 ##.html5-endscreen
 ##.iconAd
@@ -1732,10 +1799,12 @@
 ##.news_ad_top
 ##.news_article_ads
 ##.newsAd.fltAd
+##.news-article-google-580
 ##.newsBnr300
 ##.newsBnr300B
 ##.news-right-ad
 ##.newsview_ad
+##.no_line.sponsor_link_wrap
 ##.noline.text_ad_list
 ##.nzine_banner_sub
 ##.out_side_ad
@@ -1842,6 +1911,7 @@
 ##.snb_btm_bnr
 ##.snmdb_bnr_sras_t
 ##.sp_ad_area
+##.sp_power.sc
 ##.special_banner_area
 ##.spon_ad.content_box_wrap
 ##.sr_banner
@@ -1946,11 +2016,15 @@
 ##.topbanner
 ##.top-banner
 ##.topBanner-clip
+##.topline_ad
+##.total_banner
 ##.ttop_banner
+##.txt_c.Coupon_Banner
 ##.type_bnr_aside.w_banner
 ##.type_bnr_band.w_banner
 ##.uio_cd_banner
 ##.user-snb-wrapper > div.clearfix
+##.uxb-newad
 ##.video-ads
 ##.view_ad_01
 ##.view_ad_02
@@ -1959,9 +2033,28 @@
 ##.view_bottom_ad
 ##.view_center_ad
 ##.view_top_ad
+##.view01_banner01
+##.view01_banner03
+##.view01_banner04
+##.view01_banner05
+##.view01_banner06
+##.view01_banner07
+##.view01_banner08
+##.view01_banner09
 ##.w_end_ad
+##.wing_bnr1
+##.wing_bnr2
+##.wing_bnr3
+##.wing_bnr4
+##.wing_bnr5
+##.wing_bnr6
+##.wing_bnr7
+##.wing_bnr8
+##.wing_bnr9
+##.wing_shopping.wing_comm
 ##.wingBnr
 ##.wrap_adfit_item
+##.ytp-pause-overlay ytp-scroll-min
 ##.ytp-scroll-min
 ##a.link_bnr
 ##a.link_imgbnr
@@ -2088,6 +2181,8 @@
 ##div.viewContentsGoogleAd
 ##div.wrap_over_72890
 ##ins.adsbyadop
+##li._calledAdVisibleLog._ad
+##li._itemSection.ad
 ##li.adv
 ##section.a2.banner
 ##starn5.r_ad_rec300
@@ -2095,6 +2190,7 @@
 */_updata/banner/*
 */2018/banner/*
 */ad_list/*
+*/adbanner/*
 */ads_t/*
 */adver/banner/*
 */adver/banner1/*
@@ -2299,6 +2395,7 @@ adinsight.co.kr
 adition.com
 adixs.net
 adkova.com
+adkpf.newscloud.or.kr
 adlibr.com
 ad-m.asia
 admanager.co.kr
@@ -2395,6 +2492,8 @@ apihub.daum.net
 appier.net
 areyouahuman.com
 as.dc.impact-ad.jp
+asiatoday.co.kr##.tac.aside_google_304
+asiatoday.co.kr##.ui-draggable-handle.ui-draggable.main_popup
 aspnetcdn.com
 audience73.com
 avnana2.com###floatdiv
@@ -2402,7 +2501,6 @@ avnana2.com###floatdiv2
 avnana2.com###hd_pop
 avnana2.com##.fixed-height
 avocet.io
-avpop.org###hd_pop
 banner_1520915792
 basebanner.com
 bb.ad.naver.com
@@ -2411,13 +2509,17 @@ betanews.net/banner/*
 beusable.net
 bidr.io
 bidswitch.net
+biztribune.co.kr###bottom_slides
+biztribune.co.kr/data/banner/*
 blismedia.com
 bluekai.com
 bnt_bnrMain.*
 bobaedream.co.kr###floatR
 bobaedream.co.kr##.right_add
+bodnara.co.kr/advert/advert.php
 bogoapp_01.*
 bogoapp_02.*
+borsendental.com
 bott_bnr_land01.*
 bott_bnr_land02.*
 bott_bnr_land03.*
@@ -2472,6 +2574,7 @@ cm2.cjmooter.com
 cm2.joins.com
 cm2.jssearch.net
 cm3.jssearch.net
+comworld.co.kr##.newsQuick
 connexity.net
 contentlink.co.kr
 contentsfeed.com
@@ -2559,6 +2662,7 @@ dcinside.com###set_view_top
 dcinside.com###zzbang_div
 dcinside.com##.comment_mandu.reply_line
 dcinside.com##.comment_mandu_nick
+dcinside.com##.dory
 dcinside.com##.kakao_schAlliance
 dcinside.com##.mtop_right
 dcinside.com##.trc_rbox_container
@@ -2605,6 +2709,7 @@ display.ad.daum.net
 disqusads.com
 distiltag.com
 dlv.hooniad.com
+d-media.co.kr
 domdex.com
 donate_banner_1.*
 donate_banner_2.*
@@ -2642,6 +2747,7 @@ everesttech.net
 ex.mdtoday.co.kr
 exelator.com
 exosrv.com
+ext-twitch.tv/supervisor/*
 eyeota.net
 eyereturn.com
 eyeviewads.com
@@ -2677,6 +2783,7 @@ googleadservices.com
 gsad.gameshot.net
 guide.allblet.net
 gwallet.com
+gwangnam.co.kr/banner/*
 h.adscope.co.kr
 hankooki.com##div.altersideAdMainL
 hankooki.com##div.altersideAdMainR
@@ -2702,7 +2809,6 @@ hu.co.kr
 hyungje_bar.*
 ia.naver.com
 ia.www.naver.com
-iacstatic.co.kr
 iasds01.com
 id5-sync.com
 idaegu.com###flipslides
@@ -2712,6 +2818,9 @@ iframe0529_HB.*
 ikbc.co.kr##.popup
 ilikesponsorad.co.kr
 ilikesponsorad.com
+ilyosisa.co.kr##.auto-marbtm-10.auto-marleft-10.float-right.height-250.width-250
+ilyosisa.co.kr/Autobox/300_pdf2.html
+ilyosisa.co.kr/Autobox/300_tab1.html
 imadrep.co.kr
 image.bizshop.daum.net
 imasdk.googleapis.com
@@ -2822,6 +2931,8 @@ jssearch.net
 juicyads.com
 kakao.com###cEtc
 kakao.com##.box_toast
+kbench.com###flotting_layer
+kbench.com/m_article_right_box.php
 keyword.ad4989.co.kr
 keywordsconnect.com
 khan.co.kr###current_artList
@@ -2832,12 +2943,15 @@ khan.co.kr###topLeft
 khan.co.kr###wrapIndicator
 khan.co.kr##.kocef
 khan.co.kr##.left_wing
+kheraldm.com##.youtube
+kheraldm.com/common/newsstand.php
 kmib.co.kr##.css_remon_wiki1
 kmib.co.kr##.mbtm_lft
 kmib.co.kr##body > div:nth-of-type(6)
 kodcad.kr
 kormedi.com###printbottom
 kormedi.com###quickMenu
+kpanews.co.kr##div#popDiv
 ksg.co.kr/images/top_banner/*
 ksg.co.kr/upload/banner/*
 kstarplay.tv
@@ -2982,8 +3096,10 @@ naver.com###main_news_specialda_1
 naver.com###p_main_beauty_00
 naver.com###p_main_business_00
 naver.com###p_main_cargame_00
+naver.com###p_main_design_00
 naver.com###p_main_finance_00
 naver.com###p_main_ittech_00
+naver.com###p_main_living_00
 naver.com###p_main_livinghome_00
 naver.com###p_main_momkids_00
 naver.com###p_main_travel_00
@@ -3018,6 +3134,7 @@ naver.com##.id_news.wrap > .brick-house.news_wrap.grid1_wrap > div.brick-vowel:n
 naver.com##.link_pc_version
 naver.com##.more_news2.box1
 naver.com##.NE\=a\:fot
+naver.com##.nx_pla.sc
 naver.com##.post_adpost
 naver.com##.power_link
 naver.com##.section_powerlink
@@ -3025,6 +3142,7 @@ naver.com##.sports_home_da
 naver.com##.tomain_info_layer
 naver.com##.video_view__link_wrapper_app
 naver.com##.videocenter_da2
+naver.com##li._vsb_common._ad
 naver-smr.smartmediarep.com
 nd-adimage.newdaily.co.kr
 nd-adkpf.newdaily.co.kr
@@ -3103,9 +3221,11 @@ pressian.com/data/banner/*
 priel.co.kr
 prism.pandora.tv
 prwidgets.com
+pstatic.net/sstatic/search/pc/tmp/*
 pub.adpnut.com
 pubads.g.doubleclick.net
 pubmatic.com
+qianliexiancha.com
 quantcount.com
 quantserve.com
 ra.ntwoad.co.kr
@@ -3215,6 +3335,7 @@ tvdaily.co.kr/banner/*
 tvreport.co.kr###VIEW_END
 tvreport.co.kr###VIEW_HEADER
 tvreport.co.kr###VIEW_TOPTHUMB_BOT
+twitch.tv##.extension-taskbar
 tynt.com
 uncn.jp
 uplynk.com
