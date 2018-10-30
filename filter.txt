@@ -1,5 +1,5 @@
 !-- 광고
-
+histats.com
 110.93.143.144
 175.119.173.51
 183.110.235.2
@@ -37,7 +37,6 @@ ad.applead.co.kr
 ad.cache.newdaily.co.kr
 ad.chosun.com
 ad.crwdcntrl.net
-ad.danawa.com
 ad.doubleclick.net
 ad.dt.co.kr
 ad.gt
@@ -162,7 +161,6 @@ adv.mediakeep.co.kr
 advertising.com
 advimg.ad-mapps.com
 adw.heraldm.com
-adweb.co.kr
 adx1.com
 adzon.net
 afy11.net
@@ -180,8 +178,6 @@ aspnetcdn.com
 audience73.com
 avocet.io
 basebanner.com
-bdv.bidvertiser.com
-beusable.net
 bidr.io
 bidswitch.net
 blismedia.com
@@ -212,7 +208,6 @@ cm2.jssearch.net
 cm3.jssearch.net
 connexity.net
 contentlink.co.kr
-contentsfeed.com
 contextweb.com
 creative.wwwpromoter.com
 creditform.co.kr
@@ -227,7 +222,6 @@ d.adroll.com
 d1hn8mrtxasu7m.cloudfront.net
 dable.io
 daisy6.com
-dawin.tv
 demdex.net
 disqusads.com
 distiltag.com
@@ -359,6 +353,7 @@ pfrm.co
 phaserep.com
 piclick.me
 pippio.com
+whatnow.kr
 polltest.azurewebsites.net
 popin.cc
 powerlinks.com
@@ -444,6 +439,13 @@ yljiaoluo.com
 yume.com
 zemanta.com
 zeotap.com
+adweb.co.kr
+beusable.net
+contentsfeed.com
+
+!-- 성인
+
+exoticads.com
 
 !-- 동영상
 
@@ -604,20 +606,75 @@ naver.com###adPostArea
 naver.com##.v2.band_banner
 naver.com###mflickAd
 naver.com###ct > .item_area
+naver.com###ad_randicon
+naver.com##.searchad_vt
+naver.com###hbeanLeverageLayer
+naver.com##.gift_send_banner
+naver.com##.spot_event
+naver.com##.cart.section_bnr
+naver.com##.banner_area
+naver.com##.banner_area2
+naver.com##.id_uio_banner
+naver.com##.id_uio_cd_fbanner
+naver.com###_floatingBannerLayer
+naver.com##.float_bnr
+naver.com##.detail.section_bnr
+naver.com##.banner_remit
+naver.com##.bnr_alrim
+naver.com##.banner_recommend_post
+naver.com###rightTopBanner
+naver.com###right_big_banner_0
+naver.com##.phishing_banner
+naver.com##.ad.bx_area
+naver.com##li._itemSection.ad
+
+!-- 동영상
+
+fc2.com##.ranking_bnr
+chaturbate.com##.ad
+chaturbate.com##.banner
+chaturbate.com##a[href^="/external_link/"]
+cam4.com##.skyscraper-ad-1
+cam4.com##.skyscraper-ad-2
+cam4.com##.sponsorAd
+cam4.com###profile-ad
+cam4.com###homeRandomAd-2
+cam4.com###subfoot
+cam4.com###homeRandomAd-1
+highwebmedia.com/01833f5bf9255d73b503a0fc8492da339795ce6a/68747470733a2f2f692e696d6775722e636f6d2f4a676b4f5053582e706e67
+highwebmedia.com/257020f2e68f0427ee5b9ae4e88f2c2e7983b678/687474703a2f2f63622d746f6f6c2e61707073706f742e636f6d2f6173736574732f696d672f666362672d646d63612d6f7665726c61792e706e67
+highwebmedia.com/cb089c976aa913e99e9d5ed28cf5d53ac1618127/687474703a2f2f692e696d6775722e636f6d2f626d396e4e71732e6a7067
+highwebmedia.com/9069c3a1a6a14a28bc44f608aef76b35bc0913ca/68747470733a2f2f696d6167652e6962622e636f2f6d69574139372f656d61696c2e706e67
+highwebmedia.com/51d0d7a7f918aa01b81517e9561d28dde32b32fa/68747470733a2f2f692e696d6775722e636f6d2f4669593154574f2e706e67
+
+!-- 유튜브
+
+youtube.com##.ytp-endscreen-content
+youtube.com##.ytp-ce-covering-overlay
+youtube.com##.branding-img-container
+youtube.com##.ytp-ce-element-show
+youtube.com###ytp-pause-overlay
+youtube.com##.ytd-search-pyv-renderer.style-scope
+youtube.com##.ytp-scroll-min
+youtube.com##.adDisplay
+youtube.com##.video-ads
+youtube.com###player-ads
+youtube.com##.annotation
+youtube.com##.ytp-ad-player-overlay-instream-info
 
 !-- 아프리카
-
 adpvod.afreecatv.com
+adballoonimg.afreecatv.com
 
 afreecatv.com###afreecaAd
 afreecatv.com###topBnrArea
 afreecatv.com##.bjissue_banner
 afreecatv.com###header_ad
 afreecatv.com##.adcon-area
-afreecatv.com###layer_high_quality
 afreecatv.com##.ng-scope.banner_wrap
 afreecatv.com##.seasonal
 afreecatv.com###chat_ad
+afreecatv.com###tuneOut > p
 
 !-- 트위치
 
@@ -628,6 +685,7 @@ imrworldwide.com
 twitch.tv##.extension-taskbar
 twitch.tv###dfp-directory-banner
 twitch.tv###dfp-directory-rectangle
+twitch.tv##.blue-bar
 
 !--- 구글
 
@@ -639,7 +697,6 @@ googletagmanager.com
 googletagservices.com
 
 google.com##.aKB
-
 
 !-- 가생이
 
@@ -750,17 +807,6 @@ kakao.com##.box_toast
 kakao.com##.link_linebnr
 kakao.com##.link_bnr
 
-!-- 유튜브
-
-youtube.com##.ytp-endscreen-content
-youtube.com##.ytp-ce-covering-overlay
-youtube.com##.branding-img-container
-youtube.com##.ytp-ce-element-show
-youtube.com###ytp-pause-overlay
-youtube.com##.ytd-search-pyv-renderer.style-scope
-youtube.com##.ytp-scroll-min
-youtube.com##.adDisplay
-
 !-- 마루마루
 
 marumaru.in##.banner_top
@@ -782,13 +828,135 @@ wasabisyrup.com##.page-control
 wasabisyrup.com###wasabisyrup.com##.logo-top
 wasabisyrup.com##.horz-page-layout
 wasabisyrup.com##.pb_icon
-wasabisyrup.com##div.viewer-hidden.article-gallery-group
 
-!-- 이토렌트
+!- 툰코
+
+toonkor.love/bann/*
+toonkor.love##.banner_m
+toonkor.love##.main_top_bann
+toonkor.love##.bnt.bn
+toonkor.love###banner_21_img
+
+!-- 다나와
+ad.danawa.com
+danawa.com/images/newsCommunity/eventSkin/*
+danawa.com/NBP/powerLink.php
+
+danawa.com###floatAdLayer
+danawa.com##.banner_center
+danawa.com###mdnw-main-recommend-realCuration-container
+danawa.com###mdnw-advertise-adReader-slideContainer
+danawa.com###mdnw-productList-adPointContainer
+danawa.com###productBlog-adContainer
+danawa.com###mobile_dpg_list_bottom2
+danawa.com##.dpg_power_link
+danawa.com###mdnw-main-hotdeal-banner-container
+danawa.com###mdnw-main-computer-topBanner
+danawa.com##.header_banner
+danawa.com###t1Banner
+danawa.com##.h_type.banner_area
+danawa.com###powerLinkRight
+danawa.com###powerLinkBottom
+danawa.com##.banner_area
+danawa.com##.rnb_banner
+danawa.com###danawa-community-rnb-ad-top
+danawa.com##.ttop_banner
+danawa.com###danawa-gnb-header-adBanner-self
+danawa.com##.comty_wrap_link
+danawa.com##.bbs_power_link
+danawa.com###danawa-community-newsView-ad-middle1
+danawa.com###danawa-community-newsView-ad-middle2
+danawa.com##.bbs_banner
+danawa.com##.ad_wide_slide
+danawa.com##.spon_ad
+danawa.com##.dealer_bnr
+danawa.com##.diff_bnr
+danawa.com###mainAdReader
+danawa.com###mainAdStar
+danawa.com##.product_ad_banner
+danawa.com###mainAdPoint
+danawa.com##.ad_section
+danawa.com##.power_link
+
+!-- 불법
 
 etoland.co.kr/img/index_banner*.*
 etoland.co.kr/img/banner/*
 etoland.co.kr##.adsbygoogle
+avnana20.com###floatdiv2
+avnana20.com###floatdiv
+avnana20.com/img/banner/*$domain=avnana20.com,image
+avnana20.com###hd_pop
+otorrent22.com###quickLink2
+otorrent22.com/img/bn/*$domain=otorrent22.com,image
+tobogi.com/img/ad/*
+cnbtkitty.me###__jclm_left_couplet
+cnbtkitty.me###__jclm_right_couplet
+cnbtkitty.me###adfdiv
+cnbtkitty.me###__jclm_r_b_59145
+totoria.co/img/bn/*
+totoria.co##div#sky
+torrentgaja.com/data/file/ad/*
+torrentgaja.com##.widget-img.widget-box
+torrentboza.com/banner/*
+torrentboza.com##.header-banner
+torrentboza.com##.ad_table
+torrentboza.com##.ad_table_b
+torrentboza.com###floatdiv
+torrentboza.com###hd_pop
+redhub69.com/banner/*
+redhub69.com##.ad_table
+redhub69.com##.ad_table_b
+redhub69.com##.header-banner
+redhub69.com###floatdiv
+redhub69.com###hd_pop
+beetorrent.com/banner/*
+beetorrent.com##div#fixWing.hidden-xs
+torrenthaja.com##.side-banner
+torrenthaja.com##.main-banner
+torrenthaja.com###banner_10
+torrenthaja.com###banner_11
+torrenthaja.com###banner_12
+torrenthaja.com###banner_13
+torrenthaja.com###banner_14
+torrenthaja.com###banner_15
+torrenthaja.com###banner_16
+torrenthaja.com###banner_17
+torrenthaja.com###banner_18
+torrenthaja.com###banner_19
+torrenthaja.com###banner_20
+torrenthaja.com###banner_21
+torrenthaja.com###banner_22
+torrenthaja.com###banner_23
+torrenthaja.com###banner_24
+torrenthaja.com###banner_25
+torrenthaja.com###banner_26
+torrenthaja.com###banner_27
+torrenthaja.com###banner_28
+torrenthaja.com###banner_29
+torrenthaja.com###banner_30
+torrenthaja.com###banner_31
+torrenthaja.com###banner_32
+torrenthaja.com###banner_33
+torrenthaja.com###banner_34
+torrenthaja.com###banner_35
+torrenthaja.com###banner_36
+torrenthaja.com###banner_37
+torrenthaja.com###banner_38
+torrenthaja.com###banner_39
+torrenthaja.com###banner_40
+bananamall.co.kr/banner/*
+torrentgagaa.com/u/mk/*
+torrentgagaa.com/files/attach/filebox/*
+torrentgagaa.com###gpe_divpop1
+torrentgagaa.com###gpe_divpop2
+torrentgagaa.com##.gpe_pm_conban_code
+torrentgagaa.com##.ss_ad_center
+
+!-- 시네스트
+
+cineaste.co.kr###sky
+cineaste.co.kr##.at-content > center
 
 !-- 루리웹
 
@@ -840,3 +1008,71 @@ inven.co.kr###mobileTailAd_LayerDummy
 inven.co.kr##.mobileDaNs1
 inven.co.kr##[href="http://m.inven.co.kr/webtoon/"]
 inven.co.kr##.ad-wrap
+
+!-- 클리앙
+
+clien.net###naverAd
+clien.net###hongboInfoList
+clien.net##.view_bottom_ad
+clien.net###side_banner
+clien.net##.main_top_ad
+clien.net##.main_center_ad
+clien.net##.footer_ad
+clien.net##.list_top_ad
+clien.net##.list_bottom_ad
+clien.net##.list_center_ad
+clien.net###naverAd2
+
+!-- 게임메카
+
+gm-adimage.gamemeca.com
+gm-adkpf.gamemeca.com
+
+gamemeca.com##.content-top-ad
+gamemeca.com##.aside-left-ad
+gamemeca.com##.backgroundAdClick
+gamemeca.com##.ad-topscroll
+gamemeca.com##.toastBanner
+gamemeca.com##.news-right-ad
+gamemeca.com##.gnb-left-ad
+gamemeca.com##.gm_head_ads
+gamemeca.com##.main-ranking-section-ad
+gamemeca.com##.board-right-ad
+gamemeca.com##.article-banner
+gamemeca.com##.google_ad_bottom_728x90
+gamemeca.com##.right_ad
+gamemeca.com##.right_ad2
+gamemeca.com###criteo_slot_3531
+gamemeca.com###mobiDiv
+gamemeca.com###aswift_0_expand
+gamemeca.com##.mobile_top_ad
+
+!-- 게임조선
+
+chosun.com/RealMedia/ads/*
+
+gamechosun.co.kr###FloatLayer1
+gamechosun.co.kr##.main_back
+gamechosun.co.kr##.top_event
+gamechosun.co.kr##.adMobile
+gamechosun.co.kr###foot_banner01
+
+!-- 온라이프
+
+onlifezone.com/ad/*
+onlifezone.com##.adsbygoogle
+onlifezone.com###ad_m_b
+onlifezone.com##.gpe_pm_conban_code
+onlifezone.com##div.scban_wrap
+
+!-- 플레이포럼
+
+playforum.net##.sidead
+playforum.net##.ad_wrap
+playforum.net##.cont_ad
+playforum.net###adBottomBox
+
+!-- 트게더
+tgd.kr/event/*
+tgd.kr###weare-out-of-food
+tgd.kr###plz-dont-block-me
