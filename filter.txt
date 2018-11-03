@@ -1,4 +1,10 @@
+!--통합
+
+*/RealMedia/ads/*
+##.adsbygoogle
+
 !-- 광고
+
 histats.com
 110.93.143.144
 175.119.173.51
@@ -231,7 +237,6 @@ domdex.com
 dotomi.com
 dp25.kr
 dreamsearch.or.kr
-dreamwiz.com
 dtscdn.com
 dtscout.com
 dyntrk.com
@@ -257,7 +262,6 @@ hankookquiz.azurewebsites.net
 hnscom.com
 hotjar.com
 hu.co.kr
-iacstatic.co.kr
 iasds01.com
 id5-sync.com
 idnad.co.kr
@@ -495,6 +499,7 @@ videost.nmv.naver.com
 vts.rmcnmv.naver.com
 wrd.naver.com
 nbp-corp.com
+pstatic.net/sstatic/search/pc/tmp/*
 
 naver.com##.column_banner
 naver.com###_MM_WRAP_nmap_ent_0
@@ -627,6 +632,17 @@ naver.com###right_big_banner_0
 naver.com##.phishing_banner
 naver.com##.ad.bx_area
 naver.com##li._itemSection.ad
+naver.com##.banner_section
+naver.com##.banner_add
+naver.com##.banner
+naver.com###_banner_area_
+naver.com##._banner_link
+naver.com##._chatBanner
+naver.com##.banner_point
+naver.com##.api_banner
+naver.com##.sp_power.sc
+naver.com##.ly_toast
+naver.com##.module_banner_area
 
 !-- 동영상
 
@@ -663,7 +679,6 @@ youtube.com##.annotation
 youtube.com##.ytp-ad-player-overlay-instream-info
 
 !-- 아프리카
-adpvod.afreecatv.com
 adballoonimg.afreecatv.com
 
 afreecatv.com###afreecaAd
@@ -675,6 +690,8 @@ afreecatv.com##.ng-scope.banner_wrap
 afreecatv.com##.seasonal
 afreecatv.com###chat_ad
 afreecatv.com###tuneOut > p
+afreecatv.com##.ng-scope.seasonal
+
 
 !-- 트위치
 
@@ -702,7 +719,6 @@ google.com##.aKB
 
 gasengi.com/ad/*
 
-gasengi.com##.adsbygoogle
 gasengi.com##.quick_m
 gasengi.com###ad_powerlink_div
 gasengi.com###leftcolumn > div:nth-of-type(5)
@@ -806,6 +822,9 @@ kakao.com###cEtc
 kakao.com##.box_toast
 kakao.com##.link_linebnr
 kakao.com##.link_bnr
+kakao.com##.link_gnbbnr
+kakao.com##.link_lolchampionship
+kakao.com##.link_imgbnr
 
 !-- 마루마루
 
@@ -882,7 +901,6 @@ danawa.com##.power_link
 
 etoland.co.kr/img/index_banner*.*
 etoland.co.kr/img/banner/*
-etoland.co.kr##.adsbygoogle
 avnana20.com###floatdiv2
 avnana20.com###floatdiv
 avnana20.com/img/banner/*$domain=avnana20.com,image
@@ -964,11 +982,16 @@ ruliweb.com##.adrrr
 ruliweb.com##.nbp_container
 ruliweb.com##.ad_header_wrapper
 ruliweb.com###fixed_ad
+ruliweb.com##.right_wrapper
+ruliweb.com##.gsc-adBlock
+ruliweb.com##li.right_best_list_item:nth-of-type(20)
 
 !-- 인벤
 
 ads.inven.co.kr
 inven.co.kr/image_2011/webtoon/banner/*
+inven.co.kr/column/2018/10/31/event/*
+inven.co.kr/column/2017/03/24/event/*
 
 inven.co.kr###comAdTopRight3
 inven.co.kr##.AdSky
@@ -1008,6 +1031,7 @@ inven.co.kr###mobileTailAd_LayerDummy
 inven.co.kr##.mobileDaNs1
 inven.co.kr##[href="http://m.inven.co.kr/webtoon/"]
 inven.co.kr##.ad-wrap
+inven.co.kr##center
 
 !-- 클리앙
 
@@ -1049,8 +1073,6 @@ gamemeca.com##.mobile_top_ad
 
 !-- 게임조선
 
-chosun.com/RealMedia/ads/*
-
 gamechosun.co.kr###FloatLayer1
 gamechosun.co.kr##.main_back
 gamechosun.co.kr##.top_event
@@ -1060,7 +1082,6 @@ gamechosun.co.kr###foot_banner01
 !-- 온라이프
 
 onlifezone.com/ad/*
-onlifezone.com##.adsbygoogle
 onlifezone.com###ad_m_b
 onlifezone.com##.gpe_pm_conban_code
 onlifezone.com##div.scban_wrap
@@ -1076,3 +1097,216 @@ playforum.net###adBottomBox
 tgd.kr/event/*
 tgd.kr###weare-out-of-food
 tgd.kr###plz-dont-block-me
+
+!-- 11번가
+
+11st.co.kr###dsLeftWingBannerMiddle
+11st.co.kr##.bnrborder
+11st.co.kr##.ftr_banner
+11st.co.kr###evt_adbnr
+11st.co.kr###dsGnbBanner
+11st.co.kr##.prdc_cate_choice
+11st.co.kr##.prdc_cont_banner_2
+11st.co.kr###hotclick-recm-container
+11st.co.kr##.mw_bnr
+11st.co.kr##.c-banner
+11st.co.kr##.prdc_top_right
+11st.co.kr###wingRecmPrd
+11st.co.kr##.prdc_banner5
+11st.co.kr###hotClkRcmGoods
+11st.co.kr###mainPromotion_area
+11st.co.kr##.header_ad
+11st.co.kr##.ad_banner
+11st.co.kr##.bnr_adtxt_2
+11st.co.kr##.prom_bnr2
+11st.co.kr###partnerBenefitTxt
+
+!-- 네이트
+
+networkad.nate.com
+nate.com/Etc/ViewADThumb
+
+nate.com###adContainer
+nate.com###shopping
+nate.com##.area_shopping_today
+nate.com##.socialAD.sidebar
+nate.com##.sidebar_banner
+nate.com##.ad290x330.sidebar
+nate.com###spaceBanner
+nate.com##.hotBanner
+nate.com###ad_sponsorBar
+nate.com###adDiv
+nate.com###bottomAdRect
+nate.com##.bn300
+nate.com##.left-wing-banner
+nate.com###AdRectangleBanner
+nate.com##.new_ad
+nate.com##.kkoad
+nate.com###ad_small
+nate.com###ad_big
+nate.com##.shopping
+nate.com##.adBn
+nate.com##.bt_banner
+nate.com##.spaceBanner
+nate.com###AdCommerce
+nate.com##.ad260x330
+nate.com###AdShopSearch
+nate.com##.socialAD
+
+!-- 드림위즈
+
+dreamwiz.com/images/adbanner/*
+
+bomul.com##.lo_title_bn
+bomul.com##.main_side_menu_bn
+
+dreamwiz.com##.shopping-box
+dreamwiz.com##.top-ad-box
+dreamwiz.com##.neoclick-banner
+dreamwiz.com##.neoclick-box
+dreamwiz.com##.neoclick-banner-top
+dreamwiz.com###ad_banner
+dreamwiz.com##.dw_neotad
+dreamwiz.com###dw_free_wrap
+dreamwiz.com###top_banner_970
+dreamwiz.com##.left_banner1
+dreamwiz.com##.right_banner1
+dreamwiz.com###pc_banner_right_300_1
+dreamwiz.com###float_banner
+dreamwiz.com##.main-right-top-ad
+dreamwiz.com##.main-right-shop-ad
+dreamwiz.com##.main-right-bot-ad
+dreamwiz.com##.main-banner
+dreamwiz.com##.banner-types
+
+!-- 지디넷
+
+adv.zdnet.co.kr
+zdnet.co.kr/ads/*
+
+zdnet.co.kr###main_right_Floating_banner
+zdnet.co.kr###extruderRight
+zdnet.co.kr##.adsbyadop
+zdnet.co.kr##div.right_bn1
+zdnet.co.kr##div.right_bn2
+zdnet.co.kr##div.right_bn3
+zdnet.co.kr##div.right_bn4
+zdnet.co.kr##div.right_bn5
+zdnet.co.kr##div.right_bn6
+zdnet.co.kr##div.right_bn7
+zdnet.co.kr##div.right_bn8
+zdnet.co.kr##div.right_bn9
+zdnet.co.kr##.right_bn1
+zdnet.co.kr##.right_bn2
+zdnet.co.kr##.right_bn3
+zdnet.co.kr##.right_bn4
+zdnet.co.kr##.right_bn5
+zdnet.co.kr##.right_bn6
+zdnet.co.kr##.right_bn7
+zdnet.co.kr##.right_bn8
+zdnet.co.kr##.right_bn9
+zdnet.co.kr###divMenu1
+zdnet.co.kr###divMenu2
+zdnet.co.kr###divMenu3
+zdnet.co.kr###divMenu4
+zdnet.co.kr###divMenu5
+zdnet.co.kr###divMenu6
+zdnet.co.kr###divMenu7
+zdnet.co.kr###divMenu8
+zdnet.co.kr###divMenu9
+zdnet.co.kr##.top_ad
+zdnet.co.kr##ul.ad_list
+zdnet.co.kr###divMenu
+zdnet.co.kr###scrollDiv
+zdnet.co.kr##.view_ad
+zdnet.co.kr##.ad_bn1
+zdnet.co.kr###livereAd
+zdnet.co.kr##.con_bn_box
+zdnet.co.kr##.hide_bk
+zdnet.co.kr##.interplay
+zdnet.co.kr###NeoInteractiveScreenViewLayer
+zdnet.co.kr##div.view_ad_1
+zdnet.co.kr##.power_center
+
+!-- 옥션
+
+auction.co.kr##.hp_side_banner
+auction.co.kr##.promo
+auction.co.kr##.plcc_banner
+auction.co.kr##.box__cpc-togetheritems
+auction.co.kr##.ad_area
+
+!-- 지마켓
+
+gmarket.co.kr##.ng-scope.banner
+gmarket.co.kr##.space.m_ad
+gmarket.co.kr##.blank.m_ad
+gmarket.co.kr##.m_banner
+gmarket.co.kr###floatbar > .ad
+gmarket.co.kr###topbanner
+gmarket.co.kr##.wrap > .ad
+gmarket.co.kr##.m_power
+gmarket.co.kr##.m_market
+gmarket.co.kr##.m_minishop
+gmarket.co.kr##.m_focus
+gmarket.co.kr##.plcc_banner
+gmarket.co.kr##.box__cpc-togetheritems
+gmarket.co.kr##.vip-cpcarea
+gmarket.co.kr##.link__banner
+gmarket.co.kr##.once.smileday_main_banner
+gmarket.co.kr##.smileday_icon_banner
+gmarket.co.kr##.active.smileday_main_banner
+gmarket.co.kr##.event_banner
+gmarket.co.kr###vipPowerClickLayer
+gmarket.co.kr##.banner
+gmarket.co.kr##.banner1
+gmarket.co.kr##.second_banner
+gmarket.co.kr##.ad_bnr_wrap
+gmarket.co.kr##.item_sponsor_link
+gmarket.co.kr###bigSmileFilter
+
+!-- 아이템매니아
+
+itemmania.com##.list_layer
+itemmania.com###g_BOTTOM_BANNER
+itemmania.com###trade_top_bn
+itemmania.com###g_remocon_head_banner
+itemmania.com###margin_banner
+
+!-- 위메프
+
+wemakeprice.com###top_event_banner3
+wemakeprice.com###right_top_event_banner
+wemakeprice.com##.wrap_shopping
+wemakeprice.com##.wrap_ad
+wemakeprice.com###_topBannerContainer
+wemakeprice.com##.side_bicad
+wemakeprice.com##.m-app-lead-banner
+wemakeprice.com###_rollingBanner
+
+!- 티몬
+
+ticketmonster.co.kr###topline_ad
+ticketmonster.co.kr###_eventBannerList
+ticketmonster.co.kr###_benefitBanner
+ticketmonster.co.kr###topline_banner
+ticketmonster.co.kr##.banners
+ticketmonster.co.kr##.oneday
+
+!-- 쿠팡
+
+coupang.com###fullBanner
+coupang.com###coupang-banner
+coupang.com##.promotion-banner
+
+auction.co.kr##.advarea
+auction.co.kr##.uxb-newad
+auction.co.kr###sideAds
+auction.co.kr##.banner1
+auction.co.kr##.vip-detailinfo_banner
+
+!-- 신세계
+
+ssg.com###_cmskyCard
+ssg.com###gnbBanrDiv
+ssg.com##.cdtl_bn_marketing
