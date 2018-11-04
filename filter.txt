@@ -1,5 +1,10 @@
+!--통합
+
 */RealMedia/ads/*
 ##.adsbygoogle
+
+!-- 광고
+
 histats.com
 110.93.143.144
 175.119.173.51
@@ -441,14 +446,24 @@ zeotap.com
 adweb.co.kr
 beusable.net
 contentsfeed.com
+
+!-- 성인
+
 exoticads.com
+
+!-- 동영상
+
 smrmembers-smr.smartmediarep.com
+!-- 영상은 재생이 안 되고 소리만 송출될 경우 크롬 개발자 도구를 통해 smrmembers-smr.smartmediarep.com 차단
 advod.smartmediarep.com
 naver-smr.smartmediarep.com
 daumkakao-smr.smartmediarep.com
 adtracking.smartmediarep.com
 ad.smartmediarep.com
 apis.naver.com/rmcnmv/rmcams/item/tracking
+
+!-- 네이버
+
 ad.naver.com
 ad.nbms.naver.com
 ad.news.naver.com
@@ -628,6 +643,9 @@ naver.com##.api_banner
 naver.com##.sp_power.sc
 naver.com##.ly_toast
 naver.com##.module_banner_area
+
+!-- 동영상
+
 fc2.com##.ranking_bnr
 chaturbate.com##.ad
 chaturbate.com##.banner
@@ -644,6 +662,9 @@ highwebmedia.com/257020f2e68f0427ee5b9ae4e88f2c2e7983b678/687474703a2f2f63622d74
 highwebmedia.com/cb089c976aa913e99e9d5ed28cf5d53ac1618127/687474703a2f2f692e696d6775722e636f6d2f626d396e4e71732e6a7067
 highwebmedia.com/9069c3a1a6a14a28bc44f608aef76b35bc0913ca/68747470733a2f2f696d6167652e6962622e636f2f6d69574139372f656d61696c2e706e67
 highwebmedia.com/51d0d7a7f918aa01b81517e9561d28dde32b32fa/68747470733a2f2f692e696d6775722e636f6d2f4669593154574f2e706e67
+
+!-- 유튜브
+
 youtube.com##.ytp-endscreen-content
 youtube.com##.ytp-ce-covering-overlay
 youtube.com##.branding-img-container
@@ -656,7 +677,11 @@ youtube.com##.video-ads
 youtube.com###player-ads
 youtube.com##.annotation
 youtube.com##.ytp-ad-player-overlay-instream-info
+
+!-- 아프리카
+
 adballoonimg.afreecatv.com
+
 afreecatv.com###afreecaAd
 afreecatv.com###topBnrArea
 afreecatv.com##.bjissue_banner
@@ -667,6 +692,10 @@ afreecatv.com##.seasonal
 afreecatv.com###chat_ad
 afreecatv.com###tuneOut > p
 afreecatv.com##.ng-scope.seasonal
+
+
+!-- 트위치
+
 ext-twitch.tv/supervisor/*
 scorecardresearch.com
 amazon-adsystem.com
@@ -675,18 +704,31 @@ twitch.tv##.extension-taskbar
 twitch.tv###dfp-directory-banner
 twitch.tv###dfp-directory-rectangle
 twitch.tv##.blue-bar
+
+!--- 구글
+
 googlesyndication.com
 doubleclick.net
 google-analytics.com
 googleadservices.com
 googletagmanager.com
 googletagservices.com
+
 google.com##.aKB
+
+!-- 가생이
+
 gasengi.com/ad/*
+
 gasengi.com##.quick_m
 gasengi.com###ad_powerlink_div
 gasengi.com###leftcolumn > div:nth-of-type(5)
 gasengi.com###aswift_0_expand
+
+!-- 다음
+
+webid.ad.daum.net
+vads-api.ad.daum.net
 ads-api.ad.daum.net
 adclixad.daum.net
 alea.adam.ad.daum.net
@@ -713,6 +755,7 @@ ads-api.daumkakao.com
 channel.kakao.com
 lg-talk.kakao.com
 sh-talk.kakao.com
+
 daum.net###commonEbContainer
 daum.net###premiumLinkColl
 daum.net###scrollWrap
@@ -785,6 +828,10 @@ kakao.com##.link_bnr
 kakao.com##.link_gnbbnr
 kakao.com##.link_lolchampionship
 kakao.com##.link_imgbnr
+kakao.com##.link_livechatting
+
+!-- 마루마루
+
 marumaru.in##.banner_top
 marumaru.in##div#widget__insert_html
 marumaru.in###responsive-banner
@@ -804,14 +851,25 @@ wasabisyrup.com##.page-control
 wasabisyrup.com###wasabisyrup.com##.logo-top
 wasabisyrup.com##.horz-page-layout
 wasabisyrup.com##.pb_icon
-toonkor.love/bann/*
-toonkor.love##.banner_m
-toonkor.love##.main_top_bann
-toonkor.love##.bnt.bn
-toonkor.love###banner_21_img
+
+!- 툰코
+
+toonkor.one/bann/*
+toonkor.one/bann/*
+toonkor.one##.banner_m
+toonkor.one##.main_top_bann
+toonkor.one##.bnt.bn
+toonkor.one###banner_21_img
+toonkor.one##.top_banner
+toonkor.one##.main_top_bann
+toonkor.one##.bnt.bn
+
+!-- 다나와
+
 ad.danawa.com
 danawa.com/images/newsCommunity/eventSkin/*
 danawa.com/NBP/powerLink.php
+
 danawa.com###floatAdLayer
 danawa.com##.banner_center
 danawa.com###mdnw-main-recommend-realCuration-container
@@ -847,6 +905,9 @@ danawa.com##.product_ad_banner
 danawa.com###mainAdPoint
 danawa.com##.ad_section
 danawa.com##.power_link
+
+!-- 불법
+
 etoland.co.kr/img/index_banner*.*
 etoland.co.kr/img/banner/*
 avnana20.com###floatdiv2
@@ -918,8 +979,14 @@ torrentgagaa.com###gpe_divpop1
 torrentgagaa.com###gpe_divpop2
 torrentgagaa.com##.gpe_pm_conban_code
 torrentgagaa.com##.ss_ad_center
+
+!-- 시네스트
+
 cineaste.co.kr###sky
 cineaste.co.kr##.at-content > center
+
+!-- 루리웹
+
 ruliweb.com##.adrrr
 ruliweb.com##.nbp_container
 ruliweb.com##.ad_header_wrapper
@@ -927,10 +994,16 @@ ruliweb.com###fixed_ad
 ruliweb.com##.right_wrapper
 ruliweb.com##.gsc-adBlock
 ruliweb.com##li.right_best_list_item:nth-of-type(20)
+ruliweb.com##.ad
+ruliweb.com##.banner
+
+!-- 인벤
+
 ads.inven.co.kr
 inven.co.kr/image_2011/webtoon/banner/*
 inven.co.kr/column/2018/10/31/event/*
 inven.co.kr/column/2017/03/24/event/*
+
 inven.co.kr###comAdTopRight3
 inven.co.kr##.AdSky
 inven.co.kr###marketBottom
@@ -970,6 +1043,9 @@ inven.co.kr##.mobileDaNs1
 inven.co.kr##[href="http://m.inven.co.kr/webtoon/"]
 inven.co.kr##.ad-wrap
 inven.co.kr##center
+
+!-- 클리앙
+
 clien.net###naverAd
 clien.net###hongboInfoList
 clien.net##.view_bottom_ad
@@ -981,8 +1057,12 @@ clien.net##.list_top_ad
 clien.net##.list_bottom_ad
 clien.net##.list_center_ad
 clien.net###naverAd2
+
+!-- 게임메카
+
 gm-adimage.gamemeca.com
 gm-adkpf.gamemeca.com
+
 gamemeca.com##.content-top-ad
 gamemeca.com##.aside-left-ad
 gamemeca.com##.backgroundAdClick
@@ -1001,22 +1081,37 @@ gamemeca.com###criteo_slot_3531
 gamemeca.com###mobiDiv
 gamemeca.com###aswift_0_expand
 gamemeca.com##.mobile_top_ad
+
+!-- 게임조선
+
 gamechosun.co.kr###FloatLayer1
 gamechosun.co.kr##.main_back
 gamechosun.co.kr##.top_event
 gamechosun.co.kr##.adMobile
 gamechosun.co.kr###foot_banner01
+
+!-- 온라이프
+
 onlifezone.com/ad/*
 onlifezone.com###ad_m_b
 onlifezone.com##.gpe_pm_conban_code
 onlifezone.com##div.scban_wrap
+
+!-- 플레이포럼
+
 playforum.net##.sidead
 playforum.net##.ad_wrap
 playforum.net##.cont_ad
 playforum.net###adBottomBox
+
+!-- 트게더
+
 tgd.kr/event/*
 tgd.kr###weare-out-of-food
 tgd.kr###plz-dont-block-me
+
+!-- 11번가
+
 11st.co.kr###dsLeftWingBannerMiddle
 11st.co.kr##.bnrborder
 11st.co.kr##.ftr_banner
@@ -1037,8 +1132,12 @@ tgd.kr###plz-dont-block-me
 11st.co.kr##.bnr_adtxt_2
 11st.co.kr##.prom_bnr2
 11st.co.kr###partnerBenefitTxt
+
+!-- 네이트
+
 networkad.nate.com
 nate.com/Etc/ViewADThumb
+
 nate.com###adContainer
 nate.com###shopping
 nate.com##.area_shopping_today
@@ -1065,9 +1164,14 @@ nate.com###AdCommerce
 nate.com##.ad260x330
 nate.com###AdShopSearch
 nate.com##.socialAD
+
+!-- 드림위즈
+
 dreamwiz.com/images/adbanner/*
+
 bomul.com##.lo_title_bn
 bomul.com##.main_side_menu_bn
+
 dreamwiz.com##.shopping-box
 dreamwiz.com##.top-ad-box
 dreamwiz.com##.neoclick-banner
@@ -1086,8 +1190,12 @@ dreamwiz.com##.main-right-shop-ad
 dreamwiz.com##.main-right-bot-ad
 dreamwiz.com##.main-banner
 dreamwiz.com##.banner-types
+
+!-- 지디넷
+
 adv.zdnet.co.kr
 zdnet.co.kr/ads/*
+
 zdnet.co.kr###main_right_Floating_banner
 zdnet.co.kr###extruderRight
 zdnet.co.kr##.adsbyadop
@@ -1131,11 +1239,17 @@ zdnet.co.kr##.interplay
 zdnet.co.kr###NeoInteractiveScreenViewLayer
 zdnet.co.kr##div.view_ad_1
 zdnet.co.kr##.power_center
+
+!-- 옥션
+
 auction.co.kr##.hp_side_banner
 auction.co.kr##.promo
 auction.co.kr##.plcc_banner
 auction.co.kr##.box__cpc-togetheritems
 auction.co.kr##.ad_area
+
+!-- 지마켓
+
 gmarket.co.kr##.ng-scope.banner
 gmarket.co.kr##.space.m_ad
 gmarket.co.kr##.blank.m_ad
@@ -1162,11 +1276,17 @@ gmarket.co.kr##.second_banner
 gmarket.co.kr##.ad_bnr_wrap
 gmarket.co.kr##.item_sponsor_link
 gmarket.co.kr###bigSmileFilter
+
+!-- 아이템매니아
+
 itemmania.com##.list_layer
 itemmania.com###g_BOTTOM_BANNER
 itemmania.com###trade_top_bn
 itemmania.com###g_remocon_head_banner
 itemmania.com###margin_banner
+
+!-- 위메프
+
 wemakeprice.com###top_event_banner3
 wemakeprice.com###right_top_event_banner
 wemakeprice.com##.wrap_shopping
@@ -1175,20 +1295,30 @@ wemakeprice.com###_topBannerContainer
 wemakeprice.com##.side_bicad
 wemakeprice.com##.m-app-lead-banner
 wemakeprice.com###_rollingBanner
+
+!- 티몬
+
 ticketmonster.co.kr###topline_ad
 ticketmonster.co.kr###_eventBannerList
 ticketmonster.co.kr###_benefitBanner
 ticketmonster.co.kr###topline_banner
 ticketmonster.co.kr##.banners
 ticketmonster.co.kr##.oneday
+
+!-- 쿠팡
+
 coupang.com###fullBanner
 coupang.com###coupang-banner
 coupang.com##.promotion-banner
+
 auction.co.kr##.advarea
 auction.co.kr##.uxb-newad
 auction.co.kr###sideAds
 auction.co.kr##.banner1
 auction.co.kr##.vip-detailinfo_banner
+
+!-- 신세계
+
 ssg.com###_cmskyCard
 ssg.com###gnbBanrDiv
 ssg.com##.cdtl_bn_marketing
