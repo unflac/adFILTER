@@ -1,3 +1,5 @@
+!-- 2018.11.05 07:00
+
 !--통합
 
 */RealMedia/ads/*
@@ -1281,6 +1283,7 @@ itemmania.com###g_BOTTOM_BANNER
 itemmania.com###trade_top_bn
 itemmania.com###g_remocon_head_banner
 itemmania.com###margin_banner
+itemmania.co.kr###top_banner
 
 !-- 위메프
 
@@ -1319,3 +1322,40 @@ auction.co.kr##.vip-detailinfo_banner
 ssg.com###_cmskyCard
 ssg.com###gnbBanrDiv
 ssg.com##.cdtl_bn_marketing
+
+!-- MBN
+
+mk.co.kr##.relation_ad
+mk.co.kr###bottom_ad
+mk.co.kr###google_dfp_MC_250x250
+mk.co.kr###google_dfp_MR_300x250\,300x450\,300x600
+mk.co.kr###google_dfp_TC_728x90\,970x90\,970x250
+mbn.co.kr##.new_ad
+mbn.co.kr###google_dfp_MC250x250\,300x250\,336x280
+mbn.co.kr###google_dfp_TC320x50\,320x75\,320x100
+mbn.co.kr###google_dfp_BC_1
+mbn.co.kr###google_dfp_BC_2
+mbn.co.kr###google_dfp_MC_1
+mbn.co.kr###google_dfp_MC_2
+mbn.co.kr###google_dfp_BC300x251\,320x251\,320x291
+mbn.co.kr###google_dfp_MC_1x1
+
+!-- 디시인사이드
+
+dcinside.com##div.rightbanner
+dcinside.com##div.leftbanner
+dcinside.com##.stickyunit
+dcinside.com###wif_adx_banner_wrap
+dcinside.com##.con_banner
+dcinside.com##.rightbanner
+dcinside.com##.dory
+dcinside.com##.kakao_ad_area
+dcinside.com##.ad_bottom_list
+dcinside.com##.adv-group
+dcinside.com##.adv-groupin
+dcinside.com##.dori-box
+dcinside.com##.dori-icon
+dcinside.com##.dori-icon-txt
+dcinside.com###div_adnmore_area
+dcinside.com##.adv-grouptop
+dcinside.com##.evt_content
