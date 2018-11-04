@@ -693,7 +693,6 @@ afreecatv.com###chat_ad
 afreecatv.com###tuneOut > p
 afreecatv.com##.ng-scope.seasonal
 
-
 !-- 트위치
 
 ext-twitch.tv/supervisor/*
@@ -855,14 +854,12 @@ wasabisyrup.com##.pb_icon
 !- 툰코
 
 toonkor.one/bann/*
-toonkor.one/bann/*
+
 toonkor.one##.banner_m
 toonkor.one##.main_top_bann
 toonkor.one##.bnt.bn
 toonkor.one###banner_21_img
 toonkor.one##.top_banner
-toonkor.one##.main_top_bann
-toonkor.one##.bnt.bn
 
 !-- 다나와
 
