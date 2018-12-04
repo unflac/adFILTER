@@ -857,13 +857,13 @@ wasabisyrup.com##.pb_icon
 
 !- 툰코
 
-toonkor.one/bann/*
+toonkor.work/bann/*
 
-toonkor.one##.banner_m
-toonkor.one##.main_top_bann
-toonkor.one##.bnt.bn
-toonkor.one###banner_21_img
-toonkor.one##.top_banner
+toonkor.work##.banner_m
+toonkor.work##.main_top_bann
+toonkor.work##.bnt.bn
+toonkor.work###banner_21_img
+toonkor.work##.top_banner
 
 !-- 다나와
 
