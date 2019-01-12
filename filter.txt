@@ -1,4 +1,4 @@
-!-- 2018.12.05 06:00
+!-- 2019.01.13 05:54
 
 !--통합
 
@@ -7,6 +7,7 @@
 
 !-- 광고
 
+amazon-adsystem.com
 histats.com
 110.93.143.144
 175.119.173.51
@@ -645,6 +646,9 @@ naver.com##.api_banner
 naver.com##.sp_power.sc
 naver.com##.ly_toast
 naver.com##.module_banner_area
+naver.com###promotion1
+naver.com##.c-banner__inner
+naver.com###pcDetailBannerArea
 
 !-- 동영상
 
@@ -833,37 +837,19 @@ kakao.com##.link_lolchampionship
 kakao.com##.link_imgbnr
 kakao.com##.link_livechatting
 
-!-- 마루마루
+!-- 망가쇼미
 
-marumaru.in##.banner_top
-marumaru.in##div#widget__insert_html
-marumaru.in###responsive-banner
-marumaru.in###me_box
-marumaru.in##.mobfloat
-marumaru.in##.realssp
-marumaru.in##.tool
-marumaru.in##body > div:nth-of-type(4)
-wasabisyrup.com###header-anchor
-wasabisyrup.com##.logo-top
-wasabisyrup.com###footer-anchor
-wasabisyrup.com##.footer-terms
-wasabisyrup.com##.tt_icon
-wasabisyrup.com##.tracking
-wasabisyrup.com##.article-gallery-group
-wasabisyrup.com##.page-control
-wasabisyrup.com###wasabisyrup.com##.logo-top
-wasabisyrup.com##.horz-page-layout
-wasabisyrup.com##.pb_icon
+mangashow.me##.banner
 
 !- 툰코
 
-toonkor.work/bann/*
+toonkor.vet/bann/*
 
-toonkor.work##.banner_m
-toonkor.work##.main_top_bann
-toonkor.work##.bnt.bn
-toonkor.work###banner_21_img
-toonkor.work##.top_banner
+toonkor.vet##.banner_m
+toonkor.vet##.main_top_bann
+toonkor.vet##.bnt.bn
+toonkor.vet###banner_21_img
+toonkor.vet##.top_banner
 
 !-- 다나와
 
@@ -907,6 +893,7 @@ danawa.com###mainAdPoint
 danawa.com##.ad_section
 danawa.com##.power_link
 danawa.com##.adreader_list
+
 !-- 불법
 
 etoland.co.kr/img/index_banner*.*
@@ -915,8 +902,6 @@ avnana20.com###floatdiv2
 avnana20.com###floatdiv
 avnana20.com/img/banner/*$domain=avnana20.com,image
 avnana20.com###hd_pop
-otorrent22.com###quickLink2
-otorrent22.com/img/bn/*$domain=otorrent22.com,image
 tobogi.com/img/ad/*
 cnbtkitty.me###__jclm_left_couplet
 cnbtkitty.me###__jclm_right_couplet
@@ -980,6 +965,15 @@ torrentgagaa.com###gpe_divpop1
 torrentgagaa.com###gpe_divpop2
 torrentgagaa.com##.gpe_pm_conban_code
 torrentgagaa.com##.ss_ad_center
+avnana22.com/img/banner/*
+avnana22.com###floatdiv2
+avnana22.com###floatdiv
+avnana22.com##.view-wrap > div:nth-of-type(2)
+otorrent88.com##.col-xs-12 > .row
+otorrent88.com/img/bn/*
+ad.bananamall.co.kr
+static.freebody.co.kr
+s-toy.co.kr/comx/skin/10000wbanner/*
 
 !-- 시네스트
 
@@ -1044,6 +1038,7 @@ inven.co.kr##.mobileDaNs1
 inven.co.kr##[href="http://m.inven.co.kr/webtoon/"]
 inven.co.kr##.ad-wrap
 inven.co.kr##center
+inven.co.kr###commonpart_market
 
 !-- 클리앙
 
@@ -1371,6 +1366,7 @@ dcinside.com###div_adnmore_area
 dcinside.com##.adv-grouptop
 dcinside.com##.evt_content
 dcinside.com##.power_click
+dcinside.com###zzbang_div
 
 !-- 조선일보
 
@@ -1597,9 +1593,28 @@ donga.com##.sub_ad07
 donga.com##.sub_ad08
 donga.com##.sub_ad09
 
-loaq.kr##.ad
-gall.dcinside.com###zzbang_div
-avnana22.com###floatdiv2
-avnana22.com###floatdiv
-avnana22.com/img/banner/*
-avnana22.com##.view-wrap > div:nth-of-type(2)
+!-- YTN
+
+ytn.co.kr/inc_banner/*
+ytn.co.kr/img/ad/*
+yna.co.kr##.fixed-bnr02
+yna.co.kr##.aside-banner
+yna.co.kr##.article-ad-box
+yna.co.kr##.aside-top-banner
+yna.co.kr##.ad-tag
+yna.co.kr##.ad-wrap01
+yna.co.kr##.goolge-banner
+yna.co.kr##.banner-box06
+yna.co.kr##.banner-box09
+ytn.co.kr##.articleAd_new
+ytn.co.kr##div.sub_adbox2
+ytn.co.kr##div.adright_box
+ytn.co.kr###hns_mask
+ytn.co.kr##.ad_zone2
+ytn.co.kr##div.sub_adbox1
+ytn.co.kr##.articleAd_marketing
+ytn.co.kr##.ad_top
+
+!-- 아이템매니아
+
+itemmania.com/images/banner/*
