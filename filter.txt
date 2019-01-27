@@ -1,12 +1,14 @@
-!-- 2019.01.13 05:54
+!-- 2019.01.27 08:52
 
 !--통합
 
 */RealMedia/ads/*
 ##.adsbygoogle
+##.check_notify
 
 !-- 광고
 
+inter1ads.com
 amazon-adsystem.com
 histats.com
 110.93.143.144
@@ -83,6 +85,7 @@ adapf.com
 adapi.inlcorp.com
 adbinead.com
 adbiz.co.kr
+adheim.com
 adbiz2.co.kr
 adbiz3.co.kr
 adc.ohmynews.com
@@ -474,7 +477,6 @@ ad.nmv.naver.com
 adc.naver.com
 adcr.naver.com
 adcreative.naver.com
-ams.rmcnmv.naver.com
 bb.ad.naver.com
 castbox.naver.com
 castbox.shopping.naver.com
@@ -499,7 +501,6 @@ searchad.naver.com
 syndication.openapi.naver.com
 veta.naver.com
 videost.nmv.naver.com
-vts.rmcnmv.naver.com
 wrd.naver.com
 nbp-corp.com
 pstatic.net/sstatic/search/pc/tmp/*
@@ -598,6 +599,9 @@ naver.com###p_main_ittech_00
 naver.com###p_main_living_00
 naver.com###p_main_livinghome_00
 naver.com###p_main_momkids_00
+naver.com###p_main_china_00
+naver.com##.ccj_banner_jtbc
+naver.com###p_main_job_00
 naver.com###p_main_travel_00
 naver.com###p_main_wedding_00
 naver.com##div.id_uio_thumbnail.grid1
@@ -649,6 +653,8 @@ naver.com##.module_banner_area
 naver.com###promotion1
 naver.com##.c-banner__inner
 naver.com###pcDetailBannerArea
+naver.com##.banner_gnb
+naver.com##.img_bnr
 
 !-- 동영상
 
@@ -721,6 +727,9 @@ googleadservices.com
 googletagmanager.com
 googletagservices.com
 
+##.adsbyadop
+
+google.co.kr##.gsc-adBlock
 google.com##.aKB
 
 !-- 가생이
@@ -843,13 +852,13 @@ mangashow.me##.banner
 
 !- 툰코
 
-toonkor.vet/bann/*
+toonkor.gold/bann/*
 
-toonkor.vet##.banner_m
-toonkor.vet##.main_top_bann
-toonkor.vet##.bnt.bn
-toonkor.vet###banner_21_img
-toonkor.vet##.top_banner
+toonkor.gold##.banner_m
+toonkor.gold##.main_top_bann
+toonkor.gold##.bnt.bn
+toonkor.gold###banner_21_img
+toonkor.gold##.top_banner
 
 !-- 다나와
 
@@ -974,6 +983,37 @@ otorrent88.com/img/bn/*
 ad.bananamall.co.kr
 static.freebody.co.kr
 s-toy.co.kr/comx/skin/10000wbanner/*
+mangashow.me##.admin-notice
+mangashow.me##.at-footer
+thepiratebay.org###sky-center
+thepiratebay.org##.ads
+thepiratebay.org###sky-right
+thepiratebay.org###foot
+totoria.co##li.treeview:nth-of-type(1)
+tfreeca22.com##.left_ad1
+tfreeca22.com##.left_ad2
+tfreeca22.com##.left_ad3
+tfreeca22.com/include/*
+fntoday.co.kr##.banner_box
+torrentgaja.com###hd_pop
+torrentgaja.com/thema/Basic/colorset/Basic/header.jpg
+javnet.club##center:nth-of-type(1)
+newtoki.com##.col-sm-9.col-md-9.col-15 > div.row-15.row:nth-of-type(1)
+newtoki.com##.board-tail-banner
+newtoki.com##u-chat
+newtoki.com##.btn-info.btn
+bubbletorrent.com##.leftWing
+bubbletorrent.com##.rightWing
+bubbletorrent.com##div.bannerP
+torrentmi.com##.ad_pic
+savebt.pw###__jclm_left_couplet
+savebt.pw###__jclm_right_couplet
+etoland.co.kr/img/toptoon/*
+btbit.org###LELE_ShowDIV_UNIONtop
+btbit.org###__QQCP_LEFT_Div
+btbit.org###__QQCP_RIGHT_Div
+cnbtkitty.ws###__jclm_left_couplet
+cnbtkitty.ws###__jclm_right_couplet
 
 !-- 시네스트
 
@@ -1203,7 +1243,6 @@ zdnet.co.kr/ads/*
 
 zdnet.co.kr###main_right_Floating_banner
 zdnet.co.kr###extruderRight
-zdnet.co.kr##.adsbyadop
 zdnet.co.kr##div.right_bn1
 zdnet.co.kr##div.right_bn2
 zdnet.co.kr##div.right_bn3
@@ -1618,3 +1657,133 @@ ytn.co.kr##.ad_top
 !-- 아이템매니아
 
 itemmania.com/images/banner/*
+
+!-- 미정리
+
+brotoon.com##.basic-banner
+brotoon.com##.board-tail-banner
+brotoon.com##u-chat
+brotoon.com##.btn-lg.btn-info.btn
+heraldcorp.com##.ad_2
+heraldcorp.com##.ad_9
+heraldcorp.com##div.ad_7
+heraldcorp.com##div.ad_8
+heraldcorp.com##.ad_5
+heraldcorp.com##div.ad_10
+heraldcorp.com###wp_edge_mobon
+2cpu.co.kr##.table-bordered
+naver.com###plugFloatingBanner
+joins.com##div.sub_da_300
+joins.com###criteo_network
+joins.com###ab_adtxt_lt
+joins.com##.hot_click_wrap
+joins.com##.sponsored_link
+joins.com##.premium_link
+joins.com##.popular_link
+joins.com##.sub_premium_link
+joins.com##.special_link
+joins.com##.shpping_life
+joins.com##.promote
+joins.com##.sub_da_250
+joins.com##.sub_imc
+joins.com###wide_ad_bottom
+joins.com###articeltopbanner
+joins.com###eventBanner
+joins.com##.sub_da_300
+joins.com##.biz_link
+
+kookje.co.kr##.flow_wrap2
+kookje.co.kr/service/banner/*
+etnews.com##.ad_news_text
+etnews.com##aside.ad_300x250
+etnews.com##.article_ad
+etnews.com##.ad_text
+etnews.com##.ad_728x90
+etnews.com###wingRightSticky
+etnews.com##.bnr_topbox01
+etnews.com###FloatLayer1
+
+alicili.me###__jclm_right_couplet
+alicili.me###LELE_ShowDIV_UNION
+alicili.me###__jclm_left_couplet
+alicili.me###xx
+cnbtkitty.ws###LELE_ShowDIV_UNIONtop
+busan.com##.head-ad
+busan.com##.wcms_ad
+hodu28.com##.renewal17_bltl_basiclist
+hodu28.com##.todays_free_third.clearfix
+hodu28.com/upload/banner/*
+wfwf5.com##.top-banner
+copytoon03.com##.w_banner
+savebt.pw###LELE_ShowDIV_UNIONtop
+pipicili.com###LELE_ShowDIV_UNIONtop
+pipicili.com###__QQCP_RIGHT_Div
+pipicili.com###__QQCP_RIGHT_Frame
+pipicili.com###__QQCP_LEFT_Frame
+btchuanqi2.com###JS_zuoxiajiao
+btchuanqi2.com###LELE_ShowDIV_UNIONtop
+torrentmap.com###ad_board
+asiae.co.kr##.sv_banner
+asiae.co.kr##.ad_wrap
+torrentwal.net###inserting > center
+kookje.co.kr###news_relGisa2 > .right
+
+sedaily.com##div.ad_wrap
+sedaily.com##.sub_ad_banner10
+sedaily.com##.sub_ad_banner4
+sedaily.com##.sub_ad_banner6
+sedaily.com##.sub_ad_banner6_wrap
+sedaily.com##.sub_ad_banner7
+sedaily.com##.sub_ad_banner7_2
+sedaily.com##.sub_ad_banner8_wrap
+savebt.pw###xx
+newtoki.com###hd_pop
+mk.co.kr###slot6
+mk.co.kr###slot18
+mk.co.kr###slot13
+mk.co.kr###slot4
+mk.co.kr###slot1
+
+gwangnam.co.kr/banner/*
+
+news1.kr###content > div.ad_content
+storetorrents.com###__jclm_left_couplet
+storetorrents.com###__jclm_right_couplet
+storetorrents.com###LELE_ShowDIV_UNIONtop
+cnbtkitty.ws###xx
+clk.ink##.banner-inner
+srt.am##.mgbox
+flylink.io##footer
+flylink.io###mainNav
+srt.am##.footer-copy
+srt.am##.navbar-top.navbar-default.navbar
+linkshrink.net###frme
+pinkhindi.com##footer
+pinkhindi.com###cookie-pop
+pinkhindi.com###mainNav
+linkshrink.net###frme1
+flylink.io##.banner-inner
+flylink.io##.text-left
+ouo.io##.about
+ouo.io##.join-now
+ouo.io##.footer-copy
+ouo.io##header
+ouo.io##.desc
+ouo.io##.text-center > div
+pinkhindi.com##.text-left
+pinkhindi.com##h3
+pinkhindi.com##p
+pinkhindi.com##.banner
+g-enews.com##.v_ad02
+filelon.com##div.illegal:nth-of-type(10) > .popup_ly
+ajunews.com###top_hori_ad
+ajunews.com##.vert_ad_left
+dfpan.com###right_prem
+dfpan.com###MemberPayfor
+dfpan.com###skyblue_bottom
+cuti.in##.text-left
+cuti.in##footer
+cuti.in###mainNav
+clk.ink##.text-left
+clk.ink##footer
+clk.ink###mainNav
