@@ -1,10 +1,11 @@
-!-- 2019.01.27 08:52
+!-- 2019.02.12 15:33
 
 !--통합
 
 */RealMedia/ads/*
 ##.adsbygoogle
 ##.check_notify
+###livereContentsContainer
 
 !-- 광고
 
@@ -21,6 +22,7 @@ histats.com
 218.145.28.155
 220.73.139.25
 222.122.232.98
+tadapi.info
 2beon.co.kr
 2mdn.net
 360yield.com
@@ -42,6 +44,7 @@ ad.adixs.co.kr
 ad.adlike.co.kr
 ad.adnmore.co.kr
 ad.ad-ya.net
+ad.tvreport.co.kr
 ad.aeonad.co.kr
 ad.aeonad.net
 ad.applead.co.kr
@@ -91,6 +94,7 @@ adbiz3.co.kr
 adc.ohmynews.com
 ad-cdn.technoratimedia.com
 adclickservice.com
+wec.co.kr
 addthis.com
 addthisedge.com
 adex.ednplus.com
@@ -348,7 +352,6 @@ nsense.co.kr
 nsmartad.com
 ntruss.com
 nw.realssp.co.kr
-o00.kr
 oddconcepts.kr
 omnitagjs.com
 opendsp.com
@@ -459,14 +462,14 @@ exoticads.com
 
 !-- 동영상
 
-smrmembers-smr.smartmediarep.com
+!-- smrmembers-smr.smartmediarep.com
 !-- 영상은 재생이 안 되고 소리만 송출될 경우 크롬 개발자 도구를 통해 smrmembers-smr.smartmediarep.com 차단
-advod.smartmediarep.com
-naver-smr.smartmediarep.com
-daumkakao-smr.smartmediarep.com
-adtracking.smartmediarep.com
-ad.smartmediarep.com
-apis.naver.com/rmcnmv/rmcams/item/tracking
+!-- advod.smartmediarep.com
+!-- naver-smr.smartmediarep.com
+!-- daumkakao-smr.smartmediarep.com
+!-- adtracking.smartmediarep.com
+!-- ad.smartmediarep.com
+!-- apis.naver.com/rmcnmv/rmcams/item/tracking
 
 !-- 네이버
 
@@ -599,6 +602,7 @@ naver.com###p_main_ittech_00
 naver.com###p_main_living_00
 naver.com###p_main_livinghome_00
 naver.com###p_main_momkids_00
+naver.com###p_main_show_00
 naver.com###p_main_china_00
 naver.com##.ccj_banner_jtbc
 naver.com###p_main_job_00
@@ -655,6 +659,7 @@ naver.com##.c-banner__inner
 naver.com###pcDetailBannerArea
 naver.com##.banner_gnb
 naver.com##.img_bnr
+naver.com###ppl_video_section
 
 !-- 동영상
 
@@ -978,8 +983,8 @@ avnana22.com/img/banner/*
 avnana22.com###floatdiv2
 avnana22.com###floatdiv
 avnana22.com##.view-wrap > div:nth-of-type(2)
-otorrent88.com##.col-xs-12 > .row
-otorrent88.com/img/bn/*
+otorrent99.com##.col-xs-12 > .row
+otorrent99.com/img/bn/*
 ad.bananamall.co.kr
 static.freebody.co.kr
 s-toy.co.kr/comx/skin/10000wbanner/*
@@ -1691,7 +1696,6 @@ joins.com###articeltopbanner
 joins.com###eventBanner
 joins.com##.sub_da_300
 joins.com##.biz_link
-
 kookje.co.kr##.flow_wrap2
 kookje.co.kr/service/banner/*
 etnews.com##.ad_news_text
@@ -1702,7 +1706,6 @@ etnews.com##.ad_728x90
 etnews.com###wingRightSticky
 etnews.com##.bnr_topbox01
 etnews.com###FloatLayer1
-
 alicili.me###__jclm_right_couplet
 alicili.me###LELE_ShowDIV_UNION
 alicili.me###__jclm_left_couplet
@@ -1727,7 +1730,6 @@ asiae.co.kr##.sv_banner
 asiae.co.kr##.ad_wrap
 torrentwal.net###inserting > center
 kookje.co.kr###news_relGisa2 > .right
-
 sedaily.com##div.ad_wrap
 sedaily.com##.sub_ad_banner10
 sedaily.com##.sub_ad_banner4
@@ -1743,9 +1745,7 @@ mk.co.kr###slot18
 mk.co.kr###slot13
 mk.co.kr###slot4
 mk.co.kr###slot1
-
 gwangnam.co.kr/banner/*
-
 news1.kr###content > div.ad_content
 storetorrents.com###__jclm_left_couplet
 storetorrents.com###__jclm_right_couplet
@@ -1787,3 +1787,111 @@ cuti.in###mainNav
 clk.ink##.text-left
 clk.ink##footer
 clk.ink###mainNav
+uptobox.com##.exo-native-widget
+uptobox.com###footer
+uptobox.com##tbody
+uptobox.com##center
+uptobox.com###navbar
+tvreport.co.kr###CONTENT_WRAPBOTLEFT1
+tvreport.co.kr###VIEW_CONTENT_TOP1
+tvreport.co.kr###CONTENT_WRAPBOTRIGHT1
+tvreport.co.kr###VIEW_HEADER
+tvreport.co.kr###VIEW_TOPTHUMB_BOT
+blogginggyanbox.com##.banner-inner
+blogginggyanbox.com###mainNav
+blogginggyanbox.com##.text-left
+blogginggyanbox.com##footer
+kukinews.com###PrismDisplayBox
+kukinews.com##.wing_right_v2
+kukinews.com##.wing_right_right_v2
+kukinews.com##.wing_left_v2
+kukinews.com###wif_adx_banner_wrap
+kukinews.com##div.m02_arl19:nth-of-type(14) > .more
+kukinews.com##div.m02_arl19:nth-of-type(6) > .more
+mbn.co.kr##.right_image
+mbn.co.kr###slot16
+btbtt.co##.imgs_1.width
+tube8.com##.gridBanner
+tube8.com###catFishBanner
+tube8.com##.rightColBanner
+tube8.com##.underplayerBanner
+tube8.com##.footerBanner
+ohmynews.com##.ad-top
+xvideos.com###video-ad
+xvideos.com###ad-footer
+xvideos.com###ad-tower-div
+pornhub.com###pb_block
+pornhub.com##.adsPcSmallCenter
+g-enews.com###sliding_adop
+torrentmap.com###hd_pop
+torrentmap.com###down_notice
+torrentmap.com###left_ad
+torrentmap.com###right_ad
+torrentmap.com/banner/*
+sedaily.com##.adBox
+sportalkorea.com###reView_ad
+sportalkorea.com###topAdBox
+sportalkorea.com##p.box240_line
+sportalkorea.com##.ad_gigigi
+sportalkorea.com###mk_ad
+sportalkorea.com###r_floater_sub
+sportalkorea.com###floater
+sportalkorea.com###Contents_Top
+marumaru01.com##.banner
+marumaru01.com##.side-banner
+etoday.co.kr###quick_right
+etoday.co.kr###quick_left
+etoday.co.kr##.sectionAD
+etoday.co.kr###ad_site_top
+etoland.co.kr##.gsc-adBlock
+fnnews.com###ad_body
+fnnews.com##.ad_left_580x400
+fnnews.com##.ad_banner_rightWing
+fnnews.com##.ad_banner_leftWing
+hani.co.kr###ad_top
+hani.co.kr##.ad-300x180-area
+hani.co.kr###ad_kisa_r04
+hani.co.kr##.photo-ad
+hani.co.kr##.ad_img3
+hani.co.kr###laAdArea
+xhamster.com##.right-rectangle
+xhamster.com##.wid-player
+xhamster.com##.wid-banner-container
+tube8.com##.gridBanner_
+52iv.tv###sitefocus
+vop.co.kr##.adpage-top-ad
+vop.co.kr##.listAD
+vop.co.kr##.articlein_ad
+vop.co.kr###right_scroll
+vop.co.kr###left_scroll
+yabest1.com###adsHead
+torrentwal.com###left_ad_1
+torrentwal.com/banner/*
+38.103.161.157###ad_text
+clien.net##.view_center_ad
+ck101.com###image_ad_long
+ck101.com##.videoAdWrapper
+ck101.com##.a_cn
+ck101.com##.imgAd
+hametori.pw###sekeyin
+seselah.com###video-ads
+seselah.com##.featherlight
+edaily.co.kr###head_menu_channelevent
+edaily.co.kr##.ad_taboola
+edaily.co.kr##.ad_740x120
+edaily.co.kr##.ad_text1
+edaily.co.kr##.ad_dable
+edaily.co.kr##.ad_dable_box
+edaily.co.kr##.boxbanner_300x250
+edaily.co.kr##.weekend_news
+edaily.co.kr##.netizen_interest
+edaily.co.kr##.manyview_info
+edaily.co.kr##.boxbanner_300x100_r
+edaily.co.kr###w_read_right
+edaily.co.kr##.list_advertising
+edaily.co.kr##.youlike_news
+edaily.co.kr##div.boxbanner_250x250
+edaily.co.kr##.ad_texbanner_300
+edaily.co.kr##.ad_texbanner
+edaily.co.kr##.banner_300x169
+edaily.co.kr###ad_top_right_01
