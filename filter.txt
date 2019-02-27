@@ -9,7 +9,58 @@
 
 !-- 광고
 
+browsers.support
+dgafgadsgkjg.top
+e9geolgzk6.com
+getfree-vpn.com
+kt5850pjz0.com
+push-notifications.top
+adexchangemachine.com
+cfqpxzx.com
+commercialvalue.org
+fingahvf.top
+ie8eamus.com
+igas13.ru
+onclickmega.com
+onclicksuper.com
+remarketingpixel.com
+trafyield.com
+ufpcdn.com
+uptimecdn.com
+4006825178.com
+51.la
+7794.com
+何朝城.eu.org
+bubbleandyeson.com
+buerchaoshi.com
+cnzz.com
+hdjxmf.com
+hechaocheng.cn
+henanfs.com
+hivps.xyz
+jhwj88.com
+jisuoping.com
+jiuyue699.com
+qiqivv.com
+tangeb.com
+yzjlsb.com
+zhiyaspa.com
+*.abbp1.com
+nyetm2mkch.com
+adtng.com
+centrofiles.com
+contentabc.com
+doublepimpssl.com
+funybirth12.agency
+grtyb.com
+imglnkc.com
+mixpanel.com
+mxpnl.com
+n1272adserv.xyz
+trafficjunky.net
+adpies.com
 inter1ads.com
+something-wrong29.icu
 amazon-adsystem.com
 histats.com
 110.93.143.144
@@ -18,6 +69,9 @@ histats.com
 1rx.io
 211.239.126.150
 211.44.183.99
+ad-arata.com
+ad-stir.com
+fam-ad.com
 218.145.26.75
 218.145.28.155
 220.73.139.25
@@ -278,7 +332,6 @@ idnad.co.kr
 ilikesponsorad.co.kr
 ilikesponsorad.com
 imadrep.co.kr
-imasdk.googleapis.com
 impact-ad.jp
 impactify.io
 impdesk.com
@@ -508,6 +561,7 @@ wrd.naver.com
 nbp-corp.com
 pstatic.net/sstatic/search/pc/tmp/*
 
+naver.com##.se_align-justify.se_sectionArea
 naver.com##.column_banner
 naver.com###_MM_WRAP_nmap_ent_0
 naver.com###_MM_WRAP_nmap_ent_1
@@ -752,6 +806,7 @@ webid.ad.daum.net
 vads-api.ad.daum.net
 ads-api.ad.daum.net
 adclixad.daum.net
+display.ad.daum.net
 alea.adam.ad.daum.net
 analytics.ad.daum.net
 clixad.daum.net
@@ -854,6 +909,13 @@ kakao.com##.link_livechatting
 !-- 망가쇼미
 
 mangashow.me##.banner
+mangashow.me##.admin-notice
+mangashow.me##.at-footer
+mangashow.me##.noti-popup
+mangashow2.me##.banner
+mangashow2.me##.admin-notice
+mangashow2.me##.at-footer
+mangashow2.me##.noti-popup
 
 !- 툰코
 
@@ -983,13 +1045,9 @@ avnana22.com/img/banner/*
 avnana22.com###floatdiv2
 avnana22.com###floatdiv
 avnana22.com##.view-wrap > div:nth-of-type(2)
-otorrent99.com##.col-xs-12 > .row
-otorrent99.com/img/bn/*
 ad.bananamall.co.kr
 static.freebody.co.kr
 s-toy.co.kr/comx/skin/10000wbanner/*
-mangashow.me##.admin-notice
-mangashow.me##.at-footer
 thepiratebay.org###sky-center
 thepiratebay.org##.ads
 thepiratebay.org###sky-right
@@ -1895,3 +1953,145 @@ edaily.co.kr##.ad_texbanner_300
 edaily.co.kr##.ad_texbanner
 edaily.co.kr##.banner_300x169
 edaily.co.kr###ad_top_right_01
+avnana22.com##h1
+theleader.mt.co.kr###floatMenu
+etoland.co.kr/img/chanwoopark/*
+etoland.co.kr/img/19/19ad1/*
+pantsu.cat##.centered
+pantsu.cat/img/mafuyu.svg
+filetender.com##.adsbygoogle
+tobogi.me/img/ad/*$domain=joabam.com,image
+joabam.com/img/ad/*$domain=joabam.com,image
+daum.net##.box_ad2
+segye.com##.ad_btm_add
+segye.com##.view_ADarea2018
+segye.com##.ad_right_300bn
+segye.com##.wingRight
+segye.com##div.ad_right_area
+google.co.kr###tads
+thzvv.net##.a_cb.a_fl
+thzvv.net##.a_cb.a_fr
+thzvv.net##.a_cn
+thzvv.net##.ex2
+thzvv.net##.ex1
+thzvv.net##.mn > div:nth-of-type(2) > table
+thzvv.net##.mn > table
+thzvv.net##.mn > div:nth-of-type(1)
+thzvv.net##body > div:nth-of-type(4)
+alicdn.com/img/*
+thzvv.net##.portal_block_summary
+etoday.co.kr##div.right_ad
+sbs.co.kr##.side_banner_w
+ngry.tv##body > div:nth-of-type(5)
+ngry.tv##body > div:nth-of-type(4)
+ngry.tv##body > div:nth-of-type(3)
+ngry.tv###hd_pop
+chosun.com##div.ad_aside_box
+anewsa.com##.logo_left
+anewsa.com###wp_edge_mobon
+facebook.com##._3-8y
+mirror.co.uk##.top-slot.gpt
+mirror.co.uk###div-gpt-ad-rh-slot
+mirror.co.uk###div-gpt-ad-rh-secondary-slot
+mirror.co.uk###div-gpt-ad-in-article-slot
+mirror.co.uk###div-gpt-ad-rh-tertiary-slot
+mirror.co.uk###div-gpt-ad-rh-quaternary-slot
+mirror.co.uk###div-gpt-ad-bottom-slot
+mirror.co.uk###div-gpt-ad-section-slot-1
+mirror.co.uk###div-gpt-ad-section-slot-2
+mirror.co.uk###div-gpt-ad-section-slot-3
+mirror.co.uk###taboolaBelowArticle
+mirror.co.uk###taboola-below-article-thumbnails-split-num-1
+52av.tv##.a_mu
+52av.tv###forumdisplay_list_top_ad1
+52av.tv###forumdisplay_list_top_ad2
+52av.tv###viewthread_top_ad
+ad.52av.tv
+52av.tv##.a_f.wp
+52av.tv###.div#inplayer
+52av.tv##.div#inplayer
+52av.tv##div#inplayer
+52av.tv###div#inplayer
+52av.tv###thread_top_ad
+av4u.info##center > table
+adxpansion.com
+gds786bomyc.com
+ads.exoclick.com
+origin-ads.exoclick.com
+52av.tv##.a_cn
+kissjav.com###player-advertising
+news.hankyung.com##.ad_top
+news.hankyung.com##.ad_img
+news.hankyung.com##.major.asidemodule > .ad_list
+news.hankyung.com##div.ad_module_wrap
+news.hankyung.com##.fltAd
+hankyung.com##div.ad_img
+hentaku.net###ad
+hentaku.net###leftmenu3
+hentaku.net/ad/*
+storebt.co###LELE_ShowDIV_UNION
+storebt.co###__jclm_right_couplet
+storebt.co###__jclm_left_couplet
+dcinside.com##.power_link
+otorrent10.com##.col-xs-12 > .row
+otorrent10.com###quickLink2
+otorrent10.com/img/bn/*
+ebn.co.kr/ad_article_center.php
+ebn.co.kr##.bn320x200
+ebn.co.kr/banner/*
+movie-wiki.net###fam_lb
+movie-wiki.net###adScrl001
+dispatch.co.kr###ad-logo-rightside
+11st.co.kr##.marT20
+11st.co.kr###myAddIframe
+yimg.jp/images/listing/tool/yads/*
+idol-blog.com##.__isboostMouseCursor
+nyaa.pt##.centered
+sportsseoul.com###ad_read_top
+sportsseoul.com###ad_17
+sportsseoul.com###ad_50
+sportsseoul.com###ad_18
+sportsseoul.com###ad_181
+sportsseoul.com###ad_aa
+sportsseoul.com###ad_7_8
+sportsseoul.com###ad_13
+sportsseoul.com###ad_19
+sportsseoul.com###ad_7_8_1
+sportsseoul.com###slides
+theguardian.com###dfp-ad--inline1
+theguardian.com###dfp-ad--inline2
+nate.com###googleAd_wrap
+nate.com##.ads
+etoland.co.kr###mobonDivBanner_16909
+etoland.co.kr###mobonDivBanner_16910
+etoland.co.kr###mobonDivBanner_16912
+etoland.co.kr/img/baedal/*$domain=www.etoland.co.kr,image
+smantv.net###sky
+smantv.net##div.left_banner
+smantv.net/img/banner/*
+smantv.net###hd_pop
+fmkorea.com###adpost
+etoland.co.kr/img/19/*$domain=www.etoland.co.kr,image
+redfox103.com##.alert_windows
+redfox103.com###newsImg
+dispatch.co.kr##.iconAd
+mediacategory.com/servlet/adBanner/*
+cdnser.be/ad/*
+mediacategory.com/servlet/adBanner
+erodougazo.com###ContentsNeck
+erodougazo.com###TopCampaign
+erodougazo.com###TopVrList
+movie-wiki.net###adScrl002
+movie-wiki.net###Header > .mb10
+yamachan01.com##.sort-publishdate.horizontal.ninja-recommend-articles
+adult.contents.fc2.com###iengoh9Eeweikie2aipe
+adult.contents.fc2.com##.side_menu
+fc2.com/images/banner/*$domain=adult.contents.fc2.com,image
+adult.contents.fc2.com##footer
+mydaily.co.kr##.ad_slide
+mydaily.co.kr###ad_left
+mydaily.co.kr###ad_right
+mydaily.co.kr/ad/*
+semoya.net##div.banner_top
+semoya.net##.banner_inner
+
