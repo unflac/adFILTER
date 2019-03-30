@@ -1,4 +1,4 @@
-!-- 2019.03.26 10:39
+!-- 2019.03.30 09:16
 
 !--통합
 
@@ -14,14 +14,12 @@ adand.co.kr
 finead.o00.kr
 loginside.co.kr
 otnolabttmup.com
-
+a-ads.com
 akamai.net
-akamaized.net
 bannerflow.com
 betrad.com
 flashtalking.com
 sdad.guru
-
 x1cdn.com
 mox.tv
 mrskin.com
@@ -2102,8 +2100,8 @@ smantv.net##div.left_banner
 smantv.net/img/banner/*
 smantv.net###hd_pop
 fmkorea.com###adpost
-redfox104.com##.alert_windows
-redfox104.com###newsImg
+redfox106.com##.alert_windows
+redfox106.com###newsImg
 dispatch.co.kr##.iconAd
 mediacategory.com/servlet/adBanner/*
 cdnser.be/ad/*
@@ -2240,8 +2238,8 @@ dispatch.co.kr/ad/*$domain=www.dispatch.co.kr,subdocument
 dcinside.com###ad-layer
 dcinside.com##.banner_box
 dcinside.com/ad/*
-redfox104.com##.at-main.at-col.col-md-9 > div.row:nth-of-type(2)
-redfox104.com##.at-main.at-col.col-md-9 > div.row:nth-of-type(1)
+redfox106.com##.at-main.at-col.col-md-9 > div.row:nth-of-type(2)
+redfox106.com##.at-main.at-col.col-md-9 > div.row:nth-of-type(1)
 cdnser.be/ad/*
 mercury.bbspink.com###bannerRight
 mercury.bbspink.com###banner
@@ -2251,8 +2249,6 @@ bbspink.com###top_banner
 bbspink.com##.ranking_banner
 bbspink.com/images/bggirl.png
 bbspink.com##.banner_area_468
-
-
 ilbe.com###XmainFixedBanner900
 ilbe.com###team_csp_ad_12_13
 ilbe.com###teamcsp_ad_11
@@ -2407,3 +2403,13 @@ msn.com##.nativead
 msn.com##.cbtrack.tag
 seoulwire.com###ad_html
 seoulwire.com###adbn_sky_listener
+seoul.co.kr###withpang_p
+ppomppu.co.kr##.ad-banner
+thz2.net##body > div:nth-of-type(4)
+thz2.net##.a_cn
+thz2.net##div.a_fl:nth-of-type(8)
+thz2.net##.mn > div:nth-of-type(1)
+thz2.net##.mn > div:nth-of-type(2)
+thz2.net##.a_cb.a_fr
+thz2.net###diynavtop
+thz2.net##.a_cb.a_fl
