@@ -1,4 +1,4 @@
-!-- 2019.04.06 15:23
+!-- 2019.04.06 15:36
 
 !--통합
 
@@ -754,6 +754,7 @@ naver.com##.sr_banner
 naver.com##.group_ad
 naver.com###HOME_AD
 naver.com##.cui_napp_banner
+naver.com##.fc_banner
 
 !-- 동영상
 
