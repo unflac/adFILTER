@@ -1,4 +1,4 @@
-!-- 2019.03.30 09:16
+!-- 2019.04.06 15:23
 
 !--통합
 
@@ -8,10 +8,20 @@
 ###livereContentsContainer
 
 !-- 광고
+
+adxadserv.com
+trackingpro.pro
+adnico.jp
+focas.jp
+fout.jp
+genieesspv.jp
+gssprt.jp
+shinobi.jp
 trafficfactory.biz
 icontact.kr
 adand.co.kr
 finead.o00.kr
+exdynsrv.com
 loginside.co.kr
 otnolabttmup.com
 a-ads.com
@@ -739,6 +749,11 @@ naver.com###pcDetailBannerArea
 naver.com##.banner_gnb
 naver.com##.img_bnr
 naver.com###ppl_video_section
+naver.com###plugFloatingBanner
+naver.com##.sr_banner
+naver.com##.group_ad
+naver.com###HOME_AD
+naver.com##.cui_napp_banner
 
 !-- 동영상
 
@@ -941,6 +956,7 @@ mangashow2.me##.banner
 mangashow2.me##.admin-notice
 mangashow2.me##.at-footer
 mangashow2.me##.noti-popup
+mangashow2.me##.at-go
 
 !- 툰코
 
@@ -1769,7 +1785,6 @@ heraldcorp.com##.ad_5
 heraldcorp.com##div.ad_10
 heraldcorp.com###wp_edge_mobon
 2cpu.co.kr##.table-bordered
-naver.com###plugFloatingBanner
 joins.com##div.sub_da_300
 joins.com###criteo_network
 joins.com###ab_adtxt_lt
@@ -2100,8 +2115,6 @@ smantv.net##div.left_banner
 smantv.net/img/banner/*
 smantv.net###hd_pop
 fmkorea.com###adpost
-redfox106.com##.alert_windows
-redfox106.com###newsImg
 dispatch.co.kr##.iconAd
 mediacategory.com/servlet/adBanner/*
 cdnser.be/ad/*
@@ -2238,8 +2251,6 @@ dispatch.co.kr/ad/*$domain=www.dispatch.co.kr,subdocument
 dcinside.com###ad-layer
 dcinside.com##.banner_box
 dcinside.com/ad/*
-redfox106.com##.at-main.at-col.col-md-9 > div.row:nth-of-type(2)
-redfox106.com##.at-main.at-col.col-md-9 > div.row:nth-of-type(1)
 cdnser.be/ad/*
 mercury.bbspink.com###bannerRight
 mercury.bbspink.com###banner
@@ -2351,7 +2362,6 @@ newsis.com##.banner1
 newsis.com##.banner2
 newsis.com/new_www/advertise/*
 newsis.com###quick_banner
-naver.com##.sr_banner
 ilyoseoul.co.kr##.nd_floating_banner
 yna.co.kr/ad/*
 yna.co.kr##.fixed-bnr
@@ -2413,3 +2423,38 @@ thz2.net##.mn > div:nth-of-type(2)
 thz2.net##.a_cb.a_fr
 thz2.net###diynavtop
 thz2.net##.a_cb.a_fl
+redfox106.com##.alert_windows
+redfox106.com###newsImg
+redfox106.com##.at-main.at-col.col-md-9 > div.row:nth-of-type(2)
+redfox106.com##.at-main.at-col.col-md-9 > div.row:nth-of-type(1)
+redfox106.com##.at-go
+adulti64.com##.push-down-20.border-bottom.list-group
+adulti64.com##div.col-md-6
+adulti64.com##.page-container > div:nth-of-type(3)
+towns7.com###firea-hide-2-right-banner
+towns7.com##.landaum-banner-item
+towns7.com##.alert_windows
+towns7.com##.big-img-banner-right
+ruliweb.com###ti3
+newsway.co.kr##.googlead
+newsway.co.kr##.bannerad_03
+newsway.kr/banner/*$domain=www.newsway.co.kr,image
+popjav.tv##body > div:nth-of-type(2)
+popjav.tv##.poplayer
+popjav.tv##.video-boxad
+bt.co###adslider
+chosun.com##.link_type02_box
+segye.com##.news_topad
+hellven.net/data/apms/banner/*
+hellven.net##a.thumbnail
+minnano-av.com###main-area > div:nth-of-type(1)
+minnano-av.com##.list-table.main-column > div:nth-of-type(1) > div:nth-of-type(1)
+minnano-av.com###side-bar > div:nth-of-type(1)
+manamoa.net##.main-banner
+danawa.com###leftEnlargeBanner
+danawa.com##li.spc_banner
+danawa.com###big_banner_visual
+hankyung.com##.ad_top
+hankyung.com##div.ad_module_wrap
+torrentwal.com###main_ad
+manamoa.net##.ad-banner-widget
