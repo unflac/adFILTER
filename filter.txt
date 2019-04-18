@@ -1,4 +1,4 @@
-!-- 2019.04.06 15:36
+!-- 2019.04.18 23:00
 
 !--통합
 
@@ -13,6 +13,7 @@ adxadserv.com
 trackingpro.pro
 adnico.jp
 focas.jp
+megdexchange.com
 fout.jp
 genieesspv.jp
 gssprt.jp
@@ -872,6 +873,7 @@ ads-api.daumkakao.com
 channel.kakao.com
 lg-talk.kakao.com
 sh-talk.kakao.com
+smartmediarep.com/smc/smrmembers/*
 
 daum.net###commonEbContainer
 daum.net###premiumLinkColl
@@ -917,7 +919,6 @@ daum.net##.box_adfit
 daum.net##.\34 u_native_ad_box
 daum.net###channel_money_top > div.out_ibox:nth-of-type(1) > div.box_g:nth-of-type(7)
 daum.net###channel_homecooking_top > div.out_ibox:nth-of-type(1) > div.box_g:nth-of-type(8)
-daum.net##.aside_ad
 daum.net###info\.main\.ads
 daum.net##.sponsor
 daum.net###blogTopAd
@@ -962,12 +963,67 @@ mangashow2.me##.at-go
 !- 툰코
 
 toonkor.gold/bann/*
-
 toonkor.gold##.banner_m
 toonkor.gold##.main_top_bann
 toonkor.gold##.bnt.bn
 toonkor.gold###banner_21_img
 toonkor.gold##.top_banner
+
+toonkor.live/bann/*
+toonkor.live##.banner_m
+toonkor.live##.main_top_bann
+toonkor.live##.bnt.bn
+toonkor.live###banner_21_img
+toonkor.live##.top_banner
+
+toonkor.cab/bann/*
+toonkor.cab##.banner_m
+toonkor.cab##.main_top_bann
+toonkor.cab##.bnt.bn
+toonkor.cab###banner_21_img
+toonkor.cab##.top_banner
+
+toonkor.blue/bann/*
+toonkor.blue##.banner_m
+toonkor.blue##.main_top_bann
+toonkor.blue##.bnt.bn
+toonkor.blue###banner_21_img
+toonkor.blue##.top_banner
+
+toonkor.pink/bann/*
+toonkor.pink##.banner_m
+toonkor.pink##.main_top_bann
+toonkor.pink##.bnt.bn
+toonkor.pink###banner_21_img
+toonkor.pink##.top_banner
+
+toonkor.date/bann/*
+toonkor.date##.banner_m
+toonkor.date##.main_top_bann
+toonkor.date##.bnt.bn
+toonkor.date###banner_21_img
+toonkor.date##.top_banner
+
+toonkor.toys/bann/*
+toonkor.toys##.banner_m
+toonkor.toys##.main_top_bann
+toonkor.toys##.bnt.bn
+toonkor.toys###banner_21_img
+toonkor.toys##.top_banner
+
+toonkor.lol/bann/*
+toonkor.lol##.banner_m
+toonkor.lol##.main_top_bann
+toonkor.lol##.bnt.bn
+toonkor.lol###banner_21_img
+toonkor.lol##.top_banner
+
+toonkor.gg/bann/*
+toonkor.gg##.banner_m
+toonkor.gg##.main_top_bann
+toonkor.gg##.bnt.bn
+toonkor.gg###banner_21_img
+toonkor.gg##.top_banner
 
 !-- 다나와
 
@@ -2459,3 +2515,54 @@ hankyung.com##.ad_top
 hankyung.com##div.ad_module_wrap
 torrentwal.com###main_ad
 manamoa.net##.ad-banner-widget
+zmntv.net###aside_box
+zmntv.net##.latest-tab-A.fixed
+zmntv.net###aside
+zmntv.net###ft
+zmntv.net###hd
+zmntv.net###sky
+nextdaily.co.kr##.ad_336x280
+jamakav.com##.widget-img
+jamakav.com##.slide
+jamakav.com##.post-image
+hiyobi.me##.eqdqwdqwf
+117bt.com##.comiis_nv_pop
+avdbs.com###ad_sense_area_top
+avdbs.com###bnr_pc_right
+avdbs.com###bnr_pc_left
+avdbs.com###contants > .shw-1024-over
+avdbs.com###wrap > .shw-1024-over
+avdbs.com##.shw-640-over
+avdbs.com##.flat-btn-grp
+redfox106.com##[src="https://3.bp.blogspot.com/-BN971U6tfW8/W5Y5llZU_lI/AAAAAAAAAW8/C0f-kiLSrfkU-lXApJJVpObFbm7b1wFAgCLcBGAs/s1600/menu-top-tiptoc.png"]
+akiba-online.com/data/Siropu/*$domain=www.akiba-online.com,image
+
+tvkim3.com##.side
+tvkim3.com##.tban
+tvkim3.com##.rban
+tvkim3.com##.requ
+tvkim3.com##.bann
+tvkim3.com###item_7
+tvkim3.com###item_8
+tvkim3.com###item_9
+tvkim3.com##.midd
+tvkim3.com##.tops
+tvkim3.com##footer
+tvkim3.com###nopo
+tvkim3.com##.hnot
+tvkim3.com##.chat
+
+enc0867live.com##.side
+enc0867live.com##.tban
+enc0867live.com##.rban
+enc0867live.com##.requ
+enc0867live.com##.bann
+enc0867live.com###item_7
+enc0867live.com###item_8
+enc0867live.com###item_9
+enc0867live.com##.midd
+enc0867live.com##.tops
+enc0867live.com##footer
+enc0867live.com###nopo
+enc0867live.com##.hnot
+enc0867live.com##.chat
