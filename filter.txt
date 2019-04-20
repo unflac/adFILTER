@@ -962,6 +962,13 @@ mangashow2.me##.at-go
 
 !- 툰코
 
+toonkor.bid/bann/*
+toonkor.bid##.banner_m
+toonkor.bid##.main_top_bann
+toonkor.bid##.bnt.bn
+toonkor.bid###banner_21_img
+toonkor.bid##.top_banner
+
 toonkor.gold/bann/*
 toonkor.gold##.banner_m
 toonkor.gold##.main_top_bann
