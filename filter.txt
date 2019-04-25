@@ -8,7 +8,13 @@
 ###livereContentsContainer
 
 !-- 광고
-
+clickaine.com
+clevernt.com
+ie8eamus.com
+mygoodlives.com
+patreon.com
+pvclouds.com
+runative-syndicate.com
 adxadserv.com
 trackingpro.pro
 adnico.jp
@@ -792,6 +798,8 @@ youtube.com##.annotation
 youtube.com##.ytp-ad-player-overlay-instream-info
 youtube.com##.ytp-endscreen-previous
 youtube.com##.ytp-endscreen-next
+youtube.com##.ytd-popup-container
+
 
 !-- 아프리카
 
@@ -873,7 +881,6 @@ ads-api.daumkakao.com
 channel.kakao.com
 lg-talk.kakao.com
 sh-talk.kakao.com
-smartmediarep.com/smc/smrmembers/*
 
 daum.net###commonEbContainer
 daum.net###premiumLinkColl
@@ -962,75 +969,12 @@ mangashow2.me##.at-go
 
 !- 툰코
 
-toonkor.bid/bann/*
-toonkor.bid##.banner_m
-toonkor.bid##.main_top_bann
-toonkor.bid##.bnt.bn
-toonkor.bid###banner_21_img
-toonkor.bid##.top_banner
-
-toonkor.gold/bann/*
-toonkor.gold##.banner_m
-toonkor.gold##.main_top_bann
-toonkor.gold##.bnt.bn
-toonkor.gold###banner_21_img
-toonkor.gold##.top_banner
-
-toonkor.live/bann/*
-toonkor.live##.banner_m
-toonkor.live##.main_top_bann
-toonkor.live##.bnt.bn
-toonkor.live###banner_21_img
-toonkor.live##.top_banner
-
-toonkor.cab/bann/*
-toonkor.cab##.banner_m
-toonkor.cab##.main_top_bann
-toonkor.cab##.bnt.bn
-toonkor.cab###banner_21_img
-toonkor.cab##.top_banner
-
-toonkor.blue/bann/*
-toonkor.blue##.banner_m
-toonkor.blue##.main_top_bann
-toonkor.blue##.bnt.bn
-toonkor.blue###banner_21_img
-toonkor.blue##.top_banner
-
-toonkor.pink/bann/*
-toonkor.pink##.banner_m
-toonkor.pink##.main_top_bann
-toonkor.pink##.bnt.bn
-toonkor.pink###banner_21_img
-toonkor.pink##.top_banner
-
-toonkor.date/bann/*
-toonkor.date##.banner_m
-toonkor.date##.main_top_bann
-toonkor.date##.bnt.bn
-toonkor.date###banner_21_img
-toonkor.date##.top_banner
-
-toonkor.toys/bann/*
-toonkor.toys##.banner_m
-toonkor.toys##.main_top_bann
-toonkor.toys##.bnt.bn
-toonkor.toys###banner_21_img
-toonkor.toys##.top_banner
-
-toonkor.lol/bann/*
-toonkor.lol##.banner_m
-toonkor.lol##.main_top_bann
-toonkor.lol##.bnt.bn
-toonkor.lol###banner_21_img
-toonkor.lol##.top_banner
-
-toonkor.gg/bann/*
-toonkor.gg##.banner_m
-toonkor.gg##.main_top_bann
-toonkor.gg##.bnt.bn
-toonkor.gg###banner_21_img
-toonkor.gg##.top_banner
+toonkor.*/bann/*
+toonkor.*##.banner_m
+toonkor.*##.main_top_bann
+toonkor.*##.bnt.bn
+toonkor.*###banner_21_img
+toonkor.*##.top_banner
 
 !-- 다나와
 
@@ -1075,7 +1019,7 @@ danawa.com##.ad_section
 danawa.com##.power_link
 danawa.com##.adreader_list
 
-!-- 불법
+!-- 공유
 
 etoland.co.kr/img/index_banner*.*
 etoland.co.kr/img/banner/*
@@ -2487,11 +2431,6 @@ thz2.net##.mn > div:nth-of-type(2)
 thz2.net##.a_cb.a_fr
 thz2.net###diynavtop
 thz2.net##.a_cb.a_fl
-redfox106.com##.alert_windows
-redfox106.com###newsImg
-redfox106.com##.at-main.at-col.col-md-9 > div.row:nth-of-type(2)
-redfox106.com##.at-main.at-col.col-md-9 > div.row:nth-of-type(1)
-redfox106.com##.at-go
 adulti64.com##.push-down-20.border-bottom.list-group
 adulti64.com##div.col-md-6
 adulti64.com##.page-container > div:nth-of-type(3)
@@ -2541,24 +2480,24 @@ avdbs.com###contants > .shw-1024-over
 avdbs.com###wrap > .shw-1024-over
 avdbs.com##.shw-640-over
 avdbs.com##.flat-btn-grp
-redfox106.com##[src="https://3.bp.blogspot.com/-BN971U6tfW8/W5Y5llZU_lI/AAAAAAAAAW8/C0f-kiLSrfkU-lXApJJVpObFbm7b1wFAgCLcBGAs/s1600/menu-top-tiptoc.png"]
 akiba-online.com/data/Siropu/*$domain=www.akiba-online.com,image
-
-tvkim3.com##.side
-tvkim3.com##.tban
-tvkim3.com##.rban
-tvkim3.com##.requ
-tvkim3.com##.bann
-tvkim3.com###item_7
-tvkim3.com###item_8
-tvkim3.com###item_9
-tvkim3.com##.midd
-tvkim3.com##.tops
-tvkim3.com##footer
-tvkim3.com###nopo
-tvkim3.com##.hnot
-tvkim3.com##.chat
-
+tvkim4.com##.side
+tvkim4.com##.tban
+tvkim4.com##.rban
+tvkim4.com##.requ
+tvkim4.com##.bann
+tvkim4.com###item_7
+tvkim4.com###item_8
+tvkim4.com###item_9
+tvkim4.com###item_10
+tvkim4.com###item_11
+tvkim4.com###item_12
+tvkim4.com###item_13
+tvkim4.com##.midd
+tvkim4.com##.tops
+tvkim4.com##footer
+tvkim4.com###nopo
+tvkim4.com##.hnot
 enc0867live.com##.side
 enc0867live.com##.tban
 enc0867live.com##.rban
@@ -2567,9 +2506,28 @@ enc0867live.com##.bann
 enc0867live.com###item_7
 enc0867live.com###item_8
 enc0867live.com###item_9
+enc0867live.com###item_10
+enc0867live.com###item_11
+enc0867live.com###item_12
+enc0867live.com###item_13
 enc0867live.com##.midd
 enc0867live.com##.tops
 enc0867live.com##footer
 enc0867live.com###nopo
 enc0867live.com##.hnot
-enc0867live.com##.chat
+
+minnano-av.com##.add-contents
+minnano-av.com##.side-link
+minnano-av.com##.footer
+777kor.com##.a2_h.wp
+777kor.com##.a_2mu
+redfox107.com##.alert_windows
+redfox107.com###newsImg
+redfox107.com##.at-main.at-col.col-md-9 > div.row:nth-of-type(2)
+redfox107.com##.at-main.at-col.col-md-9 > div.row:nth-of-type(1)
+redfox107.com##.at-go
+redfox107.com##[src="https://3.bp.blogspot.com/-BN971U6tfW8/W5Y5llZU_lI/AAAAAAAAAW8/C0f-kiLSrfkU-lXApJJVpObFbm7b1wFAgCLcBGAs/s1600/menu-top-tiptoc.png"]
+redfox107.com##.header-logo
+redfox107.com###footeres
+munhwa.com###right_skyWingBanner
+munhwa.com/www/banner/*$domain=www.munhwa.com,image
