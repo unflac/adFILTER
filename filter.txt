@@ -1,4 +1,4 @@
-!-- 2019.05.02 15:40
+!-- 2019.05.02 15:43
 
 !--통합
 
@@ -2731,6 +2731,8 @@ avdbs.com###wrap > .shw-1024-under
 manamoa.net##.ad-banner-widget
 manamoa.net##.main-banner
 manamoa.net##.manga-bottom-navi
+manamoa.net##.go-top
 manamoa3.net##.ad-banner-widget
 manamoa3.net##.main-banner
 manamoa3.net##.manga-bottom-navi
+manamoa3.net##.go-top
