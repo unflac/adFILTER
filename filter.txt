@@ -1,4 +1,4 @@
-!-- 2019.05.02 15:43
+!-- 2019.05.14 12:23
 
 !--통합
 
@@ -13,6 +13,7 @@
 hnyiche3.com
 jointreport-switch.com
 jsdelivr.net
+rebrand.ly
 khufaw1.com
 khufaw2.com
 yttz113.com
@@ -2736,3 +2737,68 @@ manamoa3.net##.ad-banner-widget
 manamoa3.net##.main-banner
 manamoa3.net##.manga-bottom-navi
 manamoa3.net##.go-top
+
+! 2019. 5. 3. http://www.minnano-av.com
+www.minnano-av.com##.type-fuzoku
+www.minnano-av.com##.iframe
+
+! 2019. 5. 3. https://avnana22.com
+||avnana22.com/img/newpan25.gif$image
+
+! 2019. 5. 3. http://erodougazo.com
+erodougazo.com###dmm_pick5
+erodougazo.com##.ban
+erodougazo.com###BBB
+
+! 2019. 5. 3. https://torrentwal.com
+torrentwal.com###inserting
+torrentwal.com###foot
+torrentwal.com###div_latest_key
+torrentwal.com##.fb-like
+
+! 2019. 5. 4. https://www.jav321.com
+www.jav321.com###popup-close
+
+! 2019. 5. 5. https://seesaawiki.jp
+seesaawiki.jp###seesaa-bnr
+
+! 2019. 5. 5. https://forum.kodi.tv
+forum.kodi.tv###cookie-popup
+
+! 2019. 5. 6. https://joybam1.com
+joybam1.com##.at-main.at-col.col-md-9 > div:nth-of-type(1)
+
+! 2019. 5. 7. https://erovi.jp
+erovi.jp###trackad
+
+! 2019. 5. 9. https://www.torrentmi.net
+www.torrentmi.net##.ad_pic
+
+! 2019. 5. 9. https://wfwf22.com
+wfwf22.com##.modal-overlay
+wfwf22.com##.modal-wrapper
+wfwf22.com##.top-banner
+wfwf22.com##footer
+wfwf22.com##.top-btn
+wfwf22.com##.updown
+wfwf22.com##.nextpage
+wfwf22.com##.prepage
+wfwf22.com##.pn-ProductNav_Wrapper
+wfwf22.com##.top-side
+
+! 2019. 5. 10. http://sougouwiki.com
+sougouwiki.com###common-header
+sougouwiki.com###extra
+sougouwiki.com###sub
+sougouwiki.com###scroll-pagetop
+sougouwiki.com###common-footer
+sougouwiki.com###page-social-link-top
+
+! 2019. 5. 10. https://www.avdbs.com
+www.avdbs.com###footer
+
+! 2019. 5. 13. http://www.mediatoday.co.kr
+www.mediatoday.co.kr###talklink_contents > .not_print
+
+! 2019. 5. 14. https://www.avast.com
+www.avast.com##.visible.cookie-bar.js-cookie-bar
