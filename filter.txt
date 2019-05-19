@@ -594,7 +594,6 @@ damovie.dn.naver.com
 ia.naver.com
 ia.www.naver.com
 l.m.naver.com
-l.naver.com
 nv.ad.naver.com
 nv.veta.naver.com
 nv1.ad.naver.com
