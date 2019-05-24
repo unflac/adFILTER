@@ -1,4 +1,4 @@
-!-- 2019.05.20 07:38
+!-- 2019.05.24 12:30
 
 !--통합
 
@@ -767,6 +767,7 @@ naver.com##.group_ad
 naver.com###HOME_AD
 naver.com##.cui_napp_banner
 naver.com##.fc_banner
+pstatic.net/tveta/libs/*
 
 !-- 동영상
 
@@ -1169,6 +1170,13 @@ toonkor.win##.main_top_bann
 toonkor.win##.bnt.bn
 toonkor.win###banner_21_img
 toonkor.win##.top_banner
+
+toonkor.rest/bann/*
+toonkor.rest##.banner_m
+toonkor.rest##.main_top_bann
+toonkor.rest##.bnt.bn
+toonkor.rest###banner_21_img
+toonkor.rest##.top_banner
 
 !-- 다나와
 
@@ -2037,7 +2045,6 @@ btchuanqi2.com###LELE_ShowDIV_UNIONtop
 torrentmap.com###ad_board
 asiae.co.kr##.sv_banner
 asiae.co.kr##.ad_wrap
-torrentwal.net###inserting > center
 kookje.co.kr###news_relGisa2 > .right
 sedaily.com##div.ad_wrap
 sedaily.com##.sub_ad_banner10
@@ -2173,8 +2180,6 @@ vop.co.kr##.articlein_ad
 vop.co.kr###right_scroll
 vop.co.kr###left_scroll
 yabest1.com###adsHead
-torrentwal.com###left_ad_1
-torrentwal.com/banner/*
 38.103.161.157###ad_text
 clien.net##.view_center_ad
 ck101.com###image_ad_long
@@ -2609,8 +2614,6 @@ hulkpop.com###floating_ads_bottom_textcss_container
 wordpress.com##.widget_eu_cookie_law_widget.widget
 wordpress.com##.wpcnt
 wordpress.com###wpadminbar
-torrentwal.com###left_ad_3
-torrentwal.com###left_ad_2
 msn.com##.nativead
 msn.com##.cbtrack.tag
 seoulwire.com###ad_html
@@ -2652,7 +2655,6 @@ danawa.com##li.spc_banner
 danawa.com###big_banner_visual
 hankyung.com##.ad_top
 hankyung.com##div.ad_module_wrap
-torrentwal.com###main_ad
 zmntv.net###aside_box
 zmntv.net##.latest-tab-A.fixed
 zmntv.net###aside
@@ -2673,23 +2675,25 @@ avdbs.com###wrap > .shw-1024-over
 avdbs.com##.shw-640-over
 avdbs.com##.flat-btn-grp
 akiba-online.com/data/Siropu/*$domain=www.akiba-online.com,image
-tvkim.shop##.side
-tvkim.shop##.tban
-tvkim.shop##.rban
-tvkim.shop##.requ
-tvkim.shop##.bann
-tvkim.shop###item_7
-tvkim.shop###item_8
-tvkim.shop###item_9
-tvkim.shop###item_10
-tvkim.shop###item_11
-tvkim.shop###item_12
-tvkim.shop###item_13
-tvkim.shop##.midd
-tvkim.shop##.tops
-tvkim.shop##footer
-tvkim.shop###nopo
-tvkim.shop##.hnot
+tvkim.club##.side
+tvkim.club##.tban
+tvkim.club##.rban
+tvkim.club##.requ
+tvkim.club##.bann
+tvkim.club###item_7
+tvkim.club###item_8
+tvkim.club###item_9
+tvkim.club###item_10
+tvkim.club###item_11
+tvkim.club###item_12
+tvkim.club###item_13
+tvkim.club###item_14
+tvkim.club###item_15
+tvkim.club##.midd
+tvkim.club##.tops
+tvkim.club##footer
+tvkim.club###nopo
+tvkim.club##.hnot
 enc0867live.com##.side
 enc0867live.com##.tban
 enc0867live.com##.rban
@@ -2702,6 +2706,8 @@ enc0867live.com###item_10
 enc0867live.com###item_11
 enc0867live.com###item_12
 enc0867live.com###item_13
+enc0867live.com###item_14
+enc0867live.com###item_15
 enc0867live.com##.midd
 enc0867live.com##.tops
 enc0867live.com##footer
@@ -2747,10 +2753,16 @@ erodougazo.com##.ban
 erodougazo.com###BBB
 
 ! 2019. 5. 3. https://torrentwal.com
-torrentwal.com###inserting
-torrentwal.com###foot
-torrentwal.com###div_latest_key
-torrentwal.com##.fb-like
+torrentwal1.com###inserting
+torrentwal1.com###foot
+torrentwal1.com###div_latest_key
+torrentwal1.com##.fb-like
+torrentwal1.com###main_ad
+torrentwal1.com###left_ad_3
+torrentwal1.com###left_ad_2
+torrentwal1.com###left_ad_1
+torrentwal1.com/banner/*
+torrentwal1.net###inserting > center
 
 ! 2019. 5. 4. https://www.jav321.com
 www.jav321.com###popup-close
@@ -2798,3 +2810,6 @@ www.mediatoday.co.kr###talklink_contents > .not_print
 
 ! 2019. 5. 14. https://www.avast.com
 www.avast.com##.visible.cookie-bar.js-cookie-bar
+
+! 2019. 5. 21. https://sports.news.naver.com
+sports.news.naver.com###right_big_banner_1
