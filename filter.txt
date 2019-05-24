@@ -1,4 +1,4 @@
-!-- 2019.05.24 12:30
+!-- 2019.05.24 12:32
 
 !--통합
 
@@ -2033,7 +2033,6 @@ busan.com##.wcms_ad
 hodu28.com##.renewal17_bltl_basiclist
 hodu28.com##.todays_free_third.clearfix
 hodu28.com/upload/banner/*
-wfwf5.com##.top-banner
 copytoon03.com##.w_banner
 savebt.pw###LELE_ShowDIV_UNIONtop
 pipicili.com###LELE_ShowDIV_UNIONtop
@@ -2783,16 +2782,16 @@ erovi.jp###trackad
 www.torrentmi.net##.ad_pic
 
 ! 2019. 5. 9. https://wfwf22.com
-wfwf22.com##.modal-overlay
-wfwf22.com##.modal-wrapper
-wfwf22.com##.top-banner
-wfwf22.com##footer
-wfwf22.com##.top-btn
-wfwf22.com##.updown
-wfwf22.com##.nextpage
-wfwf22.com##.prepage
-wfwf22.com##.pn-ProductNav_Wrapper
-wfwf22.com##.top-side
+wfwf23.com##.modal-overlay
+wfwf23.com##.modal-wrapper
+wfwf23.com##.top-banner
+wfwf23.com##footer
+wfwf23.com##.top-btn
+wfwf23.com##.updown
+wfwf23.com##.nextpage
+wfwf23.com##.prepage
+wfwf23.com##.pn-ProductNav_Wrapper
+wfwf23.com##.top-side
 
 ! 2019. 5. 10. http://sougouwiki.com
 sougouwiki.com###common-header
