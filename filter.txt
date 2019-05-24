@@ -1,4 +1,4 @@
-!-- 2019.05.24 12:32
+!-- 2019.05.25 07:43
 
 !--통합
 
@@ -767,7 +767,6 @@ naver.com##.group_ad
 naver.com###HOME_AD
 naver.com##.cui_napp_banner
 naver.com##.fc_banner
-pstatic.net/tveta/libs/*
 
 !-- 동영상
 
@@ -805,7 +804,6 @@ youtube.com##.ytp-ad-player-overlay-instream-info
 youtube.com##.ytp-endscreen-previous
 youtube.com##.ytp-endscreen-next
 youtube.com##.ytd-popup-container
-
 
 !-- 아프리카
 
@@ -1177,6 +1175,12 @@ toonkor.rest##.main_top_bann
 toonkor.rest##.bnt.bn
 toonkor.rest###banner_21_img
 toonkor.rest##.top_banner
+
+toonkor.ski/bann/*
+toonkor.ski##.banner_m
+toonkor.ski##.main_top_bann
+toonkor.ski##.bnt.bn
+toonkor.ski###banner_21_img
 
 !-- 다나와
 
@@ -2693,6 +2697,25 @@ tvkim.club##.tops
 tvkim.club##footer
 tvkim.club###nopo
 tvkim.club##.hnot
+tvkim.biz##.side
+tvkim.biz##.tban
+tvkim.biz##.rban
+tvkim.biz##.requ
+tvkim.biz##.bann
+tvkim.biz###item_7
+tvkim.biz###item_8
+tvkim.biz###item_9
+tvkim.biz###item_10
+tvkim.biz###item_11
+tvkim.biz###item_12
+tvkim.biz###item_13
+tvkim.biz###item_14
+tvkim.biz###item_15
+tvkim.biz##.midd
+tvkim.biz##.tops
+tvkim.biz##footer
+tvkim.biz###nopo
+tvkim.biz##.hnot
 enc0867live.com##.side
 enc0867live.com##.tban
 enc0867live.com##.rban
@@ -2738,20 +2761,12 @@ manamoa3.net##.ad-banner-widget
 manamoa3.net##.main-banner
 manamoa3.net##.manga-bottom-navi
 manamoa3.net##.go-top
-
-! 2019. 5. 3. http://www.minnano-av.com
-www.minnano-av.com##.type-fuzoku
-www.minnano-av.com##.iframe
-
-! 2019. 5. 3. https://avnana22.com
+minnano-av.com##.type-fuzoku
+minnano-av.com##.iframe
 ||avnana22.com/img/newpan25.gif$image
-
-! 2019. 5. 3. http://erodougazo.com
 erodougazo.com###dmm_pick5
 erodougazo.com##.ban
 erodougazo.com###BBB
-
-! 2019. 5. 3. https://torrentwal.com
 torrentwal1.com###inserting
 torrentwal1.com###foot
 torrentwal1.com###div_latest_key
@@ -2762,26 +2777,12 @@ torrentwal1.com###left_ad_2
 torrentwal1.com###left_ad_1
 torrentwal1.com/banner/*
 torrentwal1.net###inserting > center
-
-! 2019. 5. 4. https://www.jav321.com
-www.jav321.com###popup-close
-
-! 2019. 5. 5. https://seesaawiki.jp
+jav321.com###popup-close
 seesaawiki.jp###seesaa-bnr
-
-! 2019. 5. 5. https://forum.kodi.tv
-forum.kodi.tv###cookie-popup
-
-! 2019. 5. 6. https://joybam1.com
+kodi.tv###cookie-popup
 joybam1.com##.at-main.at-col.col-md-9 > div:nth-of-type(1)
-
-! 2019. 5. 7. https://erovi.jp
 erovi.jp###trackad
-
-! 2019. 5. 9. https://www.torrentmi.net
-www.torrentmi.net##.ad_pic
-
-! 2019. 5. 9. https://wfwf22.com
+torrentmi.net##.ad_pic
 wfwf23.com##.modal-overlay
 wfwf23.com##.modal-wrapper
 wfwf23.com##.top-banner
@@ -2792,23 +2793,110 @@ wfwf23.com##.nextpage
 wfwf23.com##.prepage
 wfwf23.com##.pn-ProductNav_Wrapper
 wfwf23.com##.top-side
-
-! 2019. 5. 10. http://sougouwiki.com
+wfwf23.com##.modal-overlay
+wfwf23.com##.modal-wrapper
+wfwf23.com##.top-banner
+wfwf23.com##footer
+wfwf23.com##.top-btn
+wfwf23.com##.updown
+wfwf23.com##.nextpage
+wfwf23.com##.prepage
+wfwf23.com##.pn-ProductNav_Wrapper
+wfwf23.com##.top-side
+wfwf24.com##.modal-overlay
+wfwf24.com##.modal-wrapper
+wfwf24.com##.top-banner
+wfwf24.com##footer
+wfwf24.com##.top-btn
+wfwf24.com##.updown
+wfwf24.com##.nextpage
+wfwf24.com##.prepage
+wfwf24.com##.pn-ProductNav_Wrapper
+wfwf24.com##.top-side
+wfwf25.com##.modal-overlay
+wfwf25.com##.modal-wrapper
+wfwf25.com##.top-banner
+wfwf25.com##footer
+wfwf25.com##.top-btn
+wfwf25.com##.updown
+wfwf25.com##.nextpage
+wfwf25.com##.prepage
+wfwf25.com##.pn-ProductNav_Wrapper
+wfwf25.com##.top-side
+wfwf26.com##.modal-overlay
+wfwf26.com##.modal-wrapper
+wfwf26.com##.top-banner
+wfwf26.com##footer
+wfwf26.com##.top-btn
+wfwf26.com##.updown
+wfwf26.com##.nextpage
+wfwf26.com##.prepage
+wfwf26.com##.pn-ProductNav_Wrapper
+wfwf26.com##.top-side
+wfwf27.com##.modal-overlay
+wfwf27.com##.modal-wrapper
+wfwf27.com##.top-banner
+wfwf27.com##footer
+wfwf27.com##.top-btn
+wfwf27.com##.updown
+wfwf27.com##.nextpage
+wfwf27.com##.prepage
+wfwf27.com##.pn-ProductNav_Wrapper
+wfwf27.com##.top-side
+wfwf28.com##.modal-overlay
+wfwf28.com##.modal-wrapper
+wfwf28.com##.top-banner
+wfwf28.com##footer
+wfwf28.com##.top-btn
+wfwf28.com##.updown
+wfwf28.com##.nextpage
+wfwf28.com##.prepage
+wfwf28.com##.pn-ProductNav_Wrapper
+wfwf28.com##.top-side
+wfwf29.com##.modal-overlay
+wfwf29.com##.modal-wrapper
+wfwf29.com##.top-banner
+wfwf29.com##footer
+wfwf29.com##.top-btn
+wfwf29.com##.updown
+wfwf29.com##.nextpage
+wfwf29.com##.prepage
+wfwf29.com##.pn-ProductNav_Wrapper
+wfwf29.com##.top-side
+wfwf30.com##.modal-overlay
+wfwf30.com##.modal-wrapper
+wfwf30.com##.top-banner
+wfwf30.com##footer
+wfwf30.com##.top-btn
+wfwf30.com##.updown
+wfwf30.com##.nextpage
+wfwf30.com##.prepage
+wfwf30.com##.pn-ProductNav_Wrapper
+wfwf30.com##.top-side
 sougouwiki.com###common-header
 sougouwiki.com###extra
 sougouwiki.com###sub
 sougouwiki.com###scroll-pagetop
 sougouwiki.com###common-footer
 sougouwiki.com###page-social-link-top
-
-! 2019. 5. 10. https://www.avdbs.com
-www.avdbs.com###footer
-
-! 2019. 5. 13. http://www.mediatoday.co.kr
-www.mediatoday.co.kr###talklink_contents > .not_print
-
-! 2019. 5. 14. https://www.avast.com
-www.avast.com##.visible.cookie-bar.js-cookie-bar
-
-! 2019. 5. 21. https://sports.news.naver.com
-sports.news.naver.com###right_big_banner_1
+avdbs.com###footer
+mediatoday.co.kr###talklink_contents > .not_print
+avast.com##.visible.cookie-bar.js-cookie-bar
+.naver.com###right_big_banner_1
+manamoa.net###hd_pop
+jmana4.com##.top-add
+jmana4.com##.banner
+jmana4.com###.banner
+mangahide.com/jmana/images/adimg/j970-90.png*
+jmana4.com###breaking-news
+jmana4.com###footer
+jmana4.com##.footer-widget
+jmana4.com###navigation > .container
+newtoki14.com###hd_pop
+newtoki14.com##.basic-banner
+newtoki14.com##.board-tail-banner
+newtoki14.com##.btn-info
+hodu63.com/upload/banner/*
+funitoon03.com##.banner-inner
+funitoon03.com##.banner-outer
+funitoon03.com##.widget-side > div.widget-box:nth-of-type(2)
