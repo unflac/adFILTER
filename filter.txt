@@ -1,4 +1,4 @@
-!-- 2019.05.25 07:43
+!-- 2019.05.25 16:17
 
 !--통합
 
@@ -2882,7 +2882,7 @@ sougouwiki.com###page-social-link-top
 avdbs.com###footer
 mediatoday.co.kr###talklink_contents > .not_print
 avast.com##.visible.cookie-bar.js-cookie-bar
-.naver.com###right_big_banner_1
+naver.com###right_big_banner_1
 manamoa.net###hd_pop
 jmana4.com##.top-add
 jmana4.com##.banner
@@ -2900,3 +2900,12 @@ hodu63.com/upload/banner/*
 funitoon03.com##.banner-inner
 funitoon03.com##.banner-outer
 funitoon03.com##.widget-side > div.widget-box:nth-of-type(2)
+youtube.com###scroll-container
+naver.com##.cui_napp_bannernew
+naver.com##.cui_npay_board
+naver.com##.service_pointplus
+naver.com##._MM_CHANGE_PANEL_BANNER
+naver.com##._MM_CHANGE_PANEL_BANNER
+naver.com##.cui_regular_banner
+naver.com##.csn_tooltip
+naver.com##._MM_POINT_PLUS_TOGGLE
