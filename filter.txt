@@ -804,6 +804,8 @@ youtube.com##.ytp-ad-player-overlay-instream-info
 youtube.com##.ytp-endscreen-previous
 youtube.com##.ytp-endscreen-next
 youtube.com##.ytd-popup-container
+youtube.com###scroll-container
+youtube.com##.ytp-cards-button-icon
 
 !-- 아프리카
 
@@ -2716,6 +2718,46 @@ tvkim.biz##.tops
 tvkim.biz##footer
 tvkim.biz###nopo
 tvkim.biz##.hnot
+tvkim-new.com##.side
+tvkim-new.com##.tban
+tvkim-new.com##.rban
+tvkim-new.com##.requ
+tvkim-new.com##.bann
+tvkim-new.com###item_7
+tvkim-new.com###item_8
+tvkim-new.com###item_9
+tvkim-new.com###item_10
+tvkim-new.com###item_11
+tvkim-new.com###item_12
+tvkim-new.com###item_13
+tvkim-new.com###item_14
+tvkim-new.com###item_15
+tvkim-new.com##.midd
+tvkim-new.com##.tops
+tvkim-new.com##footer
+tvkim-new.com###nopo
+tvkim-new.com##.hnot
+tvkim-s.com##.side
+tvkim-s.com##.tban
+tvkim-s.com##.rban
+tvkim-s.com##.requ
+tvkim-s.com##.bann
+tvkim-s.com###item_7
+tvkim-s.com###item_8
+tvkim-s.com###item_9
+tvkim-s.com###item_10
+tvkim-s.com###item_11
+tvkim-s.com###item_12
+tvkim-s.com###item_13
+tvkim-s.com###item_14
+tvkim-s.com###item_15
+tvkim-s.com##.midd
+tvkim-s.com##.tops
+tvkim-s.com##footer
+tvkim-s.com###nopo
+tvkim-s.com##.hnot
+
+
 enc0867live.com##.side
 enc0867live.com##.tban
 enc0867live.com##.rban
@@ -2767,16 +2809,16 @@ minnano-av.com##.iframe
 erodougazo.com###dmm_pick5
 erodougazo.com##.ban
 erodougazo.com###BBB
-torrentwal1.com###inserting
-torrentwal1.com###foot
-torrentwal1.com###div_latest_key
-torrentwal1.com##.fb-like
-torrentwal1.com###main_ad
-torrentwal1.com###left_ad_3
-torrentwal1.com###left_ad_2
-torrentwal1.com###left_ad_1
-torrentwal1.com/banner/*
-torrentwal1.net###inserting > center
+torrentwal.com###inserting
+torrentwal.com###foot
+torrentwal.com###div_latest_key
+torrentwal.com##.fb-like
+torrentwal.com###main_ad
+torrentwal.com###left_ad_3
+torrentwal.com###left_ad_2
+torrentwal.com###left_ad_1
+torrentwal.com/banner/*
+torrentwal.net###inserting > center
 jav321.com###popup-close
 seesaawiki.jp###seesaa-bnr
 kodi.tv###cookie-popup
@@ -2900,7 +2942,6 @@ hodu63.com/upload/banner/*
 funitoon03.com##.banner-inner
 funitoon03.com##.banner-outer
 funitoon03.com##.widget-side > div.widget-box:nth-of-type(2)
-youtube.com###scroll-container
 naver.com##.cui_napp_bannernew
 naver.com##.cui_npay_board
 naver.com##.service_pointplus
@@ -2909,3 +2950,31 @@ naver.com##._MM_CHANGE_PANEL_BANNER
 naver.com##.cui_regular_banner
 naver.com##.csn_tooltip
 naver.com##._MM_POINT_PLUS_TOGGLE
+bongacams.com###dmca_security_container
+tvwang.club##.side
+tvwang.club##div.bab
+tvwang.club###nopo
+tvwang.club##.bann
+tvwang.club/banner/*$domain=tvwang.club,image
+tvwang.club###item_11
+tvwang.club###item_12
+tvwang.club###item_13
+tvwang.club###item_14
+tvwang.club###item_15
+tvwang.biz##.side
+tvwang.biz##div.bab
+tvwang.biz###nopo
+tvwang.biz##.bann
+tvwang.biz/banner/*$domain=tvwang.biz,image
+tvwang.biz###item_11
+tvwang.biz###item_12
+tvwang.biz###item_13
+tvwang.biz###item_14
+tvwang.biz###item_15
+yourupload.com##.jw-reset.jw-logo-bottom-left.jw-logo
+yourupload.com##.download-roms-button.jw-reset.jw-background-color.jw-dock-button > .jw-reset.jw-button-color.jw-dock-image.jw-icon
+poe.game.daum.net##.head-ggb
+poe.game.daum.net##.bottom
+naver.com##.naversign_banner
+poelab.com###dp-container
+manamoa.net##.at-main.at-col.col-md-9 > .widget-box
