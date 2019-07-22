@@ -1,4 +1,4 @@
-!-- 2019.05.25 16:17
+!-- 2019.07.22 14:15
 
 !--통합
 
@@ -2795,14 +2795,6 @@ munhwa.com/www/banner/*$domain=www.munhwa.com,image
 namu.live/static/ad/*$domain=namu.wiki,subdocument
 avdbs.com###contants > .shw-1024-under
 avdbs.com###wrap > .shw-1024-under
-manamoa.net##.ad-banner-widget
-manamoa.net##.main-banner
-manamoa.net##.manga-bottom-navi
-manamoa.net##.go-top
-manamoa3.net##.ad-banner-widget
-manamoa3.net##.main-banner
-manamoa3.net##.manga-bottom-navi
-manamoa3.net##.go-top
 minnano-av.com##.type-fuzoku
 minnano-av.com##.iframe
 ||avnana22.com/img/newpan25.gif$image
@@ -2977,4 +2969,12 @@ poe.game.daum.net##.head-ggb
 poe.game.daum.net##.bottom
 naver.com##.naversign_banner
 poelab.com###dp-container
+manamoa.net##.ad-banner-widget
+manamoa.net##.main-banner
+manamoa.net##.manga-bottom-navi
+manamoa.net##.go-top
+manamoa3.net##.ad-banner-widget
+manamoa3.net##.main-banner
+manamoa3.net##.manga-bottom-navi
+manamoa3.net##.go-top
 manamoa.net##.at-main.at-col.col-md-9 > .widget-box
