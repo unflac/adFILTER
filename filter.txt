@@ -1,4 +1,4 @@
-!-- 2019.07.22 14:15
+!-- 2019.08.02 18:03
 
 !--통합
 
@@ -2969,12 +2969,56 @@ poe.game.daum.net##.head-ggb
 poe.game.daum.net##.bottom
 naver.com##.naversign_banner
 poelab.com###dp-container
+
+! 2019. 7. 29. https://torrentwal.com
+torrentwal.com###left_ad
+
+! 2019. 7. 30. https://safe.mirrordown.com
+safe.mirrordown.com##center:nth-of-type(2)
+safe.mirrordown.com##center:nth-of-type(3) > div
+safe.mirrordown.com##div > div:nth-of-type(1) > span
+safe.mirrordown.com##.navbar
+safe.mirrordown.com##.main-footer
+safe.mirrordown.com##.container-fluid
+
+! 2019. 7. 31. http://nene365.com
+nene365.com##.sideright
+nene365.com##.sideleft
+nene365.com##.pc-header
+nene365.com##.at-menu
+nene365.com##.at-main.at-col.col-md-9 > .row
+nene365.com##.at-main.at-col.col-md-9 > div:nth-of-type(2)
+nene365.com##.at-go
+nene365.com##.at-footer
+nene365.com##u-chat
+nene365.com##.hidden-xs.hidden-sm
+
+! 2019. 8. 1. http://nene365.com
+nene365.com###hd_pops_2
+nene365.com##.hd_pops
+
+! 2019. 8. 2. https://uptobox.com
+uptobox.com##.ad6foo-banner-container
+uptobox.com##.ad6foo-application
+uptobox.com##div:nth-of-type(6)
+uptobox.com##div:nth-of-type(5)
+uptobox.com###blackfriday
+||uptobox.com/assets/images/background_sky.png$image
+
 manamoa.net##.ad-banner-widget
 manamoa.net##.main-banner
 manamoa.net##.manga-bottom-navi
 manamoa.net##.go-top
+manamoa.net###hd_pop
+manamoa.net##.at-main.at-col.col-md-9 > .widget-box
+manamoa.net##.at-copyright
+manamoa.net##.ad-banner-widget
+
 manamoa3.net##.ad-banner-widget
 manamoa3.net##.main-banner
 manamoa3.net##.manga-bottom-navi
 manamoa3.net##.go-top
-manamoa.net##.at-main.at-col.col-md-9 > .widget-box
+manamoa3.net###hd_pop
+manamoa3.net##.at-main.at-col.col-md-9 > .widget-box
+manamoa3.net##.at-copyright
+manamoa3.net##.ad-banner-widget
