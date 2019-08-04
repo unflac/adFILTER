@@ -1,4 +1,4 @@
-!-- 2019.08.02 18:03
+!-- 2019.08.05 06:29
 
 !--통합
 
@@ -803,7 +803,6 @@ youtube.com##.annotation
 youtube.com##.ytp-ad-player-overlay-instream-info
 youtube.com##.ytp-endscreen-previous
 youtube.com##.ytp-endscreen-next
-youtube.com##.ytd-popup-container
 youtube.com###scroll-container
 youtube.com##.ytp-cards-button-icon
 
@@ -2917,7 +2916,6 @@ avdbs.com###footer
 mediatoday.co.kr###talklink_contents > .not_print
 avast.com##.visible.cookie-bar.js-cookie-bar
 naver.com###right_big_banner_1
-manamoa.net###hd_pop
 jmana4.com##.top-add
 jmana4.com##.banner
 jmana4.com###.banner
@@ -2997,11 +2995,19 @@ nene365.com##.hidden-xs.hidden-sm
 nene365.com###hd_pops_2
 nene365.com##.hd_pops
 
-! 2019. 8. 2. https://uptobox.com
+uptostream.com##.ad6foo-banner-container
+uptostream.com##.ad6foo-application
+uptostream.com##div:nth-of-type(6)
+uptostream.com##div:nth-of-type(5)
+uptostream.com##div:nth-of-type(4)
+uptostream.com###blackfriday
+||uptostream.com/assets/images/background_sky.png$image
+
 uptobox.com##.ad6foo-banner-container
 uptobox.com##.ad6foo-application
 uptobox.com##div:nth-of-type(6)
 uptobox.com##div:nth-of-type(5)
+uptobox.com##div:nth-of-type(4)
 uptobox.com###blackfriday
 ||uptobox.com/assets/images/background_sky.png$image
 
@@ -3012,7 +3018,6 @@ manamoa.net##.go-top
 manamoa.net###hd_pop
 manamoa.net##.at-main.at-col.col-md-9 > .widget-box
 manamoa.net##.at-copyright
-manamoa.net##.ad-banner-widget
 
 manamoa3.net##.ad-banner-widget
 manamoa3.net##.main-banner
@@ -3021,4 +3026,82 @@ manamoa3.net##.go-top
 manamoa3.net###hd_pop
 manamoa3.net##.at-main.at-col.col-md-9 > .widget-box
 manamoa3.net##.at-copyright
-manamoa3.net##.ad-banner-widget
+
+||oi67.tinypic.com/2mo8fg6.jpg
+||i63.tinypic.com/smg8pe.gif
+||i68.tinypic.com/vzzoko.gif
+
+! 2019. 8. 2. https://safe.mirrordown.com
+safe.mirrordown.com##.g1-hb-shadow-off
+safe.mirrordown.com###bimber_widget_posts-5
+safe.mirrordown.com##.entry-title.g1-mega-1st.g1-mega
+safe.mirrordown.com##.entry-meta-m.entry-meta.g1-meta-m.g1-meta
+safe.mirrordown.com##.entry-header-02.entry-header > center:nth-of-type(1) > div
+safe.mirrordown.com##p:nth-of-type(2)
+safe.mirrordown.com##p:nth-of-type(3)
+safe.mirrordown.com##p:nth-of-type(4)
+safe.mirrordown.com##p:nth-of-type(5)
+safe.mirrordown.com##p:nth-of-type(6)
+safe.mirrordown.com##p:nth-of-type(7)
+safe.mirrordown.com##p:nth-of-type(8)
+safe.mirrordown.com##p:nth-of-type(9)
+safe.mirrordown.com##p:nth-of-type(10)
+safe.mirrordown.com##p:nth-of-type(11)
+safe.mirrordown.com##p:nth-of-type(12)
+safe.mirrordown.com##p:nth-of-type(13)
+safe.mirrordown.com##p:nth-of-type(14)
+safe.mirrordown.com##p:nth-of-type(15)
+safe.mirrordown.com##p:nth-of-type(16)
+safe.mirrordown.com##p:nth-of-type(17)
+safe.mirrordown.com##p:nth-of-type(18)
+safe.mirrordown.com##p:nth-of-type(19)
+safe.mirrordown.com##p:nth-of-type(20)
+safe.mirrordown.com##p:nth-of-type(21)
+safe.mirrordown.com##p:nth-of-type(22)
+safe.mirrordown.com##p:nth-of-type(23)
+safe.mirrordown.com##p:nth-of-type(24)
+safe.mirrordown.com##p:nth-of-type(25)
+safe.mirrordown.com##p:nth-of-type(26)
+safe.mirrordown.com##p:nth-of-type(27)
+safe.mirrordown.com##p:nth-of-type(28)
+safe.mirrordown.com##p:nth-of-type(29)
+safe.mirrordown.com##p:nth-of-type(30)
+safe.mirrordown.com###secondary
+safe.mirrordown.com##.g1-dont-miss
+safe.mirrordown.com##.g1-row-background-media
+safe.mirrordown.com##.g1-row-layout-page.g1-row.g1-footer > .g1-row-background
+safe.mirrordown.com##.g1-row-layout-page.g1-row.g1-footer
+safe.mirrordown.com##.g1-row-layout-page.g1-row.g1-prefooter-3cols.g1-prefooter > .g1-row-background
+safe.mirrordown.com##.g1-row-layout-page.g1-row.g1-prefooter-3cols.g1-prefooter
+safe.mirrordown.com##p:nth-of-type(37)
+safe.mirrordown.com##p:nth-of-type(36)
+safe.mirrordown.com##p:nth-of-type(32)
+safe.mirrordown.com##p:nth-of-type(35)
+safe.mirrordown.com##p:nth-of-type(31)
+safe.mirrordown.com##p:nth-of-type(34)
+
+! 2019. 8. 3. https://uptostream.com
+uptostream.com##.navbar-items
+||uptobox.com/assets/images/header_background_UTB.png$image
+uptostream.com###navbar
+uptostream.com###footer
+
+! 2019. 8. 5. https://sports.media.daum.net
+daum.net##.shopad_sports
+daum.net###banner250wing
+daum.net##.wing_ad
+
+! 2019. 8. 5. http://www.assi27.com
+www.assi27.com###theader
+www.assi27.com###head
+www.assi27.com###section3
+www.assi27.com###section
+www.assi27.com###section2 > div:nth-of-type(3)
+www.assi27.com###section2 > div.btv_lbox:nth-of-type(6) > div:nth-of-type(1)
+www.assi27.com###section2 > div.btv_lbox:nth-of-type(5)
+www.assi27.com###section2 > div.btv_lbox:nth-of-type(1)
+www.assi27.com##body > div:nth-of-type(4)
+www.assi27.com###ft
+
+kakao.com##.tit_kakaotv > .img_player
+kakao.com##.link_slogo
