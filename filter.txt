@@ -286,6 +286,7 @@ advimg.ad-mapps.com
 adw.heraldm.com
 adx1.com
 adzon.net
+catad5959.com
 afy11.net
 agkn.com
 aicontents.net
@@ -296,7 +297,6 @@ ams-ad.com
 amung.us
 appier.net
 areyouahuman.com
-aspnetcdn.com
 audience73.com
 avocet.io
 basebanner.com
@@ -706,8 +706,10 @@ naver.com###p_main_momkids_00
 naver.com###p_main_show_00
 naver.com###p_main_china_00
 naver.com##.ccj_banner_jtbc
+naver.com###p_main_animal_00
 naver.com###p_main_job_00
 naver.com###p_main_travel_00
+naver.com###p_main_school_01
 naver.com###p_main_wedding_00
 naver.com##div.id_uio_thumbnail.grid1
 naver.com##div.id_cui_stylepick.grid1
@@ -767,6 +769,28 @@ naver.com##.group_ad
 naver.com###HOME_AD
 naver.com##.cui_napp_banner
 naver.com##.fc_banner
+naver.com###top_banner
+naver.com###right_big_banner_1
+naver.com##.cui_napp_bannernew
+naver.com##.cui_npay_board
+naver.com##.service_pointplus
+naver.com##._MM_CHANGE_PANEL_BANNER
+naver.com##._MM_CHANGE_PANEL_BANNER
+naver.com##.cui_regular_banner
+naver.com##.csn_tooltip
+naver.com##._MM_POINT_PLUS_TOGGLE
+naver.com##.naversign_banner
+naver.com##.section_banner
+naver.com##._MM_CHANNEL_ORDER_BANNER
+naver.com##.id_cui_airsguide
+naver.com##.MM_CHANNEL_BOTTOM_BANNER
+naver.com###btn_top
+naver.com###MM_news_channel_info
+naver.com##.uio_banner_subject
+naver.com###TOMAIN_NUDGE_IN_RTK
+naver.com##.MM_SIGN_BANNER
+naver.com###_event_popup
+naver.com###_home_special
 
 !-- 동영상
 
@@ -862,6 +886,7 @@ vads-api.ad.daum.net
 ads-api.ad.daum.net
 adclixad.daum.net
 display.ad.daum.net
+keyword.ad.daum.net
 alea.adam.ad.daum.net
 analytics.ad.daum.net
 clixad.daum.net
@@ -949,6 +974,21 @@ daum.net##.wing_bnr
 daum.net##.aside_bnr
 daum.net###kakao_ad_UIzvPD_7885
 daum.net##.Forefront
+daum.net##.shopad_sports
+daum.net###banner250wing
+daum.net##.wing_ad
+daum.net###aside_ad_top
+daum.net##.bnr_bottom
+daum.net##.box_ad2
+daum.net###wideLinkColl
+daum.net##.head-ggb
+daum.net##.bottom
+daum.net##.tit_kakaotv > .img_player
+daum.net##.link_slogo
+
+kakao.com##.inner_footer
+kakao.com##.tit_kakaotv > .img_player
+kakao.com##.link_slogo
 kakao.com##.box_bnr
 kakao.com##.link_banner
 kakao.com###cEtc
@@ -2218,7 +2258,6 @@ pantsu.cat##.centered
 pantsu.cat/img/mafuyu.svg
 tobogi.me/img/ad/*$domain=joabam.com,image
 joabam.com/img/ad/*$domain=joabam.com,image
-daum.net##.box_ad2
 segye.com##.ad_btm_add
 segye.com##.view_ADarea2018
 segye.com##.ad_right_300bn
@@ -2358,7 +2397,6 @@ sogirl.co##.ad_before
 sogirl.co##.happy-under-player
 hankyung.com##.amp-bottom-ad
 hankyung.com##.amp-md-ad
-filetender.com##.adsbygoogle
 filetender.com###logo
 filetender.com/images/steps_wide.png
 filetender.com###wrap > div:nth-of-type(1)
@@ -2375,8 +2413,6 @@ asiae.co.kr##.art_btm
 kick-off.co.kr##.view_contents_ad
 kick-off.co.kr##.list_ad
 kick-off.co.kr##.top_ad
-seoul.co.kr##.hed_ad
-seoul.co.kr###CmAdContent
 theviewers.co.kr###scrollDiv
 theviewers.co.kr###tmpILSA_Container
 nate.com##.area_ad01
@@ -2389,7 +2425,6 @@ nate.com##.area_ad07
 nate.com##.area_ad08
 nate.com##.area_ad09
 nate.com##.area_ad10
-seoul.co.kr##.Rad
 khan.co.kr##.ad_movFocus
 khan.co.kr##.realssp
 khan.co.kr###left_wingBanner
@@ -2589,7 +2624,6 @@ yna.co.kr##.btn-close-fixed
 yna.co.kr##.section-ad-adtive
 yna.co.kr##.section-add
 yna.co.kr##.section-ad-joyinfo
-daum.net###wideLinkColl
 etoland.co.kr##.reft_hit_banner
 chosun.com###sc_floating
 chosun.com##.top_banner
@@ -2605,7 +2639,6 @@ joynews24.com##.h160px
 chosun.com##.news_ad_top
 chosun.com##.ad_ss_left
 chosun.com##.ad_ss_right
-naver.com###top_banner
 sportalkorea.com##.pb_area
 heraldcorp.com###contents_ad_right
 torrentmal.com/img/ad/*
@@ -2622,7 +2655,6 @@ msn.com##.nativead
 msn.com##.cbtrack.tag
 seoulwire.com###ad_html
 seoulwire.com###adbn_sky_listener
-seoul.co.kr###withpang_p
 ppomppu.co.kr##.ad-banner
 thz2.net##body > div:nth-of-type(4)
 thz2.net##.a_cn
@@ -2915,7 +2947,6 @@ sougouwiki.com###page-social-link-top
 avdbs.com###footer
 mediatoday.co.kr###talklink_contents > .not_print
 avast.com##.visible.cookie-bar.js-cookie-bar
-naver.com###right_big_banner_1
 jmana4.com##.top-add
 jmana4.com##.banner
 jmana4.com###.banner
@@ -2932,14 +2963,6 @@ hodu63.com/upload/banner/*
 funitoon03.com##.banner-inner
 funitoon03.com##.banner-outer
 funitoon03.com##.widget-side > div.widget-box:nth-of-type(2)
-naver.com##.cui_napp_bannernew
-naver.com##.cui_npay_board
-naver.com##.service_pointplus
-naver.com##._MM_CHANGE_PANEL_BANNER
-naver.com##._MM_CHANGE_PANEL_BANNER
-naver.com##.cui_regular_banner
-naver.com##.csn_tooltip
-naver.com##._MM_POINT_PLUS_TOGGLE
 bongacams.com###dmca_security_container
 tvwang.club##.side
 tvwang.club##div.bab
@@ -2963,9 +2986,6 @@ tvwang.biz###item_14
 tvwang.biz###item_15
 yourupload.com##.jw-reset.jw-logo-bottom-left.jw-logo
 yourupload.com##.download-roms-button.jw-reset.jw-background-color.jw-dock-button > .jw-reset.jw-button-color.jw-dock-image.jw-icon
-poe.game.daum.net##.head-ggb
-poe.game.daum.net##.bottom
-naver.com##.naversign_banner
 poelab.com###dp-container
 
 ! 2019. 7. 29. https://torrentwal.com
@@ -3026,10 +3046,7 @@ manamoa3.net##.go-top
 manamoa3.net###hd_pop
 manamoa3.net##.at-main.at-col.col-md-9 > .widget-box
 manamoa3.net##.at-copyright
-
-||oi67.tinypic.com/2mo8fg6.jpg
-||i63.tinypic.com/smg8pe.gif
-||i68.tinypic.com/vzzoko.gif
+tinypic.com
 
 ! 2019. 8. 2. https://safe.mirrordown.com
 safe.mirrordown.com##.g1-hb-shadow-off
@@ -3086,22 +3103,93 @@ uptostream.com##.navbar-items
 uptostream.com###navbar
 uptostream.com###footer
 
-! 2019. 8. 5. https://sports.media.daum.net
-daum.net##.shopad_sports
-daum.net###banner250wing
-daum.net##.wing_ad
 
 ! 2019. 8. 5. http://www.assi27.com
-www.assi27.com###theader
-www.assi27.com###head
-www.assi27.com###section3
-www.assi27.com###section
-www.assi27.com###section2 > div:nth-of-type(3)
-www.assi27.com###section2 > div.btv_lbox:nth-of-type(6) > div:nth-of-type(1)
-www.assi27.com###section2 > div.btv_lbox:nth-of-type(5)
-www.assi27.com###section2 > div.btv_lbox:nth-of-type(1)
-www.assi27.com##body > div:nth-of-type(4)
-www.assi27.com###ft
+assi27.com###theader
+assi27.com###head
+assi27.com###section3
+assi27.com###section
+assi27.com###section2 > div:nth-of-type(3)
+assi27.com###section2 > div.btv_lbox:nth-of-type(6) > div:nth-of-type(1)
+assi27.com###section2 > div.btv_lbox:nth-of-type(5)
+assi27.com###section2 > div.btv_lbox:nth-of-type(1)
+assi27.com##body > div:nth-of-type(4)
+assi27.com###ft
 
-kakao.com##.tit_kakaotv > .img_player
-kakao.com##.link_slogo
+! 2019. 8. 5. http://www.etoland.co.kr
+etoland.co.kr##div.market_div_item
+
+
+! 2019. 8. 6. https://www.mofos.com
+||images-assets-ht.project1content.com/Mofos/Tour/MOFOS/Catfish/5c93ebf60df143.24764550.png$image
+
+! 2019. 8. 6. https://nubiles-porn.com
+nubiles-porn.com##.hover-join
+
+! 2019. 8. 7. http://www.assi27.com
+assi27.com###hd_pop
+
+! 2019. 8. 7. https://www.brazzers.com
+brazzers.com##.release-information > .clearfix
+brazzers.com###cta-floater
+
+
+! 2019. 8. 7. http://news.wowtv.co.kr
+wowtv.co.kr##.top-banner-area
+wowtv.co.kr###divTopBanner
+wowtv.co.kr##.cont-banner
+wowtv.co.kr##.adv-area
+wowtv.co.kr##.quickMenu
+
+! 2019. 8. 8. https://www.yna.co.kr
+www.yna.co.kr##.fixed-bnr03
+
+! 2019. 8. 9. https://ps.news.nate.com
+ps.news.nate.com##.ad160x600
+
+! 2019. 8. 10. http://www.skyedaily.com
+www.skyedaily.com###SideBannerRight
+
+! 2019. 8. 10. http://www.chosun.com
+www.chosun.com##.special_banner
+www.chosun.com##.btn_banner_mt100
+www.chosun.com###news_go_id
+www.chosun.com##.banner_sub_tit
+www.chosun.com##.top_ad1
+www.chosun.com##.top_ad2
+
+
+! 2019. 8. 10. http://richtv365.com
+richtv365.com##.content_widget_bar
+
+naver.com###promotion_banner
+
+! 2019. 8. 11. http://m.bookmark.naver.com
+m.bookmark.naver.com##.Ngnb_tool
+
+! 2019. 8. 11. https://namu.live
+namu.live##.ad
+
+! 2019. 8. 12. https://flight.naver.com
+flight.naver.com##.promotion_area
+flight.naver.com##.footer_ota_list
+flight.naver.com##.wrap_top
+
+! 2019. 8. 12. http://tvdaily.asiae.co.kr
+tvdaily.co.kr/banner/*$domain=tvdaily.asiae.co.kr,image
+tvdaily.asiae.co.kr###AD_LIVE_AREA_30204704
+tvdaily.asiae.co.kr###readtopad
+
+! 2019. 8. 12. https://sports.news.naver.com
+naver.com###tv_relay_notice_common
+
+! 2019. 8. 12. https://entertain.v.daum.net
+daum.net##.aside_ad
+
+! 2019. 8. 12. https://en.seoul.co.kr
+seoul.co.kr##.hed_ad
+seoul.co.kr###criteo_div
+seoul.co.kr##.enatic_banner
+seoul.co.kr##.adbox03
+seoul.co.kr/RealMedia/ads/*$domain=en.seoul.co.kr,subdocument
+seoul.co.kr###seoulAdTable
