@@ -1,4 +1,4 @@
-!-- 2019.08.05 06:29
+!-- 2019.08.13 15:39
 
 !--통합
 
@@ -9,6 +9,7 @@
 
 !-- 광고
 
+tinypic.com
 913vt.com
 hnyiche3.com
 jointreport-switch.com
@@ -3002,6 +3003,7 @@ uptobox.com###blackfriday
 ||uptobox.com/assets/images/background_sky.png$image
 
 manamoa.net##.ad-banner-widget
+manamoa.net##div.main-banner
 manamoa.net##.main-banner
 manamoa.net##.manga-bottom-navi
 manamoa.net##.go-top
@@ -3010,13 +3012,16 @@ manamoa.net##.at-main.at-col.col-md-9 > .widget-box
 manamoa.net##.at-copyright
 
 manamoa3.net##.ad-banner-widget
+manamoa.net##div.main-banner
 manamoa3.net##.main-banner
 manamoa3.net##.manga-bottom-navi
 manamoa3.net##.go-top
 manamoa3.net###hd_pop
 manamoa3.net##.at-main.at-col.col-md-9 > .widget-box
 manamoa3.net##.at-copyright
-tinypic.com
+
+
+
 
 ! 2019. 8. 2. https://safe.mirrordown.com
 safe.mirrordown.com##.g1-hb-shadow-off
@@ -3112,21 +3117,21 @@ wowtv.co.kr##.adv-area
 wowtv.co.kr##.quickMenu
 
 ! 2019. 8. 8. https://www.yna.co.kr
-www.yna.co.kr##.fixed-bnr03
+yna.co.kr##.fixed-bnr03
 
 ! 2019. 8. 9. https://ps.news.nate.com
-ps.news.nate.com##.ad160x600
+nate.com##.ad160x600
 
 ! 2019. 8. 10. http://www.skyedaily.com
-www.skyedaily.com###SideBannerRight
+skyedaily.com###SideBannerRight
 
 ! 2019. 8. 10. http://www.chosun.com
-www.chosun.com##.special_banner
-www.chosun.com##.btn_banner_mt100
-www.chosun.com###news_go_id
-www.chosun.com##.banner_sub_tit
-www.chosun.com##.top_ad1
-www.chosun.com##.top_ad2
+chosun.com##.special_banner
+chosun.com##.btn_banner_mt100
+chosun.com###news_go_id
+chosun.com##.banner_sub_tit
+chosun.com##.top_ad1
+chosun.com##.top_ad2
 
 
 ! 2019. 8. 10. http://richtv365.com
@@ -3135,26 +3140,23 @@ richtv365.com##.content_widget_bar
 naver.com###promotion_banner
 
 ! 2019. 8. 11. http://m.bookmark.naver.com
-m.bookmark.naver.com##.Ngnb_tool
+naver.com##.Ngnb_tool
 
 ! 2019. 8. 11. https://namu.live
 namu.live##.ad
 
 ! 2019. 8. 12. https://flight.naver.com
-flight.naver.com##.promotion_area
-flight.naver.com##.footer_ota_list
-flight.naver.com##.wrap_top
+naver.com##.promotion_area
+naver.com##.footer_ota_list
+naver.com##.wrap_top
 
 ! 2019. 8. 12. http://tvdaily.asiae.co.kr
 tvdaily.co.kr/banner/*$domain=tvdaily.asiae.co.kr,image
-tvdaily.asiae.co.kr###AD_LIVE_AREA_30204704
-tvdaily.asiae.co.kr###readtopad
+asiae.co.kr###AD_LIVE_AREA_30204704
+asiae.co.kr###readtopad
 
 ! 2019. 8. 12. https://sports.news.naver.com
 naver.com###tv_relay_notice_common
-
-! 2019. 8. 12. https://entertain.v.daum.net
-daum.net##.aside_ad
 
 ! 2019. 8. 12. https://en.seoul.co.kr
 seoul.co.kr##.hed_ad
@@ -3163,3 +3165,37 @@ seoul.co.kr##.enatic_banner
 seoul.co.kr##.adbox03
 seoul.co.kr/RealMedia/ads/*$domain=en.seoul.co.kr,subdocument
 seoul.co.kr###seoulAdTable
+
+! 2019. 8. 13. https://news.mt.co.kr
+mt.co.kr##.leftbn_wrap
+mt.co.kr##.rightbn_wrap
+mt.co.kr##.wrap_banner
+mt.co.kr/*anner*.jpg$domain=www.mt.co.kr,image
+mt.co.kr##div.ad
+mt.co.kr##span.ad
+
+yna.co.kr##.coin-bnr_link
+
+! 2019. 8. 13. https://www.sedaily.com
+sedaily.com##.sub_ad_banner1
+sedaily.com##.sub_ad_banner2
+sedaily.com##.sub_ad_banner3
+sedaily.com##.sub_ad_banner4
+sedaily.com##.sub_ad_banner5
+sedaily.com##.sub_ad_banner3_2
+www.sedaily.com##.main_wing_banner
+
+! 2019. 8. 13. https://news.naver.com
+naver.com##.stop.floating_btn
+
+! 2019. 8. 13. https://torrenthaja.com
+torrenthaja7.com/data/banner/*$domain=torrenthaja.com,image
+
+! 2019. 8. 13. https://torrentboza.com
+torrentboza.com##.banner-horizontal
+torrentboza.com##.basic-banner
+
+! 2019. 8. 13. https://www.torrentbe.com
+www.torrentbe.com##.banner_top
+www.torrentbe.com###banner_top_list_wrap
+www.torrentbe.com##div.banner
