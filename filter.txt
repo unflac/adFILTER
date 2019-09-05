@@ -1,13 +1,13 @@
 !-- 2019.09.06 07:49
 
-!--통합
+!--
 
 */RealMedia/ads/*
 ##.adsbygoogle
 ##.check_notify
 ###livereContentsContainer
 
-!-- 광고
+!--
 
 tinypic.com
 913vt.com
