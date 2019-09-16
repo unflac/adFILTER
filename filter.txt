@@ -1,14 +1,14 @@
-!-- 2019.09.06 07:49
+!-- 2019.09.16 17:34
 
-!--
+!--통합
 
 */RealMedia/ads/*
 ##.adsbygoogle
 ##.check_notify
 ###livereContentsContainer
 
-!--
-
+!-- 광고
+ads-partners.coupang.com
 tinypic.com
 913vt.com
 hnyiche3.com
@@ -809,6 +809,8 @@ naver.com##.event_banner
 naver.com##.tooltip
 naver.com##.popup_wrapper
 naver.com###image_promotion
+naver.com##.u_rmc_service_btn
+naver.com##.u_rmc_info_btn_like
 
 !-- 동영상
 
@@ -3028,6 +3030,9 @@ manamoa.net##.manga-bottom-navi
 manamoa.net##.go-top
 manamoa.net###hd_pop
 manamoa.net##.at-copyright
+manamoa.net##.view-comment
+manamoa.net##.comment-media
+manamoa.net##.panel-default
 
 manamoa2.net##.ad-banner-widget
 manamoa2.net##div.main-banner
@@ -3036,6 +3041,9 @@ manamoa2.net##.manga-bottom-navi
 manamoa2.net##.go-top
 manamoa2.net###hd_pop
 manamoa2.net##.at-copyright
+manamoa2.net##.view-comment
+manamoa2.net##.comment-media
+manamoa2.net##.panel-default
 
 manamoa3.net##.ad-banner-widget
 manamoa3.net##div.main-banner
@@ -3044,6 +3052,9 @@ manamoa3.net##.manga-bottom-navi
 manamoa3.net##.go-top
 manamoa3.net###hd_pop
 manamoa3.net##.at-copyright
+manamoa3.net##.view-comment
+manamoa3.net##.comment-media
+manamoa3.net##.panel-default
 
 manamoa4.net##.ad-banner-widget
 manamoa4.net##div.main-banner
@@ -3052,6 +3063,9 @@ manamoa4.net##.manga-bottom-navi
 manamoa4.net##.go-top
 manamoa4.net###hd_pop
 manamoa4.net##.at-copyright
+manamoa4.net##.view-comment
+manamoa4.net##.comment-media
+manamoa4.net##.panel-default
 
 manamoa5.net##.ad-banner-widget
 manamoa5.net##div.main-banner
@@ -3060,6 +3074,9 @@ manamoa5.net##.manga-bottom-navi
 manamoa5.net##.go-top
 manamoa5.net###hd_pop
 manamoa5.net##.at-copyright
+manamoa5.net##.view-comment
+manamoa5.net##.comment-media
+manamoa5.net##.panel-default
 
 manamoa6.net##.ad-banner-widget
 manamoa6.net##div.main-banner
@@ -3068,6 +3085,9 @@ manamoa6.net##.manga-bottom-navi
 manamoa6.net##.go-top
 manamoa6.net###hd_pop
 manamoa6.net##.at-copyright
+manamoa6.net##.view-comment
+manamoa6.net##.comment-media
+manamoa6.net##.panel-default
 
 manamoa7.net##.ad-banner-widget
 manamoa7.net##div.main-banner
@@ -3076,6 +3096,9 @@ manamoa7.net##.manga-bottom-navi
 manamoa7.net##.go-top
 manamoa7.net###hd_pop
 manamoa7.net##.at-copyright
+manamoa7.net##.view-comment
+manamoa7.net##.comment-media
+manamoa7.net##.panel-default
 
 manamoa8.net##.ad-banner-widget
 manamoa8.net##div.main-banner
@@ -3084,6 +3107,9 @@ manamoa8.net##.manga-bottom-navi
 manamoa8.net##.go-top
 manamoa8.net###hd_pop
 manamoa8.net##.at-copyright
+manamoa8.net##.view-comment
+manamoa8.net##.comment-media
+manamoa8.net##.panel-default
 
 manamoa9.net##.ad-banner-widget
 manamoa9.net##div.main-banner
@@ -3092,6 +3118,9 @@ manamoa9.net##.manga-bottom-navi
 manamoa9.net##.go-top
 manamoa9.net###hd_pop
 manamoa9.net##.at-copyright
+manamoa9.net##.view-comment
+manamoa9.net##.comment-media
+manamoa9.net##.panel-default
 
 manamoa10.net##.ad-banner-widget
 manamoa10.net##div.main-banner
@@ -3100,6 +3129,9 @@ manamoa10.net##.manga-bottom-navi
 manamoa10.net##.go-top
 manamoa10.net###hd_pop
 manamoa10.net##.at-copyright
+manamoa10.net##.view-comment
+manamoa10.net##.comment-media
+manamoa10.net##.panel-default
 
 manamoa11.net##.ad-banner-widget
 manamoa11.net##div.main-banner
@@ -3108,6 +3140,9 @@ manamoa11.net##.manga-bottom-navi
 manamoa11.net##.go-top
 manamoa11.net###hd_pop
 manamoa11.net##.at-copyright
+manamoa11.net##.view-comment
+manamoa11.net##.comment-media
+manamoa11.net##.panel-default
 
 manamoa12.net##.ad-banner-widget
 manamoa12.net##div.main-banner
@@ -3116,6 +3151,9 @@ manamoa12.net##.manga-bottom-navi
 manamoa12.net##.go-top
 manamoa12.net###hd_pop
 manamoa12.net##.at-copyright
+manamoa12.net##.view-comment
+manamoa12.net##.comment-media
+manamoa12.net##.panel-default
 
 manamoa13.net##.ad-banner-widget
 manamoa13.net##div.main-banner
@@ -3124,6 +3162,9 @@ manamoa13.net##.manga-bottom-navi
 manamoa13.net##.go-top
 manamoa13.net###hd_pop
 manamoa13.net##.at-copyright
+manamoa13.net##.view-comment
+manamoa13.net##.comment-media
+manamoa13.net##.panel-default
 
 manamoa14.net##.ad-banner-widget
 manamoa14.net##div.main-banner
@@ -3132,6 +3173,9 @@ manamoa14.net##.manga-bottom-navi
 manamoa14.net##.go-top
 manamoa14.net###hd_pop
 manamoa14.net##.at-copyright
+manamoa14.net##.view-comment
+manamoa14.net##.comment-media
+manamoa14.net##.panel-default
 
 manamoa15.net##.ad-banner-widget
 manamoa15.net##div.main-banner
@@ -3140,6 +3184,9 @@ manamoa15.net##.manga-bottom-navi
 manamoa15.net##.go-top
 manamoa15.net###hd_pop
 manamoa15.net##.at-copyright
+manamoa15.net##.view-comment
+manamoa15.net##.comment-media
+manamoa15.net##.panel-default
 
 manamoa16.net##.ad-banner-widget
 manamoa16.net##div.main-banner
@@ -3148,6 +3195,9 @@ manamoa16.net##.manga-bottom-navi
 manamoa16.net##.go-top
 manamoa16.net###hd_pop
 manamoa16.net##.at-copyright
+manamoa16.net##.view-comment
+manamoa16.net##.comment-media
+manamoa16.net##.panel-default
 
 manamoa17.net##.ad-banner-widget
 manamoa17.net##div.main-banner
@@ -3156,6 +3206,9 @@ manamoa17.net##.manga-bottom-navi
 manamoa17.net##.go-top
 manamoa17.net###hd_pop
 manamoa17.net##.at-copyright
+manamoa17.net##.view-comment
+manamoa17.net##.comment-media
+manamoa17.net##.panel-default
 
 manamoa18.net##.ad-banner-widget
 manamoa18.net##div.main-banner
@@ -3164,6 +3217,9 @@ manamoa18.net##.manga-bottom-navi
 manamoa18.net##.go-top
 manamoa18.net###hd_pop
 manamoa18.net##.at-copyright
+manamoa18.net##.view-comment
+manamoa18.net##.comment-media
+manamoa18.net##.panel-default
 
 manamoa19.net##.ad-banner-widget
 manamoa19.net##div.main-banner
@@ -3172,6 +3228,9 @@ manamoa19.net##.manga-bottom-navi
 manamoa19.net##.go-top
 manamoa19.net###hd_pop
 manamoa19.net##.at-copyright
+manamoa19.net##.view-comment
+manamoa19.net##.comment-media
+manamoa19.net##.panel-default
 
 manamoa20.net##.ad-banner-widget
 manamoa20.net##div.main-banner
@@ -3180,6 +3239,9 @@ manamoa20.net##.manga-bottom-navi
 manamoa20.net##.go-top
 manamoa20.net###hd_pop
 manamoa20.net##.at-copyright
+manamoa20.net##.view-comment
+manamoa20.net##.comment-media
+manamoa20.net##.panel-default
 
 ! 2019. 8. 2. https://safe.mirrordown.com
 safe.mirrordown.com##.g1-hb-shadow-off
@@ -3533,10 +3595,28 @@ ftcdn.net/*$domain=lewat.club,image
 lewat.club##center:nth-of-type(1) > div > span
 
 ! 2019. 9. 4. https://www.adlink.pw
-www.adlink.pw##center:nth-of-type(1) > div > span
+adlink.pw##center:nth-of-type(1) > div > span
 
 ! 2019. 9. 4. https://lewat.club
 lewat.club##.adsbygoogle
 
 ||hitomi.la/hitomi.js$script
 
+! 2019. 9. 6. https://sports.v.daum.net
+daum.net##.vod_open
+
+! 2019. 9. 6. http://nene365.com
+||nene365.com/data/apms/background/3.png$image
+
+! 2019. 9. 7. https://bbs.ruliweb.com
+ruliweb.com##.row.board_notice
+
+! 2019. 9. 8. http://www.kpa.so
+kpa.so###tree_line_1
+
+! 2019. 9. 12. http://74as.com
+74as.com##.a2_h.wp > center
+74as.com##.a_2mu > center
+
+! 2019. 9. 15. https://pirateproxy.tel
+pirateproxy.tel##table
