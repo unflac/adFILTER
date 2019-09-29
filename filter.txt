@@ -1,4 +1,4 @@
-!-- 2019.09.16 17:34
+!-- 2019.09.30 04:52
 
 !--통합
 
@@ -8,12 +8,12 @@
 ###livereContentsContainer
 
 !-- 광고
+adserver.rockwell.kakao.com
 ads-partners.coupang.com
 tinypic.com
 913vt.com
 hnyiche3.com
 jointreport-switch.com
-jsdelivr.net
 rebrand.ly
 khufaw1.com
 khufaw2.com
@@ -1008,6 +1008,11 @@ daum.net##.head-ggb
 daum.net##.bottom
 daum.net##.tit_kakaotv > .img_player
 daum.net##.link_slogo
+daum.net##.vod_open
+daum.net##.\#topAd
+daum.net##.\#bottomAd
+daum.net##.ad_body
+daum.net##.gnb_banner
 
 kakao.com##.inner_footer
 kakao.com##.tit_kakaotv > .img_player
@@ -1245,6 +1250,12 @@ toonkor.ski##.banner_m
 toonkor.ski##.main_top_bann
 toonkor.ski##.bnt.bn
 toonkor.ski###banner_21_img
+
+toonkor.moe/bann/*
+toonkor.moe##.banner_m
+toonkor.moe##.main_top_bann
+toonkor.moe##.bnt.bn
+toonkor.moe###banner_21_img
 
 !-- 다나와
 
@@ -3416,10 +3427,6 @@ viewsync.net###playerInfo-container-3
 viewsync.net###playerInfo-container-4
 viewsync.net###playerInfo-container-0
 
-! 2019. 8. 14. https://auto.v.daum.net
-daum.net##.\#topAd
-daum.net##.\#bottomAd
-
 ! 2019. 8. 15. https://www.hankyung.com
 hankyung.com##.info_time.asidemodule
 hankyung.com##.hot_today.asidemodule
@@ -3520,9 +3527,6 @@ kmib.co.kr##.ad_bottom_floating
 ! 2019. 8. 23. https://benefit.pay.naver.com
 naver.com##.snb_tooltip
 
-! 2019. 8. 24. https://finance.daum.net
-daum.net##.gnb_banner
-
 ! 2019. 8. 24. https://www.washingtonpost.com
 washingtonpost.com##.ad-hideable
 
@@ -3602,9 +3606,6 @@ lewat.club##.adsbygoogle
 
 ||hitomi.la/hitomi.js$script
 
-! 2019. 9. 6. https://sports.v.daum.net
-daum.net##.vod_open
-
 ! 2019. 9. 6. http://nene365.com
 ||nene365.com/data/apms/background/3.png$image
 
@@ -3620,3 +3621,33 @@ kpa.so###tree_line_1
 
 ! 2019. 9. 15. https://pirateproxy.tel
 pirateproxy.tel##table
+
+! 2019. 9. 17. http://news.heraldcorp.com
+news.heraldcorp.com###img_top_ad1
+
+! 2019. 9. 25. https://keepvid.pro
+keepvid.pro##.download-guides
+keepvid.pro##.videoproc
+keepvid.pro##footer
+keepvid.pro##.chrome-addon
+keepvid.pro##.legal-desc
+keepvid.pro##.banner-tools
+keepvid.pro##.support-site
+keepvid.pro##.header
+keepvid.pro###slogan
+keepvid.pro##.video-converter
+
+! 2019. 9. 26. https://www.gasengi.com
+gasengi.com/img/logo_top.gif$domain=www.gasengi.com,image
+
+! 2019. 9. 27. https://toonkor.haus
+toonkor.haus##.hidden-xs
+
+! 2019. 9. 27. https://nid.naver.com
+naver.com##.whale_set_banner
+
+! 2019. 9. 29. https://raws.mangazuki.co
+mangazuki.co##.ads-large
+mangazuki.co##.ads-sqre1
+
+webtoonguide.com##.pc-notice-banner
