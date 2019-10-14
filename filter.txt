@@ -1,4 +1,4 @@
-!-- 2019.10.03 04:52
+!-- 2019.10.14 18.37
 
 !--통합
 
@@ -8,6 +8,7 @@
 ###livereContentsContainer
 
 !-- 광고
+otaserve.net
 adnium.com
 adserver.rockwell.kakao.com
 ads-partners.coupang.com
@@ -1283,6 +1284,13 @@ toonkor.ski###banner_21_img
 toonkor.ski##.login-block
 
 toonkor.moe/bann/*
+toonkor.moe##.banner_m
+toonkor.moe##.main_top_bann
+toonkor.moe##.bnt.bn
+toonkor.moe###banner_21_img
+toonkor.moe##.login-block
+
+toonkor.cash/bann/*
 toonkor.moe##.banner_m
 toonkor.moe##.main_top_bann
 toonkor.moe##.bnt.bn
@@ -3685,3 +3693,22 @@ mangazuki.co##.ads-sqre1
 webtoonguide.com##.pc-notice-banner
 
 ##.adsensemain
+
+naver.com##.messageAndTime > .tooltip_vw
+
+! 2019. 10. 7. http://nene365.com
+||nene365.com/data/apms/background/333.jpg$image
+
+! 2019. 10. 8. https://www.torrenger.net
+torrenger.net###banner_top_list_wrap
+torrenger.net###down_notice
+torrenger.net##.banner
+
+! 2019. 10. 8. https://www.javbus.com
+javbus.com##.footer
+
+! 2019. 10. 8. https://ddalbooks6.com
+ddalbooks6.com##.at-title
+
+! 2019. 10. 13. https://news.joins.com
+joins.com##.ad_top
