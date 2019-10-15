@@ -1,4 +1,4 @@
-!-- 2019.10.14 18.37
+!-- 2019.10.15 13.59
 
 !--통합
 
@@ -1051,6 +1051,7 @@ toonkor.*##.bnt.bn
 toonkor.*###banner_21_img
 toonkor.*##.top_banner
 toonkor.*##.login-block
+toonkor.*##.hidden-xs
 
 toonkor.pub/bann/*
 toonkor.pub##.banner_m
@@ -1059,6 +1060,7 @@ toonkor.pub##.bnt.bn
 toonkor.pub###banner_21_img
 toonkor.pub##.top_banner
 toonkor.pub##.login-block
+toonkor.pub##.hidden-xs
 
 toonkor.live/bann/*
 toonkor.live##.banner_m
@@ -1067,6 +1069,7 @@ toonkor.live##.bnt.bn
 toonkor.live###banner_21_img
 toonkor.live##.top_banner
 toonkor.live##.login-block
+toonkor.live##.hidden-xs
 
 toonkor.bid/bann/*
 toonkor.bid##.banner_m
@@ -1075,6 +1078,7 @@ toonkor.bid##.bnt.bn
 toonkor.bid###banner_21_img
 toonkor.bid##.top_banner
 toonkor.bid##.login-block
+toonkor.bid##.hidden-xs
 
 toonkor.blue/bann/*
 toonkor.blue##.banner_m
@@ -1083,6 +1087,7 @@ toonkor.blue##.bnt.bn
 toonkor.blue###banner_21_img
 toonkor.blue##.top_banner
 toonkor.blue##.login-block
+toonkor.blue##.hidden-xs
 
 toonkor.pink/bann/*
 toonkor.pink##.banner_m
@@ -1091,6 +1096,7 @@ toonkor.pink##.bnt.bn
 toonkor.pink###banner_21_img
 toonkor.pink##.top_banner
 toonkor.pink##.login-block
+toonkor.pink##.hidden-xs
 
 toonkor.date/bann/*
 toonkor.date##.banner_m
@@ -1099,6 +1105,7 @@ toonkor.date##.bnt.bn
 toonkor.date###banner_21_img
 toonkor.date##.top_banner
 toonkor.date##.login-block
+toonkor.date##.hidden-xs
 
 toonkor.cab/bann/*
 toonkor.cab##.banner_m
@@ -1107,6 +1114,7 @@ toonkor.cab##.bnt.bn
 toonkor.cab###banner_21_img
 toonkor.cab##.top_banner
 toonkor.cab##.login-block
+toonkor.cab##.hidden-xs
 
 toonkor.toys/bann/*
 toonkor.toys##.banner_m
@@ -1115,6 +1123,7 @@ toonkor.toys##.bnt.bn
 toonkor.toys###banner_21_img
 toonkor.toys##.top_banner
 toonkor.toys##.login-block
+toonkor.toys##.hidden-xs
 
 toonkor.lol/bann/*
 toonkor.lol##.banner_m
@@ -1123,6 +1132,7 @@ toonkor.lol##.bnt.bn
 toonkor.lol###banner_21_img
 toonkor.lol##.top_banner
 toonkor.lol##.login-block
+toonkor.lol##.hidden-xs
 
 toonkor.gg/bann/*
 toonkor.gg##.banner_m
@@ -1131,6 +1141,7 @@ toonkor.gg##.bnt.bn
 toonkor.gg###banner_21_img
 toonkor.gg##.top_banner
 toonkor.gg##.login-block
+toonkor.gg##.hidden-xs
 
 toonkor.pw/bann/*
 toonkor.pw##.banner_m
@@ -1139,6 +1150,7 @@ toonkor.pw##.bnt.bn
 toonkor.pw###banner_21_img
 toonkor.pw##.top_banner
 toonkor.pw##.login-block
+toonkor.pw##.hidden-xs
 
 toonkor.la/bann/*
 toonkor.la##.banner_m
@@ -1147,6 +1159,7 @@ toonkor.la##.bnt.bn
 toonkor.la###banner_21_img
 toonkor.la##.top_banner
 toonkor.la##.login-block
+toonkor.la##.hidden-xs
 
 toonkor.gold/bann/*
 toonkor.gold##.banner_m
@@ -1155,6 +1168,7 @@ toonkor.gold##.bnt.bn
 toonkor.gold###banner_21_img
 toonkor.gold##.top_banner
 toonkor.gold##.login-block
+toonkor.gold##.hidden-xs
 
 toonkor.vet/bann/*
 toonkor.vet##.banner_m
@@ -1163,6 +1177,7 @@ toonkor.vet##.bnt.bn
 toonkor.vet###banner_21_img
 toonkor.vet##.top_banner
 toonkor.vet##.login-block
+toonkor.vet##.hidden-xs
 
 toonkor.tv/bann/*
 toonkor.tv##.banner_m
@@ -1171,6 +1186,7 @@ toonkor.tv##.bnt.bn
 toonkor.tv###banner_21_img
 toonkor.tv##.top_banner
 toonkor.tv##.login-block
+toonkor.tv##.hidden-xs
 
 toonkor.vin/bann/*
 toonkor.vin##.banner_m
@@ -1179,6 +1195,7 @@ toonkor.vin##.bnt.bn
 toonkor.vin###banner_21_img
 toonkor.vin##.top_banner
 toonkor.vin##.login-block
+toonkor.vin##.hidden-xs
 
 toonkor.mom/bann/*
 toonkor.mom##.banner_m
@@ -1187,6 +1204,7 @@ toonkor.mom##.bnt.bn
 toonkor.mom###banner_21_img
 toonkor.mom##.top_banner
 toonkor.mom##.login-block
+toonkor.mom##.hidden-xs
 
 toonkor.cool/bann/*
 toonkor.cool##.banner_m
@@ -1195,6 +1213,7 @@ toonkor.cool##.bnt.bn
 toonkor.cool###banner_21_img
 toonkor.cool##.top_banner
 toonkor.cool##.login-block
+toonkor.cool##.hidden-xs
 
 toonkor.work/bann/*
 toonkor.work##.banner_m
@@ -1203,6 +1222,7 @@ toonkor.work##.bnt.bn
 toonkor.work###banner_21_img
 toonkor.work##.top_banner
 toonkor.work##.login-block
+toonkor.work##.hidden-xs
 
 toonkor.news/bann/*
 toonkor.news##.banner_m
@@ -1211,6 +1231,7 @@ toonkor.news##.bnt.bn
 toonkor.news###banner_21_img
 toonkor.news##.top_banner
 toonkor.news##.login-block
+toonkor.news##.hidden-xs
 
 toonkor.blog/bann/*
 toonkor.blog##.banner_m
@@ -1219,6 +1240,7 @@ toonkor.blog##.bnt.bn
 toonkor.blog###banner_21_img
 toonkor.blog##.top_banner
 toonkor.blog##.login-block
+toonkor.blog##.hidden-xs
 
 toonkor.one/bann/*
 toonkor.one##.banner_m
@@ -1227,6 +1249,7 @@ toonkor.one##.bnt.bn
 toonkor.one###banner_21_img
 toonkor.one##.top_banner
 toonkor.one##.login-block
+toonkor.one##.hidden-xs
 
 toonkor.love/bann/*
 toonkor.love##.banner_m
@@ -1235,6 +1258,7 @@ toonkor.love##.bnt.bn
 toonkor.love###banner_21_img
 toonkor.love##.top_banner
 toonkor.love##.login-block
+toonkor.love##.hidden-xs
 
 toonkor.club/bann/*
 toonkor.club##.banner_m
@@ -1243,6 +1267,7 @@ toonkor.club##.bnt.bn
 toonkor.club###banner_21_img
 toonkor.club##.top_banner
 toonkor.club##.login-block
+toonkor.club##.hidden-xs
 
 toonkor.icu/bann/*
 toonkor.icu##.banner_m
@@ -1251,6 +1276,7 @@ toonkor.icu##.bnt.bn
 toonkor.icu###banner_21_img
 toonkor.icu##.top_banner
 toonkor.icu##.login-block
+toonkor.icu##.hidden-xs
 
 toonkor.red/bann/*
 toonkor.red##.banner_m
@@ -1259,6 +1285,7 @@ toonkor.red##.bnt.bn
 toonkor.red###banner_21_img
 toonkor.red##.top_banner
 toonkor.red##.login-block
+toonkor.red##.hidden-xs
 
 toonkor.win/bann/*
 toonkor.win##.banner_m
@@ -1267,6 +1294,7 @@ toonkor.win##.bnt.bn
 toonkor.win###banner_21_img
 toonkor.win##.top_banner
 toonkor.win##.login-block
+toonkor.win##.hidden-xs
 
 toonkor.rest/bann/*
 toonkor.rest##.banner_m
@@ -1275,6 +1303,7 @@ toonkor.rest##.bnt.bn
 toonkor.rest###banner_21_img
 toonkor.rest##.top_banner
 toonkor.rest##.login-block
+toonkor.rest##.hidden-xs
 
 toonkor.ski/bann/*
 toonkor.ski##.banner_m
@@ -1282,6 +1311,7 @@ toonkor.ski##.main_top_bann
 toonkor.ski##.bnt.bn
 toonkor.ski###banner_21_img
 toonkor.ski##.login-block
+toonkor.ski##.hidden-xs
 
 toonkor.moe/bann/*
 toonkor.moe##.banner_m
@@ -1289,13 +1319,31 @@ toonkor.moe##.main_top_bann
 toonkor.moe##.bnt.bn
 toonkor.moe###banner_21_img
 toonkor.moe##.login-block
+toonkor.moe##.hidden-xs
 
 toonkor.cash/bann/*
-toonkor.moe##.banner_m
-toonkor.moe##.main_top_bann
-toonkor.moe##.bnt.bn
-toonkor.moe###banner_21_img
-toonkor.moe##.login-block
+toonkor.cash##.banner_m
+toonkor.cash##.main_top_bann
+toonkor.cash##.bnt.bn
+toonkor.cash###banner_21_img
+toonkor.cash##.login-block
+toonkor.cash##.hidden-xs
+
+toonkor.haus/bann/*
+toonkor.haus##.banner_m
+toonkor.haus##.main_top_bann
+toonkor.haus##.bnt.bn
+toonkor.haus###banner_21_img
+toonkor.haus##.login-block
+toonkor.haus##.hidden-xs
+
+toonkor.run/bann/*
+toonkor.run##.banner_m
+toonkor.run##.main_top_bann
+toonkor.run##.bnt.bn
+toonkor.run###banner_21_img
+toonkor.run##.login-block
+toonkor.run##.hidden-xs
 
 !-- 다나와
 
@@ -2921,6 +2969,51 @@ kodi.tv###cookie-popup
 joybam1.com##.at-main.at-col.col-md-9 > div:nth-of-type(1)
 erovi.jp###trackad
 torrentmi.net##.ad_pic
+
+wfwf31.com##.modal-overlay
+wfwf31.com##.modal-wrapper
+wfwf31.com##.top-banner
+wfwf31.com##footer
+wfwf31.com##.top-btn
+wfwf31.com##.updown
+wfwf31.com##.nextpage
+wfwf31.com##.prepage
+wfwf31.com##.pn-ProductNav_Wrapper
+wfwf31.com##.top-side
+
+wfwf32.com##.modal-overlay
+wfwf32.com##.modal-wrapper
+wfwf32.com##.top-banner
+wfwf32.com##footer
+wfwf32.com##.top-btn
+wfwf32.com##.updown
+wfwf32.com##.nextpage
+wfwf32.com##.prepage
+wfwf32.com##.pn-ProductNav_Wrapper
+wfwf32.com##.top-side
+
+wfwf33.com##.modal-overlay
+wfwf33.com##.modal-wrapper
+wfwf33.com##.top-banner
+wfwf33.com##footer
+wfwf33.com##.top-btn
+wfwf33.com##.updown
+wfwf33.com##.nextpage
+wfwf33.com##.prepage
+wfwf33.com##.pn-ProductNav_Wrapper
+wfwf33.com##.top-side
+
+wfwf34.com##.modal-overlay
+wfwf34.com##.modal-wrapper
+wfwf34.com##.top-banner
+wfwf34.com##footer
+wfwf34.com##.top-btn
+wfwf34.com##.updown
+wfwf34.com##.nextpage
+wfwf34.com##.prepage
+wfwf34.com##.pn-ProductNav_Wrapper
+wfwf34.com##.top-side
+
 wfwf35.com##.modal-overlay
 wfwf35.com##.modal-wrapper
 wfwf35.com##.top-banner
@@ -2931,6 +3024,7 @@ wfwf35.com##.nextpage
 wfwf35.com##.prepage
 wfwf35.com##.pn-ProductNav_Wrapper
 wfwf35.com##.top-side
+
 wfwf36.com##.modal-overlay
 wfwf36.com##.modal-wrapper
 wfwf36.com##.top-banner
@@ -2941,6 +3035,7 @@ wfwf36.com##.nextpage
 wfwf36.com##.prepage
 wfwf36.com##.pn-ProductNav_Wrapper
 wfwf36.com##.top-side
+
 wfwf37.com##.modal-overlay
 wfwf37.com##.modal-wrapper
 wfwf37.com##.top-banner
@@ -2951,6 +3046,7 @@ wfwf37.com##.nextpage
 wfwf37.com##.prepage
 wfwf37.com##.pn-ProductNav_Wrapper
 wfwf37.com##.top-side
+
 wfwf38.com##.modal-overlay
 wfwf38.com##.modal-wrapper
 wfwf38.com##.top-banner
@@ -2961,6 +3057,7 @@ wfwf38.com##.nextpage
 wfwf38.com##.prepage
 wfwf38.com##.pn-ProductNav_Wrapper
 wfwf38.com##.top-side
+
 wfwf39.com##.modal-overlay
 wfwf39.com##.modal-wrapper
 wfwf39.com##.top-banner
@@ -2971,6 +3068,7 @@ wfwf39.com##.nextpage
 wfwf39.com##.prepage
 wfwf39.com##.pn-ProductNav_Wrapper
 wfwf39.com##.top-side
+
 wfwf40.com##.modal-overlay
 wfwf40.com##.modal-wrapper
 wfwf40.com##.top-banner
@@ -2981,6 +3079,227 @@ wfwf40.com##.nextpage
 wfwf40.com##.prepage
 wfwf40.com##.pn-ProductNav_Wrapper
 wfwf40.com##.top-side
+
+wfwf41.com##.modal-overlay
+wfwf41.com##.modal-wrapper
+wfwf41.com##.top-banner
+wfwf41.com##footer
+wfwf41.com##.top-btn
+wfwf41.com##.updown
+wfwf41.com##.nextpage
+wfwf41.com##.prepage
+wfwf41.com##.pn-ProductNav_Wrapper
+wfwf41.com##.top-side
+
+wfwf42.com##.modal-overlay
+wfwf42.com##.modal-wrapper
+wfwf42.com##.top-banner
+wfwf42.com##footer
+wfwf42.com##.top-btn
+wfwf42.com##.updown
+wfwf42.com##.nextpage
+wfwf42.com##.prepage
+wfwf42.com##.pn-ProductNav_Wrapper
+wfwf42.com##.top-side
+
+wfwf43.com##.modal-overlay
+wfwf43.com##.modal-wrapper
+wfwf43.com##.top-banner
+wfwf43.com##footer
+wfwf43.com##.top-btn
+wfwf43.com##.updown
+wfwf43.com##.nextpage
+wfwf43.com##.prepage
+wfwf43.com##.pn-ProductNav_Wrapper
+wfwf43.com##.top-side
+
+wfwf44.com##.modal-overlay
+wfwf44.com##.modal-wrapper
+wfwf44.com##.top-banner
+wfwf44.com##footer
+wfwf44.com##.top-btn
+wfwf44.com##.updown
+wfwf44.com##.nextpage
+wfwf44.com##.prepage
+wfwf44.com##.pn-ProductNav_Wrapper
+wfwf44.com##.top-side
+
+wfwf45.com##.modal-overlay
+wfwf45.com##.modal-wrapper
+wfwf45.com##.top-banner
+wfwf45.com##footer
+wfwf45.com##.top-btn
+wfwf45.com##.updown
+wfwf45.com##.nextpage
+wfwf45.com##.prepage
+wfwf45.com##.pn-ProductNav_Wrapper
+wfwf45.com##.top-side
+
+wfwf46.com##.modal-overlay
+wfwf46.com##.modal-wrapper
+wfwf46.com##.top-banner
+wfwf46.com##footer
+wfwf46.com##.top-btn
+wfwf46.com##.updown
+wfwf46.com##.nextpage
+wfwf46.com##.prepage
+wfwf46.com##.pn-ProductNav_Wrapper
+wfwf46.com##.top-side
+
+wfwf47.com##.modal-overlay
+wfwf47.com##.modal-wrapper
+wfwf47.com##.top-banner
+wfwf47.com##footer
+wfwf47.com##.top-btn
+wfwf47.com##.updown
+wfwf47.com##.nextpage
+wfwf47.com##.prepage
+wfwf47.com##.pn-ProductNav_Wrapper
+wfwf47.com##.top-side
+
+wfwf48.com##.modal-overlay
+wfwf48.com##.modal-wrapper
+wfwf48.com##.top-banner
+wfwf48.com##footer
+wfwf48.com##.top-btn
+wfwf48.com##.updown
+wfwf48.com##.nextpage
+wfwf48.com##.prepage
+wfwf48.com##.pn-ProductNav_Wrapper
+wfwf48.com##.top-side
+
+wfwf49.com##.modal-overlay
+wfwf49.com##.modal-wrapper
+wfwf49.com##.top-banner
+wfwf49.com##footer
+wfwf49.com##.top-btn
+wfwf49.com##.updown
+wfwf49.com##.nextpage
+wfwf49.com##.prepage
+wfwf49.com##.pn-ProductNav_Wrapper
+wfwf49.com##.top-side
+
+wfwf50.com##.modal-overlay
+wfwf50.com##.modal-wrapper
+wfwf50.com##.top-banner
+wfwf50.com##footer
+wfwf50.com##.top-btn
+wfwf50.com##.updown
+wfwf50.com##.nextpage
+wfwf50.com##.prepage
+wfwf50.com##.pn-ProductNav_Wrapper
+wfwf50.com##.top-side
+
+wfwf51.com##.modal-overlay
+wfwf51.com##.modal-wrapper
+wfwf51.com##.top-banner
+wfwf51.com##footer
+wfwf51.com##.top-btn
+wfwf51.com##.updown
+wfwf51.com##.nextpage
+wfwf51.com##.prepage
+wfwf51.com##.pn-ProductNav_Wrapper
+wfwf51.com##.top-side
+
+wfwf52.com##.modal-overlay
+wfwf52.com##.modal-wrapper
+wfwf52.com##.top-banner
+wfwf52.com##footer
+wfwf52.com##.top-btn
+wfwf52.com##.updown
+wfwf52.com##.nextpage
+wfwf52.com##.prepage
+wfwf52.com##.pn-ProductNav_Wrapper
+wfwf52.com##.top-side
+
+wfwf53.com##.modal-overlay
+wfwf53.com##.modal-wrapper
+wfwf53.com##.top-banner
+wfwf53.com##footer
+wfwf53.com##.top-btn
+wfwf53.com##.updown
+wfwf53.com##.nextpage
+wfwf53.com##.prepage
+wfwf53.com##.pn-ProductNav_Wrapper
+wfwf53.com##.top-side
+
+wfwf54.com##.modal-overlay
+wfwf54.com##.modal-wrapper
+wfwf54.com##.top-banner
+wfwf54.com##footer
+wfwf54.com##.top-btn
+wfwf54.com##.updown
+wfwf54.com##.nextpage
+wfwf54.com##.prepage
+wfwf54.com##.pn-ProductNav_Wrapper
+wfwf54.com##.top-side
+
+wfwf55.com##.modal-overlay
+wfwf55.com##.modal-wrapper
+wfwf55.com##.top-banner
+wfwf55.com##footer
+wfwf55.com##.top-btn
+wfwf55.com##.updown
+wfwf55.com##.nextpage
+wfwf55.com##.prepage
+wfwf55.com##.pn-ProductNav_Wrapper
+wfwf55.com##.top-side
+
+wfwf56.com##.modal-overlay
+wfwf56.com##.modal-wrapper
+wfwf56.com##.top-banner
+wfwf56.com##footer
+wfwf56.com##.top-btn
+wfwf56.com##.updown
+wfwf56.com##.nextpage
+wfwf56.com##.prepage
+wfwf56.com##.pn-ProductNav_Wrapper
+wfwf56.com##.top-side
+
+wfwf57.com##.modal-overlay
+wfwf57.com##.modal-wrapper
+wfwf57.com##.top-banner
+wfwf57.com##footer
+wfwf57.com##.top-btn
+wfwf57.com##.updown
+wfwf57.com##.nextpage
+wfwf57.com##.prepage
+wfwf57.com##.pn-ProductNav_Wrapper
+wfwf57.com##.top-side
+
+wfwf58.com##.modal-overlay
+wfwf58.com##.modal-wrapper
+wfwf58.com##.top-banner
+wfwf58.com##footer
+wfwf58.com##.top-btn
+wfwf58.com##.updown
+wfwf58.com##.nextpage
+wfwf58.com##.prepage
+wfwf58.com##.pn-ProductNav_Wrapper
+wfwf58.com##.top-side
+
+wfwf59.com##.modal-overlay
+wfwf59.com##.modal-wrapper
+wfwf59.com##.top-banner
+wfwf59.com##footer
+wfwf59.com##.top-btn
+wfwf59.com##.updown
+wfwf59.com##.nextpage
+wfwf59.com##.prepage
+wfwf59.com##.pn-ProductNav_Wrapper
+wfwf59.com##.top-side
+
+wfwf60.com##.modal-overlay
+wfwf60.com##.modal-wrapper
+wfwf60.com##.top-banner
+wfwf60.com##footer
+wfwf60.com##.top-btn
+wfwf60.com##.updown
+wfwf60.com##.nextpage
+wfwf60.com##.prepage
+wfwf60.com##.pn-ProductNav_Wrapper
+wfwf60.com##.top-side
+
 sougouwiki.com###common-header
 sougouwiki.com###extra
 sougouwiki.com###sub
@@ -3679,9 +3998,6 @@ keepvid.pro##.video-converter
 
 ! 2019. 9. 26. https://www.gasengi.com
 gasengi.com/img/logo_top.gif$domain=www.gasengi.com,image
-
-! 2019. 9. 27. https://toonkor.haus
-toonkor.haus##.hidden-xs
 
 ! 2019. 9. 27. https://nid.naver.com
 naver.com##.whale_set_banner
