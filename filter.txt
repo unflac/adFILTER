@@ -1,4 +1,4 @@
-!-- 2019.10.15 13.59
+!-- 2019.10.20 16.32
 
 !--통합
 
@@ -1344,6 +1344,14 @@ toonkor.run##.bnt.bn
 toonkor.run###banner_21_img
 toonkor.run##.login-block
 toonkor.run##.hidden-xs
+
+toonkor.dev/bann/*
+toonkor.dev##.banner_m
+toonkor.dev##.main_top_bann
+toonkor.dev##.bnt.bn
+toonkor.dev###banner_21_img
+toonkor.dev##.login-block
+toonkor.dev##.hidden-xs
 
 !-- 다나와
 
@@ -4028,3 +4036,13 @@ ddalbooks6.com##.at-title
 
 ! 2019. 10. 13. https://news.joins.com
 joins.com##.ad_top
+
+! 2019. 10. 15. http://nene365.com
+nene365.com##.at-main.at-col.col-md-9 > div:nth-of-type(6)
+
+! 2019. 10. 20. https://javdragon.com
+javdragon.com###UnderplayerP
+javdragon.com##.textwidget
+javdragon.com##.alert.messagge
+javdragon.com###topButton
+javdragon.com###footer
