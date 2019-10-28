@@ -1,4 +1,4 @@
-!-- 2019.10.20 16.32
+!-- 2019.10.28 16.32
 
 !--통합
 
@@ -1352,6 +1352,14 @@ toonkor.dev##.bnt.bn
 toonkor.dev###banner_21_img
 toonkor.dev##.login-block
 toonkor.dev##.hidden-xs
+
+toonkor.is/bann/*
+toonkor.is##.banner_m
+toonkor.is##.main_top_bann
+toonkor.is##.bnt.bn
+toonkor.is###banner_21_img
+toonkor.is##.login-block
+toonkor.is##.hidden-xs
 
 !-- 다나와
 
@@ -4046,3 +4054,22 @@ javdragon.com##.textwidget
 javdragon.com##.alert.messagge
 javdragon.com###topButton
 javdragon.com###footer
+
+! 2019. 10. 21. https://7mmtv.cc
+7mmtv.cc##.cpm_banner
+7mmtv.cc##footer
+7mmtv.cc##.top_header
+
+! 2019. 10. 21. https://www.google.co.kr
+www.google.co.kr##.ads-ad
+
+! 2019. 10. 22. https://www.torren-ger.com
+www.torren-ger.com###banner_top_list_wrap
+www.torren-ger.com##.banner
+
+! 2019. 10. 22. https://lewat.club
+lewat.club##.content > div > div:nth-of-type(1)
+
+! 2019. 10. 28. https://newtoki30.com
+newtoki30.com/data/banner/*$domain=newtoki30.com,image
+newtoki30.com###main-banner-view
