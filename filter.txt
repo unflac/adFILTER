@@ -1,4 +1,4 @@
-!-- 2019.10.28 16.32
+!-- 2019.11.09 03:45
 
 !--통합
 
@@ -10,7 +10,6 @@
 !-- 광고
 otaserve.net
 adnium.com
-adserver.rockwell.kakao.com
 ads-partners.coupang.com
 tinypic.com
 913vt.com
@@ -1044,6 +1043,7 @@ mangashow2.me##.at-go
 
 !- 툰코
 
+
 toonkor.*/bann/*
 toonkor.*##.banner_m
 toonkor.*##.main_top_bann
@@ -1052,6 +1052,7 @@ toonkor.*###banner_21_img
 toonkor.*##.top_banner
 toonkor.*##.login-block
 toonkor.*##.hidden-xs
+toonkor.*##.navbar
 
 toonkor.pub/bann/*
 toonkor.pub##.banner_m
@@ -1061,6 +1062,7 @@ toonkor.pub###banner_21_img
 toonkor.pub##.top_banner
 toonkor.pub##.login-block
 toonkor.pub##.hidden-xs
+toonkor.pub##.navbar
 
 toonkor.live/bann/*
 toonkor.live##.banner_m
@@ -1070,6 +1072,7 @@ toonkor.live###banner_21_img
 toonkor.live##.top_banner
 toonkor.live##.login-block
 toonkor.live##.hidden-xs
+toonkor.live##.navbar
 
 toonkor.bid/bann/*
 toonkor.bid##.banner_m
@@ -1079,6 +1082,7 @@ toonkor.bid###banner_21_img
 toonkor.bid##.top_banner
 toonkor.bid##.login-block
 toonkor.bid##.hidden-xs
+toonkor.bid##.navbar
 
 toonkor.blue/bann/*
 toonkor.blue##.banner_m
@@ -1088,6 +1092,7 @@ toonkor.blue###banner_21_img
 toonkor.blue##.top_banner
 toonkor.blue##.login-block
 toonkor.blue##.hidden-xs
+toonkor.blue##.navbar
 
 toonkor.pink/bann/*
 toonkor.pink##.banner_m
@@ -1097,6 +1102,7 @@ toonkor.pink###banner_21_img
 toonkor.pink##.top_banner
 toonkor.pink##.login-block
 toonkor.pink##.hidden-xs
+toonkor.pink##.navbar
 
 toonkor.date/bann/*
 toonkor.date##.banner_m
@@ -1106,6 +1112,7 @@ toonkor.date###banner_21_img
 toonkor.date##.top_banner
 toonkor.date##.login-block
 toonkor.date##.hidden-xs
+toonkor.date##.navbar
 
 toonkor.cab/bann/*
 toonkor.cab##.banner_m
@@ -1115,6 +1122,7 @@ toonkor.cab###banner_21_img
 toonkor.cab##.top_banner
 toonkor.cab##.login-block
 toonkor.cab##.hidden-xs
+toonkor.cab##.navbar
 
 toonkor.toys/bann/*
 toonkor.toys##.banner_m
@@ -1124,6 +1132,7 @@ toonkor.toys###banner_21_img
 toonkor.toys##.top_banner
 toonkor.toys##.login-block
 toonkor.toys##.hidden-xs
+toonkor.toys##.navbar
 
 toonkor.lol/bann/*
 toonkor.lol##.banner_m
@@ -1133,6 +1142,7 @@ toonkor.lol###banner_21_img
 toonkor.lol##.top_banner
 toonkor.lol##.login-block
 toonkor.lol##.hidden-xs
+toonkor.lol##.navbar
 
 toonkor.gg/bann/*
 toonkor.gg##.banner_m
@@ -1142,6 +1152,7 @@ toonkor.gg###banner_21_img
 toonkor.gg##.top_banner
 toonkor.gg##.login-block
 toonkor.gg##.hidden-xs
+toonkor.gg##.navbar
 
 toonkor.pw/bann/*
 toonkor.pw##.banner_m
@@ -1151,6 +1162,7 @@ toonkor.pw###banner_21_img
 toonkor.pw##.top_banner
 toonkor.pw##.login-block
 toonkor.pw##.hidden-xs
+toonkor.pw##.navbar
 
 toonkor.la/bann/*
 toonkor.la##.banner_m
@@ -1160,6 +1172,7 @@ toonkor.la###banner_21_img
 toonkor.la##.top_banner
 toonkor.la##.login-block
 toonkor.la##.hidden-xs
+toonkor.la##.navbar
 
 toonkor.gold/bann/*
 toonkor.gold##.banner_m
@@ -1169,6 +1182,7 @@ toonkor.gold###banner_21_img
 toonkor.gold##.top_banner
 toonkor.gold##.login-block
 toonkor.gold##.hidden-xs
+toonkor.gold##.navbar
 
 toonkor.vet/bann/*
 toonkor.vet##.banner_m
@@ -1178,6 +1192,7 @@ toonkor.vet###banner_21_img
 toonkor.vet##.top_banner
 toonkor.vet##.login-block
 toonkor.vet##.hidden-xs
+toonkor.vet##.navbar
 
 toonkor.tv/bann/*
 toonkor.tv##.banner_m
@@ -1187,6 +1202,7 @@ toonkor.tv###banner_21_img
 toonkor.tv##.top_banner
 toonkor.tv##.login-block
 toonkor.tv##.hidden-xs
+toonkor.tv##.navbar
 
 toonkor.vin/bann/*
 toonkor.vin##.banner_m
@@ -1196,6 +1212,7 @@ toonkor.vin###banner_21_img
 toonkor.vin##.top_banner
 toonkor.vin##.login-block
 toonkor.vin##.hidden-xs
+toonkor.vin##.navbar
 
 toonkor.mom/bann/*
 toonkor.mom##.banner_m
@@ -1205,6 +1222,7 @@ toonkor.mom###banner_21_img
 toonkor.mom##.top_banner
 toonkor.mom##.login-block
 toonkor.mom##.hidden-xs
+toonkor.mom##.navbar
 
 toonkor.cool/bann/*
 toonkor.cool##.banner_m
@@ -1214,6 +1232,7 @@ toonkor.cool###banner_21_img
 toonkor.cool##.top_banner
 toonkor.cool##.login-block
 toonkor.cool##.hidden-xs
+toonkor.cool##.navbar
 
 toonkor.work/bann/*
 toonkor.work##.banner_m
@@ -1223,6 +1242,7 @@ toonkor.work###banner_21_img
 toonkor.work##.top_banner
 toonkor.work##.login-block
 toonkor.work##.hidden-xs
+toonkor.work##.navbar
 
 toonkor.news/bann/*
 toonkor.news##.banner_m
@@ -1232,6 +1252,7 @@ toonkor.news###banner_21_img
 toonkor.news##.top_banner
 toonkor.news##.login-block
 toonkor.news##.hidden-xs
+toonkor.news##.navbar
 
 toonkor.blog/bann/*
 toonkor.blog##.banner_m
@@ -1241,6 +1262,7 @@ toonkor.blog###banner_21_img
 toonkor.blog##.top_banner
 toonkor.blog##.login-block
 toonkor.blog##.hidden-xs
+toonkor.blog##.navbar
 
 toonkor.one/bann/*
 toonkor.one##.banner_m
@@ -1250,6 +1272,7 @@ toonkor.one###banner_21_img
 toonkor.one##.top_banner
 toonkor.one##.login-block
 toonkor.one##.hidden-xs
+toonkor.one##.navbar
 
 toonkor.love/bann/*
 toonkor.love##.banner_m
@@ -1259,6 +1282,7 @@ toonkor.love###banner_21_img
 toonkor.love##.top_banner
 toonkor.love##.login-block
 toonkor.love##.hidden-xs
+toonkor.love##.navbar
 
 toonkor.club/bann/*
 toonkor.club##.banner_m
@@ -1268,6 +1292,7 @@ toonkor.club###banner_21_img
 toonkor.club##.top_banner
 toonkor.club##.login-block
 toonkor.club##.hidden-xs
+toonkor.club##.navbar
 
 toonkor.icu/bann/*
 toonkor.icu##.banner_m
@@ -1277,6 +1302,7 @@ toonkor.icu###banner_21_img
 toonkor.icu##.top_banner
 toonkor.icu##.login-block
 toonkor.icu##.hidden-xs
+toonkor.icu##.navbar
 
 toonkor.red/bann/*
 toonkor.red##.banner_m
@@ -1286,6 +1312,7 @@ toonkor.red###banner_21_img
 toonkor.red##.top_banner
 toonkor.red##.login-block
 toonkor.red##.hidden-xs
+toonkor.red##.navbar
 
 toonkor.win/bann/*
 toonkor.win##.banner_m
@@ -1295,6 +1322,7 @@ toonkor.win###banner_21_img
 toonkor.win##.top_banner
 toonkor.win##.login-block
 toonkor.win##.hidden-xs
+toonkor.win##.navbar
 
 toonkor.rest/bann/*
 toonkor.rest##.banner_m
@@ -1304,6 +1332,7 @@ toonkor.rest###banner_21_img
 toonkor.rest##.top_banner
 toonkor.rest##.login-block
 toonkor.rest##.hidden-xs
+toonkor.rest##.navbar
 
 toonkor.ski/bann/*
 toonkor.ski##.banner_m
@@ -1312,6 +1341,7 @@ toonkor.ski##.bnt.bn
 toonkor.ski###banner_21_img
 toonkor.ski##.login-block
 toonkor.ski##.hidden-xs
+toonkor.ski##.navbar
 
 toonkor.moe/bann/*
 toonkor.moe##.banner_m
@@ -1320,6 +1350,7 @@ toonkor.moe##.bnt.bn
 toonkor.moe###banner_21_img
 toonkor.moe##.login-block
 toonkor.moe##.hidden-xs
+toonkor.moe##.navbar
 
 toonkor.cash/bann/*
 toonkor.cash##.banner_m
@@ -1328,6 +1359,7 @@ toonkor.cash##.bnt.bn
 toonkor.cash###banner_21_img
 toonkor.cash##.login-block
 toonkor.cash##.hidden-xs
+toonkor.cash##.navbar
 
 toonkor.haus/bann/*
 toonkor.haus##.banner_m
@@ -1336,6 +1368,7 @@ toonkor.haus##.bnt.bn
 toonkor.haus###banner_21_img
 toonkor.haus##.login-block
 toonkor.haus##.hidden-xs
+toonkor.haus##.navbar
 
 toonkor.run/bann/*
 toonkor.run##.banner_m
@@ -1344,6 +1377,7 @@ toonkor.run##.bnt.bn
 toonkor.run###banner_21_img
 toonkor.run##.login-block
 toonkor.run##.hidden-xs
+toonkor.run##.navbar
 
 toonkor.dev/bann/*
 toonkor.dev##.banner_m
@@ -1352,6 +1386,7 @@ toonkor.dev##.bnt.bn
 toonkor.dev###banner_21_img
 toonkor.dev##.login-block
 toonkor.dev##.hidden-xs
+toonkor.dev##.navbar
 
 toonkor.is/bann/*
 toonkor.is##.banner_m
@@ -1360,6 +1395,17 @@ toonkor.is##.bnt.bn
 toonkor.is###banner_21_img
 toonkor.is##.login-block
 toonkor.is##.hidden-xs
+toonkor.is##.navbar
+
+toonkor.help/bann/*
+toonkor.help##.banner_m
+toonkor.help##.main_top_bann
+toonkor.help##.bnt.bn
+toonkor.help###banner_21_img
+toonkor.help##.login-block
+toonkor.help##.hidden-xs
+toonkor.help##.navbar
+
 
 !-- 다나와
 
@@ -4073,3 +4119,15 @@ lewat.club##.content > div > div:nth-of-type(1)
 ! 2019. 10. 28. https://newtoki30.com
 newtoki30.com/data/banner/*$domain=newtoki30.com,image
 newtoki30.com###main-banner-view
+
+! 2019. 11. 5. http://www.etoland.co.kr
+etoland.co.kr/img/net/banner/*$domain=www.etoland.co.kr,image
+
+! 2019. 11. 8. http://jejucoffee.net
+jejucoffee.net##.gsc-adBlock
+
+naver.com##.tab_bnr
+
+! 2019. 11. 8. https://jp.xhamster2.com
+jp.xhamster2.com##.premium-overlay
+jp.xhamster2.com##.wil-static-banner
