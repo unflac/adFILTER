@@ -1,4 +1,4 @@
-!-- 2019.11.09 03:45
+!-- 2019.11.12 14:32
 
 !--통합
 
@@ -812,6 +812,12 @@ naver.com##.popup_wrapper
 naver.com###image_promotion
 naver.com##.u_rmc_service_btn
 naver.com##.u_rmc_info_btn_like
+naver.com##.snb_tooltip
+naver.com##.whale_set_banner
+naver.com##.tab_bnr
+naver.com##.MM_HOME_ISSUEBANNER
+naver.com##.band_banner
+naver.com##.messageAndTime > .tooltip_vw
 
 !-- 동영상
 
@@ -3945,9 +3951,6 @@ joins.com##div.ad_banner_250x250
 kmib.co.kr##.m_ad
 kmib.co.kr##.ad_bottom_floating
 
-! 2019. 8. 23. https://benefit.pay.naver.com
-naver.com##.snb_tooltip
-
 ! 2019. 8. 24. https://www.washingtonpost.com
 washingtonpost.com##.ad-hideable
 
@@ -4061,9 +4064,6 @@ keepvid.pro##.video-converter
 ! 2019. 9. 26. https://www.gasengi.com
 gasengi.com/img/logo_top.gif$domain=www.gasengi.com,image
 
-! 2019. 9. 27. https://nid.naver.com
-naver.com##.whale_set_banner
-
 ! 2019. 9. 29. https://raws.mangazuki.co
 mangazuki.co##.ads-large
 mangazuki.co##.ads-sqre1
@@ -4071,8 +4071,6 @@ mangazuki.co##.ads-sqre1
 webtoonguide.com##.pc-notice-banner
 
 ##.adsensemain
-
-naver.com##.messageAndTime > .tooltip_vw
 
 ! 2019. 10. 7. http://nene365.com
 ||nene365.com/data/apms/background/333.jpg$image
@@ -4126,8 +4124,17 @@ etoland.co.kr/img/net/banner/*$domain=www.etoland.co.kr,image
 ! 2019. 11. 8. http://jejucoffee.net
 jejucoffee.net##.gsc-adBlock
 
-naver.com##.tab_bnr
 
 ! 2019. 11. 8. https://jp.xhamster2.com
 jp.xhamster2.com##.premium-overlay
 jp.xhamster2.com##.wil-static-banner
+
+! 2019. 11. 10. https://mail.google.com
+mail.google.com###\:tg
+
+! 2019. 11. 11. http://webtoon.daum.net
+webtoon.daum.net##.link_banner
+webtoon.daum.net##.top_banner
+
+! 2019. 11. 11. https://noc.syosetu.com
+noc.syosetu.com##.octopus-container
