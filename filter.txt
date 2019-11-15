@@ -1,4 +1,4 @@
-!-- 2019.11.12 14:32
+!-- 2019.11.15 21:51
 
 !--통합
 
@@ -1348,6 +1348,15 @@ toonkor.ski###banner_21_img
 toonkor.ski##.login-block
 toonkor.ski##.hidden-xs
 toonkor.ski##.navbar
+
+toonkor.taxi/bann/*
+toonkor.taxi##.banner_m
+toonkor.taxi##.main_top_bann
+toonkor.taxi##.bnt.bn
+toonkor.taxi###banner_21_img
+toonkor.taxi##.login-block
+toonkor.taxi##.hidden-xs
+toonkor.taxi##.navbar
 
 toonkor.moe/bann/*
 toonkor.moe##.banner_m
@@ -4105,11 +4114,11 @@ javdragon.com###footer
 7mmtv.cc##.top_header
 
 ! 2019. 10. 21. https://www.google.co.kr
-www.google.co.kr##.ads-ad
+google.co.kr##.ads-ad
 
 ! 2019. 10. 22. https://www.torren-ger.com
-www.torren-ger.com###banner_top_list_wrap
-www.torren-ger.com##.banner
+torren-ger.com###banner_top_list_wrap
+torren-ger.com##.banner
 
 ! 2019. 10. 22. https://lewat.club
 lewat.club##.content > div > div:nth-of-type(1)
@@ -4124,17 +4133,16 @@ etoland.co.kr/img/net/banner/*$domain=www.etoland.co.kr,image
 ! 2019. 11. 8. http://jejucoffee.net
 jejucoffee.net##.gsc-adBlock
 
-
 ! 2019. 11. 8. https://jp.xhamster2.com
-jp.xhamster2.com##.premium-overlay
-jp.xhamster2.com##.wil-static-banner
+xhamster2.com##.premium-overlay
+xhamster2.com##.wil-static-banner
 
 ! 2019. 11. 10. https://mail.google.com
-mail.google.com###\:tg
+google.com###\:tg
 
 ! 2019. 11. 11. http://webtoon.daum.net
-webtoon.daum.net##.link_banner
-webtoon.daum.net##.top_banner
+daum.net##.link_banner
+daum.net##.top_banner
 
 ! 2019. 11. 11. https://noc.syosetu.com
-noc.syosetu.com##.octopus-container
+syosetu.com##.octopus-container
