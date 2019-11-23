@@ -1,4 +1,4 @@
-!-- 2019.11.15 21:51
+!-- 2019.11.15 21:52
 
 !--통합
 
@@ -6,6 +6,8 @@
 ##.adsbygoogle
 ##.check_notify
 ###livereContentsContainer
+##.google_search_ad
+
 
 !-- 광고
 otaserve.net
@@ -4146,3 +4148,40 @@ daum.net##.top_banner
 
 ! 2019. 11. 11. https://noc.syosetu.com
 syosetu.com##.octopus-container
+
+! 2019. 11. 17. http://bj.afreecatv.com
+bj.afreecatv.com##.bs-notice_layer
+
+! 2019. 11. 18. https://www.utofile.com
+www.utofile.com###banner_top_list_wrap
+www.utofile.com##.banner
+www.utofile.com###hd_pop
+
+! 2019. 11. 18. https://www.lewat.club
+www.lewat.club##.content
+
+! 2019. 11. 18. http://webtoon.daum.net
+webtoon.daum.net###myStyleArea
+
+! 2019. 11. 18. https://newtoki32.com
+newtoki32.com###main-banner-view
+newtoki32.com###hd_pop
+newtoki32.com/data/banner/*$domain=newtoki32.com,image
+newtoki32.com###viewcomment
+newtoki32.com###fviewcomment
+
+! 2019. 11. 19. https://hodu08.net
+hodu08.net##.banners
+
+! 2019. 11. 19. https://spowiki8.com
+spowiki8.com###sbn_side
+
+! 2019. 11. 21. http://webtoon.daum.net
+webtoon.daum.net###specialWebtoonArea
+
+! 2019. 11. 21. https://www.webtoonguide.com
+www.webtoonguide.com##.right-sky-pos
+www.webtoonguide.com##.global-footer
+
+! 2019. 11. 22. https://www.lewat.club
+www.lewat.club##.klikdisini
