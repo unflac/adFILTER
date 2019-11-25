@@ -1,4 +1,4 @@
-!-- 2019.11.15 21:52
+!-- 2019.11.25 10:30
 
 !--통합
 
@@ -804,22 +804,17 @@ naver.com##.stop.floating_btn
 naver.com##.active___3VPGL.papago_event_banner___1YeEr
 naver.com##.banner_pointplus
 naver.com##.remittance_ad
-naver.com##.blank_tooltip
 naver.com##.wrap_banner
 naver.com##.dimlayer
-naver.com##.tooltip_event
 naver.com##.event_banner
-naver.com##.tooltip
 naver.com##.popup_wrapper
 naver.com###image_promotion
 naver.com##.u_rmc_service_btn
 naver.com##.u_rmc_info_btn_like
-naver.com##.snb_tooltip
 naver.com##.whale_set_banner
 naver.com##.tab_bnr
 naver.com##.MM_HOME_ISSUEBANNER
 naver.com##.band_banner
-naver.com##.messageAndTime > .tooltip_vw
 
 !-- 동영상
 
@@ -1051,7 +1046,6 @@ mangashow2.me##.at-go
 
 !- 툰코
 
-
 toonkor.*/bann/*
 toonkor.*##.banner_m
 toonkor.*##.main_top_bann
@@ -1061,6 +1055,16 @@ toonkor.*##.top_banner
 toonkor.*##.login-block
 toonkor.*##.hidden-xs
 toonkor.*##.navbar
+
+toonkor.to/bann/*
+toonkor.to##.banner_m
+toonkor.to##.main_top_bann
+toonkor.to##.bnt.bn
+toonkor.to###banner_21_img
+toonkor.to##.top_banner
+toonkor.to##.login-block
+toonkor.to##.hidden-xs
+toonkor.to##.navbar
 
 toonkor.pub/bann/*
 toonkor.pub##.banner_m
