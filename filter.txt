@@ -1,4 +1,4 @@
-!-- 2019.11.25 10:30
+!-- 2019.12.06 11:56
 
 !--통합
 
@@ -7,9 +7,10 @@
 ##.check_notify
 ###livereContentsContainer
 ##.google_search_ad
-
+##.cookies-notice
 
 !-- 광고
+dawin.tv
 otaserve.net
 adnium.com
 ads-partners.coupang.com
@@ -49,7 +50,6 @@ akamai.net
 bannerflow.com
 betrad.com
 flashtalking.com
-sdad.guru
 x1cdn.com
 mox.tv
 mrskin.com
@@ -1572,10 +1572,6 @@ fntoday.co.kr##.banner_box
 torrentgaja.com###hd_pop
 torrentgaja.com/thema/Basic/colorset/Basic/header.jpg
 javnet.club##center:nth-of-type(1)
-newtoki.com##.col-sm-9.col-md-9.col-15 > div.row-15.row:nth-of-type(1)
-newtoki.com##.board-tail-banner
-newtoki.com##u-chat
-newtoki.com##.btn-info.btn
 bubbletorrent.com##.leftWing
 bubbletorrent.com##.rightWing
 bubbletorrent.com##div.bannerP
@@ -2304,7 +2300,6 @@ sedaily.com##.sub_ad_banner7
 sedaily.com##.sub_ad_banner7_2
 sedaily.com##.sub_ad_banner8_wrap
 savebt.pw###xx
-newtoki.com###hd_pop
 mk.co.kr###slot6
 mk.co.kr###slot18
 mk.co.kr###slot13
@@ -3400,10 +3395,6 @@ jmana4.com###breaking-news
 jmana4.com###footer
 jmana4.com##.footer-widget
 jmana4.com###navigation > .container
-newtoki14.com###hd_pop
-newtoki14.com##.basic-banner
-newtoki14.com##.board-tail-banner
-newtoki14.com##.btn-info
 hodu63.com/upload/banner/*
 funitoon03.com##.banner-inner
 funitoon03.com##.banner-outer
@@ -4129,10 +4120,6 @@ torren-ger.com##.banner
 ! 2019. 10. 22. https://lewat.club
 lewat.club##.content > div > div:nth-of-type(1)
 
-! 2019. 10. 28. https://newtoki30.com
-newtoki30.com/data/banner/*$domain=newtoki30.com,image
-newtoki30.com###main-banner-view
-
 ! 2019. 11. 5. http://www.etoland.co.kr
 etoland.co.kr/img/net/banner/*$domain=www.etoland.co.kr,image
 
@@ -4167,13 +4154,6 @@ www.lewat.club##.content
 ! 2019. 11. 18. http://webtoon.daum.net
 webtoon.daum.net###myStyleArea
 
-! 2019. 11. 18. https://newtoki32.com
-newtoki32.com###main-banner-view
-newtoki32.com###hd_pop
-newtoki32.com/data/banner/*$domain=newtoki32.com,image
-newtoki32.com###viewcomment
-newtoki32.com###fviewcomment
-
 ! 2019. 11. 19. https://hodu08.net
 hodu08.net##.banners
 
@@ -4189,3 +4169,27 @@ www.webtoonguide.com##.global-footer
 
 ! 2019. 11. 22. https://www.lewat.club
 www.lewat.club##.klikdisini
+
+! 2019. 11. 29. https://raws.mangazuki.co
+raws.mangazuki.co###disqus_thread
+
+! 2019. 11. 30. https://www.youtube.com
+www.youtube.com##.ytd-rich-item-renderer
+www.youtube.com###title.ytd-rich-grid-renderer
+
+! 2019. 11. 30. https://www.justoon.co.kr
+www.justoon.co.kr##.viewer_work_banner
+www.justoon.co.kr##.bn_free_charge
+www.justoon.co.kr##.recom
+www.justoon.co.kr##real-rank
+
+newtoki34.com###main-banner-view
+newtoki34.com###hd_pop
+newtoki34.com/data/banner/*
+newtoki34.com###viewcomment
+newtoki34.com###fviewcomment
+newtoki34.com##.basic-banner
+newtoki34.com##.col-sm-9.col-md-9.col-15 > div.row-15.row:nth-of-type(1)
+newtoki34.com##.board-tail-banner
+newtoki34.com##u-chat
+newtoki34.com##.btn-info.btn
