@@ -1,4 +1,4 @@
-!-- 2020.02.05 01:00
+!-- 2020.02.06 01:27
 
 !--통합
 
@@ -4039,3 +4039,12 @@ www.toomics.com##.gnb-banner
 ! 2020. 2. 2. https://page.kakao.com
 page.kakao.com##.footer
 page.kakao.com##.appLinkBox
+
+! 2020. 2. 5. https://torrentmin.com
+torrentmin.com###hd_pop
+torrentmin.com##.basic-banner-gallery
+
+! 2020. 2. 6. https://copytoon65.com
+copytoon65.com##.w_banner
+copytoon65.com##.nav-fixed
+copytoon65.com##.at-go
