@@ -1,4 +1,4 @@
-!-- 2020.02.06 01:27
+!-- 2020.03.01 a
 
 !--통합
 
@@ -8,6 +8,9 @@
 ###livereContentsContainer
 ##.google_search_ad
 ##.cookies-notice
+##.power_link
+*/bn_img/*
+*/adimg/*
 
 !-- 광고
 dawin.tv
@@ -16,6 +19,7 @@ adnium.com
 ads-partners.coupang.com
 tinypic.com
 913vt.com
+targetpush.co.kr
 hnyiche3.com
 jointreport-switch.com
 rebrand.ly
@@ -2290,7 +2294,6 @@ busan.com##.wcms_ad
 hodu28.com##.renewal17_bltl_basiclist
 hodu28.com##.todays_free_third.clearfix
 hodu28.com/upload/banner/*
-copytoon03.com##.w_banner
 savebt.pw###LELE_ShowDIV_UNIONtop
 pipicili.com###LELE_ShowDIV_UNIONtop
 pipicili.com###__QQCP_RIGHT_Div
@@ -4044,7 +4047,128 @@ page.kakao.com##.appLinkBox
 torrentmin.com###hd_pop
 torrentmin.com##.basic-banner-gallery
 
-! 2020. 2. 6. https://copytoon65.com
-copytoon65.com##.w_banner
-copytoon65.com##.nav-fixed
-copytoon65.com##.at-go
+! 2020. 2. 15. http://www.etoland.co.kr
+www.etoland.co.kr###main_bn
+www.etoland.co.kr##.cnt_layout
+
+! 2020. 2. 17. https://sports.news.naver.com
+sports.news.naver.com##.tooltip_vw
+
+! 2020. 2. 18. https://www.dispatch.co.kr
+www.dispatch.co.kr##.fastview-ad
+
+! 2020. 2. 18. https://wuhanvirus.kr
+wuhanvirus.kr##.banner
+
+! 2020. 2. 19. http://www.etoland.co.kr
+www.etoland.co.kr##.middleAds
+www.etoland.co.kr###text_banner_td
+
+! 2020. 2. 19. http://zum.com
+zum.com##.article_ad
+
+! 2020. 2. 20. https://torrentmin.com
+||torrentmin.com/img/bannar114.jpg$image
+torrentmin.com##.hidden-xs.hidden-sm > .widget-box > div
+torrentmin.com##.at-side.at-col.col-md-3 > div.widget-box:nth-of-type(2) > div
+
+! 2020. 2. 20. https://www.bobaedream.co.kr
+www.bobaedream.co.kr##.Car_list
+
+! 2020. 2. 22. http://www.a3u3.com
+||nz04com.com/aabdd/aaaddpics/*$image
+www.a3u3.com##p
+
+! 2020. 2. 23. https://nid.naver.com
+nid.naver.com##.otp_step_banner
+nid.naver.com##.diaper_banner
+
+! 2020. 2. 24. https://www.webtoonguide.com
+webtoonguide.com/8c/c5/*$domain=www.webtoonguide.com,image
+
+
+copytoon70.com##.w_banner
+copytoon70.com##.nav-fixed
+copytoon70.com##.at-go
+
+copytoon71.com##.w_banner
+copytoon71.com##.nav-fixed
+copytoon71.com##.at-go
+
+copytoon72.com##.w_banner
+copytoon72.com##.nav-fixed
+copytoon72.com##.at-go
+
+copytoon73.com##.w_banner
+copytoon73.com##.nav-fixed
+copytoon73.com##.at-go
+
+copytoon74.com##.w_banner
+copytoon74.com##.nav-fixed
+copytoon74.com##.at-go
+
+copytoon75.com##.w_banner
+copytoon75.com##.nav-fixed
+copytoon75.com##.at-go
+
+copytoon76.com##.w_banner
+copytoon76.com##.nav-fixed
+copytoon76.com##.at-go
+
+copytoon77.com##.w_banner
+copytoon77.com##.nav-fixed
+copytoon77.com##.at-go
+
+copytoon78.com##.w_banner
+copytoon78.com##.nav-fixed
+copytoon78.com##.at-go
+
+copytoon79.com##.w_banner
+copytoon79.com##.nav-fixed
+copytoon79.com##.at-go
+
+copytoon80.com##.w_banner
+copytoon80.com##.nav-fixed
+copytoon80.com##.at-go
+
+copytoon81.com##.w_banner
+copytoon81.com##.nav-fixed
+copytoon81.com##.at-go
+
+copytoon82.com##.w_banner
+copytoon82.com##.nav-fixed
+copytoon82.com##.at-go
+
+copytoon83.com##.w_banner
+copytoon83.com##.nav-fixed
+copytoon83.com##.at-go
+
+copytoon84.com##.w_banner
+copytoon84.com##.nav-fixed
+copytoon84.com##.at-go
+
+copytoon85.com##.w_banner
+copytoon85.com##.nav-fixed
+copytoon85.com##.at-go
+
+copytoon86.com##.w_banner
+copytoon86.com##.nav-fixed
+copytoon86.com##.at-go
+
+copytoon87.com##.w_banner
+copytoon87.com##.nav-fixed
+copytoon87.com##.at-go
+
+copytoon88.com##.w_banner
+copytoon88.com##.nav-fixed
+copytoon88.com##.at-go
+
+copytoon89.com##.w_banner
+copytoon89.com##.nav-fixed
+copytoon89.com##.at-go
+
+copytoon90.com##.w_banner
+copytoon90.com##.nav-fixed
+copytoon90.com##.at-go
+
+
