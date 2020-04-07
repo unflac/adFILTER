@@ -1,4 +1,4 @@
-!-- 2020.03.01 a
+!-- 2020.04.08 A
 
 !--통합
 
@@ -4171,4 +4171,31 @@ copytoon90.com##.w_banner
 copytoon90.com##.nav-fixed
 copytoon90.com##.at-go
 
+! 2020. 3. 8. https://torrentj.com
+torrentj.com###hd_pop
+||torrentj.com/data/apms/background/*$image
 
+! 2020. 3. 8. http://www.hani.co.kr
+www.hani.co.kr###ad_tag
+
+! 2020. 3. 14. https://www.gasengi.com
+www.gasengi.com###copyright
+
+! 2020. 3. 18. https://www.flightradar24.com
+www.flightradar24.com###bottomRightPanelAdContainer
+www.flightradar24.com###responsiveBottomPanel
+
+! 2020. 3. 19. http://www.camwhoreshd.com
+frtyi.com$domain=www.camwhoreshd.com,subdocument
+strpjmp.com$domain=www.camwhoreshd.com,subdocument
+www.camwhoreshd.com##div.opt
+mcdlks.com$domain=www.camwhoreshd.com,subdocument
+
+! 2020. 4. 8. https://new-m.pay.naver.com
+new-m.pay.naver.com##.FloatingBanner_article__3045W
+
+! 2020. 4. 8. https://m.pay.naver.com
+m.pay.naver.com##.floating_banner
+m.pay.naver.com##.tooltip_green
+m.pay.naver.com##.layer_guide
+m.pay.naver.com##._easyBankToolTipEvent
