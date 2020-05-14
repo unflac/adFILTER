@@ -13,6 +13,8 @@
 */adimg/*
 
 !-- 광고
+tsyndicate.com
+adjw.co.kr
 dawin.tv
 otaserve.net
 adnium.com
@@ -4199,3 +4201,105 @@ m.pay.naver.com##.floating_banner
 m.pay.naver.com##.tooltip_green
 m.pay.naver.com##.layer_guide
 m.pay.naver.com##._easyBankToolTipEvent
+
+! 2020. 4. 8. http://www.ebn.co.kr
+www.ebn.co.kr###boxAd
+
+! 2020. 4. 9. https://www.pornhub.com
+www.pornhub.com##.sectionWrapper > .sectionWrapper
+www.pornhub.com##.nf-wrapper > .sectionWrapper
+||cdn1d-static-shared.phncdn.com/iframe-1.1.5.html$subdocument
+www.pornhub.com##.ad-link
+www.pornhub.com##.clear.hd
+
+! 2020. 4. 9. https://bbs.ruliweb.com
+bbs.ruliweb.com##.ad_background
+
+! 2020. 4. 9. https://www.luckfile.com
+www.luckfile.com##.r336 > .ad970
+www.luckfile.com##.r336
+
+! 2020. 4. 10. https://www.pornhub.com
+www.pornhub.com###footer
+www.pornhub.com##.logoFooterWrapper
+www.pornhub.com##.footer
+
+! 2020. 4. 12. https://jp.pornhub.com
+jp.pornhub.com##.clear.hd
+
+! 2020. 4. 12. https://kissgoddess.com
+kissgoddess.com###IL_INSEARCH
+kissgoddess.com###IL_IF_LEFT
+kissgoddess.com###IL_IF_RIGHT > .IL_BASE
+
+! 2020. 4. 12. http://cangjige.co
+cangjige.co##.banner
+
+! 2020. 4. 12. http://92av.today
+92av.today##div.row:nth-of-type(2)
+
+! 2020. 4. 12. https://bt-car.xyz
+bt-car.xyz##.offads
+
+! 2020. 4. 13. https://www.bobcat.com
+www.bobcat.com##.cookie-info
+
+! 2020. 4. 13. https://cz.pornhub.com
+cz.pornhub.com##.clear.hd
+
+! 2020. 4. 13. https://www.pornhub.com
+www.pornhub.com##.sniperModeEngaged
+
+! 2020. 4. 13. https://xhamster.com
+xhamster.com##.traffic-stars
+xhamster.com##footer
+xhamster.com##.ts-interstitial__mask
+xhamster.com##.ts-interstitial
+
+
+! 2020. 4. 17. https://xhamster11.com
+xhamster11.com##.right-rectangle
+xhamster11.com##.no-popunder.bottom-widget-section
+xhamster11.com##footer.no-popunder
+xhamster11.com##.no-popunder.companion-ads
+xhamster11.com##.player-add-overlay
+xhamster11.com##.no-popunder.wih-spot-container.wih-player > .traffic-stars
+xhamster11.com##.dyltv-container
+xhamster11.com##.no-popunder.wih-spot-container.wih-player
+
+! 2020. 5. 8. https://xhamster11.com
+xhamster11.com##.wih-spa.no-popunder.wih-spb
+xhamsterpremium.com$domain=xhamster11.com,subdocument
+xhamster11.com##.no-popunder.wih-spb
+xhamster11.com##.promo-message
+
+! 2020. 5. 10. https://xhamster11.com
+xhamster11.com###dyltv-anchor
+xhamster11.com##.xh-dropdown.positioned.favorites-control
+xhamster11.com##.comments-control
+xhamster11.com##div.controls__line:nth-of-type(2)
+xhamster11.com##.share-control.gray.xh-button
+xhamster11.com##.about-control.xh-button
+xhamster11.com##.positioned.popup.xh-dropdown.report-control
+xhamster11.com##div.controls__line:nth-of-type(6)
+
+! 2020. 4. 17. https://www.instagram.com
+www.instagram.com##.HcJZg.XfCBB._4EzTm.eGOV_.rBNOH.Igw0E
+
+! 2020. 5. 4. https://18japenis.tistory.com
+18japenis.tistory.com##.whiteBg
+
+! 2020. 5. 5. https://sports.news.naver.com
+||ssl.pstatic.net/static/sports/2019/pc/05/15/pc_relay_bg.png$image
+
+! 2020. 5. 9. https://www.xvideos.com
+www.xvideos.com##.remove-ads
+www.xvideos.com###footer
+
+! 2020. 5. 10. https://www.hlsloader.com
+www.hlsloader.com###section-howto
+www.hlsloader.com##div.grid-lg.container:nth-of-type(3)
+www.hlsloader.com##section.bg-gray.section:nth-of-type(2)
+www.hlsloader.com##div.col-12.column.docs-content:nth-of-type(4)
+www.hlsloader.com##body > center
+www.hlsloader.com##div.col-12.column.docs-content:nth-of-type(2)
