@@ -1,4 +1,4 @@
-!-- 2020.04.08 A
+!-- 2020.5.19 A
 
 !--통합
 
@@ -4303,3 +4303,12 @@ www.hlsloader.com##section.bg-gray.section:nth-of-type(2)
 www.hlsloader.com##div.col-12.column.docs-content:nth-of-type(4)
 www.hlsloader.com##body > center
 www.hlsloader.com##div.col-12.column.docs-content:nth-of-type(2)
+
+! 2020. 5. 19. https://m.naver.com
+m.naver.com##.nmap_wrapper
+m.naver.com##.css_banner_wrap
+m.naver.com##.csb_banner
+
+! 2020. 5. 19. https://toonsarang.space
+toonsarang.space##.w_banner
+toonsarang.space##.bottom-navbar > div:nth-of-type(1)
