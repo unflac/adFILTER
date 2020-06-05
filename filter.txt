@@ -1,4 +1,4 @@
-!-- 2020.5.19 A
+!-- 2020.06.05 A
 
 !--통합
 
@@ -16,6 +16,8 @@
 tsyndicate.com
 adjw.co.kr
 dawin.tv
+realsrv.co
+stunninglover.com
 otaserve.net
 adnium.com
 ads-partners.coupang.com
@@ -4312,3 +4314,37 @@ m.naver.com##.csb_banner
 ! 2020. 5. 19. https://toonsarang.space
 toonsarang.space##.w_banner
 toonsarang.space##.bottom-navbar > div:nth-of-type(1)
+
+! 2020. 5. 19. http://shop.danawa.com
+shop.danawa.com##.mid_banner_area
+
+! 2020. 5. 29. https://www.naver.com
+www.naver.com###NM_TOP_BANNER
+
+! 2020. 6. 3. https://toonkor4.net
+toonkor4.net##.top_banner
+toonkor4.net##.alert_windows
+toonkor4.net###toon_img > div:nth-of-type(1)
+toonkor4.net###toon_img > div:nth-of-type(2)
+toonkor4.net###toon_img > div:nth-of-type(3)
+toonkor4.net##.tail-logo
+
+! 2020. 6. 5. https://search.shopping.naver.com
+search.shopping.naver.com##.banners_banner_area__1OxCJ
+search.shopping.naver.com##.powerLink_power_link__1ER1P
+
+! 2020. 6. 5. https://new-m.pay.naver.com
+new-m.pay.naver.com##.NaverMembership_article__2L48j
+new-m.pay.naver.com##.Footer_android_add__1kibp
+new-m.pay.naver.com##.ADBanner_banner__2zxkA
+
+! 2020. 6. 5. https://m.shopping.naver.com
+m.shopping.naver.com##.ad_banner--30-dET0UAN
+m.shopping.naver.com##.N\=a\:fot\.shortcut._3zf8j_eWy9
+m.shopping.naver.com##.nv-openmain._13MDKIxtSc
+
+! 2020. 6. 5. https://smartstore.naver.com
+smartstore.naver.com##.naverplus.banner_benefit_type_color
+smartstore.naver.com##.N\=a\:pcs\.safe.safety_guide
+smartstore.naver.com##._easy_purchase_hide_area.checkout
+smartstore.naver.com##.benefit
