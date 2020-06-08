@@ -1,4 +1,4 @@
-!-- 2020.06.05 A
+!-- 2020.06.08 A
 
 !--통합
 
@@ -4348,3 +4348,92 @@ smartstore.naver.com##.naverplus.banner_benefit_type_color
 smartstore.naver.com##.N\=a\:pcs\.safe.safety_guide
 smartstore.naver.com##._easy_purchase_hide_area.checkout
 smartstore.naver.com##.benefit
+
+! 2020. 6. 5. https://www.naver.com
+www.naver.com###NM_scroll_top_btn
+www.naver.com##.btn_theme
+www.naver.com##.link_set
+www.naver.com##.sa_bar
+
+! 2020. 6. 5. https://www.welkeepsmall.com
+www.welkeepsmall.com###footer
+
+! 2020. 6. 5. https://sports.news.naver.com
+sports.news.naver.com##.play_head
+
+! 2020. 6. 5. https://smartstore.naver.com
+smartstore.naver.com##.module_banner_benefit
+
+! 2020. 6. 7. https://torrentmin5.com
+torrentmin5.com###hd_pop
+torrentmin5.com##.scale
+
+! 2020. 6. 7. https://shopping.naver.com
+shopping.naver.com##.ad_banner--1ze7QPF2Hc
+shopping.naver.com##.footer--1BZMDhB0Vd
+shopping.naver.com##.footer_area
+
+! 2020. 6. 7. https://order.pay.naver.com
+order.pay.naver.com###footer
+
+! 2020. 6. 7. https://section.cafe.naver.com
+section.cafe.naver.com###footer
+
+! 2020. 6. 7. https://section.blog.naver.com
+section.blog.naver.com###footer
+
+! 2020. 6. 7. https://kin.naver.com
+kin.naver.com##.footer_wrap
+
+! 2020. 6. 7. https://tv.naver.com
+tv.naver.com###footer
+
+! 2020. 6. 7. https://dict.naver.com
+dict.naver.com###footer
+
+! 2020. 6. 7. https://news.naver.com
+news.naver.com###footer
+
+! 2020. 6. 7. https://finance.naver.com
+finance.naver.com###footer
+
+! 2020. 6. 7. https://land.naver.com
+land.naver.com###footer
+
+! 2020. 6. 7. https://movie.naver.com
+movie.naver.com###footer
+
+! 2020. 6. 7. https://vibe.naver.com
+vibe.naver.com##.footer
+
+! 2020. 6. 7. https://book.naver.com
+book.naver.com###footer
+
+! 2020. 6. 7. https://comic.naver.com
+comic.naver.com###footer
+
+! 2020. 6. 7. https://www.naver.com
+www.naver.com###footer
+
+! 2020. 6. 7. https://torrentj8.com
+torrentj8.com###hd_pop
+
+! 2020. 6. 7. http://play.afreecatv.com
+play.afreecatv.com##.on.user_clip
+
+! 2020. 6. 8. https://torrentsir7.com
+torrentsir7.com###hd_pop
+
+! 2020. 6. 8. https://m.shopping.naver.com
+m.shopping.naver.com##.link_banner
+m.shopping.naver.com##.g_center_area
+
+! 2020. 6. 8. https://m.cafe.naver.com
+m.cafe.naver.com##.footer_lnb
+m.cafe.naver.com##.copyright
+
+! 2020. 6. 8. https://m.shopping.naver.com
+m.shopping.naver.com##.N\=a\:myh\.memn._3nzmAXXzVC
+
+! 2020. 6. 8. https://m.smartstore.naver.com
+m.smartstore.naver.com##.N\=a\:pcs\.mem
