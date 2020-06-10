@@ -1,4 +1,4 @@
-!-- 2020.06.08 A
+!-- 2020.06.10 A
 
 !--통합
 
@@ -4437,3 +4437,22 @@ m.shopping.naver.com##.N\=a\:myh\.memn._3nzmAXXzVC
 
 ! 2020. 6. 8. https://m.smartstore.naver.com
 m.smartstore.naver.com##.N\=a\:pcs\.mem
+
+! 2020. 6. 9. https://www.1300k.com
+www.1300k.com###top_banner
+
+! 2020. 6. 9. https://shopping.naver.com
+shopping.naver.com##.N\=a\:banner\.mem
+shopping.naver.com##._29eI_4LiZs
+shopping.naver.com##.active._3RgDbsur5E
+shopping.naver.com##._3j6cs2yJiv
+
+! 2020. 6. 10. https://shopping.naver.com
+shopping.naver.com##._37c1kBQ0P5
+
+! 2020. 6. 10. https://order.pay.naver.com
+order.pay.naver.com##.pointplus_benefit
+order.pay.naver.com##._paymentInfoArea
+order.pay.naver.com##.guide_box
+order.pay.naver.com##._skipEasyCardLayer
+order.pay.naver.com##._chargedPointPaymentTab.payment_method_tab.paymethod
