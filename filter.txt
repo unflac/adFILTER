@@ -1,4 +1,4 @@
-!-- 2020.06.10 A
+!-- 2020.06.13 A
 
 !--통합
 
@@ -11,6 +11,7 @@
 ##.power_link
 */bn_img/*
 */adimg/*
+##.adsensemain
 
 !-- 광고
 tsyndicate.com
@@ -621,6 +622,7 @@ wrd.naver.com
 nbp-corp.com
 pstatic.net/sstatic/search/pc/tmp/*
 
+||ssl.pstatic.net/static/sports/2019/pc/05/15/pc_relay_bg.png$image
 naver.com##.column_banner
 naver.com###_MM_WRAP_nmap_ent_0
 naver.com###_MM_WRAP_nmap_ent_1
@@ -824,6 +826,74 @@ naver.com##.whale_set_banner
 naver.com##.tab_bnr
 naver.com##.MM_HOME_ISSUEBANNER
 naver.com##.band_banner
+naver.com##.Banner_article__QkY5v
+naver.com##.tooltip_vw
+naver.com##.otp_step_banner
+naver.com##.diaper_banner
+naver.com##.FloatingBanner_article__3045W
+naver.com##.floating_banner
+naver.com##.tooltip_green
+naver.com##.layer_guide
+naver.com##._easyBankToolTipEvent
+naver.com##.nmap_wrapper
+naver.com##.css_banner_wrap
+naver.com##.csb_banner
+naver.com###NM_TOP_BANNER
+naver.com##.banners_banner_area__1OxCJ
+naver.com##.powerLink_power_link__1ER1P
+naver.com##.NaverMembership_article__2L48j
+naver.com##.Footer_android_add__1kibp
+naver.com##.ADBanner_banner__2zxkA
+naver.com##.ad_banner--30-dET0UAN
+naver.com##.N\=a\:fot\.shortcut._3zf8j_eWy9
+naver.com##.nv-openmain._13MDKIxtSc
+naver.com##.naverplus.banner_benefit_type_color
+naver.com##.N\=a\:pcs\.safe.safety_guide
+naver.com##._easy_purchase_hide_area.checkout
+naver.com##.benefit
+naver.com###NM_scroll_top_btn
+naver.com##.btn_theme
+naver.com##.link_set
+naver.com##.sa_bar
+naver.com##.play_head
+naver.com##.module_banner_benefit
+naver.com##.ad_banner--1ze7QPF2Hc
+naver.com##.footer--1BZMDhB0Vd
+naver.com##.footer_area
+naver.com###footer
+naver.com##.footer_wrap
+naver.com##.footer
+naver.com##.link_banner
+naver.com##.g_center_area
+naver.com##.footer_lnb
+naver.com##.copyright
+naver.com##.N\=a\:myh\.memn._3nzmAXXzVC
+naver.com##.N\=a\:pcs\.mem
+naver.com##.N\=a\:banner\.mem
+naver.com##._29eI_4LiZs
+naver.com##.active._3RgDbsur5E
+naver.com##._3j6cs2yJiv
+naver.com##._37c1kBQ0P5
+naver.com##.pointplus_benefit
+naver.com##._paymentInfoArea
+naver.com##.guide_box
+naver.com##._skipEasyCardLayer
+naver.com##._chargedPointPaymentTab.payment_method_tab.paymethod
+naver.com##._discountOptimizationFailHelpLayer
+naver.com##.ly_naverbank_ad
+naver.com##.type_small.tooltip
+naver.com##._benefitAreaDisplayStatus._payEventHeader.benefit_fold_panel.spot_benefit_pay
+naver.com###MM_aside_qr_checkin_tooltip
+naver.com###MM_aside_popup_notification
+naver.com##.SubTabMenu_tooltip__3Rk7K
+naver.com##.footer_info_area--3ZEjxOtBjD
+naver.com##.Footer_article__2dUDI
+naver.com##.Alarm_type-white__201hh
+naver.com##._34Ib8ZGoAU
+naver.com##._33SZavfsQK
+naver.com##.Alarm_article__3zIBN
+naver.com##.cnm_membership_group
+naver.com##.footer_legal
 
 !-- 동영상
 
@@ -1026,6 +1096,11 @@ daum.net##.\#topAd
 daum.net##.\#bottomAd
 daum.net##.ad_body
 daum.net##.gnb_banner
+daum.net##.link_banner
+daum.net##.top_banner
+daum.net###myStyleArea
+daum.net###specialWebtoonArea
+daum.net##.copr_info
 
 kakao.com##.inner_footer
 kakao.com##.tit_kakaotv > .img_player
@@ -2710,7 +2785,7 @@ sougouwiki.com##.adsense-box
 sougouwiki.com##.ads-box
 epochtimes.co.kr##.html_banner
 thegolftimes.co.kr##.html_banner
-dispatch.co.kr/ad/*$domain=www.dispatch.co.kr,subdocument
+dispatch.co.kr/ad/*$domain=dispatch.co.kr,subdocument
 dcinside.com###ad-layer
 dcinside.com##.banner_box
 dcinside.com/ad/*
@@ -2891,7 +2966,7 @@ towns7.com##.big-img-banner-right
 ruliweb.com###ti3
 newsway.co.kr##.googlead
 newsway.co.kr##.bannerad_03
-newsway.kr/banner/*$domain=www.newsway.co.kr,image
+newsway.kr/banner/*$domain=newsway.co.kr,image
 popjav.tv##body > div:nth-of-type(2)
 popjav.tv##.poplayer
 popjav.tv##.video-boxad
@@ -2927,7 +3002,7 @@ avdbs.com###contants > .shw-1024-over
 avdbs.com###wrap > .shw-1024-over
 avdbs.com##.shw-640-over
 avdbs.com##.flat-btn-grp
-akiba-online.com/data/Siropu/*$domain=www.akiba-online.com,image
+akiba-online.com/data/Siropu/*$domain=akiba-online.com,image
 tvkim.club##.side
 tvkim.club##.tban
 tvkim.club##.rban
@@ -3039,7 +3114,7 @@ redfox107.com##[src="https://3.bp.blogspot.com/-BN971U6tfW8/W5Y5llZU_lI/AAAAAAAA
 redfox107.com##.header-logo
 redfox107.com###footeres
 munhwa.com###right_skyWingBanner
-munhwa.com/www/banner/*$domain=www.munhwa.com,image
+munhwa.com/www/banner/*$domain=munhwa.com,image
 namu.live/static/ad/*$domain=namu.wiki,subdocument
 avdbs.com###contants > .shw-1024-under
 avdbs.com###wrap > .shw-1024-under
@@ -3223,19 +3298,13 @@ tvwang.biz###item_15
 yourupload.com##.jw-reset.jw-logo-bottom-left.jw-logo
 yourupload.com##.download-roms-button.jw-reset.jw-background-color.jw-dock-button > .jw-reset.jw-button-color.jw-dock-image.jw-icon
 poelab.com###dp-container
-
-! 2019. 7. 29. https://torrentwal.com
 torrentwal.com###left_ad
-
-! 2019. 7. 30. https://safe.mirrordown.com
 safe.mirrordown.com##center:nth-of-type(2)
 safe.mirrordown.com##center:nth-of-type(3) > div
 safe.mirrordown.com##div > div:nth-of-type(1) > span
 safe.mirrordown.com##.navbar
 safe.mirrordown.com##.main-footer
 safe.mirrordown.com##.container-fluid
-
-! 2019. 7. 31. http://nene365.com
 nene365.com##.sideright
 nene365.com##.sideleft
 nene365.com##.pc-header
@@ -3246,11 +3315,8 @@ nene365.com##.at-go
 nene365.com##.at-footer
 nene365.com##u-chat
 nene365.com##.hidden-xs.hidden-sm
-
-! 2019. 8. 1. http://nene365.com
 nene365.com###hd_pops_2
 nene365.com##.hd_pops
-
 uptostream.com##.ad6foo-banner-container
 uptostream.com##.ad6foo-application
 uptostream.com##div:nth-of-type(6)
@@ -3258,7 +3324,6 @@ uptostream.com##div:nth-of-type(5)
 uptostream.com##div:nth-of-type(4)
 uptostream.com###blackfriday
 ||uptostream.com/assets/images/background_sky.png$image
-
 uptobox.com##.ad6foo-banner-container
 uptobox.com##.ad6foo-application
 uptobox.com##div:nth-of-type(6)
@@ -3266,7 +3331,6 @@ uptobox.com##div:nth-of-type(5)
 uptobox.com##div:nth-of-type(4)
 uptobox.com###blackfriday
 ||uptobox.com/assets/images/background_sky.png$image
-
 manamoa.net##.ad-banner-widget
 manamoa.net##div.main-banner
 manamoa.net##.main-banner
@@ -3277,7 +3341,6 @@ manamoa.net##.at-copyright
 manamoa.net##.view-comment
 manamoa.net##.comment-media
 manamoa.net##.panel-default
-
 manamoa2.net##.ad-banner-widget
 manamoa2.net##div.main-banner
 manamoa2.net##.main-banner
@@ -3288,7 +3351,6 @@ manamoa2.net##.at-copyright
 manamoa2.net##.view-comment
 manamoa2.net##.comment-media
 manamoa2.net##.panel-default
-
 manamoa3.net##.ad-banner-widget
 manamoa3.net##div.main-banner
 manamoa3.net##.main-banner
@@ -3299,7 +3361,6 @@ manamoa3.net##.at-copyright
 manamoa3.net##.view-comment
 manamoa3.net##.comment-media
 manamoa3.net##.panel-default
-
 manamoa4.net##.ad-banner-widget
 manamoa4.net##div.main-banner
 manamoa4.net##.main-banner
@@ -3310,7 +3371,6 @@ manamoa4.net##.at-copyright
 manamoa4.net##.view-comment
 manamoa4.net##.comment-media
 manamoa4.net##.panel-default
-
 manamoa5.net##.ad-banner-widget
 manamoa5.net##div.main-banner
 manamoa5.net##.main-banner
@@ -3321,7 +3381,6 @@ manamoa5.net##.at-copyright
 manamoa5.net##.view-comment
 manamoa5.net##.comment-media
 manamoa5.net##.panel-default
-
 manamoa6.net##.ad-banner-widget
 manamoa6.net##div.main-banner
 manamoa6.net##.main-banner
@@ -3332,7 +3391,6 @@ manamoa6.net##.at-copyright
 manamoa6.net##.view-comment
 manamoa6.net##.comment-media
 manamoa6.net##.panel-default
-
 manamoa7.net##.ad-banner-widget
 manamoa7.net##div.main-banner
 manamoa7.net##.main-banner
@@ -3343,7 +3401,6 @@ manamoa7.net##.at-copyright
 manamoa7.net##.view-comment
 manamoa7.net##.comment-media
 manamoa7.net##.panel-default
-
 manamoa8.net##.ad-banner-widget
 manamoa8.net##div.main-banner
 manamoa8.net##.main-banner
@@ -3354,7 +3411,6 @@ manamoa8.net##.at-copyright
 manamoa8.net##.view-comment
 manamoa8.net##.comment-media
 manamoa8.net##.panel-default
-
 manamoa9.net##.ad-banner-widget
 manamoa9.net##div.main-banner
 manamoa9.net##.main-banner
@@ -3365,7 +3421,6 @@ manamoa9.net##.at-copyright
 manamoa9.net##.view-comment
 manamoa9.net##.comment-media
 manamoa9.net##.panel-default
-
 manamoa10.net##.ad-banner-widget
 manamoa10.net##div.main-banner
 manamoa10.net##.main-banner
@@ -3376,7 +3431,6 @@ manamoa10.net##.at-copyright
 manamoa10.net##.view-comment
 manamoa10.net##.comment-media
 manamoa10.net##.panel-default
-
 manamoa11.net##.ad-banner-widget
 manamoa11.net##div.main-banner
 manamoa11.net##.main-banner
@@ -3387,7 +3441,6 @@ manamoa11.net##.at-copyright
 manamoa11.net##.view-comment
 manamoa11.net##.comment-media
 manamoa11.net##.panel-default
-
 manamoa12.net##.ad-banner-widget
 manamoa12.net##div.main-banner
 manamoa12.net##.main-banner
@@ -3398,7 +3451,6 @@ manamoa12.net##.at-copyright
 manamoa12.net##.view-comment
 manamoa12.net##.comment-media
 manamoa12.net##.panel-default
-
 manamoa13.net##.ad-banner-widget
 manamoa13.net##div.main-banner
 manamoa13.net##.main-banner
@@ -3409,7 +3461,6 @@ manamoa13.net##.at-copyright
 manamoa13.net##.view-comment
 manamoa13.net##.comment-media
 manamoa13.net##.panel-default
-
 manamoa14.net##.ad-banner-widget
 manamoa14.net##div.main-banner
 manamoa14.net##.main-banner
@@ -3420,7 +3471,6 @@ manamoa14.net##.at-copyright
 manamoa14.net##.view-comment
 manamoa14.net##.comment-media
 manamoa14.net##.panel-default
-
 manamoa15.net##.ad-banner-widget
 manamoa15.net##div.main-banner
 manamoa15.net##.main-banner
@@ -3431,7 +3481,6 @@ manamoa15.net##.at-copyright
 manamoa15.net##.view-comment
 manamoa15.net##.comment-media
 manamoa15.net##.panel-default
-
 manamoa16.net##.ad-banner-widget
 manamoa16.net##div.main-banner
 manamoa16.net##.main-banner
@@ -3442,7 +3491,6 @@ manamoa16.net##.at-copyright
 manamoa16.net##.view-comment
 manamoa16.net##.comment-media
 manamoa16.net##.panel-default
-
 manamoa17.net##.ad-banner-widget
 manamoa17.net##div.main-banner
 manamoa17.net##.main-banner
@@ -3453,7 +3501,6 @@ manamoa17.net##.at-copyright
 manamoa17.net##.view-comment
 manamoa17.net##.comment-media
 manamoa17.net##.panel-default
-
 manamoa18.net##.ad-banner-widget
 manamoa18.net##div.main-banner
 manamoa18.net##.main-banner
@@ -3464,7 +3511,6 @@ manamoa18.net##.at-copyright
 manamoa18.net##.view-comment
 manamoa18.net##.comment-media
 manamoa18.net##.panel-default
-
 manamoa19.net##.ad-banner-widget
 manamoa19.net##div.main-banner
 manamoa19.net##.main-banner
@@ -3475,7 +3521,6 @@ manamoa19.net##.at-copyright
 manamoa19.net##.view-comment
 manamoa19.net##.comment-media
 manamoa19.net##.panel-default
-
 manamoa20.net##.ad-banner-widget
 manamoa20.net##div.main-banner
 manamoa20.net##.main-banner
@@ -3486,8 +3531,6 @@ manamoa20.net##.at-copyright
 manamoa20.net##.view-comment
 manamoa20.net##.comment-media
 manamoa20.net##.panel-default
-
-! 2019. 8. 2. https://safe.mirrordown.com
 safe.mirrordown.com##.g1-hb-shadow-off
 safe.mirrordown.com###bimber_widget_posts-5
 safe.mirrordown.com##.entry-title.g1-mega-1st.g1-mega
@@ -3535,14 +3578,10 @@ safe.mirrordown.com##p:nth-of-type(32)
 safe.mirrordown.com##p:nth-of-type(35)
 safe.mirrordown.com##p:nth-of-type(31)
 safe.mirrordown.com##p:nth-of-type(34)
-
-! 2019. 8. 3. https://uptostream.com
 uptostream.com##.navbar-items
 ||uptobox.com/assets/images/header_background_UTB.png$image
 uptostream.com###navbar
 uptostream.com###footer
-
-! 2019. 8. 5. http://www.assi27.com
 assi27.com###theader
 assi27.com###head
 assi27.com###section3
@@ -3553,80 +3592,44 @@ assi27.com###section2 > div.btv_lbox:nth-of-type(5)
 assi27.com###section2 > div.btv_lbox:nth-of-type(1)
 assi27.com##body > div:nth-of-type(4)
 assi27.com###ft
-
-! 2019. 8. 5. http://www.etoland.co.kr
 etoland.co.kr##div.market_div_item
-
-
-! 2019. 8. 6. https://www.mofos.com
 ||images-assets-ht.project1content.com/Mofos/Tour/MOFOS/Catfish/5c93ebf60df143.24764550.png$image
-
-! 2019. 8. 6. https://nubiles-porn.com
 nubiles-porn.com##.hover-join
-
-! 2019. 8. 7. http://www.assi27.com
 assi27.com###hd_pop
-
-! 2019. 8. 7. https://www.brazzers.com
 brazzers.com##.release-information > .clearfix
 brazzers.com###cta-floater
-
-
-! 2019. 8. 7. http://news.wowtv.co.kr
 wowtv.co.kr##.top-banner-area
 wowtv.co.kr###divTopBanner
 wowtv.co.kr##.cont-banner
 wowtv.co.kr##.adv-area
 wowtv.co.kr##.quickMenu
-
-! 2019. 8. 8. https://www.yna.co.kr
 yna.co.kr##.fixed-bnr03
-
-! 2019. 8. 9. https://ps.news.nate.com
 nate.com##.ad160x600
-
-! 2019. 8. 10. http://www.skyedaily.com
 skyedaily.com###SideBannerRight
-
-! 2019. 8. 10. http://www.chosun.com
 chosun.com##.special_banner
 chosun.com##.btn_banner_mt100
 chosun.com###news_go_id
 chosun.com##.banner_sub_tit
 chosun.com##.top_ad1
 chosun.com##.top_ad2
-
-! 2019. 8. 10. http://richtv365.com
 richtv365.com##.content_widget_bar
-
-! 2019. 8. 11. https://namu.live
 namu.live##.ad
-
-! 2019. 8. 12. http://tvdaily.asiae.co.kr
 tvdaily.co.kr/banner/*
 asiae.co.kr###AD_LIVE_AREA_30204704
 asiae.co.kr###readtopad
-
-
-! 2019. 8. 12. https://en.seoul.co.kr
 seoul.co.kr##.hed_ad
 seoul.co.kr###criteo_div
 seoul.co.kr##.enatic_banner
 seoul.co.kr##.adbox03
 seoul.co.kr/RealMedia/ads/*
 seoul.co.kr###seoulAdTable
-
-! 2019. 8. 13. https://news.mt.co.kr
 mt.co.kr##.leftbn_wrap
 mt.co.kr##.rightbn_wrap
 mt.co.kr##.wrap_banner
 mt.co.kr/*anner*.jpg
 mt.co.kr##div.ad
 mt.co.kr##span.ad
-
 yna.co.kr##.coin-bnr_link
-
-! 2019. 8. 13. https://www.sedaily.com
 sedaily.com##.sub_ad_banner1
 sedaily.com##.sub_ad_banner2
 sedaily.com##.sub_ad_banner3
@@ -3634,59 +3637,34 @@ sedaily.com##.sub_ad_banner4
 sedaily.com##.sub_ad_banner5
 sedaily.com##.sub_ad_banner3_2
 sedaily.com##.main_wing_banner
-
-! 2019. 8. 13. https://torrenthaja.com
 torrenthaja7.com/data/banner/*
-
-! 2019. 8. 13. https://torrentboza.com
 torrentboza.com##.banner-horizontal
 torrentboza.com##.basic-banner
-
-! 2019. 8. 13. https://www.torrentbe.com
 torrentbe.com##.banner_top
 torrentbe.com###banner_top_list_wrap
 torrentbe.com##div.banner
-
-! 2019. 8. 14. https://www.sfkorean.com
 mokorea.com/images/gwango/*
 go20.com/uploads/journalgwango/*
 sfkorean.com##div.Events
-
-! 2019. 8. 14. https://viewsync.net
 viewsync.net###globalControls-container
 viewsync.net###playerInfo-container-1
 viewsync.net###playerInfo-container-2
 viewsync.net###playerInfo-container-3
 viewsync.net###playerInfo-container-4
 viewsync.net###playerInfo-container-0
-
-! 2019. 8. 15. https://www.hankyung.com
 hankyung.com##.info_time.asidemodule
 hankyung.com##.hot_today.asidemodule
 hankyung.com##.info_today.asidemodule
 hankyung.com##div.isuue_plus_module > .tit_module
 hankyung.com##.fltAd
-
-
-! 2019. 8. 15. https://www.dmm.co.jp
 dmm.co.jp###buyee-alliance-banner
-
-! 2019. 8. 15. http://mobile.busan.com
 busan.com/nas/wcms/public/pc/images/*$domain=mobile.busan.com,image
-
-! 2019. 8. 15. https://www.seoul.co.kr
 seoul.co.kr###sbaAboutDiv
 seoul.co.kr###eMartDiv
-
-! 2019. 8. 16. https://www.funshop.co.kr
-www.funshop.co.kr##.scrollbox-popup
-
-! 2019. 8. 16. http://www.kihoilbo.co.kr
-www.kihoilbo.co.kr###ad_network_26
-www.kihoilbo.co.kr##.banner_box
-www.kihoilbo.co.kr##.edit_banner_box
-
-! 2019. 8. 17. https://m.sedaily.com
+funshop.co.kr##.scrollbox-popup
+kihoilbo.co.kr###ad_network_26
+kihoilbo.co.kr##.banner_box
+kihoilbo.co.kr##.edit_banner_box
 sedaily.com###M_view_line
 sedaily.com##.sub_ad_banner1_wrap_m
 sedaily.com##.sub_ad_banner2_wrap_m
@@ -3739,76 +3717,48 @@ sedaily.com##.sub_ad_banner7_m
 sedaily.com##.sub_ad_banner8_m
 sedaily.com##.sub_ad_banner9_m
 sedaily.com##.sub_ad_banner10_m
-
-! 2019. 8. 18. http://www.newsen.com
 newsen.com###left_banner
 newsen.com###right_banner
 newsen.com###news_banner
-
 torrentbe.com###down_notice
-
 gasengi.com##li.cursor.top_l01
-
 joins.com##.article_list_in_ad
 joins.com###right_banner250
 joins.com##div.ad_banner_250x250
-
-! 2019. 8. 22. http://m.kmib.co.kr
 kmib.co.kr##.m_ad
 kmib.co.kr##.ad_bottom_floating
-
-! 2019. 8. 24. https://www.washingtonpost.com
 washingtonpost.com##.ad-hideable
-
-! 2019. 8. 24. https://news.sbs.co.kr
 sbs.co.kr###sn_banner_article_bottom
 sbs.co.kr##.ad_area
-
-! 2019. 8. 28. http://www.assi27.com
-www.assi27.com##div.btv_lbox:nth-of-type(6)
-www.assi27.com###section2 > div.btv_lbox:nth-of-type(7) > div:nth-of-type(1)
-www.assi27.com###section2 > div:nth-of-type(4)
-www.assi27.com##div.btv_lbox:nth-of-type(2)
-
-! 2019. 8. 29. https://www.torrenger.com
-www.torrenger.com###banner_top_list_wrap
-www.torrenger.com###banner_right_list_wrap
-
-! 2019. 8. 30. https://www.torrenger.com
-www.torrenger.com###down_notice
-www.torrenger.com##li.banner
-
+assi27.com##div.btv_lbox:nth-of-type(6)
+assi27.com###section2 > div.btv_lbox:nth-of-type(7) > div:nth-of-type(1)
+assi27.com###section2 > div:nth-of-type(4)
+assi27.com##div.btv_lbox:nth-of-type(2)
+torrenger.com###banner_top_list_wrap
+torrenger.com###banner_right_list_wrap
+torrenger.com###down_notice
+torrenger.com##li.banner
 a5p5.com##div.container:nth-of-type(2)
-
-! 2019. 9. 2. https://www.adlink.pw
-network/ads/*$domain=www.adlink.pw,subdocument
-
-! 2019. 9. 2. https://lewat.club
+network/ads/*$domain=adlink.pw,subdocument
 network/ads/*$domain=lewat.club,subdocument
 lewat.club###cookie-pop
 lewat.club##.main-footer
 lewat.club##.main-header
 lewat.club###secondary
 lewat.club##.g1-hb-shadow-off
-
-! 2019. 9. 2. https://www.adlink.pw
-www.adlink.pw###cookie-pop
-www.adlink.pw##.main-footer
-www.adlink.pw##.main-header
-www.adlink.pw###secondary
-www.adlink.pw##.g1-hb-shadow-off
-
-! 2019. 9. 3. https://www.adlink.pw
-www.adlink.pw##p
-www.adlink.pw##.g1-dont-miss
-www.adlink.pw##.g1-row-background-media
-www.adlink.pw##.g1-row-layout-page.g1-row.g1-prefooter-3cols.g1-prefooter > .g1-row-background
-www.adlink.pw##.g1-row-layout-page.g1-row.g1-footer > .g1-row-background
-www.adlink.pw##.g1-row-layout-page.g1-row.g1-footer
-www.adlink.pw##.g1-row-layout-page.g1-row.g1-prefooter-3cols
-www.adlink.pw##.entry-title
-
-
+adlink.pw###cookie-pop
+adlink.pw##.main-footer
+adlink.pw##.main-header
+adlink.pw###secondary
+adlink.pw##.g1-hb-shadow-off
+adlink.pw##p
+adlink.pw##.g1-dont-miss
+adlink.pw##.g1-row-background-media
+adlink.pw##.g1-row-layout-page.g1-row.g1-prefooter-3cols.g1-prefooter > .g1-row-background
+adlink.pw##.g1-row-layout-page.g1-row.g1-footer > .g1-row-background
+adlink.pw##.g1-row-layout-page.g1-row.g1-footer
+adlink.pw##.g1-row-layout-page.g1-row.g1-prefooter-3cols
+adlink.pw##.entry-title
 lewat.club##p
 lewat.club##.g1-dont-miss
 lewat.club##.g1-row-background-media
@@ -3817,45 +3767,21 @@ lewat.club##.g1-row-layout-page.g1-row.g1-footer > .g1-row-background
 lewat.club##.g1-row-layout-page.g1-row.g1-footer
 lewat.club##.g1-row-layout-page.g1-row.g1-prefooter-3cols
 lewat.club##.entry-title
-
-ftcdn.net/*$domain=www.adlink.pw,image
-adtival.network/*$domain=www.adlink.pw,subdocument
-
-! 2019. 9. 3. https://lewat.club
+ftcdn.net/*$domain=adlink.pw,image
+adtival.network/*$domain=adlink.pw,subdocument
 adtival.network/*$domain=lewat.club,subdocument
 ftcdn.net/*$domain=lewat.club,image
-
-! 2019. 9. 4. https://lewat.club
 lewat.club##center:nth-of-type(1) > div > span
-
-! 2019. 9. 4. https://www.adlink.pw
 adlink.pw##center:nth-of-type(1) > div > span
-
-! 2019. 9. 4. https://lewat.club
 lewat.club##.adsbygoogle
-
 ||hitomi.la/hitomi.js$script
-
-! 2019. 9. 6. http://nene365.com
 ||nene365.com/data/apms/background/3.png$image
-
-! 2019. 9. 7. https://bbs.ruliweb.com
 ruliweb.com##.row.board_notice
-
-! 2019. 9. 8. http://www.kpa.so
 kpa.so###tree_line_1
-
-! 2019. 9. 12. http://74as.com
 74as.com##.a2_h.wp > center
 74as.com##.a_2mu > center
-
-! 2019. 9. 15. https://pirateproxy.tel
 pirateproxy.tel##table
-
-! 2019. 9. 17. http://news.heraldcorp.com
 news.heraldcorp.com###img_top_ad1
-
-! 2019. 9. 25. https://keepvid.pro
 keepvid.pro##.download-guides
 keepvid.pro##.videoproc
 keepvid.pro##footer
@@ -3866,123 +3792,53 @@ keepvid.pro##.support-site
 keepvid.pro##.header
 keepvid.pro###slogan
 keepvid.pro##.video-converter
-
-! 2019. 9. 26. https://www.gasengi.com
-gasengi.com/img/logo_top.gif$domain=www.gasengi.com,image
-
-! 2019. 9. 29. https://raws.mangazuki.co
+gasengi.com/img/logo_top.gif$domain=gasengi.com,image
 mangazuki.co##.ads-large
 mangazuki.co##.ads-sqre1
-
 webtoonguide.com##.pc-notice-banner
-
-##.adsensemain
-
-! 2019. 10. 7. http://nene365.com
 ||nene365.com/data/apms/background/333.jpg$image
-
-! 2019. 10. 8. https://www.torrenger.net
 torrenger.net###banner_top_list_wrap
 torrenger.net###down_notice
 torrenger.net##.banner
-
-! 2019. 10. 8. https://www.javbus.com
 javbus.com##.footer
-
-! 2019. 10. 8. https://ddalbooks6.com
 ddalbooks6.com##.at-title
-
-! 2019. 10. 13. https://news.joins.com
 joins.com##.ad_top
-
-! 2019. 10. 15. http://nene365.com
 nene365.com##.at-main.at-col.col-md-9 > div:nth-of-type(6)
-
-! 2019. 10. 20. https://javdragon.com
 javdragon.com###UnderplayerP
 javdragon.com##.textwidget
 javdragon.com##.alert.messagge
 javdragon.com###topButton
 javdragon.com###footer
-
-! 2019. 10. 21. https://7mmtv.cc
 7mmtv.cc##.cpm_banner
 7mmtv.cc##footer
 7mmtv.cc##.top_header
-
-! 2019. 10. 21. https://www.google.co.kr
 google.co.kr##.ads-ad
-
-! 2019. 10. 22. https://www.torren-ger.com
 torren-ger.com###banner_top_list_wrap
 torren-ger.com##.banner
-
-! 2019. 10. 22. https://lewat.club
 lewat.club##.content > div > div:nth-of-type(1)
-
-! 2019. 11. 5. http://www.etoland.co.kr
-etoland.co.kr/img/net/banner/*$domain=www.etoland.co.kr,image
-
-! 2019. 11. 8. http://jejucoffee.net
+etoland.co.kr/img/net/banner/*$domain=etoland.co.kr,image
 jejucoffee.net##.gsc-adBlock
-
-! 2019. 11. 8. https://jp.xhamster2.com
 xhamster2.com##.premium-overlay
 xhamster2.com##.wil-static-banner
-
-! 2019. 11. 10. https://mail.google.com
 google.com###\:tg
-
-! 2019. 11. 11. http://webtoon.daum.net
-daum.net##.link_banner
-daum.net##.top_banner
-
-! 2019. 11. 11. https://noc.syosetu.com
 syosetu.com##.octopus-container
-
-! 2019. 11. 17. http://bj.afreecatv.com
 bj.afreecatv.com##.bs-notice_layer
-
-! 2019. 11. 18. https://www.utofile.com
-www.utofile.com###banner_top_list_wrap
-www.utofile.com##.banner
-www.utofile.com###hd_pop
-
-! 2019. 11. 18. https://www.lewat.club
-www.lewat.club##.content
-
-! 2019. 11. 18. http://webtoon.daum.net
-webtoon.daum.net###myStyleArea
-
-! 2019. 11. 19. https://hodu08.net
+utofile.com###banner_top_list_wrap
+utofile.com##.banner
+utofile.com###hd_pop
+lewat.club##.content
 hodu08.net##.banners
-
-! 2019. 11. 19. https://spowiki8.com
 spowiki8.com###sbn_side
-
-! 2019. 11. 21. http://webtoon.daum.net
-webtoon.daum.net###specialWebtoonArea
-
-! 2019. 11. 21. https://www.webtoonguide.com
-www.webtoonguide.com##.right-sky-pos
-www.webtoonguide.com##.global-footer
-
-! 2019. 11. 22. https://www.lewat.club
-www.lewat.club##.klikdisini
-
-! 2019. 11. 29. https://raws.mangazuki.co
+webtoonguide.com##.right-sky-pos
+webtoonguide.com##.global-footer
+lewat.club##.klikdisini
 raws.mangazuki.co###disqus_thread
-
-! 2019. 11. 30. https://www.youtube.com
-www.youtube.com##.ytd-rich-item-renderer
-www.youtube.com###title.ytd-rich-grid-renderer
-
-! 2019. 11. 30. https://www.justoon.co.kr
-www.justoon.co.kr##.viewer_work_banner
-www.justoon.co.kr##.bn_free_charge
-www.justoon.co.kr##.recom
-www.justoon.co.kr##real-rank
-
+youtube.com##.ytd-rich-item-renderer
+youtube.com###title.ytd-rich-grid-renderer
+justoon.co.kr##.viewer_work_banner
+justoon.co.kr##.bn_free_charge
+justoon.co.kr##.recom
+justoon.co.kr##real-rank
 newtoki34.com###main-banner-view
 newtoki34.com###hd_pop
 newtoki34.com/data/banner/*
@@ -3993,273 +3849,147 @@ newtoki34.com##.col-sm-9.col-md-9.col-15 > div.row-15.row:nth-of-type(1)
 newtoki34.com##.board-tail-banner
 newtoki34.com##u-chat
 newtoki34.com##.btn-info.btn
-
-! 2019. 12. 9. https://nonojapan.com
 speedgabia.com/img/banner/*$domain=nonojapan.com,image
-
-! 2019. 12. 10. https://new-m.pay.naver.com
-new-m.pay.naver.com##.Banner_article__QkY5v
-
-! 2019. 12. 23. http://nene365.com
 nene365.com##marquee
 ||nene365.com/img/uptv2.png$image
-
-! 2020. 1. 6. https://poedb.tw
 google.com/cse_v2/ads$domain=poedb.tw,subdocument
 poedb.tw##.gsc-adBlock
-
-! 2020. 1. 25. https://www.u2file.com
-www.u2file.com###hd_pop
-www.u2file.com###banner_top_list_wrap
-www.u2file.com##.banner
-
-! 2020. 1. 26. https://newtoki43.com
+u2file.com###hd_pop
+u2file.com###banner_top_list_wrap
+u2file.com##.banner
 newtoki43.com##.basic-banner
 newtoki43.com/data/banner/*$domain=newtoki43.com,image
-
-! 2020. 1. 27. https://newtoki43.com
 newtoki43.com###main-banner-view
-
-! 2020. 1. 28. https://newtoki43.net
 newtoki43.net###main4x3_banner
 newtoki43.net/data/banner/*$domain=newtoki43.net,image
-
-! 2020. 1. 30. https://manamoa26.net
 manamoa26.net###hd_pop
 manamoa26.net##.ad-banner-widget
-
-! 2020. 1. 31. https://duri16.com
 duri16.com##.w_banner.row
-
-! 2020. 1. 31. https://newtoki44.net
 newtoki44.net###main-banner-view
 newtoki44.net##.board-tail-banner
 newtoki44.net##.basic-banner
 newtoki44.net/data/banner/*$domain=newtoki44.net,image
 newtoki44.com###main-banner-view
 newtoki44.com/data/banner/*
-
-! 2020. 2. 2. https://www.toomics.com
-www.toomics.com##.giftbox-banner
-www.toomics.com##.gnb-banner
-
-! 2020. 2. 2. https://page.kakao.com
+toomics.com##.giftbox-banner
+toomics.com##.gnb-banner
 page.kakao.com##.footer
 page.kakao.com##.appLinkBox
-
-! 2020. 2. 5. https://torrentmin.com
 torrentmin.com###hd_pop
 torrentmin.com##.basic-banner-gallery
-
-! 2020. 2. 15. http://www.etoland.co.kr
-www.etoland.co.kr###main_bn
-www.etoland.co.kr##.cnt_layout
-
-! 2020. 2. 17. https://sports.news.naver.com
-sports.news.naver.com##.tooltip_vw
-
-! 2020. 2. 18. https://www.dispatch.co.kr
-www.dispatch.co.kr##.fastview-ad
-
-! 2020. 2. 18. https://wuhanvirus.kr
+etoland.co.kr###main_bn
+etoland.co.kr##.cnt_layout
+dispatch.co.kr##.fastview-ad
 wuhanvirus.kr##.banner
-
-! 2020. 2. 19. http://www.etoland.co.kr
-www.etoland.co.kr##.middleAds
-www.etoland.co.kr###text_banner_td
-
-! 2020. 2. 19. http://zum.com
+etoland.co.kr##.middleAds
+etoland.co.kr###text_banner_td
 zum.com##.article_ad
-
-! 2020. 2. 20. https://torrentmin.com
 ||torrentmin.com/img/bannar114.jpg$image
 torrentmin.com##.hidden-xs.hidden-sm > .widget-box > div
 torrentmin.com##.at-side.at-col.col-md-3 > div.widget-box:nth-of-type(2) > div
-
-! 2020. 2. 20. https://www.bobaedream.co.kr
-www.bobaedream.co.kr##.Car_list
-
-! 2020. 2. 22. http://www.a3u3.com
+bobaedream.co.kr##.Car_list
 ||nz04com.com/aabdd/aaaddpics/*$image
-www.a3u3.com##p
-
-! 2020. 2. 23. https://nid.naver.com
-nid.naver.com##.otp_step_banner
-nid.naver.com##.diaper_banner
-
-! 2020. 2. 24. https://www.webtoonguide.com
-webtoonguide.com/8c/c5/*$domain=www.webtoonguide.com,image
-
-
-copytoon70.com##.w_banner
-copytoon70.com##.nav-fixed
-copytoon70.com##.at-go
-
-copytoon71.com##.w_banner
-copytoon71.com##.nav-fixed
-copytoon71.com##.at-go
-
-copytoon72.com##.w_banner
-copytoon72.com##.nav-fixed
-copytoon72.com##.at-go
-
-copytoon73.com##.w_banner
-copytoon73.com##.nav-fixed
-copytoon73.com##.at-go
-
-copytoon74.com##.w_banner
-copytoon74.com##.nav-fixed
-copytoon74.com##.at-go
-
-copytoon75.com##.w_banner
-copytoon75.com##.nav-fixed
-copytoon75.com##.at-go
-
-copytoon76.com##.w_banner
-copytoon76.com##.nav-fixed
-copytoon76.com##.at-go
-
-copytoon77.com##.w_banner
-copytoon77.com##.nav-fixed
-copytoon77.com##.at-go
-
-copytoon78.com##.w_banner
-copytoon78.com##.nav-fixed
-copytoon78.com##.at-go
-
-copytoon79.com##.w_banner
-copytoon79.com##.nav-fixed
-copytoon79.com##.at-go
-
+a3u3.com##p
+webtoonguide.com/8c/c5/*$domain=webtoonguide.com,image
 copytoon80.com##.w_banner
 copytoon80.com##.nav-fixed
 copytoon80.com##.at-go
-
 copytoon81.com##.w_banner
 copytoon81.com##.nav-fixed
 copytoon81.com##.at-go
-
 copytoon82.com##.w_banner
 copytoon82.com##.nav-fixed
 copytoon82.com##.at-go
-
 copytoon83.com##.w_banner
 copytoon83.com##.nav-fixed
 copytoon83.com##.at-go
-
 copytoon84.com##.w_banner
 copytoon84.com##.nav-fixed
 copytoon84.com##.at-go
-
 copytoon85.com##.w_banner
 copytoon85.com##.nav-fixed
 copytoon85.com##.at-go
-
 copytoon86.com##.w_banner
 copytoon86.com##.nav-fixed
 copytoon86.com##.at-go
-
 copytoon87.com##.w_banner
 copytoon87.com##.nav-fixed
 copytoon87.com##.at-go
-
 copytoon88.com##.w_banner
 copytoon88.com##.nav-fixed
 copytoon88.com##.at-go
-
 copytoon89.com##.w_banner
 copytoon89.com##.nav-fixed
 copytoon89.com##.at-go
-
 copytoon90.com##.w_banner
 copytoon90.com##.nav-fixed
 copytoon90.com##.at-go
-
-! 2020. 3. 8. https://torrentj.com
+copytoon91.com##.w_banner
+copytoon91.com##.nav-fixed
+copytoon91.com##.at-go
+copytoon92.com##.w_banner
+copytoon92.com##.nav-fixed
+copytoon92.com##.at-go
+copytoon93.com##.w_banner
+copytoon93.com##.nav-fixed
+copytoon93.com##.at-go
+copytoon94.com##.w_banner
+copytoon94.com##.nav-fixed
+copytoon94.com##.at-go
+copytoon95.com##.w_banner
+copytoon95.com##.nav-fixed
+copytoon95.com##.at-go
+copytoon96.com##.w_banner
+copytoon96.com##.nav-fixed
+copytoon96.com##.at-go
+copytoon97.com##.w_banner
+copytoon97.com##.nav-fixed
+copytoon97.com##.at-go
+copytoon98.com##.w_banner
+copytoon98.com##.nav-fixed
+copytoon98.com##.at-go
+copytoon99.com##.w_banner
+copytoon99.com##.nav-fixed
+copytoon99.com##.at-go
+copytoon100.com##.w_banner
+copytoon100.com##.nav-fixed
+copytoon100.com##.at-go
 torrentj.com###hd_pop
 ||torrentj.com/data/apms/background/*$image
-
-! 2020. 3. 8. http://www.hani.co.kr
-www.hani.co.kr###ad_tag
-
-! 2020. 3. 14. https://www.gasengi.com
-www.gasengi.com###copyright
-
-! 2020. 3. 18. https://www.flightradar24.com
-www.flightradar24.com###bottomRightPanelAdContainer
-www.flightradar24.com###responsiveBottomPanel
-
-! 2020. 3. 19. http://www.camwhoreshd.com
-frtyi.com$domain=www.camwhoreshd.com,subdocument
-strpjmp.com$domain=www.camwhoreshd.com,subdocument
-www.camwhoreshd.com##div.opt
-mcdlks.com$domain=www.camwhoreshd.com,subdocument
-
-! 2020. 4. 8. https://new-m.pay.naver.com
-new-m.pay.naver.com##.FloatingBanner_article__3045W
-
-! 2020. 4. 8. https://m.pay.naver.com
-m.pay.naver.com##.floating_banner
-m.pay.naver.com##.tooltip_green
-m.pay.naver.com##.layer_guide
-m.pay.naver.com##._easyBankToolTipEvent
-
-! 2020. 4. 8. http://www.ebn.co.kr
-www.ebn.co.kr###boxAd
-
-! 2020. 4. 9. https://www.pornhub.com
-www.pornhub.com##.sectionWrapper > .sectionWrapper
-www.pornhub.com##.nf-wrapper > .sectionWrapper
+hani.co.kr###ad_tag
+gasengi.com###copyright
+flightradar24.com###bottomRightPanelAdContainer
+flightradar24.com###responsiveBottomPanel
+frtyi.com$domain=camwhoreshd.com,subdocument
+strpjmp.com$domain=camwhoreshd.com,subdocument
+camwhoreshd.com##div.opt
+mcdlks.com$domain=camwhoreshd.com,subdocument
+ebn.co.kr###boxAd
+pornhub.com##.sectionWrapper > .sectionWrapper
+pornhub.com##.nf-wrapper > .sectionWrapper
 ||cdn1d-static-shared.phncdn.com/iframe-1.1.5.html$subdocument
-www.pornhub.com##.ad-link
-www.pornhub.com##.clear.hd
-
-! 2020. 4. 9. https://bbs.ruliweb.com
+pornhub.com##.ad-link
+pornhub.com##.clear.hd
 bbs.ruliweb.com##.ad_background
-
-! 2020. 4. 9. https://www.luckfile.com
-www.luckfile.com##.r336 > .ad970
-www.luckfile.com##.r336
-
-! 2020. 4. 10. https://www.pornhub.com
-www.pornhub.com###footer
-www.pornhub.com##.logoFooterWrapper
-www.pornhub.com##.footer
-
-! 2020. 4. 12. https://jp.pornhub.com
-jp.pornhub.com##.clear.hd
-
-! 2020. 4. 12. https://kissgoddess.com
+luckfile.com##.r336 > .ad970
+luckfile.com##.r336
+pornhub.com###footer
+pornhub.com##.logoFooterWrapper
+pornhub.com##.footer
+pornhub.com##.clear.hd
 kissgoddess.com###IL_INSEARCH
 kissgoddess.com###IL_IF_LEFT
 kissgoddess.com###IL_IF_RIGHT > .IL_BASE
-
-! 2020. 4. 12. http://cangjige.co
 cangjige.co##.banner
-
-! 2020. 4. 12. http://92av.today
 92av.today##div.row:nth-of-type(2)
-
-! 2020. 4. 12. https://bt-car.xyz
 bt-car.xyz##.offads
-
-! 2020. 4. 13. https://www.bobcat.com
-www.bobcat.com##.cookie-info
-
-! 2020. 4. 13. https://cz.pornhub.com
+bobcat.com##.cookie-info
 cz.pornhub.com##.clear.hd
-
-! 2020. 4. 13. https://www.pornhub.com
-www.pornhub.com##.sniperModeEngaged
-
-! 2020. 4. 13. https://xhamster.com
+pornhub.com##.sniperModeEngaged
 xhamster.com##.traffic-stars
 xhamster.com##footer
 xhamster.com##.ts-interstitial__mask
 xhamster.com##.ts-interstitial
-
-
-! 2020. 4. 17. https://xhamster11.com
 xhamster11.com##.right-rectangle
 xhamster11.com##.no-popunder.bottom-widget-section
 xhamster11.com##footer.no-popunder
@@ -4268,14 +3998,10 @@ xhamster11.com##.player-add-overlay
 xhamster11.com##.no-popunder.wih-spot-container.wih-player > .traffic-stars
 xhamster11.com##.dyltv-container
 xhamster11.com##.no-popunder.wih-spot-container.wih-player
-
-! 2020. 5. 8. https://xhamster11.com
 xhamster11.com##.wih-spa.no-popunder.wih-spb
 xhamsterpremium.com$domain=xhamster11.com,subdocument
 xhamster11.com##.no-popunder.wih-spb
 xhamster11.com##.promo-message
-
-! 2020. 5. 10. https://xhamster11.com
 xhamster11.com###dyltv-anchor
 xhamster11.com##.xh-dropdown.positioned.favorites-control
 xhamster11.com##.comments-control
@@ -4284,175 +4010,33 @@ xhamster11.com##.share-control.gray.xh-button
 xhamster11.com##.about-control.xh-button
 xhamster11.com##.positioned.popup.xh-dropdown.report-control
 xhamster11.com##div.controls__line:nth-of-type(6)
-
-! 2020. 4. 17. https://www.instagram.com
-www.instagram.com##.HcJZg.XfCBB._4EzTm.eGOV_.rBNOH.Igw0E
-
-! 2020. 5. 4. https://18japenis.tistory.com
+instagram.com##.HcJZg.XfCBB._4EzTm.eGOV_.rBNOH.Igw0E
 18japenis.tistory.com##.whiteBg
-
-! 2020. 5. 5. https://sports.news.naver.com
-||ssl.pstatic.net/static/sports/2019/pc/05/15/pc_relay_bg.png$image
-
-! 2020. 5. 9. https://www.xvideos.com
-www.xvideos.com##.remove-ads
-www.xvideos.com###footer
-
-! 2020. 5. 10. https://www.hlsloader.com
-www.hlsloader.com###section-howto
-www.hlsloader.com##div.grid-lg.container:nth-of-type(3)
-www.hlsloader.com##section.bg-gray.section:nth-of-type(2)
-www.hlsloader.com##div.col-12.column.docs-content:nth-of-type(4)
-www.hlsloader.com##body > center
-www.hlsloader.com##div.col-12.column.docs-content:nth-of-type(2)
-
-! 2020. 5. 19. https://m.naver.com
-m.naver.com##.nmap_wrapper
-m.naver.com##.css_banner_wrap
-m.naver.com##.csb_banner
-
-! 2020. 5. 19. https://toonsarang.space
+xvideos.com##.remove-ads
+xvideos.com###footer
+hlsloader.com###section-howto
+hlsloader.com##div.grid-lg.container:nth-of-type(3)
+hlsloader.com##section.bg-gray.section:nth-of-type(2)
+hlsloader.com##div.col-12.column.docs-content:nth-of-type(4)
+hlsloader.com##body > center
+hlsloader.com##div.col-12.column.docs-content:nth-of-type(2)
 toonsarang.space##.w_banner
 toonsarang.space##.bottom-navbar > div:nth-of-type(1)
-
-! 2020. 5. 19. http://shop.danawa.com
-shop.danawa.com##.mid_banner_area
-
-! 2020. 5. 29. https://www.naver.com
-www.naver.com###NM_TOP_BANNER
-
-! 2020. 6. 3. https://toonkor4.net
+danawa.com##.mid_banner_area
 toonkor4.net##.top_banner
 toonkor4.net##.alert_windows
 toonkor4.net###toon_img > div:nth-of-type(1)
 toonkor4.net###toon_img > div:nth-of-type(2)
 toonkor4.net###toon_img > div:nth-of-type(3)
 toonkor4.net##.tail-logo
-
-! 2020. 6. 5. https://search.shopping.naver.com
-search.shopping.naver.com##.banners_banner_area__1OxCJ
-search.shopping.naver.com##.powerLink_power_link__1ER1P
-
-! 2020. 6. 5. https://new-m.pay.naver.com
-new-m.pay.naver.com##.NaverMembership_article__2L48j
-new-m.pay.naver.com##.Footer_android_add__1kibp
-new-m.pay.naver.com##.ADBanner_banner__2zxkA
-
-! 2020. 6. 5. https://m.shopping.naver.com
-m.shopping.naver.com##.ad_banner--30-dET0UAN
-m.shopping.naver.com##.N\=a\:fot\.shortcut._3zf8j_eWy9
-m.shopping.naver.com##.nv-openmain._13MDKIxtSc
-
-! 2020. 6. 5. https://smartstore.naver.com
-smartstore.naver.com##.naverplus.banner_benefit_type_color
-smartstore.naver.com##.N\=a\:pcs\.safe.safety_guide
-smartstore.naver.com##._easy_purchase_hide_area.checkout
-smartstore.naver.com##.benefit
-
-! 2020. 6. 5. https://www.naver.com
-www.naver.com###NM_scroll_top_btn
-www.naver.com##.btn_theme
-www.naver.com##.link_set
-www.naver.com##.sa_bar
-
-! 2020. 6. 5. https://www.welkeepsmall.com
-www.welkeepsmall.com###footer
-
-! 2020. 6. 5. https://sports.news.naver.com
-sports.news.naver.com##.play_head
-
-! 2020. 6. 5. https://smartstore.naver.com
-smartstore.naver.com##.module_banner_benefit
-
-! 2020. 6. 7. https://torrentmin5.com
+welkeepsmall.com###footer
 torrentmin5.com###hd_pop
 torrentmin5.com##.scale
-
-! 2020. 6. 7. https://shopping.naver.com
-shopping.naver.com##.ad_banner--1ze7QPF2Hc
-shopping.naver.com##.footer--1BZMDhB0Vd
-shopping.naver.com##.footer_area
-
-! 2020. 6. 7. https://order.pay.naver.com
-order.pay.naver.com###footer
-
-! 2020. 6. 7. https://section.cafe.naver.com
-section.cafe.naver.com###footer
-
-! 2020. 6. 7. https://section.blog.naver.com
-section.blog.naver.com###footer
-
-! 2020. 6. 7. https://kin.naver.com
-kin.naver.com##.footer_wrap
-
-! 2020. 6. 7. https://tv.naver.com
-tv.naver.com###footer
-
-! 2020. 6. 7. https://dict.naver.com
-dict.naver.com###footer
-
-! 2020. 6. 7. https://news.naver.com
-news.naver.com###footer
-
-! 2020. 6. 7. https://finance.naver.com
-finance.naver.com###footer
-
-! 2020. 6. 7. https://land.naver.com
-land.naver.com###footer
-
-! 2020. 6. 7. https://movie.naver.com
-movie.naver.com###footer
-
-! 2020. 6. 7. https://vibe.naver.com
-vibe.naver.com##.footer
-
-! 2020. 6. 7. https://book.naver.com
-book.naver.com###footer
-
-! 2020. 6. 7. https://comic.naver.com
-comic.naver.com###footer
-
-! 2020. 6. 7. https://www.naver.com
-www.naver.com###footer
-
-! 2020. 6. 7. https://torrentj8.com
 torrentj8.com###hd_pop
-
-! 2020. 6. 7. http://play.afreecatv.com
 play.afreecatv.com##.on.user_clip
-
-! 2020. 6. 8. https://torrentsir7.com
 torrentsir7.com###hd_pop
-
-! 2020. 6. 8. https://m.shopping.naver.com
-m.shopping.naver.com##.link_banner
-m.shopping.naver.com##.g_center_area
-
-! 2020. 6. 8. https://m.cafe.naver.com
-m.cafe.naver.com##.footer_lnb
-m.cafe.naver.com##.copyright
-
-! 2020. 6. 8. https://m.shopping.naver.com
-m.shopping.naver.com##.N\=a\:myh\.memn._3nzmAXXzVC
-
-! 2020. 6. 8. https://m.smartstore.naver.com
-m.smartstore.naver.com##.N\=a\:pcs\.mem
-
-! 2020. 6. 9. https://www.1300k.com
-www.1300k.com###top_banner
-
-! 2020. 6. 9. https://shopping.naver.com
-shopping.naver.com##.N\=a\:banner\.mem
-shopping.naver.com##._29eI_4LiZs
-shopping.naver.com##.active._3RgDbsur5E
-shopping.naver.com##._3j6cs2yJiv
-
-! 2020. 6. 10. https://shopping.naver.com
-shopping.naver.com##._37c1kBQ0P5
-
-! 2020. 6. 10. https://order.pay.naver.com
-order.pay.naver.com##.pointplus_benefit
-order.pay.naver.com##._paymentInfoArea
-order.pay.naver.com##.guide_box
-order.pay.naver.com##._skipEasyCardLayer
-order.pay.naver.com##._chargedPointPaymentTab.payment_method_tab.paymethod
+1300k.com###top_banner
+rgtorrent.org###hd_pop
+rgtorrent.org###banner_top_list_wrap
+rgtorrent.org##.banner
+coronamask.kr##.mb-4.py-3.px-4.text-green-700.border-green-500.border-b.border-t.bg-green-100
