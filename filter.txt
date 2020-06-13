@@ -1,4 +1,4 @@
-!-- 2020.06.13 A
+!-- 2020.06.13 B
 
 !--통합
 
@@ -12,6 +12,7 @@
 */bn_img/*
 */adimg/*
 ##.adsensemain
+addevent.php
 
 !-- 광고
 tsyndicate.com
@@ -894,6 +895,7 @@ naver.com##._33SZavfsQK
 naver.com##.Alarm_article__3zIBN
 naver.com##.cnm_membership_group
 naver.com##.footer_legal
+naver.com##.msg_keybord
 
 !-- 동영상
 
@@ -4040,3 +4042,13 @@ rgtorrent.org###hd_pop
 rgtorrent.org###banner_top_list_wrap
 rgtorrent.org##.banner
 coronamask.kr##.mb-4.py-3.px-4.text-green-700.border-green-500.border-b.border-t.bg-green-100
+
+! 2020. 6. 13. https://order.pay.naver.com
+order.pay.naver.com##.membership_sc
+
+! 2020. 6. 13. https://toonkor6.net
+toonkor6.net##.alert_windows
+toonkor6.net##.top_banner
+toonkor6.net###toon_img > div:nth-of-type(1)
+toonkor6.net###toon_img > div:nth-of-type(2)
+toonkor6.net###toon_img > div:nth-of-type(3)
