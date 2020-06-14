@@ -1,4 +1,4 @@
-!-- 2020.06.15 A
+!-- 2020.06.15 B
 
 !--통합
 
@@ -763,7 +763,6 @@ naver.com##.ad.bx_area
 naver.com##li._itemSection.ad
 naver.com##.banner_section
 naver.com##.banner_add
-naver.com##.banner
 naver.com###_banner_area_
 naver.com##._banner_link
 naver.com##._chatBanner
@@ -875,17 +874,6 @@ naver.com##._29eI_4LiZs
 naver.com##.active._3RgDbsur5E
 naver.com##._3j6cs2yJiv
 naver.com##._37c1kBQ0P5
-naver.com##.pointplus_benefit
-naver.com##._paymentInfoArea
-naver.com##.guide_box
-naver.com##._skipEasyCardLayer
-naver.com##._chargedPointPaymentTab.payment_method_tab.paymethod
-naver.com##._discountOptimizationFailHelpLayer
-naver.com##.ly_naverbank_ad
-naver.com##.type_small.tooltip
-naver.com##._benefitAreaDisplayStatus._payEventHeader.benefit_fold_panel.spot_benefit_pay
-naver.com###MM_aside_qr_checkin_tooltip
-naver.com###MM_aside_popup_notification
 naver.com##.SubTabMenu_tooltip__3Rk7K
 naver.com##.footer_info_area--3ZEjxOtBjD
 naver.com##.Footer_article__2dUDI
@@ -904,6 +892,17 @@ naver.com##.cp_list
 naver.com##.IntroPCFooter__root___1NCDg
 naver.com##.btn_top
 naver.com##.main_banner
+naver.com###MM_aside_popup_notification
+naver.com###qrTooltip
+naver.com##.pointplus_benefit
+naver.com##.guide_box
+naver.com##._skipEasyCardLayer
+naver.com##._chargedPointPaymentTab.payment_method_tab.paymethod
+naver.com##._discountOptimizationFailHelpLayer
+naver.com##.ly_naverbank_ad
+naver.com##.type_small.tooltip
+naver.com##._benefitAreaDisplayStatus._payEventHeader.benefit_fold_panel.spot_benefit_pay
+naver.com###MM_aside_qr_checkin_tooltip
 naver.com###MM_aside_popup_notification
 
 !-- 동영상
