@@ -1,4 +1,4 @@
-!-- 2020.06.13 B
+!-- 2020.06.15 A
 
 !--통합
 
@@ -896,6 +896,15 @@ naver.com##.Alarm_article__3zIBN
 naver.com##.cnm_membership_group
 naver.com##.footer_legal
 naver.com##.msg_keybord
+naver.com##.membership_sc
+naver.com###continuous_player_tooltip
+naver.com##.mall_area
+naver.com###floatingTopAnchor
+naver.com##.cp_list
+naver.com##.IntroPCFooter__root___1NCDg
+naver.com##.btn_top
+naver.com##.main_banner
+naver.com###MM_aside_popup_notification
 
 !-- 동영상
 
@@ -4042,11 +4051,6 @@ rgtorrent.org###hd_pop
 rgtorrent.org###banner_top_list_wrap
 rgtorrent.org##.banner
 coronamask.kr##.mb-4.py-3.px-4.text-green-700.border-green-500.border-b.border-t.bg-green-100
-
-! 2020. 6. 13. https://order.pay.naver.com
-order.pay.naver.com##.membership_sc
-
-! 2020. 6. 13. https://toonkor6.net
 toonkor6.net##.alert_windows
 toonkor6.net##.top_banner
 toonkor6.net###toon_img > div:nth-of-type(1)
