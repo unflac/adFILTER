@@ -1,4 +1,4 @@
-!-- 2020.06.15 B
+!-- 2020.06.15 C
 
 !--통합
 
@@ -904,6 +904,11 @@ naver.com##.type_small.tooltip
 naver.com##._benefitAreaDisplayStatus._payEventHeader.benefit_fold_panel.spot_benefit_pay
 naver.com###MM_aside_qr_checkin_tooltip
 naver.com###MM_aside_popup_notification
+naver.com##._chargeBenefitPoint.tooltip_charge.N\=a\:ode\.chargebenefit
+naver.com##.paymentMethodStatementArea.guide_layer.error_info
+naver.com##._chargePointAdditionalBenefit._chargePointNoticeText.charge_description
+naver.com##._skipGeneralPayLayer._skipLayer.fix.layer_event
+naver.com##.tooltip_event
 
 !-- 동영상
 
