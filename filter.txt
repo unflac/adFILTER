@@ -1,4 +1,4 @@
-!-- 2020.06.16 A
+!-- 2020.06.17 A
 
 !--통합
 
@@ -915,10 +915,16 @@ naver.com##.button_top--3exQKAZh3n
 naver.com##.footer_inner
 naver.com##.footer
 naver.com##.ScrollTopButton_scroll_top_button__12eIN
+naver.com##.button_scrolltop
+naver.com##.N\=a\:itm\.membanner
+naver.com##.N\=a\:itm\.paypoint
+naver.com##.N\=a\:itm\.memlink
+naver.com##.N\=a\:itm\.mkt
 
 vlive.tv###footer
 vlive.tv##.btn_top_area
 
+talk.naver.com###footer
 weather.naver.com###footer
 post.naver.com###footer
 news.naver.com###footer
