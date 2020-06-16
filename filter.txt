@@ -1,4 +1,4 @@
-!-- 2020.06.15 C
+!-- 2020.06.16 A
 
 !--통합
 
@@ -856,21 +856,6 @@ naver.com##.btn_theme
 naver.com##.link_set
 naver.com##.sa_bar
 naver.com##.play_head
-naver.com##.module_banner_benefit
-naver.com##.ad_banner--1ze7QPF2Hc
-naver.com##.footer--1BZMDhB0Vd
-naver.com##.footer_area
-naver.com###footer
-naver.com##.footer_wrap
-naver.com##.footer
-naver.com##.link_banner
-naver.com##.g_center_area
-naver.com##.footer_lnb
-naver.com##.copyright
-naver.com##.N\=a\:myh\.memn._3nzmAXXzVC
-naver.com##.N\=a\:pcs\.mem
-naver.com##.N\=a\:banner\.mem
-naver.com##._29eI_4LiZs
 naver.com##.active._3RgDbsur5E
 naver.com##._3j6cs2yJiv
 naver.com##._37c1kBQ0P5
@@ -886,7 +871,6 @@ naver.com##.footer_legal
 naver.com##.msg_keybord
 naver.com##.membership_sc
 naver.com###continuous_player_tooltip
-naver.com##.mall_area
 naver.com###floatingTopAnchor
 naver.com##.cp_list
 naver.com##.IntroPCFooter__root___1NCDg
@@ -909,6 +893,55 @@ naver.com##.paymentMethodStatementArea.guide_layer.error_info
 naver.com##._chargePointAdditionalBenefit._chargePointNoticeText.charge_description
 naver.com##._skipGeneralPayLayer._skipLayer.fix.layer_event
 naver.com##.tooltip_event
+naver.com##.banner_link
+naver.com##.MyBankbookInfoCard_article__MJEOM
+naver.com##.ArticleFormBanner
+naver.com##.N\=a\:myh\.memn._3nzmAXXzVC
+naver.com##.N\=a\:pcs\.mem
+naver.com##.N\=a\:banner\.mem
+naver.com##._29eI_4LiZs
+naver.com##.footer
+naver.com##.link_banner
+naver.com##.g_center_area
+naver.com##.footer_lnb
+naver.com##.module_banner_benefit
+naver.com##.ad_banner--1ze7QPF2Hc
+naver.com##.footer--1BZMDhB0Vd
+naver.com##.footer_area
+naver.com##.copyright
+naver.com##.footer_wrap
+naver.com###bannerExpert
+naver.com##.button_top--3exQKAZh3n
+naver.com##.footer_inner
+naver.com##.footer
+naver.com##.ScrollTopButton_scroll_top_button__12eIN
+
+vlive.tv###footer
+vlive.tv##.btn_top_area
+
+weather.naver.com###footer
+post.naver.com###footer
+news.naver.com###footer
+comic.naver.com###footer
+band.us###footer
+band.us##.appDownloadArea
+land.naver.com###footer
+bookmark.naver.com###footer
+software.naver.com###footer
+series.naver.com###footer
+series.naver.com##.second_stage
+serieson.naver.com###footer
+movie.naver.com###footer
+novel.naver.com###footer
+auto.naver.com###footer
+finance.naver.com###footer
+terms.naver.com###footer
+book.naver.com###footer
+me.naver.com###footer
+game.naver.com###footer
+entertain.naver.com###footer
+dict.naver.com###footer
+pay.naver.com###footer
 
 !-- 동영상
 
@@ -4060,3 +4093,7 @@ toonkor6.net##.top_banner
 toonkor6.net###toon_img > div:nth-of-type(1)
 toonkor6.net###toon_img > div:nth-of-type(2)
 toonkor6.net###toon_img > div:nth-of-type(3)
+gmarket.co.kr##.box__component-sponsor-link
+auction.co.kr##.component--sponsor_link
+funshop.co.kr##.smartbar-popup
+youtube.com##.ytd-rich-section-renderer.style-scope
