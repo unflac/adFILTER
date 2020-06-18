@@ -1,4 +1,4 @@
-!-- 2020.06.17 A
+!-- 2020.06.19 A
 
 !--통합
 
@@ -12,6 +12,7 @@
 */bn_img/*
 */adimg/*
 ##.adsensemain
+##.ads-module-wrapper
 addevent.php
 
 !-- 광고
@@ -22,6 +23,7 @@ realsrv.co
 stunninglover.com
 otaserve.net
 adnium.com
+mediacategory.com
 ads-partners.coupang.com
 tinypic.com
 913vt.com
@@ -875,7 +877,6 @@ naver.com###floatingTopAnchor
 naver.com##.cp_list
 naver.com##.IntroPCFooter__root___1NCDg
 naver.com##.btn_top
-naver.com##.main_banner
 naver.com###MM_aside_popup_notification
 naver.com###qrTooltip
 naver.com##.pointplus_benefit
@@ -920,6 +921,9 @@ naver.com##.N\=a\:itm\.membanner
 naver.com##.N\=a\:itm\.paypoint
 naver.com##.N\=a\:itm\.memlink
 naver.com##.N\=a\:itm\.mkt
+naver.com##.ly_tutorial
+naver.com##.ly_help
+naver.com##.ms_membership
 
 vlive.tv###footer
 vlive.tv##.btn_top_area
@@ -990,6 +994,11 @@ youtube.com###root-container
 youtube.com##ytd-compact-video-renderer.ytd-watch-next-secondary-results-renderer.style-scope
 youtube.com###spinner
 youtube.com###footer
+youtube.com##.ytd-rich-item-renderer
+youtube.com###title.ytd-rich-grid-renderer
+youtube.com##.ytd-rich-section-renderer.style-scope
+youtube.com##ytd-popup-container.ytd-app.style-scope
+youtube.com##.opened
 
 !-- 아프리카
 
@@ -1034,11 +1043,20 @@ google.com##.aKB
 !-- 가생이
 
 gasengi.com/ad/*
+gasengi.com/img/logo_top.gif$domain=gasengi.com,image
 
 gasengi.com##.quick_m
 gasengi.com###ad_powerlink_div
 gasengi.com###leftcolumn > div:nth-of-type(5)
 gasengi.com###aswift_0_expand
+gasengi.com##li.cursor.top_l01
+gasengi.com###copyright
+gasengi.com##.board_list > tbody > tr:has-text(국가에충성)
+gasengi.com###commentContents > table:has-text(국가에충성)
+gasengi.com##.board_list > tbody > tr:has-text(a문재인)
+gasengi.com###commentContents > table:has-text(a문재인)
+gasengi.com##.board_list > tbody > tr:has-text(고통번뇌)
+gasengi.com###commentContents > table:has-text(고통번뇌)
 
 !-- 다음
 
@@ -1835,14 +1853,6 @@ gamemeca.com###mobiDiv
 gamemeca.com###aswift_0_expand
 gamemeca.com##.mobile_top_ad
 
-!-- 게임조선
-
-gamechosun.co.kr###FloatLayer1
-gamechosun.co.kr##.main_back
-gamechosun.co.kr##.top_event
-gamechosun.co.kr##.adMobile
-gamechosun.co.kr###foot_banner01
-
 !-- 온라이프
 
 onlifezone.com/ad/*
@@ -2124,28 +2134,6 @@ dcinside.com##.evt_content
 dcinside.com##.power_click
 dcinside.com###zzbang_div
 
-!-- 조선일보
-
-chosun.com/RealMedia/ads/*$domain=biz.chosun.com,subdocument
-
-chosun.com##.ad_gg_top
-chosun.com##.h_top_bnr
-chosun.com##.biz_right_ad
-chosun.com##.biz_left_ad
-chosun.com##p > span
-chosun.com##div.list_ad
-chosun.com##.ad1
-chosun.com##.par > span
-chosun.com###banner_main
-chosun.com###banner_main1
-chosun.com###banner_main2
-chosun.com##div.art_ad
-chosun.com##div.art_ad1
-chosun.com##div.art_ad2
-chosun.com##.art_ad
-chosun.com##.art_ad1
-chosun.com##.art_ad2
-chosun.com##.ad_m_bottom
 
 !-- 헝그리앱
 
@@ -2523,7 +2511,6 @@ tube8.com###catFishBanner
 tube8.com##.rightColBanner
 tube8.com##.underplayerBanner
 tube8.com##.footerBanner
-ohmynews.com##.ad-top
 xvideos.com###video-ad
 xvideos.com###ad-footer
 xvideos.com###ad-tower-div
@@ -2623,12 +2610,10 @@ thzvv.net##body > div:nth-of-type(4)
 alicdn.com/img/*
 thzvv.net##.portal_block_summary
 etoday.co.kr##div.right_ad
-sbs.co.kr##.side_banner_w
 ngry.tv##body > div:nth-of-type(5)
 ngry.tv##body > div:nth-of-type(4)
 ngry.tv##body > div:nth-of-type(3)
 ngry.tv###hd_pop
-chosun.com##div.ad_aside_box
 anewsa.com##.logo_left
 anewsa.com###wp_edge_mobon
 mirror.co.uk##.top-slot.gpt
@@ -2661,12 +2646,6 @@ ads.exoclick.com
 origin-ads.exoclick.com
 52av.tv##.a_cn
 kissjav.com###player-advertising
-news.hankyung.com##.ad_top
-news.hankyung.com##.ad_img
-news.hankyung.com##.major.asidemodule > .ad_list
-news.hankyung.com##div.ad_module_wrap
-news.hankyung.com##.fltAd
-hankyung.com##div.ad_img
 hentaku.net###ad
 hentaku.net###leftmenu3
 hentaku.net/ad/*
@@ -2731,18 +2710,12 @@ mydaily.co.kr###ad_right
 mydaily.co.kr/ad/*
 semoya.net##div.banner_top
 semoya.net##.banner_inner
-khan.co.kr##.article_bottom_ad
-khan.co.kr##.ad_movFocus2
-khan.co.kr##.ad_top
-khan.co.kr##.ad_bn_200
 huffingtonpost.kr###newsletter-toaster
 semoya.net###hd_pop
 sogirl.co##.textwidget
 sogirl.co##.happy-sidebar
 sogirl.co##.ad_before
 sogirl.co##.happy-under-player
-hankyung.com##.amp-bottom-ad
-hankyung.com##.amp-md-ad
 filetender.com###logo
 filetender.com/images/steps_wide.png
 filetender.com###wrap > div:nth-of-type(1)
@@ -2771,20 +2744,7 @@ nate.com##.area_ad07
 nate.com##.area_ad08
 nate.com##.area_ad09
 nate.com##.area_ad10
-khan.co.kr##.ad_movFocus
-khan.co.kr##.realssp
-khan.co.kr###left_wingBanner
 shinailbo.co.kr###scrollDiv
-ohmynews.com###dvCenterAd
-ohmynews.com##.ad_scroll
-ohmynews.com##div.aside_ad320
-ohmynews.com##.ad_area
-ohmynews.com##.ad_scroll
-ohmynews.com##.adTop
-ohmynews.com##.aside_ad
-ohmynews.com##div.ad_area620
-ohmynews.com##.more_at_box
-ohmynews.com##.ad_footer
 minnano-av.com##.bn250
 minnano-av.com/top_center_bn/*
 242j.com##.a2_h.wp > center
@@ -2971,8 +2931,6 @@ yna.co.kr##.section-ad-adtive
 yna.co.kr##.section-add
 yna.co.kr##.section-ad-joyinfo
 etoland.co.kr##.reft_hit_banner
-chosun.com###sc_floating
-chosun.com##.top_banner
 joynews24.com##.view200
 joynews24.com##.ad-head
 joynews24.com##.h125px
@@ -2982,9 +2940,6 @@ joynews24.com##.right-wing
 joynews24.com##.left-wing
 joynews24.com##.h200px
 joynews24.com##.h160px
-chosun.com##.news_ad_top
-chosun.com##.ad_ss_left
-chosun.com##.ad_ss_right
 sportalkorea.com##.pb_area
 heraldcorp.com###contents_ad_right
 torrentmal.com/img/ad/*
@@ -3025,7 +2980,6 @@ popjav.tv##body > div:nth-of-type(2)
 popjav.tv##.poplayer
 popjav.tv##.video-boxad
 bt.co###adslider
-chosun.com##.link_type02_box
 segye.com##.news_topad
 hellven.net/data/apms/banner/*
 hellven.net##a.thumbnail
@@ -3035,8 +2989,6 @@ minnano-av.com###side-bar > div:nth-of-type(1)
 danawa.com###leftEnlargeBanner
 danawa.com##li.spc_banner
 danawa.com###big_banner_visual
-hankyung.com##.ad_top
-hankyung.com##div.ad_module_wrap
 zmntv.net###aside_box
 zmntv.net##.latest-tab-A.fixed
 zmntv.net###aside
@@ -3660,12 +3612,6 @@ wowtv.co.kr##.quickMenu
 yna.co.kr##.fixed-bnr03
 nate.com##.ad160x600
 skyedaily.com###SideBannerRight
-chosun.com##.special_banner
-chosun.com##.btn_banner_mt100
-chosun.com###news_go_id
-chosun.com##.banner_sub_tit
-chosun.com##.top_ad1
-chosun.com##.top_ad2
 richtv365.com##.content_widget_bar
 namu.live##.ad
 tvdaily.co.kr/banner/*
@@ -3706,11 +3652,6 @@ viewsync.net###playerInfo-container-2
 viewsync.net###playerInfo-container-3
 viewsync.net###playerInfo-container-4
 viewsync.net###playerInfo-container-0
-hankyung.com##.info_time.asidemodule
-hankyung.com##.hot_today.asidemodule
-hankyung.com##.info_today.asidemodule
-hankyung.com##div.isuue_plus_module > .tit_module
-hankyung.com##.fltAd
 dmm.co.jp###buyee-alliance-banner
 busan.com/nas/wcms/public/pc/images/*$domain=mobile.busan.com,image
 seoul.co.kr###sbaAboutDiv
@@ -3775,15 +3716,12 @@ newsen.com###left_banner
 newsen.com###right_banner
 newsen.com###news_banner
 torrentbe.com###down_notice
-gasengi.com##li.cursor.top_l01
 joins.com##.article_list_in_ad
 joins.com###right_banner250
 joins.com##div.ad_banner_250x250
 kmib.co.kr##.m_ad
 kmib.co.kr##.ad_bottom_floating
 washingtonpost.com##.ad-hideable
-sbs.co.kr###sn_banner_article_bottom
-sbs.co.kr##.ad_area
 assi27.com##div.btv_lbox:nth-of-type(6)
 assi27.com###section2 > div.btv_lbox:nth-of-type(7) > div:nth-of-type(1)
 assi27.com###section2 > div:nth-of-type(4)
@@ -3846,7 +3784,6 @@ keepvid.pro##.support-site
 keepvid.pro##.header
 keepvid.pro###slogan
 keepvid.pro##.video-converter
-gasengi.com/img/logo_top.gif$domain=gasengi.com,image
 mangazuki.co##.ads-large
 mangazuki.co##.ads-sqre1
 webtoonguide.com##.pc-notice-banner
@@ -3887,8 +3824,6 @@ webtoonguide.com##.right-sky-pos
 webtoonguide.com##.global-footer
 lewat.club##.klikdisini
 raws.mangazuki.co###disqus_thread
-youtube.com##.ytd-rich-item-renderer
-youtube.com###title.ytd-rich-grid-renderer
 justoon.co.kr##.viewer_work_banner
 justoon.co.kr##.bn_free_charge
 justoon.co.kr##.recom
@@ -4011,7 +3946,6 @@ copytoon100.com##.at-go
 torrentj.com###hd_pop
 ||torrentj.com/data/apms/background/*$image
 hani.co.kr###ad_tag
-gasengi.com###copyright
 flightradar24.com###bottomRightPanelAdContainer
 flightradar24.com###responsiveBottomPanel
 frtyi.com$domain=camwhoreshd.com,subdocument
@@ -4102,4 +4036,181 @@ toonkor6.net###toon_img > div:nth-of-type(3)
 gmarket.co.kr##.box__component-sponsor-link
 auction.co.kr##.component--sponsor_link
 funshop.co.kr##.smartbar-popup
-youtube.com##.ytd-rich-section-renderer.style-scope
+
+!-- 경향신문
+
+khan.co.kr##.article_bottom_ad
+khan.co.kr##.ad_movFocus2
+khan.co.kr##.ad_top
+khan.co.kr##.ad_bn_200
+khan.co.kr##.ad_movFocus
+khan.co.kr##.realssp
+khan.co.kr###left_wingBanner
+khan.co.kr##.ad_highlight_tf
+khan.co.kr##.wrap_ad_cont_btm
+khan.co.kr##.ad_movFocus3
+khan.co.kr##.banner
+khan.co.kr##div.ad_asideBtm
+khan.co.kr##.ad_popularInfo
+khan.co.kr##.ad_ebaysb
+khan.co.kr##.nzine_banner_sub
+khan.co.kr##.btn_area
+khan.co.kr###footer
+khan.co.kr###adFrame1
+khan.co.kr###adFrame2
+khan.co.kr###adFrame3
+khan.co.kr###adFrame4
+khan.co.kr###adFrame5
+khan.co.kr###adFrame6
+khan.co.kr###adFrame7
+khan.co.kr###adFrame8
+khan.co.kr###adFrame9
+khan.co.kr##.ad_typeA
+khan.co.kr##.ad_typeB
+khan.co.kr##.ad_typeC
+khan.co.kr##.ad_new.art_btm_text
+khan.co.kr##.ad_cont
+khan.co.kr###adTCF
+khan.co.kr###adBCC > .art_btm_text.grid_c
+khan.co.kr##.wrap_bnr_shortcut
+khan.co.kr##.article-view-bnr
+khan.co.kr##.ad_article_view
+
+!-- 조선일보
+
+/images/banner/*$domain=chosun.com,image
+chosun.com/RealMedia/ads/*$domain=biz.chosun.com,subdocument
+chosun.com/common/inc/main_right_banner*.asp$subdocument
+
+gamechosun.co.kr###FloatLayer1
+gamechosun.co.kr##.main_back
+gamechosun.co.kr##.top_event
+gamechosun.co.kr##.adMobile
+gamechosun.co.kr###foot_banner01
+
+chosun.com##.ad_gg_top
+chosun.com##.h_top_bnr
+chosun.com##.biz_right_ad
+chosun.com##.biz_left_ad
+chosun.com##p > span
+chosun.com##div.list_ad
+chosun.com##.ad1
+chosun.com##.par > span
+chosun.com###banner_main
+chosun.com###banner_main1
+chosun.com###banner_main2
+chosun.com##div.art_ad
+chosun.com##div.art_ad1
+chosun.com##div.art_ad2
+chosun.com##.art_ad
+chosun.com##.art_ad1
+chosun.com##.art_ad2
+chosun.com##.ad_m_bottom
+chosun.com##div.ad_aside_box
+chosun.com###sc_floating
+chosun.com##.top_banner
+chosun.com##.news_ad_top
+chosun.com##.ad_ss_left
+chosun.com##.ad_ss_right
+chosun.com##.link_type02_box
+chosun.com##.special_banner
+chosun.com##.btn_banner_mt100
+chosun.com###news_go_id
+chosun.com##.banner_sub_tit
+chosun.com##.top_ad1
+chosun.com##.top_ad2
+chosun.com##.right_sp_banner
+chosun.com##.left_sp_banner
+chosun.com##.tech_banner
+chosun.com##.service_banner
+chosun.com###leftbanner
+chosun.com##div.center_bar_banner
+chosun.com##.ad2
+chosun.com###out_pop3
+chosun.com##.topbanner_m
+chosun.com###Layer_pop1
+chosun.com###Layer_pop2
+chosun.com###out_pop
+chosun.com##.ad
+chosun.com##.sec_ad_bottom
+chosun.com###go_top_id
+chosun.com##.spe_banner_pop
+chosun.com##.mask_bg
+chosun.com##.mcs_copyright
+chosun.com###adbay_floatingid
+chosun.com##.adboxb
+chosun.com##.article_ad_mid
+chosun.com##.main_promo_bottom
+
+!-- 오마이뉴스
+
+ohmynews.com##.ad-top
+ohmynews.com###dvCenterAd
+ohmynews.com##.ad_scroll
+ohmynews.com##div.aside_ad320
+ohmynews.com##.ad_area
+ohmynews.com##.ad_scroll
+ohmynews.com##.adTop
+ohmynews.com##.aside_ad
+ohmynews.com##div.ad_area620
+ohmynews.com##.more_at_box
+ohmynews.com##.ad_footer
+ohmynews.com##.adSub
+ohmynews.com###scrollTop
+ohmynews.com##.new_ad
+ohmynews.com##.new_ad1
+ohmynews.com##.new_ad2
+ohmynews.com##.new_ad3
+ohmynews.com##.new_ad4
+ohmynews.com##.new_ad5
+ohmynews.com##.new_ad6
+ohmynews.com##.new_ad7
+ohmynews.com##.new_ad8
+ohmynews.com##.new_ad9
+ohmynews.com##.new_ad10
+ohmynews.com##.new_ad11
+ohmynews.com##.new_ad12
+ohmynews.com##.new_ad13
+ohmynews.com##.new_ad14
+ohmynews.com##.new_ad15
+ohmynews.com##.new_ad16
+ohmynews.com##.new_ad17
+ohmynews.com##.new_ad18
+ohmynews.com##.new_ad19
+ohmynews.com##.new_ad20
+
+!-- 블로터
+
+bloter.net##.home-ad--wide-banner__wrapper
+bloter.net###left-banner-area
+bloter.net##.wp-dfp__container
+
+!-- 한국경제
+
+hankyung.com/img/www/w/main/main-banner-tenaudio2.jpg$domain=www.hankyung.com,image
+
+hankyung.com/popup
+hankyung.com##.ad_top
+hankyung.com##.ad_img
+hankyung.com##.ad_list
+hankyung.com##div.ad_module_wrap
+hankyung.com##.fltAd
+hankyung.com##div.ad_img
+hankyung.com##.amp-bottom-ad
+hankyung.com##.amp-md-ad
+hankyung.com##.ad_top
+hankyung.com##div.ad_module_wrap
+hankyung.com##.info_time.asidemodule
+hankyung.com##.hot_today.asidemodule
+hankyung.com##.info_today.asidemodule
+hankyung.com##div.isuue_plus_module > .tit_module
+hankyung.com##.fltAd
+hankyung.com##.btn_top_wrap
+
+!-- SBS
+
+sbs.co.kr###sn_banner_article_bottom
+sbs.co.kr##.ad_area
+sbs.co.kr##.side_banner_w
+sbs.co.kr##.w_btn_top
+sbs.co.kr##.w_banner
