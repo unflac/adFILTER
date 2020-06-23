@@ -1,4 +1,4 @@
-!-- 2020.06.23 A
+!-- 2020.06.23 B
 
 !--통합
 
@@ -903,7 +903,6 @@ naver.com##.N\=a\:myh\.memn._3nzmAXXzVC
 naver.com##.N\=a\:pcs\.mem
 naver.com##.N\=a\:banner\.mem
 naver.com##._29eI_4LiZs
-naver.com##.footer
 naver.com##.link_banner
 naver.com##.g_center_area
 naver.com##.footer_lnb
@@ -915,8 +914,20 @@ naver.com##.copyright
 naver.com##.footer_wrap
 naver.com###bannerExpert
 naver.com##.button_top--3exQKAZh3n
+naver.com##.on.ly_dim
 naver.com##.footer_inner
-naver.com##.footer
+naver.com##.big_banner
+naver.com##.flash_banner
+naver.com##.banner_main_wrap
+naver.com##.ly_promotion
+naver.com##.main_banner
+finance.naver.com##.banner
+blog.naver.com##.footer
+flight.naver.com##.footer
+hotel.naver.com##.footer
+booking.naver.com##.footer
+datalab.naver.com##.footer
+audioclip.naver.com###footer
 naver.com##.ScrollTopButton_scroll_top_button__12eIN
 naver.com##.button_scrolltop
 naver.com##.N\=a\:itm\.membanner
@@ -948,6 +959,7 @@ comic.naver.com###cbox_module
 
 vlive.tv###footer
 vlive.tv##.btn_top_area
+vlive.tv##.btn_top
 
 talk.naver.com###footer
 weather.naver.com###footer
