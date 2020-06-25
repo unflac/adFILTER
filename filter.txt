@@ -1,4 +1,4 @@
-!-- 2020.06.25 a
+!-- 2020.06.25 ab
 
 !--통합
 
@@ -1066,6 +1066,7 @@ youtube.com###footer
 youtube.com##.ytd-rich-item-renderer
 youtube.com###title.ytd-rich-grid-renderer
 youtube.com##.ytd-rich-section-renderer.style-scope
+youtube.com##ytm-companion-ad-renderer
 
 !-- 아프리카
 
