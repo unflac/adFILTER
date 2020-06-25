@@ -1,4 +1,4 @@
-!-- 2020.06.24 a
+!-- 2020.06.25 a
 
 !--통합
 
@@ -22,6 +22,9 @@ dailyissue.co.kr
 tsyndicate.com
 adjw.co.kr
 dawin.tv
+bananamall.co.kr
+freebody.co.kr
+s-toy.co.kr
 realsrv.co
 stunninglover.com
 otaserve.net
@@ -89,6 +92,8 @@ getfree-vpn.com
 kt5850pjz0.com
 push-notifications.top
 doyouad.com
+adlink.pw
+lewat.club
 adexchangemachine.com
 cfqpxzx.com
 commercialvalue.org
@@ -946,25 +951,50 @@ naver.com##.banner_wrap
 naver.com##.tooltip_greeting
 naver.com##.footer--3zNrB
 naver.com##.news_ad
-naver.com##.mall_area
+naver.com##.banner_cp
+naver.com##.cross_ban
+naver.com##.api_footer
+naver.com##.contents_footer
+naver.com##.search_footer
+naver.com##.ad_banner_premium
+naver.com###addiv.ad
+naver.com##.link_news
+naver.com##.ly_new_version
+naver.com###thumb_promotion_layer
+naver.com##.cmn_promotion_banner
 
+www.naver.com###footer
+www.naver.com##.footer
+dict.naver.com##.adlink
+clovadubbing.naver.com##.type_popup.modal
+papago.naver.com##footer
+serieson.naver.com##.ad_r
+serieson.naver.com##.ad_c
+serieson.naver.com##.aside_bottom_banner
+terms.naver.com##.banner
+hotel.naver.com##.main_banner
+hotel.naver.com##.lnk_banner
+game.naver.com##.pro_bnr
+game.naver.com##.pro_bnr2
+vibe.naver.com##.footer
+vibe.naver.com##.download_section
+vibe.naver.com##.admin_banner_section
 finance.naver.com##.banner
 blog.naver.com##.footer
 flight.naver.com##.footer
 hotel.naver.com##.footer
 booking.naver.com##.footer
+shopping.naver.com###footer
 datalab.naver.com##.footer
 audioclip.naver.com###footer
 comic.naver.com##.info_bottom
 comic.naver.com##.service_info
 comic.naver.com##.banner
 comic.naver.com##.bnr_area
-comic.naver.com###cbox_module
-
+comic.naver.com###commentIframe
 vlive.tv###footer
 vlive.tv##.btn_top_area
 vlive.tv##.btn_top
-
 talk.naver.com###footer
 weather.naver.com###footer
 post.naver.com###footer
@@ -974,6 +1004,8 @@ band.us###footer
 band.us##.appDownloadArea
 land.naver.com###footer
 bookmark.naver.com###footer
+smartstore.naver.com##.footer
+smartstore.naver.com###footer
 software.naver.com###footer
 series.naver.com###footer
 series.naver.com##.second_stage
@@ -1092,6 +1124,8 @@ gasengi.com##.board_list > tbody > tr:has-text(a문재인)
 gasengi.com###commentContents > table:has-text(a문재인)
 gasengi.com##.board_list > tbody > tr:has-text(고통번뇌)
 gasengi.com###commentContents > table:has-text(고통번뇌)
+gasengi.com##.board_list > tbody > tr:has-text(실제상황)
+gasengi.com###commentContents > table:has-text(실제상황)
 
 !-- 다음
 
@@ -1734,18 +1768,6 @@ danawa.com##.adreader_list
 
 !-- 공유
 
-etoland.co.kr/img/index_banner*.*
-etoland.co.kr/img/banner/*
-etoland.co.kr/img/toptoon/*
-etoland.co.kr/img/chanwoopark/*
-etoland.co.kr/img/19/19ad1/*
-etoland.co.kr/img/baedal/*
-etoland.co.kr/img/metoon/*
-etoland.co.kr/img/19/*
-etoland.co.kr##.gsc-adBlock
-etoland.co.kr###mobonDivBanner_16909
-etoland.co.kr###mobonDivBanner_16910
-etoland.co.kr###mobonDivBanner_16912
 avnana20.com###floatdiv2
 avnana20.com###floatdiv
 avnana20.com/img/banner/*$domain=avnana20.com,image
@@ -1806,20 +1828,12 @@ torrenthaja.com###banner_37
 torrenthaja.com###banner_38
 torrenthaja.com###banner_39
 torrenthaja.com###banner_40
-bananamall.co.kr/banner/*
 torrentgagaa.com/u/mk/*
 torrentgagaa.com/files/attach/filebox/*
 torrentgagaa.com###gpe_divpop1
 torrentgagaa.com###gpe_divpop2
 torrentgagaa.com##.gpe_pm_conban_code
 torrentgagaa.com##.ss_ad_center
-avnana22.com/img/banner/*
-avnana22.com###floatdiv2
-avnana22.com###floatdiv
-avnana22.com##.view-wrap > div:nth-of-type(2)
-ad.bananamall.co.kr
-static.freebody.co.kr
-s-toy.co.kr/comx/skin/10000wbanner/*
 thepiratebay.org###sky-center
 thepiratebay.org##.ads
 thepiratebay.org###sky-right
@@ -1910,20 +1924,6 @@ inven.co.kr##.ad-wrap
 inven.co.kr##center
 inven.co.kr###commonpart_market
 
-!-- 클리앙
-
-clien.net###naverAd
-clien.net###hongboInfoList
-clien.net##.view_bottom_ad
-clien.net###side_banner
-clien.net##.main_top_ad
-clien.net##.main_center_ad
-clien.net##.footer_ad
-clien.net##.list_top_ad
-clien.net##.list_bottom_ad
-clien.net##.list_center_ad
-clien.net###naverAd2
-
 !-- 게임메카
 
 gm-adimage.gamemeca.com
@@ -2008,6 +2008,7 @@ tgd.kr###plz-dont-block-me
 
 networkad.nate.com
 nate.com/Etc/ViewADThumb
+nate.com/shopbox/*$domain=pann.nate.com,subdocument
 
 nate.com###adContainer
 nate.com###shopping
@@ -2035,6 +2036,25 @@ nate.com###AdCommerce
 nate.com##.ad260x330
 nate.com###AdShopSearch
 nate.com##.socialAD
+nate.com##.adBox
+nate.com###footer
+nate.com##.banner
+nate.com###googleAd_wrap
+nate.com##.ads
+nate.com##.area_ad01
+nate.com##.area_ad02
+nate.com##.area_ad03
+nate.com##.area_ad04
+nate.com##.area_ad05
+nate.com##.area_ad06
+nate.com##.area_ad07
+nate.com##.area_ad08
+nate.com##.area_ad09
+nate.com##.area_ad10
+nate.com##.limited_ad
+nate.com###psypannAd
+nate.com###newsMainBanner
+nate.com##.ad160x600
 
 !-- 드림위즈
 
@@ -2342,7 +2362,6 @@ vop.co.kr###right_scroll
 vop.co.kr###left_scroll
 yabest1.com###adsHead
 38.103.161.157###ad_text
-clien.net##.view_center_ad
 ck101.com###image_ad_long
 ck101.com##.videoAdWrapper
 ck101.com##.a_cn
@@ -2428,8 +2447,6 @@ idol-blog.com##.__isboostMouseCursor
 nyaa.pt##.centered
 theguardian.com###dfp-ad--inline1
 theguardian.com###dfp-ad--inline2
-nate.com###googleAd_wrap
-nate.com##.ads
 smantv.net###sky
 smantv.net##div.left_banner
 smantv.net/img/banner/*
@@ -2475,16 +2492,6 @@ kick-off.co.kr##.list_ad
 kick-off.co.kr##.top_ad
 theviewers.co.kr###scrollDiv
 theviewers.co.kr###tmpILSA_Container
-nate.com##.area_ad01
-nate.com##.area_ad02
-nate.com##.area_ad03
-nate.com##.area_ad04
-nate.com##.area_ad05
-nate.com##.area_ad06
-nate.com##.area_ad07
-nate.com##.area_ad08
-nate.com##.area_ad09
-nate.com##.area_ad10
 shinailbo.co.kr###scrollDiv
 minnano-av.com##.bn250
 minnano-av.com/top_center_bn/*
@@ -2519,10 +2526,6 @@ pornhub.com##.removeAdLink
 pornhub.com##undefined
 wikitree.co.kr###prism_displayAD
 wikitree.co.kr##.wikitree_ad
-nate.com##.limited_ad
-nate.com###psypannAd
-nate.com/shopbox/*$domain=pann.nate.com,subdocument
-nate.com###newsMainBanner
 xportsnews.com##.nm_list2
 xportsnews.com##.ad_wrap_list
 xportsnews.com##div.ad_wrap
@@ -2644,7 +2647,6 @@ ilbe.com###openXdummy_TTop99
 ilbe.com###openXdummy_TTop100
 ilbe.com###ad_comment_dummy
 ilyoseoul.co.kr##.nd_floating_banner
-etoland.co.kr##.reft_hit_banner
 joynews24.com##.view200
 joynews24.com##.ad-head
 joynews24.com##.h125px
@@ -2838,7 +2840,6 @@ avdbs.com###contants > .shw-1024-under
 avdbs.com###wrap > .shw-1024-under
 minnano-av.com##.type-fuzoku
 minnano-av.com##.iframe
-||avnana22.com/img/newpan25.gif$image
 erodougazo.com###dmm_pick5
 erodougazo.com##.ban
 erodougazo.com###BBB
@@ -3309,7 +3310,6 @@ assi27.com###section2 > div.btv_lbox:nth-of-type(5)
 assi27.com###section2 > div.btv_lbox:nth-of-type(1)
 assi27.com##body > div:nth-of-type(4)
 assi27.com###ft
-etoland.co.kr##div.market_div_item
 ||images-assets-ht.project1content.com/Mofos/Tour/MOFOS/Catfish/5c93ebf60df143.24764550.png$image
 nubiles-porn.com##.hover-join
 assi27.com###hd_pop
@@ -3320,7 +3320,6 @@ wowtv.co.kr###divTopBanner
 wowtv.co.kr##.cont-banner
 wowtv.co.kr##.adv-area
 wowtv.co.kr##.quickMenu
-nate.com##.ad160x600
 skyedaily.com###SideBannerRight
 richtv365.com##.content_widget_bar
 namu.live##.ad
@@ -3361,42 +3360,6 @@ torrenger.com###banner_top_list_wrap
 torrenger.com###banner_right_list_wrap
 torrenger.com###down_notice
 torrenger.com##li.banner
-a5p5.com##div.container:nth-of-type(2)
-network/ads/*$domain=adlink.pw,subdocument
-network/ads/*$domain=lewat.club,subdocument
-lewat.club###cookie-pop
-lewat.club##.main-footer
-lewat.club##.main-header
-lewat.club###secondary
-lewat.club##.g1-hb-shadow-off
-adlink.pw###cookie-pop
-adlink.pw##.main-footer
-adlink.pw##.main-header
-adlink.pw###secondary
-adlink.pw##.g1-hb-shadow-off
-adlink.pw##p
-adlink.pw##.g1-dont-miss
-adlink.pw##.g1-row-background-media
-adlink.pw##.g1-row-layout-page.g1-row.g1-prefooter-3cols.g1-prefooter > .g1-row-background
-adlink.pw##.g1-row-layout-page.g1-row.g1-footer > .g1-row-background
-adlink.pw##.g1-row-layout-page.g1-row.g1-footer
-adlink.pw##.g1-row-layout-page.g1-row.g1-prefooter-3cols
-adlink.pw##.entry-title
-lewat.club##p
-lewat.club##.g1-dont-miss
-lewat.club##.g1-row-background-media
-lewat.club##.g1-row-layout-page.g1-row.g1-prefooter-3cols.g1-prefooter > .g1-row-background
-lewat.club##.g1-row-layout-page.g1-row.g1-footer > .g1-row-background
-lewat.club##.g1-row-layout-page.g1-row.g1-footer
-lewat.club##.g1-row-layout-page.g1-row.g1-prefooter-3cols
-lewat.club##.entry-title
-ftcdn.net/*$domain=adlink.pw,image
-adtival.network/*$domain=adlink.pw,subdocument
-adtival.network/*$domain=lewat.club,subdocument
-ftcdn.net/*$domain=lewat.club,image
-lewat.club##center:nth-of-type(1) > div > span
-adlink.pw##center:nth-of-type(1) > div > span
-lewat.club##.adsbygoogle
 ||hitomi.la/hitomi.js$script
 ||nene365.com/data/apms/background/3.png$image
 ruliweb.com##.row.board_notice
@@ -3436,7 +3399,6 @@ google.co.kr##.ads-ad
 torren-ger.com###banner_top_list_wrap
 torren-ger.com##.banner
 lewat.club##.content > div > div:nth-of-type(1)
-etoland.co.kr/img/net/banner/*$domain=etoland.co.kr,image
 jejucoffee.net##.gsc-adBlock
 xhamster2.com##.premium-overlay
 xhamster2.com##.wil-static-banner
@@ -3493,12 +3455,8 @@ toomics.com##.giftbox-banner
 toomics.com##.gnb-banner
 torrentmin.com###hd_pop
 torrentmin.com##.basic-banner-gallery
-etoland.co.kr###main_bn
-etoland.co.kr##.cnt_layout
 dispatch.co.kr##.fastview-ad
 wuhanvirus.kr##.banner
-etoland.co.kr##.middleAds
-etoland.co.kr###text_banner_td
 zum.com##.article_ad
 ||torrentmin.com/img/bannar114.jpg$image
 torrentmin.com##.hidden-xs.hidden-sm > .widget-box > div
@@ -4878,3 +4836,47 @@ mydaily.co.kr###bottom
 mydaily.co.kr##.todayissue_ad
 mydaily.co.kr##.banner
 mydaily.co.kr##.banner_mdhouse
+
+!-- 클리앙
+
+clien.net###naverAd
+clien.net###hongboInfoList
+clien.net##.view_bottom_ad
+clien.net###side_banner
+clien.net##.main_top_ad
+clien.net##.main_center_ad
+clien.net##.footer_ad
+clien.net##.list_top_ad
+clien.net##.list_bottom_ad
+clien.net##.list_center_ad
+clien.net###naverAd2
+clien.net##.view_center_ad
+clien.net##.footer_wrap
+
+!-- 이토렌드
+
+etoland.co.kr/img/index_banner*.*
+etoland.co.kr/img/banner/*
+etoland.co.kr/img/toptoon/*
+etoland.co.kr/img/chanwoopark/*
+etoland.co.kr/img/19/19ad1/*
+etoland.co.kr/img/baedal/*
+etoland.co.kr/img/metoon/*
+etoland.co.kr/img/19/*
+etoland.co.kr/img/net/banner/*$domain=etoland.co.kr,image
+etoland.co.kr##div.market_div_item
+etoland.co.kr###main_bn
+etoland.co.kr##.cnt_layout
+etoland.co.kr##.middleAds
+etoland.co.kr###text_banner_td
+etoland.co.kr##.fortune_aside1
+etoland.co.kr##.fortune_aside2
+etoland.co.kr##.footer
+etoland.co.kr##.right_aside_wrap
+etoland.co.kr##.ad_list
+etoland.co.kr##.ad_header
+etoland.co.kr##.gsc-adBlock
+etoland.co.kr###mobonDivBanner_16909
+etoland.co.kr###mobonDivBanner_16910
+etoland.co.kr###mobonDivBanner_16912
+etoland.co.kr##.reft_hit_banner
