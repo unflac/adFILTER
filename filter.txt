@@ -1,6 +1,6 @@
-!-- 2020.06.26 a
+!-- 2020.06.26 aB
 
-!-- 통합
+!-- 통합 ----------------------------------------------------------------------------------------------------
 
 */RealMedia/ads/*
 ##.adsbygoogle
@@ -17,7 +17,7 @@
 addevent.php
 ###pLiveContentsWrapper
 
-!-- 만화 공통
+!-- 만화 공통 ----------------------------------------------------------------------------------------------------
 
 !-- toonsarang.gripe
 
@@ -722,6 +722,7 @@ wrd.naver.com
 nbp-corp.com
 pstatic.net/sstatic/search/pc/tmp/*
 ||ssl.pstatic.net/static/sports/2019/pc/05/15/pc_relay_bg.png$image
+pstatic.net/adimg3.search/adpost/*
 naver.com##.column_banner
 naver.com###_MM_WRAP_nmap_ent_0
 naver.com###_MM_WRAP_nmap_ent_1
@@ -1264,288 +1265,6 @@ kakao.com##.link_lolchampionship
 kakao.com##.link_imgbnr
 kakao.com##.link_livechatting
 
-!-- 유튜브
-
-youtube.com/api/stats/ads*
-youtube.com/api/stats/ads?ver=2
-youtube.com##.ytp-endscreen-content
-youtube.com##.ytp-ce-covering-overlay
-youtube.com##.branding-img-container
-youtube.com##.ytp-ce-element-show
-youtube.com###ytp-pause-overlay
-youtube.com##.ytd-search-pyv-renderer.style-scope
-youtube.com##.ytp-scroll-min
-youtube.com##.adDisplay
-youtube.com##.video-ads
-youtube.com###player-ads
-youtube.com##.annotation
-youtube.com##.ytp-ad-player-overlay-instream-info
-youtube.com##.ytp-endscreen-previous
-youtube.com##.ytp-endscreen-next
-youtube.com##.ytp-cards-button-icon
-youtube.com##.ytp-youtube-button
-youtube.com###root-container
-youtube.com##ytd-compact-video-renderer.ytd-watch-next-secondary-results-renderer.style-scope
-youtube.com###spinner
-youtube.com###footer
-youtube.com##.ytd-rich-item-renderer
-youtube.com###title.ytd-rich-grid-renderer
-youtube.com##.ytd-rich-section-renderer.style-scope
-youtube.com##ytm-companion-ad-renderer
-
-!-- 아프리카
-
-adballoonimg.afreecatv.com
-afreecatv.com###afreecaAd
-afreecatv.com###topBnrArea
-afreecatv.com##.bjissue_banner
-afreecatv.com###header_ad
-afreecatv.com##.adcon-area
-afreecatv.com##.ng-scope.banner_wrap
-afreecatv.com##.seasonal
-afreecatv.com###chat_ad
-afreecatv.com###tuneOut > p
-afreecatv.com##.ng-scope.seasonal
-
-!-- 트위치
-
-ext-twitch.tv/supervisor/*
-scorecardresearch.com
-amazon-adsystem.com
-imrworldwide.com
-twitch.tv##.extension-taskbar
-twitch.tv###dfp-directory-banner
-twitch.tv###dfp-directory-rectangle
-twitch.tv##.blue-bar
-
-!--- 구글
-
-googlesyndication.com
-doubleclick.net
-google-analytics.com
-googleadservices.com
-googletagmanager.com
-googletagservices.com
-google.com/cse_v2/ads$domain=poedb.tw,subdocument
-google.co.kr##.gsc-adBlock
-google.com##.aKB
-google.com###\:tg
-google.co.kr##.ads-ad
-google.co.kr###tads
-
-!-- 가생이
-
-gasengi.com/ad/*
-gasengi.com/img/logo_top.gif$domain=gasengi.com,image
-gasengi.com##.quick_m
-gasengi.com###ad_powerlink_div
-gasengi.com###nhn_ad1
-gasengi.com###nhn_ad2
-gasengi.com###nhn_ad3
-gasengi.com###nhn_ad4
-gasengi.com###nhn_ad5
-gasengi.com###nhn_ad6
-gasengi.com###nhn_ad7
-gasengi.com###nhn_ad8
-gasengi.com###nhn_ad9
-gasengi.com###leftcolumn > div:nth-of-type(5)
-gasengi.com###aswift_0_expand
-gasengi.com##li.cursor.top_l01
-gasengi.com###copyright
-gasengi.com##.board_list > tbody > tr:has-text(국가에충성)
-gasengi.com###commentContents > table:has-text(국가에충성)
-gasengi.com##.board_list > tbody > tr:has-text(a문재인)
-gasengi.com###commentContents > table:has-text(a문재인)
-gasengi.com##.board_list > tbody > tr:has-text(고통번뇌)
-gasengi.com###commentContents > table:has-text(고통번뇌)
-gasengi.com##.board_list > tbody > tr:has-text(실제상황)
-gasengi.com###commentContents > table:has-text(실제상황)
-
-!-- 다나와
-
-ad.danawa.com
-danawa.com/images/newsCommunity/eventSkin/*
-danawa.com/NBP/powerLink.php
-danawa.com###floatAdLayer
-danawa.com##.banner_center
-danawa.com###mdnw-main-recommend-realCuration-container
-danawa.com###mdnw-advertise-adReader-slideContainer
-danawa.com###mdnw-productList-adPointContainer
-danawa.com###productBlog-adContainer
-danawa.com###mobile_dpg_list_bottom2
-danawa.com##.dpg_power_link
-danawa.com###mdnw-main-hotdeal-banner-container
-danawa.com###mdnw-main-computer-topBanner
-danawa.com##.header_banner
-danawa.com###t1Banner
-danawa.com##.h_type.banner_area
-danawa.com###powerLinkRight
-danawa.com###powerLinkBottom
-danawa.com##.banner_area
-danawa.com##.rnb_banner
-danawa.com###danawa-community-rnb-ad-top
-danawa.com##.ttop_banner
-danawa.com###danawa-gnb-header-adBanner-self
-danawa.com##.comty_wrap_link
-danawa.com##.bbs_power_link
-danawa.com###danawa-community-newsView-ad-middle1
-danawa.com###danawa-community-newsView-ad-middle2
-danawa.com##.bbs_banner
-danawa.com##.ad_wide_slide
-danawa.com##.spon_ad
-danawa.com##.dealer_bnr
-danawa.com##.diff_bnr
-danawa.com###mainAdReader
-danawa.com###mainAdStar
-danawa.com##.product_ad_banner
-danawa.com###mainAdPoint
-danawa.com##.ad_section
-danawa.com##.power_link
-danawa.com##.adreader_list
-
-!-- 시네스트
-
-cineaste.co.kr###sky
-cineaste.co.kr##.at-content > center
-
-!-- 루리웹
-
-ruliweb.com##.adrrr
-ruliweb.com##.nbp_container
-ruliweb.com##.ad_header_wrapper
-ruliweb.com###fixed_ad
-ruliweb.com##.right_wrapper
-ruliweb.com##.gsc-adBlock
-ruliweb.com##li.right_best_list_item:nth-of-type(20)
-ruliweb.com##.ad
-ruliweb.com##.banner
-
-!-- 인벤
-
-ads.inven.co.kr
-inven.co.kr/image_2011/webtoon/banner/*
-inven.co.kr/column/2018/10/31/event/*
-inven.co.kr/column/2017/03/24/event/*
-inven.co.kr###comAdTopRight3
-inven.co.kr##.AdSky
-inven.co.kr###marketBottom
-inven.co.kr##.testAd
-inven.co.kr##.bbsMiddleAd
-inven.co.kr##.googleSubjectAd
-inven.co.kr##.bannerMenuType1
-inven.co.kr##.rightMarket
-inven.co.kr##.rightImart
-inven.co.kr##.eventBoxWrap
-inven.co.kr##.rightBrandpage
-inven.co.kr##.preregiBoxWrap
-inven.co.kr##.broadSchedule
-inven.co.kr##.adTi
-inven.co.kr##.eventPopup
-inven.co.kr##.banner
-inven.co.kr##div.banner_box
-inven.co.kr###modMarketinven
-inven.co.kr###modPrintgallery
-inven.co.kr##.custom-game-pc
-inven.co.kr###modOpenIssue
-inven.co.kr###comModCommonPart
-inven.co.kr###brandpageCommon
-inven.co.kr##.cosplay
-inven.co.kr###backskinleft
-inven.co.kr###backskinright
-inven.co.kr##.adSlide
-inven.co.kr##.minAd
-inven.co.kr###topskyAd
-inven.co.kr##.marketBottomDable
-inven.co.kr##.repNewsLink
-inven.co.kr###topslideAd
-inven.co.kr###mobileTailAd
-inven.co.kr###mobileTailAd_Layer
-inven.co.kr###mobileTailAd_LayerDummy
-inven.co.kr##.mobileDaNs1
-inven.co.kr##[href="http://m.inven.co.kr/webtoon/"]
-inven.co.kr##.ad-wrap
-inven.co.kr##center
-inven.co.kr###commonpart_market
-
-!-- 게임메카
-
-gm-adimage.gamemeca.com
-gm-adkpf.gamemeca.com
-gamemeca.com##.content-top-ad
-gamemeca.com##.aside-left-ad
-gamemeca.com##.backgroundAdClick
-gamemeca.com##.ad-topscroll
-gamemeca.com##.toastBanner
-gamemeca.com##.news-right-ad
-gamemeca.com##.gnb-left-ad
-gamemeca.com##.gm_head_ads
-gamemeca.com##.main-ranking-section-ad
-gamemeca.com##.board-right-ad
-gamemeca.com##.article-banner
-gamemeca.com##.google_ad_bottom_728x90
-gamemeca.com##.right_ad
-gamemeca.com##.right_ad2
-gamemeca.com###criteo_slot_3531
-gamemeca.com###mobiDiv
-gamemeca.com###aswift_0_expand
-gamemeca.com##.mobile_top_ad
-
-!-- 온라이프
-
-onlifezone.com/ad/*
-onlifezone.com###ad_m_b
-onlifezone.com##.gpe_pm_conban_code
-onlifezone.com##div.scban_wrap
-
-!-- 플레이포럼
-
-playforum.net##.sidead
-playforum.net##.ad_wrap
-playforum.net##.cont_ad
-playforum.net###adBottomBox
-
-!-- 트게더
-
-tgd.kr/event/*
-tgd.kr###weare-out-of-food
-tgd.kr###plz-dont-block-me
-
-!-- 11번가
-
-11st.co.kr/cart/RecommendProduct.tmall
-
-11st.co.kr###dsLeftWingBannerMiddle
-11st.co.kr##.bnrborder
-11st.co.kr##.ftr_banner
-11st.co.kr###evt_adbnr
-11st.co.kr###dsGnbBanner
-11st.co.kr##.prdc_cate_choice
-11st.co.kr##.prdc_cont_banner_2
-11st.co.kr###hotclick-recm-container
-11st.co.kr##.mw_bnr
-11st.co.kr##.c-banner
-11st.co.kr##.prdc_top_right
-11st.co.kr###wingRecmPrd
-11st.co.kr##.prdc_banner5
-11st.co.kr###hotClkRcmGoods
-11st.co.kr###mainPromotion_area
-11st.co.kr##.header_ad
-11st.co.kr##.ad_banner
-11st.co.kr##.bnr_adtxt_2
-11st.co.kr##.prom_bnr2
-11st.co.kr###partnerBenefitTxt
-11st.co.kr##.advert_area_btm
-11st.co.kr##.advert_area
-11st.co.kr##.ifrm_hotclick
-11st.co.kr##.oEnd_980ban
-11st.co.kr##.ad_warp
-11st.co.kr##.prom_bnr
-11st.co.kr##.Buywrite_ban_v2
-11st.co.kr###iframeAdsArea
-11st.co.kr###footerWrap3
-11st.co.kr##.marT20
-11st.co.kr###myAddIframe
-
 !-- 네이트
 
 networkad.nate.com
@@ -1624,154 +1343,67 @@ dreamwiz.com##.main-right-bot-ad
 dreamwiz.com##.main-banner
 dreamwiz.com##.banner-types
 
-!-- 옥션
+!--- 구글
 
-auction.co.kr##.hp_side_banner
-auction.co.kr##.promo
-auction.co.kr##.plcc_banner
-auction.co.kr##.box__cpc-togetheritems
-auction.co.kr##.ad_area
-auction.co.kr##.component--sponsor_link
+googlesyndication.com
+doubleclick.net
+google-analytics.com
+googleadservices.com
+googletagmanager.com
+googletagservices.com/*
+google.com/cse_v2/ads$domain=poedb.tw,subdocument
+google.co.kr##.gsc-adBlock
+google.com##.aKB
+google.com###\:tg
+google.co.kr##.ads-ad
+google.co.kr###tads
 
-!-- 지마켓
+!-- 줌
 
-gmarket.co.kr##.ng-scope.banner
-gmarket.co.kr##.space.m_ad
-gmarket.co.kr##.blank.m_ad
-gmarket.co.kr##.m_banner
-gmarket.co.kr###floatbar > .ad
-gmarket.co.kr###topbanner
-gmarket.co.kr##.wrap > .ad
-gmarket.co.kr##.m_power
-gmarket.co.kr##.m_market
-gmarket.co.kr##.m_minishop
-gmarket.co.kr##.m_focus
-gmarket.co.kr##.plcc_banner
-gmarket.co.kr##.box__cpc-togetheritems
-gmarket.co.kr##.vip-cpcarea
-gmarket.co.kr##.link__banner
-gmarket.co.kr##.once.smileday_main_banner
-gmarket.co.kr##.smileday_icon_banner
-gmarket.co.kr##.active.smileday_main_banner
-gmarket.co.kr##.event_banner
-gmarket.co.kr###vipPowerClickLayer
-gmarket.co.kr##.banner
-gmarket.co.kr##.banner1
-gmarket.co.kr##.second_banner
-gmarket.co.kr##.ad_bnr_wrap
-gmarket.co.kr##.item_sponsor_link
-gmarket.co.kr###bigSmileFilter
-gmarket.co.kr##.box__component-sponsor-link
-
-!-- 아이템매니아
-
-itemmania.com/images/banner/*
-itemmania.com##.list_layer
-itemmania.com###g_BOTTOM_BANNER
-itemmania.com###trade_top_bn
-itemmania.com###g_remocon_head_banner
-itemmania.com###margin_banner
-itemmania.co.kr###top_banner
-
-!-- 위메프
-
-wemakeprice.com###top_event_banner3
-wemakeprice.com###right_top_event_banner
-wemakeprice.com##.wrap_shopping
-wemakeprice.com##.wrap_ad
-wemakeprice.com###_topBannerContainer
-wemakeprice.com##.side_bicad
-wemakeprice.com##.m-app-lead-banner
-wemakeprice.com###_rollingBanner
-
-!- 티켓몬스터
-
-ticketmonster.co.kr###topline_ad
-ticketmonster.co.kr###_eventBannerList
-ticketmonster.co.kr###_benefitBanner
-ticketmonster.co.kr###topline_banner
-ticketmonster.co.kr##.banners
-ticketmonster.co.kr##.oneday
-
-!-- 쿠팡
-
-coupang.com###fullBanner
-coupang.com###coupang-banner
-coupang.com##.promotion-banner
-coupang.com##.quick-scroll
-
-!-- 옥션
-
-auction.co.kr##.advarea
-auction.co.kr##.uxb-newad
-auction.co.kr###sideAds
-auction.co.kr##.banner1
-auction.co.kr##.vip-detailinfo_banner
-
-!-- 신세계
-
-ssg.com###_cmskyCard
-ssg.com###gnbBanrDiv
-ssg.com##.cdtl_bn_marketing
-
-!-- 디시인사이드
-
-dcinside.com##div.rightbanner
-dcinside.com##div.leftbanner
-dcinside.com##.stickyunit
-dcinside.com###wif_adx_banner_wrap
-dcinside.com##.con_banner
-dcinside.com##.rightbanner
-dcinside.com##.dory
-dcinside.com##.kakao_ad_area
-dcinside.com##.ad_bottom_list
-dcinside.com##.adv-group
-dcinside.com##.adv-groupin
-dcinside.com##.dori-box
-dcinside.com##.dori-icon
-dcinside.com##.dori-icon-txt
-dcinside.com###div_adnmore_area
-dcinside.com##.adv-grouptop
-dcinside.com##.evt_content
-dcinside.com##.power_click
-dcinside.com###zzbang_div
-dcinside.com##.power_link
-dcinside.com###ad-layer
-dcinside.com##.banner_box
-dcinside.com/ad/*
-
-!-- 헝그리앱
-
-hungryapp.co.kr/banner/*
-hungryapp.co.kr/images/common_/bg_bu.gif
-hungryapp.co.kr/banner/banner_1.php
-hungryapp.co.kr/banner/banner_2.php
-hungryapp.co.kr/banner/banner_3.php
-hungryapp.co.kr/banner/banner_4.php
-hungryapp.co.kr/banner/banner_5.php
-hungryapp.co.kr/banner/banner_6.php
-hungryapp.co.kr/banner/banner_7.php
-hungryapp.co.kr/banner/banner_8.php
-hungryapp.co.kr/banner/banner_9.php
-hungryapp.co.kr###banner_11
-hungryapp.co.kr##.bannersww
-hungryapp.co.kr###banner9_iframe
-hungryapp.co.kr##.RightBnr
-hungryapp.co.kr##.rb_wrapper
-hungryapp.co.kr##.header_menu
-hungryapp.co.kr##.banner_cnt
-hungryapp.co.kr###popUP_ZONE
-hungryapp.co.kr##.banner12
-hungryapp.co.kr##.Mibox_down
-hungryapp.co.kr##.m-main-banner
-hungryapp.co.kr##.banner
-
-!-- 레딧
-
-reddit.com##.eSMtzD.kkicq7-0
-reddit.com###sidebar-atf-0
-reddit.com###sidebar-btf-1
-reddit.com##.bEmdPZ
+zum.com/view/zum/shoppingboxmain/*
+zum.com/view/zum/nativead/*
+zum.com/view/zum/hubzum/shoppingbox/*
+zum.com##.article_ad
+zum.com##.box_top_main_banner
+zum.com##.box_shopping_favorite
+zum.com##.box_wing_banner
+zum.com##.shopping_content
+zum.com###zum-shoppingBox
+zum.com###iframe_shopping_new
+zum.com##.shopping1_wrap
+zum.com##.t_shopping2
+zum.com##.footer_cont
+zum.com##.footer_bottom
+zum.com##.footer_wrap
+zum.com##.shopping_box
+zum.com###externalRelated
+zum.com##.article_native_ad
+zum.com##.news_footer
+zum.com##.banner_content
+zum.com##.sponsor_sc
+zum.com##.shopping_sc
+zum.com##.copy
+zum.com##.link
+zum.com##.dable_contents
+zum.com##.aside_shopping_box
+zum.com##.aside_ad
+zum.com##.hot_topic_ad_slot
+zum.com###d_hottopic_native_ad
+zum.com###d_hub_native_ad
+zum.com##.btn_top
+zum.com###coinzum_rigthtop_script_201810
+zum.com###footer > ul
+zum.com###footer > .txt
+zum.com##.footWrap
+zum.com###main_bottom_ad
+zum.com###main_bottom_ad_wrap
+zum.com###footer > .cont
+zum.com##.banner_bottom
+zum.com##.aside_banner
+zum.com##.btn_page_top
+zum.com##.banner_ad_floating
+zum.com##.banner_big
+news.zum.com###footer
 
 !-- 프레시안
 
@@ -1803,21 +1435,6 @@ etnews.com##.footer
 etnews.com###wingBanner
 etnews.com##.ad_336x280
 etnews.com##div.left_ad_div
-
-!-- dvdprime
-
-dvdprime.com/g2/img/banner/*
-dvdprime.com##.relative.a_content > .relative
-dvdprime.com###top_banner
-dvdprime.com##.relative.rc_div > .relative
-dvdprime.com###menu_inner > .relative
-dvdprime.com###empty_right
-dvdprime.com###empty_left
-dvdprime.com###sidebar_doubleclick
-dvdprime.com##.ad_content_bottom
-dvdprime.com###ad_view_right1
-dvdprime.com###menubar_doubleclick
-dvdprime.com###bottom
 
 !-- 국민일보
 
@@ -2079,27 +1696,6 @@ heraldcorp.com###adMall_banner_01Qv
 heraldcorp.com##.text_byline
 heraldcorp.com##div.line
 
-!-- 스포츠서울
-
-sportsseoul.com/images/advertise/*$domain=www.sportsseoul.com,image
-sportsseoul.com###ad_read_top
-sportsseoul.com###ad*
-sportsseoul.com###ad_*
-sportsseoul.com###ad_17
-sportsseoul.com###ad_50
-sportsseoul.com###ad_18
-sportsseoul.com###ad_181
-sportsseoul.com###ad_aa
-sportsseoul.com###ad_7_8
-sportsseoul.com###ad_13
-sportsseoul.com###ad_19
-sportsseoul.com###ad_7_8_1
-sportsseoul.com###slides
-sportsseoul.com###VIEW_LEFT1
-sportsseoul.com###VIEW_RIGHT1
-sportsseoul.com###footerWrap
-sportsseoul.com###aside > form
-
 !-- 디지털타임스
 
 dt.co.kr/images/ben_*$domain=www.dt.co.kr,image
@@ -2293,6 +1889,8 @@ donga.com##.wide_right > [href^="https://hwoieating.com/bbs/board.php"]
 donga.com###div-gpt-ad-1591248732549-0
 donga.com###div-gpt-ad-1591321042655-0
 donga.com###section_footer
+donga.com###footer
+donga.com##.sitemap
 
 !-- 중앙일보
 
@@ -2339,22 +1937,21 @@ joins.com###footer
 joins.com##.footer
 joins.com###da_250_bottom
 joins.com##div.banner_articlebtm
-
-
-!-- SBS
-
-sbs.co.kr###sn_banner_article_bottom
-sbs.co.kr##.ad_area
-sbs.co.kr##.side_banner_w
-sbs.co.kr##.w_btn_top
-sbs.co.kr##.w_banner
-sbs.co.kr###footer
+joins.com##.ad_v300
+joins.com##.ad_area
+joins.com###top_ad
+joins.com##div.sec_buzzlink
+joins.com##.ad_article_bottom1text
+joins.com/ui_portal/portal2010/common/k_gnb_ad_close.png
+joins.com###rt_imc_banner
+joins.com##.banner
+joins.com##.sec_now
 
 !-- 한국경제
 
 hankyung.com/img/www/w/main/main-banner-tenaudio2.jpg$domain=www.hankyung.com,image
 hankyung.com/img/www/w/main/main-banner-*$domain=www.hankyung.com,image
-hankyung.com/popup
+hankyung.com/popup/*
 hankyung.com##.ad_top
 hankyung.com##.ad_img
 hankyung.com##.ad_list
@@ -2373,6 +1970,14 @@ hankyung.com##.fltAd
 hankyung.com##.btn_top_wrap
 hankyung.com###footer
 hankyung.com##.footer_sitemap_area
+hankyung.com##.footer
+hankyung.com##.aside-ad
+hankyung.com##.ad-box
+hankyung.com###powerLink
+hankyung.com##.ad-module
+hankyung.com##.ad-bottom
+hankyung.com##.ad-top
+hankyung.com##.view-banner
 
 !-- 블로터
 
@@ -2419,15 +2024,6 @@ ohmynews.com##.new_ad19
 ohmynews.com##.new_ad20
 ohmynews.com###footer_area
 
-!-- 게임조선
-
-gamechosun.co.kr###FloatLayer1
-gamechosun.co.kr##.main_back
-gamechosun.co.kr##.top_event
-gamechosun.co.kr##.adMobile
-gamechosun.co.kr###foot_banner01
-gamechosun.co.kr###footer
-
 !-- 조선일보
 
 /images/banner/*$domain=chosun.com,image
@@ -2438,16 +2034,29 @@ chosun.com##.ad_gg_top
 chosun.com##.h_top_bnr
 chosun.com##.biz_right_ad
 chosun.com##.biz_left_ad
-chosun.com##p > span
 chosun.com##div.list_ad
-chosun.com##.ad1
 chosun.com##.par > span
 chosun.com###banner_main
 chosun.com###banner_main1
 chosun.com###banner_main2
+chosun.com###banner_main3
+chosun.com###banner_main4
+chosun.com###banner_main5
+chosun.com###banner_main6
+chosun.com###banner_main7
+chosun.com###banner_main8
+chosun.com###banner_main9
 chosun.com##div.art_ad
 chosun.com##div.art_ad1
+chosun.com##div.art_ad1
 chosun.com##div.art_ad2
+chosun.com##div.art_ad3
+chosun.com##div.art_ad4
+chosun.com##div.art_ad5
+chosun.com##div.art_ad6
+chosun.com##div.art_ad7
+chosun.com##div.art_ad8
+chosun.com##div.art_ad9
 chosun.com##.art_ad
 chosun.com##.art_ad1
 chosun.com##.art_ad2
@@ -2465,19 +2074,42 @@ chosun.com###news_go_id
 chosun.com##.banner_sub_tit
 chosun.com##.top_ad1
 chosun.com##.top_ad2
+chosun.com##.top_ad3
+chosun.com##.top_ad4
+chosun.com##.top_ad5
+chosun.com##.top_ad6
+chosun.com##.top_ad7
+chosun.com##.top_ad8
+chosun.com##.top_ad9
 chosun.com##.right_sp_banner
 chosun.com##.left_sp_banner
 chosun.com##.tech_banner
 chosun.com##.service_banner
 chosun.com###leftbanner
 chosun.com##div.center_bar_banner
+chosun.com##.ad
+chosun.com##.ad1
 chosun.com##.ad2
+chosun.com##.ad3
+chosun.com##.ad4
+chosun.com##.ad5
+chosun.com##.ad6
+chosun.com##.ad7
+chosun.com##.ad8
+chosun.com##.ad9
+chosun.com###out_pop
+chosun.com###out_pop1
+chosun.com###out_pop2
 chosun.com###out_pop3
+chosun.com###out_pop4
+chosun.com###out_pop5
+chosun.com###out_pop6
+chosun.com###out_pop7
+chosun.com###out_pop8
+chosun.com###out_pop9
 chosun.com##.topbanner_m
 chosun.com###Layer_pop1
 chosun.com###Layer_pop2
-chosun.com###out_pop
-chosun.com##.ad
 chosun.com##.sec_ad_bottom
 chosun.com###go_top_id
 chosun.com##.spe_banner_pop
@@ -2488,6 +2120,22 @@ chosun.com##.adboxb
 chosun.com##.article_ad_mid
 chosun.com##.main_promo_bottom
 chosun.com###footer
+chosun.com##.adBox
+chosun.com##.ad_banner01
+chosun.com##.ad_banner02
+chosun.com##.ad_banner03
+chosun.com##.ad_banner04
+chosun.com##.ad_banner05
+chosun.com##.ad_banner06
+chosun.com##.ad_banner07
+chosun.com##.ad_banner08
+chosun.com##.ad_banner09
+chosun.com##.ad_banner
+chosun.com##.hero-area
+chosun.com##.footer-area
+chosun.com##.hoseBn
+chosun.com###breakingBannerTicker
+chosun.com/img/*-img/bn*
 
 !-- 경향신문
 
@@ -2541,19 +2189,6 @@ segye.com###topad
 segye.com###wps_footer
 segye.com##.sideAdList
 
-!-- 스포츠월드
-
-sportsworldi.com##.ad_btm_add
-sportsworldi.com##.view_ADarea2018
-sportsworldi.com##.ad_right_300bn
-sportsworldi.com##.wingRight
-sportsworldi.com##div.ad_right_area
-sportsworldi.com##.news_topad
-sportsworldi.com##.adbox
-sportsworldi.com###topad
-sportsworldi.com###wps_footer
-sportsworldi.com##.sideAdList
-
 !-- 세계비즈
 
 segyebiz.com##.ad_btm_add
@@ -2567,7 +2202,7 @@ segyebiz.com###topad
 segyebiz.com###wps_footer
 segyebiz.com##.sideAdList
 
-!-- MBN
+!-- 매일경제
 
 mk.co.kr/sports/AD/*
 mk.co.kr/news/2013/banner_*$domain=www.mk.co.kr,image
@@ -2594,12 +2229,7 @@ mk.co.kr##.ad_rightbottom
 mk.co.kr##.ad_rightview
 mk.co.kr##.ad_footer
 
-mksports.co.kr###slot6
-mksports.co.kr##div.bk35
-mksports.co.kr###slot13
-mksports.co.kr##center > table > tbody > tr > td:nth-of-type(1) > table > tbody > tr > td:nth-of-type(1)
-mksports.co.kr##.ad
-mksports.co.kr###footer
+!-- MBN
 
 mbn.co.kr##.right_image
 mbn.co.kr###slot16
@@ -2621,6 +2251,15 @@ newstapa.org##.footer
 !-- 아시아경제
 
 asiae.co.kr/ad/*
+asiae.co.kr/banner/*
+asiae.co.kr##.right_wing
+asiae.co.kr##.all_right_wing
+asiae.co.kr##.home.right_wing2
+asiae.co.kr##.left_wing
+asiae.co.kr##.all_left_wing
+asiae.co.kr##.ad_premium
+asiae.co.kr##.ad_300x250
+asiae.co.kr###footer
 asiae.co.kr##footer
 asiae.co.kr##.anni_banner
 asiae.co.kr##.foodban_box
@@ -2720,7 +2359,7 @@ huffingtonpost.kr##.ad_spot
 !-- 머니투데이
 
 osen.co.kr/banner/*$domain=osen.mt.co.kr,image
-mt.co.kr/*anner*.jpg
+mt.co.kr/*banner*.jpg
 mt.co.kr/starnews/images/banner/*$domain=star.mt.co.kr,image
 mt.co.kr/starnews/images/banner/*$domain=star.mt.co.kr,image
 mt.co.kr###floatMenu
@@ -2748,12 +2387,13 @@ mt.co.kr##.adsbyadop_4df23b3a-b312-4820-b6c2-4c7bdeebea5fsig
 mt.co.kr##.adsbyadop_21cafdbc-83d3-416d-8482-154afb60f134K3r
 mt.co.kr##.adsbyadop_a4b497b8-1417-4d60-b7ce-f677045da178bhT
 mt.co.kr##.adsbyadop_e4c9dd70-2869-49c7-b0d4-0d2e90329795F4c
+star.mt.co.kr###wrap > div:nth-of-type(1)
+star.mt.co.kr###textBody > div
 
 !-- 지디넷
 
 adv.zdnet.co.kr
 zdnet.co.kr/ads/*
-
 zdnet.co.kr###main_right_Floating_banner
 zdnet.co.kr###extruderRight
 zdnet.co.kr##div.right_bn1
@@ -2830,11 +2470,6 @@ newsis.com###footer
 
 mtn.co.kr###footerWrap
 mtn.co.kr##.adListArea
-
-!-- 정글
-
-jungle.co.kr##.main_banner
-jungle.co.kr##.footer
 
 !-- SPOTV
 
@@ -2993,19 +2628,6 @@ sedaily.com##.sub_ad_banner9_m
 sedaily.com##.sub_ad_banner10_m
 sedaily.com###footer
 
-!--서울신문
-
-seoul.co.kr/RealMedia/ads/*
-seoul.co.kr##.hed_ad
-seoul.co.kr###criteo_div
-seoul.co.kr##.enatic_banner
-seoul.co.kr##.adbox03
-seoul.co.kr###seoulAdTable
-seoul.co.kr###sbaAboutDiv
-seoul.co.kr###eMartDiv
-seoul.co.kr##.bottom
-seoul.co.kr###footerB
-
 !-- 파이낸셜뉴스
 
 fnnews.com###ad_body
@@ -3048,49 +2670,15 @@ mydaily.co.kr##.todayissue_ad
 mydaily.co.kr##.banner
 mydaily.co.kr##.banner_mdhouse
 
-!-- 클리앙
+!-- SBS
 
-clien.net###naverAd
-clien.net###hongboInfoList
-clien.net##.view_bottom_ad
-clien.net###side_banner
-clien.net##.main_top_ad
-clien.net##.main_center_ad
-clien.net##.footer_ad
-clien.net##.list_top_ad
-clien.net##.list_bottom_ad
-clien.net##.list_center_ad
-clien.net###naverAd2
-clien.net##.view_center_ad
-clien.net##.footer_wrap
-
-!-- 이토렌드
-
-etoland.co.kr/img/index_banner*.*
-etoland.co.kr/img/banner/*
-etoland.co.kr/img/toptoon/*
-etoland.co.kr/img/chanwoopark/*
-etoland.co.kr/img/19/19ad1/*
-etoland.co.kr/img/baedal/*
-etoland.co.kr/img/metoon/*
-etoland.co.kr/img/19/*
-etoland.co.kr/img/net/banner/*$domain=etoland.co.kr,image
-etoland.co.kr##div.market_div_item
-etoland.co.kr###main_bn
-etoland.co.kr##.cnt_layout
-etoland.co.kr##.middleAds
-etoland.co.kr###text_banner_td
-etoland.co.kr##.fortune_aside1
-etoland.co.kr##.fortune_aside2
-etoland.co.kr##.footer
-etoland.co.kr##.right_aside_wrap
-etoland.co.kr##.ad_list
-etoland.co.kr##.ad_header
-etoland.co.kr##.gsc-adBlock
-etoland.co.kr###mobonDivBanner_16909
-etoland.co.kr###mobonDivBanner_16910
-etoland.co.kr###mobonDivBanner_16912
-etoland.co.kr##.reft_hit_banner
+sbs.co.kr###sn_banner_article_bottom
+sbs.co.kr##.ad_area
+sbs.co.kr##.side_banner_w
+sbs.co.kr##.w_btn_top
+sbs.co.kr##.w_banner
+sbs.co.kr###footer
+sbs.co.kr##.ad_rig
 
 !-- 아주경제
 
@@ -3103,6 +2691,31 @@ ajunews.com##div.asd_ad300250
 ajunews.com##.view_banner
 ajunews.com###top_hori_ad
 ajunews.com##.vert_ad_left
+
+!-- 한국일보
+
+hankooki.com/sports/2017/12/sports_newsstand_*$domain=sports.hankooki.com,image
+hankooki.com/daily/2018/07/daily_newsstand_*$domain=daily.hankooki.com,image
+hankooki.com/ad/*$domain=daily.hankooki.com,subdocument
+hankooki.com##.banner300
+hankooki.com##.sideAdMainR
+hankooki.com##.sideAdMainL
+hankooki.com##.wrap_over_72890
+hankooki.com##div.pl25_300
+hankooki.com###mainbottom
+hankooki.com###AD_GISA_PHOTO_LINE
+hankooki.com##.over_72890
+hankooki.com##div.wrap_over_72890
+hankooki.com##.sideAdR
+hankooki.com##.move_top
+hankooki.com###mainbottom
+hankooki.com##.ad300
+hankooki.com##.ad-view-area
+hankooki.com##.ad-area
+hankooki.com###footer
+hankooki.com##.ban728
+hankooki.com###mainBottom
+hankooki.com##.ad300250
 
 !-- 글로벌이코노믹
 
@@ -3151,96 +2764,6 @@ nocutnews.co.kr##.footer
 nocutnews.co.kr###divToastnews
 nocutnews.co.kr##.head_adl
 
-!-- 부산일보
-
-busan.com##.head-ad
-busan.com##.wcms_ad
-busan.com###footer
-busan.com##.logo_box
-busan.com##.info_banner
-busan.com##.footer_sitemap
-busan.com##.view_side_banner
-
-!-- 강원일보
-
-kwnews.co.kr/kwnews/ad/*
-kwnews.co.kr/banner/*
-kwnews.co.kr##.RightBannerWrap
-kwnews.co.kr##.flashbox
-
-!-- 경남신문
-
-knnews.co.kr/edb/banner/*
-knnews.co.kr/banner/*
-knnews.co.kr/edb/banner/*
-knnews.co.kr##.right_banner
-knnews.co.kr##.core_footer
-knnews.co.kr##.rel_site
-knnews.co.kr##.left_banner
-knnews.co.kr###ban1
-knnews.co.kr###ban2
-knnews.co.kr###ban3
-knnews.co.kr###ban4
-knnews.co.kr###ban5
-knnews.co.kr###ban6
-knnews.co.kr###ban7
-knnews.co.kr###ban8
-knnews.co.kr###ban9
-knnews.co.kr##.right_banner_kn
-knnews.co.kr##.ad_content_right
-
-!-- 경인일보
-
-kyeongin.com###layerBanner
-kyeongin.com##.main_top_bottom
-kyeongin.com###popup1944
-kyeongin.com##.menu_ad_list
-kyeongin.com##.menu_ad
-kyeongin.com##.slideAdList
-kyeongin.com##.head_right_ad1
-kyeongin.com##.head_right_ad2
-kyeongin.com##div.main_cont_ad
-kyeongin.com###footer
-kyeongin.com##.partnership
-kyeongin.com##.topAdList
-kyeongin.com##.adWrList
-kyeongin.com##.topAdWrap
-kyeongin.com##.header_ad
-kyeongin.com##.hea_ad_sns
-
-!-- 기호일보
-
-kihoilbo.co.kr/bannerpop/*
-kihoilbo.co.kr###ad_network_26
-kihoilbo.co.kr##.banner_box
-kihoilbo.co.kr##.edit_banner_box
-kihoilbo.co.kr###user-footer
-kihoilbo.co.kr##.footer-bn
-
-!-- 광남일보
-
-gwangnam.co.kr/ad_view.php
-gwangnam.co.kr/banner/*
-gwangnam.co.kr###right_ad
-
-!-- 광주일보
-
-kwangju.co.kr/banner/*
-kwangju.co.kr##.kw_santa
-kwangju.co.kr##div#kw_ad
-kwangju.co.kr###gotop
-kwangju.co.kr##.kw_yh
-kwangju.co.kr###kw_foot
-kwangju.co.kr##.section_list_ad
-
-!-- 대전일보
-
-daejonilbo.com/bnr/*
-daejonilbo.com##.banner_main_right60
-daejonilbo.com###main_ad2
-daejonilbo.com###footer_link
-daejonilbo.com###bottom_link
-
 !-- TV리포트
 
 tvreport.co.kr###CONTENT_WRAPBOTLEFT1
@@ -3251,17 +2774,6 @@ tvreport.co.kr###VIEW_TOPTHUMB_BOT
 tvreport.co.kr##.footer
 tvreport.co.kr##.pc_ad
 tvreport.co.kr##.iwm_ba
-
-!-- 서울와이어
-
-seoulwire.com##.banner_box
-seoulwire.com/bannerpop/*
-seoulwire.com###ad_html
-seoulwire.com###adbn_sky_listener
-seoulwire.com###user-footer
-seoulwire.com###back-to-top
-seoulwire.com##.dark
-seoulwire.com##.gray
 
 !-- 조이뉴스24
 
@@ -3277,8 +2789,123 @@ joynews24.com##.right-wing
 joynews24.com##.left-wing
 joynews24.com##.h200px
 joynews24.com##.h160px
-joynews24.com##.default
 joynews24.com##ad
+joynews24.com##.footer
+
+!-- 뉴스엔
+
+newsen.com/images/2019/copy201909.gif$domain=www.newsen.com,image
+newsen.com###left_banner
+newsen.com###right_banner
+newsen.com###news_banner
+newsen.com##.centeringContainer
+
+!-- 엠스플
+
+mbcsportsplus.com/data/banner/*$domain=www.mbcsportsplus.com,image
+mbcsportsplus.com###allBg
+mbcsportsplus.com##.go_top
+mbcsportsplus.com##.div_wingBanner
+mbcsportsplus.com##footer
+
+!-- 스포츠서울
+
+sportsseoul.com/images/advertise/*$domain=www.sportsseoul.com,image
+sportsseoul.com###ad_read_top
+sportsseoul.com###ad*
+sportsseoul.com###ad_*
+sportsseoul.com###ad_17
+sportsseoul.com###ad_50
+sportsseoul.com###ad_18
+sportsseoul.com###ad_181
+sportsseoul.com###ad_aa
+sportsseoul.com###ad_7_8
+sportsseoul.com###ad_13
+sportsseoul.com###ad_19
+sportsseoul.com###ad_7_8_1
+sportsseoul.com###slides
+sportsseoul.com###VIEW_LEFT1
+sportsseoul.com###VIEW_RIGHT1
+sportsseoul.com###footerWrap
+sportsseoul.com###aside > form
+sportsseoul.com###selectionWrap > div:nth-of-type(6) > div:nth-of-type(1)
+sportsseoul.com###article_viewWrap > div:nth-of-type(2)
+
+!-- MK스포츠
+
+mksports.co.kr###slot6
+mksports.co.kr##div.bk35
+mksports.co.kr###slot13
+mksports.co.kr##center > table > tbody > tr > td:nth-of-type(1) > table > tbody > tr > td:nth-of-type(1)
+mksports.co.kr##.ad
+mksports.co.kr###footer
+mksports.co.kr##.sitemap_menu2
+
+!-- 티빙
+
+tving.com###footer
+tving.com##.page-top-box
+tving.com###footer_tving
+tving.com##.article_ad
+tving.com##.subRnb_ad
+tving.com##.main_right_ad
+tving.com##.main_left_ad
+
+!-- 스포츠Q
+
+sportsq.co.kr##.banner_box
+sportsq.co.kr/bannerpop/*
+sportsq.co.kr###ad_html
+sportsq.co.kr###adbn_sky_listener
+sportsq.co.kr###user-footer
+sportsq.co.kr###back-to-top
+sportsq.co.kr##.dark
+sportsq.co.kr##.gray
+sportsq.co.kr###floating_banner_left
+sportsq.co.kr###floating_banner_right
+sportsq.co.kr##.article-sponsor
+sportsq.co.kr###layer-popups
+sportsq.co.kr##.pc-top-banner
+sportsq.co.kr###rollBanner-1
+sportsq.co.kr###rollBanner-2
+sportsq.co.kr###rollBanner-3
+sportsq.co.kr###rollBanner-4
+sportsq.co.kr###rollBanner-5
+sportsq.co.kr###rollBanner-6
+sportsq.co.kr###rollBanner-7
+sportsq.co.kr###rollBanner-8
+sportsq.co.kr###rollBanner-9
+sportsq.co.kr##.banner_rolling_box
+sportsq.co.kr##.site_link
+sportsq.co.kr###prism_displayAD
+sportsq.co.kr###view-sticky
+sportsq.co.kr##.ad-view
+sportsq.co.kr/adManager/*
+
+!-- 스포츠월드
+
+sportsworldi.com##.ad_btm_add
+sportsworldi.com##.view_ADarea2018
+sportsworldi.com##.ad_right_300bn
+sportsworldi.com##.wingRight
+sportsworldi.com##div.ad_right_area
+sportsworldi.com##.news_topad
+sportsworldi.com##.adbox
+sportsworldi.com###topad
+sportsworldi.com###wps_footer
+sportsworldi.com##.sideAdList
+
+!-- 엑스포츠
+
+xportsnews.com##.nm_list2
+xportsnews.com##.ad_wrap_list
+xportsnews.com##div.ad_wrap
+xportsnews.com##.r_ad_1
+xportsnews.com##.rr_ad_2
+xportsnews.com###r_ad
+xportsnews.com##.ad_1
+xportsnews.com###l_ad
+xportsnews.com###footer
 
 !-- 이투데이
 
@@ -3300,49 +2927,6 @@ etoday.co.kr###div-gpt-ad-1591836916594-0
 etoday.co.kr###div-gpt-ad-1569219253866-0
 etoday.co.kr###div-gpt-ad-1590472178348-0
 etoday.co.kr###div-gpt-ad-1569217938641-0
-
-!-- 매일신문
-
-imaeil.com/img/banner/*
-imaeil.com###footer
-imaeil.com##.naverbanner
-imaeil.com##.banner
-imaeil.com##.naver-left
-imaeil.com##.neighbor
-
-!-- 전북일보
-
-jjan.kr###floating_banner_right
-jjan.kr##.banner_box
-jjan.kr###user-footer
-jjan.kr###back-to-top
-jjan.kr###floating_banner_left
-
-!-- 제주신보
-
-jejunews.com/image/*banner*.gif
-jejunews.com###floating_banner_right
-jejunews.com##.banner_box
-jejunews.com###user-footer
-jejunews.com###back-to-top
-jejunews.com###floating_banner_left
-jejunews.com##.auto-marbtm-25
-
-!-- 울산신문
-
-ulsanpress.net/banner/*
-ulsanpress.net##.popup-wrap
-ulsanpress.net###user-footer
-ulsanpress.net##.banner_box
-
-!-- 울산매일
-
-iusm.co.kr/Autobox/banner_*$domain=www.iusm.co.kr,subdocument
-iusm.co.kr##.utv-banner
-iusm.co.kr##.utvBox-repair
-iusm.co.kr##.html_banner
-iusm.co.kr###foot-box
-iusm.co.kr##.back-to-top
 
 !-- 민중의 소리
 
@@ -3380,6 +2964,145 @@ anewsa.com##.Main_236_Banner_Box
 anewsa.com###mobonDivBanner_73647
 anewsa.com###footer
 
+!-- 스카이데일리
+
+skyedaily.com/images/*banner*
+skyedaily.com/campain/*
+skyedaily.com/AD/*
+skyedaily.com###SideBannerRight
+skyedaily.com##.banner
+skyedaily.com##.bottom_banner
+skyedaily.com###footer
+skyedaily.com##.total_menu_cc
+skyedaily.com###SideBannerLeft
+
+!-- 매일신문
+
+imaeil.com/img/banner/*
+imaeil.com###footer
+imaeil.com##.naverbanner
+imaeil.com##.banner
+imaeil.com##.naver-left
+imaeil.com##.neighbor
+
+!-- 경인일보
+
+kyeongin.com###layerBanner
+kyeongin.com##.main_top_bottom
+kyeongin.com###popup1944
+kyeongin.com##.menu_ad_list
+kyeongin.com##.menu_ad
+kyeongin.com##.slideAdList
+kyeongin.com##.head_right_ad1
+kyeongin.com##.head_right_ad2
+kyeongin.com##div.main_cont_ad
+kyeongin.com###footer
+kyeongin.com##.partnership
+kyeongin.com##.topAdList
+kyeongin.com##.adWrList
+kyeongin.com##.topAdWrap
+kyeongin.com##.header_ad
+kyeongin.com##.hea_ad_sns
+
+!-- 부산일보
+
+busan.com##.head-ad
+busan.com##.wcms_ad
+busan.com###footer
+busan.com##.logo_box
+busan.com##.info_banner
+busan.com##.footer_sitemap
+busan.com##.view_side_banner
+
+!-- 광남일보
+
+gwangnam.co.kr/ad_view.php
+gwangnam.co.kr/banner/*
+gwangnam.co.kr###right_ad
+
+!-- 광주일보
+
+kwangju.co.kr/banner/*
+kwangju.co.kr##.kw_santa
+kwangju.co.kr##div#kw_ad
+kwangju.co.kr###gotop
+kwangju.co.kr##.kw_yh
+kwangju.co.kr###kw_foot
+kwangju.co.kr##.section_list_ad
+
+!-- 제주신보
+
+jejunews.com/image/*banner*.gif
+jejunews.com###floating_banner_right
+jejunews.com##.banner_box
+jejunews.com###user-footer
+jejunews.com###back-to-top
+jejunews.com###floating_banner_left
+jejunews.com##.auto-marbtm-25
+
+!-- 무등일보
+
+honam.co.kr/lib/thumb.html?src=/banner/*
+honam.co.kr##.side_banner_wrap
+honam.co.kr###footer
+
+!-- 울산신문
+
+ulsanpress.net/banner/*
+ulsanpress.net##.popup-wrap
+ulsanpress.net###user-footer
+ulsanpress.net##.banner_box
+
+!-- 울산매일
+
+iusm.co.kr/Autobox/banner_*$domain=www.iusm.co.kr,subdocument
+iusm.co.kr##.utv-banner
+iusm.co.kr##.utvBox-repair
+iusm.co.kr##.html_banner
+iusm.co.kr###foot-box
+iusm.co.kr##.back-to-top
+
+!--서울신문
+
+seoul.co.kr/RealMedia/ads/*
+seoul.co.kr##.hed_ad
+seoul.co.kr###criteo_div
+seoul.co.kr##.enatic_banner
+seoul.co.kr##.adbox03
+seoul.co.kr###seoulAdTable
+seoul.co.kr###sbaAboutDiv
+seoul.co.kr###eMartDiv
+seoul.co.kr##.bottom
+seoul.co.kr###footerB
+
+!-- 강원일보
+
+kwnews.co.kr/kwnews/ad/*
+kwnews.co.kr/banner/*
+kwnews.co.kr##.RightBannerWrap
+kwnews.co.kr##.flashbox
+
+!-- 경남신문
+
+knnews.co.kr/edb/banner/*
+knnews.co.kr/banner/*
+knnews.co.kr/edb/banner/*
+knnews.co.kr##.right_banner
+knnews.co.kr##.core_footer
+knnews.co.kr##.rel_site
+knnews.co.kr##.left_banner
+knnews.co.kr###ban1
+knnews.co.kr###ban2
+knnews.co.kr###ban3
+knnews.co.kr###ban4
+knnews.co.kr###ban5
+knnews.co.kr###ban6
+knnews.co.kr###ban7
+knnews.co.kr###ban8
+knnews.co.kr###ban9
+knnews.co.kr##.right_banner_kn
+knnews.co.kr##.ad_content_right
+
 !-- 국제신문
 
 kookje.co.kr/service/side/pnut_right.htm
@@ -3395,17 +3118,1053 @@ kookje.co.kr###nsnb
 kookje.co.kr##.box_skitter
 kookje.co.kr###hs_bnr
 
-!-- 스카이데일리
+!-- 대전일보
 
-skyedaily.com/images/*banner*
-skyedaily.com/campain/*
-skyedaily.com/AD/*
-skyedaily.com###SideBannerRight
-skyedaily.com##.banner
-skyedaily.com##.bottom_banner
-skyedaily.com###footer
-skyedaily.com##.total_menu_cc
-skyedaily.com###SideBannerLeft
+daejonilbo.com/bnr/*
+daejonilbo.com##.banner_main_right60
+daejonilbo.com###main_ad2
+daejonilbo.com###footer_link
+daejonilbo.com###bottom_link
+
+!-- 경북매일
+kbmaeil.com##.bn-layer
+kbmaeil.com###user-footer
+kbmaeil.com##.dnbanner
+kbmaeil.com###back-to-top
+kbmaeil.com##div.auto-marbtm-5.banner_box
+kbmaeil.com###floating_banner_left
+kbmaeil.com###floating_banner_right
+
+!-- 전북일보
+
+jjan.kr##.banner_box
+jjan.kr###user-footer
+jjan.kr###back-to-top
+jjan.kr##.dnbanner
+jjan.kr###floating_banner_left
+jjan.kr###floating_banner_right
+
+!-- 충북일보
+inews365.com/data/banner/*
+inews365.com###footer
+inews365.com##.btn_top_wrap
+
+!-- 대구일보
+
+idaegu.com/data/banner/*
+idaegu.com###site-footer
+idaegu.com###div-igaw-ad-web_c21klmdxahwbt4s
+idaegu.com##.rightBanner
+idaegu.com##.back-top
+idaegu.com##section > .post-related
+idaegu.com##div.post-related:nth-of-type(6)
+idaegu.com###div-igaw-ad-web_dhhy4kqh66dwxmf
+idaegu.com##div.widget_bs-thumbnail-listing-1.widget.primary-sidebar-widget.w-t.h-ni:nth-of-type(5)
+idaegu.com##.mobile_block
+
+!-- 제주도민일보
+
+jejudomin.co.kr/banner/*
+jejudomin.co.kr/bannerManager/*
+jejudomin.co.kr###floating_banner_body
+jejudomin.co.kr##.html_banner
+jejudomin.co.kr##.footer-wrap
+jejudomin.co.kr##.aside-naver
+jejudomin.co.kr##.back-to-top
+jejudomin.co.kr##.body-wrap-side
+
+!-- 제민일보
+
+jemin.com/banner/*
+jemin.com/bannerManager/*
+jemin.com###floating_banner_body
+jemin.com##.html_banner
+jemin.com##.footer-wrap
+jemin.com##.aside-naver
+jemin.com##.back-to-top
+jemin.com##.body-wrap-side
+
+!-- 중도일보
+
+joongdo.co.kr/mnt/images/banner/*
+joongdo.co.kr##.deajeon-banner
+joongdo.co.kr##footer
+joongdo.co.kr##.partner
+joongdo.co.kr##.add_slide
+joongdo.co.kr##.lpka > .cooperation-box
+joongdo.co.kr##.lpka
+joongdo.co.kr##.content11
+joongdo.co.kr##.cooperation
+joongdo.co.kr##.sitemap
+joongdo.co.kr##.content13
+
+!-- 경상일보
+
+ksilbo.co.kr/bannerManager/*
+ksilbo.co.kr/banner/*
+
+!-- 충청일보
+
+ccdailynews.com/bannerManager/*
+ccdailynews.com##.dn-copy
+ccdailynews.com##.footer-wrap
+ccdailynews.com##.float-right
+
+!-- 한라일보
+
+ihalla.com/upimages/banner/*
+ihalla.com##.banner_link
+ihalla.com##.top_banner
+ihalla.com###quick_left_menu2
+ihalla.com###quick_menu
+ihalla.com###footer
+ihalla.com##.bottomLink
+ihalla.com##.mark
+ihalla.com##.fn_set
+
+!-- 영남일보
+
+yeongnam.com/mnt/webdata/ad/*
+yeongnam.com###ad_1
+yeongnam.com###ad_2
+yeongnam.com###ad_3
+yeongnam.com###ad_4
+yeongnam.com###ad_5
+yeongnam.com###ad_6
+yeongnam.com###ad_7
+yeongnam.com###ad_8
+yeongnam.com###ad_9
+yeongnam.com##.rg-ad
+yeongnam.com##footer
+yeongnam.com##.ad-table
+yeongnam.com###ad_120
+yeongnam.com###ad_98
+yeongnam.com##.mi-ad-left
+
+!-- 전남일보
+
+jnilbo.com/upload/banners/*
+jnilbo.com##.ad_popup
+jnilbo.com##.join_banner
+jnilbo.com###footer
+
+!-- 경북일보
+
+kyongbuk.co.kr/bannerpop/*
+kyongbuk.co.kr##.bn-layer
+kyongbuk.co.kr##.banner_box
+kyongbuk.co.kr###user-footer
+kyongbuk.co.kr##.dnbanner
+kyongbuk.co.kr###back-to-top
+kyongbuk.co.kr###floating_banner_left
+kyongbuk.co.kr###floating_banner_right
+kyongbuk.co.kr##.pc-top-banner
+kyongbuk.co.kr###rollBanner-1
+kyongbuk.co.kr###rollBanner-2
+kyongbuk.co.kr###rollBanner-3
+kyongbuk.co.kr###rollBanner-4
+kyongbuk.co.kr###rollBanner-5
+kyongbuk.co.kr###rollBanner-6
+kyongbuk.co.kr###rollBanner-7
+kyongbuk.co.kr###rollBanner-8
+kyongbuk.co.kr###rollBanner-9
+kyongbuk.co.kr##.banner_rolling_box
+kyongbuk.co.kr##.site_link
+kyongbuk.co.kr###prism_displayAD
+kyongbuk.co.kr###view-sticky
+kyongbuk.co.kr##.ad-view
+kyongbuk.co.kr/adManager/*
+
+!-- 기호일보
+
+kihoilbo.co.kr/bannerpop/*
+kihoilbo.co.kr###ad_network_26
+kihoilbo.co.kr##.banner_box
+kihoilbo.co.kr##.edit_banner_box
+kihoilbo.co.kr###user-footer
+kihoilbo.co.kr##.footer-bn
+kihoilbo.co.kr###floating_banner_left
+kihoilbo.co.kr###floating_banner_right
+kihoilbo.co.kr##.article-sponsor
+kihoilbo.co.kr###layer-popups
+kihoilbo.co.kr##.pc-top-banner
+kihoilbo.co.kr###rollBanner-1
+kihoilbo.co.kr###rollBanner-2
+kihoilbo.co.kr###rollBanner-3
+kihoilbo.co.kr###rollBanner-4
+kihoilbo.co.kr###rollBanner-5
+kihoilbo.co.kr###rollBanner-6
+kihoilbo.co.kr###rollBanner-7
+kihoilbo.co.kr###rollBanner-8
+kihoilbo.co.kr###rollBanner-9
+kihoilbo.co.kr##.banner_rolling_box
+kihoilbo.co.kr##.site_link
+kihoilbo.co.kr###prism_displayAD
+kihoilbo.co.kr###view-sticky
+kihoilbo.co.kr##.ad-view
+kihoilbo.co.kr/adManager/*
+
+!-- 서울와이어
+
+seoulwire.com##.banner_box
+seoulwire.com/bannerpop/*
+seoulwire.com###ad_html
+seoulwire.com###adbn_sky_listener
+seoulwire.com###user-footer
+seoulwire.com###back-to-top
+seoulwire.com##.dark
+seoulwire.com##.gray
+seoulwire.com###floating_banner_left
+seoulwire.com###floating_banner_right
+seoulwire.com##.article-sponsor
+seoulwire.com###layer-popups
+seoulwire.com##.pc-top-banner
+seoulwire.com###rollBanner-1
+seoulwire.com###rollBanner-2
+seoulwire.com###rollBanner-3
+seoulwire.com###rollBanner-4
+seoulwire.com###rollBanner-5
+seoulwire.com###rollBanner-6
+seoulwire.com###rollBanner-7
+seoulwire.com###rollBanner-8
+seoulwire.com###rollBanner-9
+seoulwire.com##.banner_rolling_box
+seoulwire.com##.site_link
+seoulwire.com###prism_displayAD
+seoulwire.com###view-sticky
+seoulwire.com##.ad-view
+seoulwire.com/adManager/*
+
+!-- 중부매일
+
+jbnews.com/bannerpop/*
+jbnews.com###back-to-top
+jbnews.com##.banner_box
+jbnews.com###user-footer
+jbnews.com##.dnbanner
+jbnews.com###floating_banner_left
+jbnews.com###floating_banner_right
+jbnews.com##.article-sponsor
+jbnews.com###layer-popups
+jbnews.com##.pc-top-banner
+jbnews.com###rollBanner-1
+jbnews.com###rollBanner-2
+jbnews.com###rollBanner-3
+jbnews.com###rollBanner-4
+jbnews.com###rollBanner-5
+jbnews.com###rollBanner-6
+jbnews.com###rollBanner-7
+jbnews.com###rollBanner-8
+jbnews.com###rollBanner-9
+jbnews.com##.banner_rolling_box
+jbnews.com##.site_link
+jbnews.com###prism_displayAD
+jbnews.com###view-sticky
+jbnews.com##.ad-view
+jbnews.com/adManager/*
+
+!-- 경기일보
+
+kyeonggi.com/bannerpop/*
+kyeonggi.com##.banner_box
+kyeonggi.com###back-to-top
+kyeonggi.com##.dnbanner
+kyeonggi.com###user-footer
+kyeonggi.com###floating_banner_left
+kyeonggi.com###floating_banner_right
+kyeonggi.com##.article-sponsor
+kyeonggi.com###layer-popups
+kyeonggi.com##.pc-top-banner
+kyeonggi.com###rollBanner-1
+kyeonggi.com###rollBanner-2
+kyeonggi.com###rollBanner-3
+kyeonggi.com###rollBanner-4
+kyeonggi.com###rollBanner-5
+kyeonggi.com###rollBanner-6
+kyeonggi.com###rollBanner-7
+kyeonggi.com###rollBanner-8
+kyeonggi.com###rollBanner-9
+kyeonggi.com##.banner_rolling_box
+kyeonggi.com##.site_link
+kyeonggi.com###prism_displayAD
+kyeonggi.com###view-sticky
+kyeonggi.com##.ad-view
+kyeonggi.com/adManager/*
+
+!-- 경남도민일보
+
+idomin.com/bannerpop/*
+idomin.com##.banner_box
+idomin.com###back-to-top
+idomin.com##.dnbanner
+idomin.com###user-footer
+idomin.com###floating_banner_left
+idomin.com###floating_banner_right
+idomin.com##.article-sponsor
+idomin.com###layer-popups
+idomin.com##.pc-top-banner
+idomin.com###rollBanner-1
+idomin.com###rollBanner-2
+idomin.com###rollBanner-3
+idomin.com###rollBanner-4
+idomin.com###rollBanner-5
+idomin.com###rollBanner-6
+idomin.com###rollBanner-7
+idomin.com###rollBanner-8
+idomin.com###rollBanner-9
+idomin.com##.banner_rolling_box
+idomin.com##.site_link
+idomin.com###prism_displayAD
+idomin.com###view-sticky
+idomin.com##.ad-view
+idomin.com/adManager/*
+
+!-- 경북도민일보
+
+hidomin.com/bannerpop/*
+hidomin.com##.banner_box
+hidomin.com###back-to-top
+hidomin.com##.dnbanner
+hidomin.com###user-footer
+hidomin.com###floating_banner_left
+hidomin.com###floating_banner_right
+hidomin.com##.article-sponsor
+hidomin.com###layer-popups
+hidomin.com##.pc-top-banner
+hidomin.com###rollBanner-1
+hidomin.com###rollBanner-2
+hidomin.com###rollBanner-3
+hidomin.com###rollBanner-4
+hidomin.com###rollBanner-5
+hidomin.com###rollBanner-6
+hidomin.com###rollBanner-7
+hidomin.com###rollBanner-8
+hidomin.com###rollBanner-9
+hidomin.com##.banner_rolling_box
+hidomin.com##.site_link
+hidomin.com###prism_displayAD
+hidomin.com###view-sticky
+hidomin.com##.ad-view
+hidomin.com/adManager/*
+
+!-- 인천일보
+
+incheonilbo.com##.pc-top-banner
+incheonilbo.com/bannerpop/*
+incheonilbo.com##.banner_box
+incheonilbo.com###back-to-top
+incheonilbo.com##.dnbanner
+incheonilbo.com###user-footer
+incheonilbo.com###floating_banner_left
+incheonilbo.com###floating_banner_right
+incheonilbo.com##.article-sponsor
+incheonilbo.com###layer-popups
+incheonilbo.com###rollBanner-1
+incheonilbo.com###rollBanner-2
+incheonilbo.com###rollBanner-3
+incheonilbo.com###rollBanner-4
+incheonilbo.com###rollBanner-5
+incheonilbo.com###rollBanner-6
+incheonilbo.com###rollBanner-7
+incheonilbo.com###rollBanner-8
+incheonilbo.com###rollBanner-9
+incheonilbo.com##.banner_rolling_box
+incheonilbo.com##.site_link
+incheonilbo.com###prism_displayAD
+incheonilbo.com###view-sticky
+incheonilbo.com##.ad-view
+incheonilbo.com/adManager/*
+
+!-- 충청투데이
+
+cctoday.co.kr##.pc-top-banner
+cctoday.co.kr/bannerpop/*
+cctoday.co.kr##.banner_box
+cctoday.co.kr###back-to-top
+cctoday.co.kr##.dnbanner
+cctoday.co.kr###user-footer
+cctoday.co.kr###floating_banner_left
+cctoday.co.kr###floating_banner_right
+cctoday.co.kr##.article-sponsor
+cctoday.co.kr###layer-popups
+cctoday.co.kr###rollBanner-1
+cctoday.co.kr###rollBanner-2
+cctoday.co.kr###rollBanner-3
+cctoday.co.kr###rollBanner-4
+cctoday.co.kr###rollBanner-5
+cctoday.co.kr###rollBanner-6
+cctoday.co.kr###rollBanner-7
+cctoday.co.kr###rollBanner-8
+cctoday.co.kr###rollBanner-9
+cctoday.co.kr##.banner_rolling_box
+cctoday.co.kr##.site_link
+cctoday.co.kr###prism_displayAD
+cctoday.co.kr###view-sticky
+cctoday.co.kr##.ad-view
+cctoday.co.kr/adManager/*
+
+!-- 미디어제주
+
+mediajeju.com##.pc-top-banner
+mediajeju.com/bannerpop/*
+mediajeju.com##.banner_box
+mediajeju.com###back-to-top
+mediajeju.com##.dnbanner
+mediajeju.com###user-footer
+mediajeju.com###floating_banner_left
+mediajeju.com###floating_banner_right
+mediajeju.com##.article-sponsor
+mediajeju.com###layer-popups
+mediajeju.com###rollBanner-1
+mediajeju.com###rollBanner-2
+mediajeju.com###rollBanner-3
+mediajeju.com###rollBanner-4
+mediajeju.com###rollBanner-5
+mediajeju.com###rollBanner-6
+mediajeju.com###rollBanner-7
+mediajeju.com###rollBanner-8
+mediajeju.com###rollBanner-9
+mediajeju.com##.banner_rolling_box
+mediajeju.com##.site_link
+mediajeju.com###prism_displayAD
+mediajeju.com###view-sticky
+mediajeju.com##.ad-view
+mediajeju.com/adManager/*
+
+!-- 강원도민일보
+
+kado.net##.pc-top-banner
+kado.net/bannerpop/*
+kado.net##.banner_box
+kado.net###back-to-top
+kado.net##.dnbanner
+kado.net###user-footer
+kado.net###floating_banner_left
+kado.net###floating_banner_right
+kado.net##.article-sponsor
+kado.net###layer-popups
+kado.net###rollBanner-1
+kado.net###rollBanner-2
+kado.net###rollBanner-3
+kado.net###rollBanner-4
+kado.net###rollBanner-5
+kado.net###rollBanner-6
+kado.net###rollBanner-7
+kado.net###rollBanner-8
+kado.net###rollBanner-9
+kado.net##.banner_rolling_box
+kado.net##.site_link
+kado.net###prism_displayAD
+kado.net###view-sticky
+kado.net##.ad-view
+kado.net/adManager/*
+
+!-- 중부일보
+
+joongboo.com##.pc-top-banner
+joongboo.com/bannerpop/*
+joongboo.com##.banner_box
+joongboo.com###back-to-top
+joongboo.com##.dnbanner
+joongboo.com###user-footer
+joongboo.com###floating_banner_left
+joongboo.com###floating_banner_right
+joongboo.com##.article-sponsor
+joongboo.com###layer-popups
+joongboo.com###rollBanner-1
+joongboo.com###rollBanner-2
+joongboo.com###rollBanner-3
+joongboo.com###rollBanner-4
+joongboo.com###rollBanner-5
+joongboo.com###rollBanner-6
+joongboo.com###rollBanner-7
+joongboo.com###rollBanner-8
+joongboo.com###rollBanner-9
+joongboo.com##.banner_rolling_box
+joongboo.com##.site_link
+joongboo.com###prism_displayAD
+joongboo.com###view-sticky
+joongboo.com##.ad-view
+joongboo.com/adManager/*
+
+!-- 광주드림
+
+gjdream.com##.pc-top-banner
+gjdream.com/bannerpop/*
+gjdream.com##.banner_box
+gjdream.com###back-to-top
+gjdream.com##.dnbanner
+gjdream.com###user-footer
+gjdream.com###floating_banner_left
+gjdream.com###floating_banner_right
+gjdream.com##.article-sponsor
+gjdream.com###layer-popups
+gjdream.com###rollBanner-1
+gjdream.com###rollBanner-2
+gjdream.com###rollBanner-3
+gjdream.com###rollBanner-4
+gjdream.com###rollBanner-5
+gjdream.com###rollBanner-6
+gjdream.com###rollBanner-7
+gjdream.com###rollBanner-8
+gjdream.com###rollBanner-9
+gjdream.com##.banner_rolling_box
+gjdream.com##.site_link
+gjdream.com###prism_displayAD
+gjdream.com###view-sticky
+gjdream.com##.ad-view
+gjdream.com/adManager/*
+
+!-- 제주의소리
+
+jejusori.net##.pc-top-banner
+jejusori.net/bannerpop/*
+jejusori.net##.banner_box
+jejusori.net###back-to-top
+jejusori.net##.dnbanner
+jejusori.net###user-footer
+jejusori.net###floating_banner_left
+jejusori.net###floating_banner_right
+jejusori.net##.article-sponsor
+jejusori.net###layer-popups
+jejusori.net###rollBanner-1
+jejusori.net###rollBanner-2
+jejusori.net###rollBanner-3
+jejusori.net###rollBanner-4
+jejusori.net###rollBanner-5
+jejusori.net###rollBanner-6
+jejusori.net###rollBanner-7
+jejusori.net###rollBanner-8
+jejusori.net###rollBanner-9
+jejusori.net##.banner_rolling_box
+jejusori.net##.site_link
+jejusori.net###prism_displayAD
+jejusori.net###view-sticky
+jejusori.net##.ad-view
+jejusori.net/adManager/*
+
+!-- 전북도민일보
+
+domin.co.kr##.pc-top-banner
+domin.co.kr/bannerpop/*
+domin.co.kr##.banner_box
+domin.co.kr###back-to-top
+domin.co.kr##.dnbanner
+domin.co.kr###user-footer
+domin.co.kr###floating_banner_left
+domin.co.kr###floating_banner_right
+domin.co.kr##.article-sponsor
+domin.co.kr###layer-popups
+domin.co.kr###rollBanner-1
+domin.co.kr###rollBanner-2
+domin.co.kr###rollBanner-3
+domin.co.kr###rollBanner-4
+domin.co.kr###rollBanner-5
+domin.co.kr###rollBanner-6
+domin.co.kr###rollBanner-7
+domin.co.kr###rollBanner-8
+domin.co.kr###rollBanner-9
+domin.co.kr##.banner_rolling_box
+domin.co.kr##.site_link
+domin.co.kr###prism_displayAD
+domin.co.kr###view-sticky
+domin.co.kr##.ad-view
+domin.co.kr/adManager/*
+
+!-- 유튜브
+
+youtube.com/api/stats/ads*
+youtube.com/api/stats/ads?ver=2
+youtube.com##.ytp-endscreen-content
+youtube.com##.ytp-ce-covering-overlay
+youtube.com##.branding-img-container
+youtube.com##.ytp-ce-element-show
+youtube.com###ytp-pause-overlay
+youtube.com##.ytd-search-pyv-renderer.style-scope
+youtube.com##.ytp-scroll-min
+youtube.com##.adDisplay
+youtube.com##.video-ads
+youtube.com###player-ads
+youtube.com##.annotation
+youtube.com##.ytp-ad-player-overlay-instream-info
+youtube.com##.ytp-endscreen-previous
+youtube.com##.ytp-endscreen-next
+youtube.com##.ytp-cards-button-icon
+youtube.com##.ytp-youtube-button
+youtube.com###root-container
+youtube.com##ytd-compact-video-renderer.ytd-watch-next-secondary-results-renderer.style-scope
+youtube.com###spinner
+youtube.com###footer
+youtube.com##.ytd-rich-item-renderer
+youtube.com###title.ytd-rich-grid-renderer
+youtube.com##.ytd-rich-section-renderer.style-scope
+youtube.com##ytm-companion-ad-renderer
+
+!-- 아프리카
+
+adballoonimg.afreecatv.com
+afreecatv.com###afreecaAd
+afreecatv.com###topBnrArea
+afreecatv.com##.bjissue_banner
+afreecatv.com###header_ad
+afreecatv.com##.adcon-area
+afreecatv.com##.ng-scope.banner_wrap
+afreecatv.com##.seasonal
+afreecatv.com###chat_ad
+afreecatv.com###tuneOut > p
+afreecatv.com##.ng-scope.seasonal
+
+!-- 트위치
+
+ext-twitch.tv/supervisor/*
+scorecardresearch.com
+amazon-adsystem.com
+imrworldwide.com
+twitch.tv##.extension-taskbar
+twitch.tv###dfp-directory-banner
+twitch.tv###dfp-directory-rectangle
+twitch.tv##.blue-bar
+
+!-- 11번가
+
+11st.co.kr/cart/RecommendProduct.tmall
+
+11st.co.kr###dsLeftWingBannerMiddle
+11st.co.kr##.bnrborder
+11st.co.kr##.ftr_banner
+11st.co.kr###evt_adbnr
+11st.co.kr###dsGnbBanner
+11st.co.kr##.prdc_cate_choice
+11st.co.kr##.prdc_cont_banner_2
+11st.co.kr###hotclick-recm-container
+11st.co.kr##.mw_bnr
+11st.co.kr##.c-banner
+11st.co.kr##.prdc_top_right
+11st.co.kr###wingRecmPrd
+11st.co.kr##.prdc_banner5
+11st.co.kr###hotClkRcmGoods
+11st.co.kr###mainPromotion_area
+11st.co.kr##.header_ad
+11st.co.kr##.ad_banner
+11st.co.kr##.bnr_adtxt_2
+11st.co.kr##.prom_bnr2
+11st.co.kr###partnerBenefitTxt
+11st.co.kr##.advert_area_btm
+11st.co.kr##.advert_area
+11st.co.kr##.ifrm_hotclick
+11st.co.kr##.oEnd_980ban
+11st.co.kr##.ad_warp
+11st.co.kr##.prom_bnr
+11st.co.kr##.Buywrite_ban_v2
+11st.co.kr###iframeAdsArea
+11st.co.kr###footerWrap3
+11st.co.kr##.marT20
+11st.co.kr###myAddIframe
+11st.co.kr##.login_banner
+
+!-- 옥션
+
+auction.co.kr##.hp_side_banner
+auction.co.kr##.promo
+auction.co.kr##.plcc_banner
+auction.co.kr##.box__cpc-togetheritems
+auction.co.kr##.ad_area
+auction.co.kr##.component--sponsor_link
+
+!-- 지마켓
+
+gmarket.co.kr##.ng-scope.banner
+gmarket.co.kr##.space.m_ad
+gmarket.co.kr##.blank.m_ad
+gmarket.co.kr##.m_banner
+gmarket.co.kr###floatbar > .ad
+gmarket.co.kr###topbanner
+gmarket.co.kr##.wrap > .ad
+gmarket.co.kr##.m_power
+gmarket.co.kr##.m_market
+gmarket.co.kr##.m_minishop
+gmarket.co.kr##.m_focus
+gmarket.co.kr##.plcc_banner
+gmarket.co.kr##.box__cpc-togetheritems
+gmarket.co.kr##.vip-cpcarea
+gmarket.co.kr##.link__banner
+gmarket.co.kr##.once.smileday_main_banner
+gmarket.co.kr##.smileday_icon_banner
+gmarket.co.kr##.active.smileday_main_banner
+gmarket.co.kr##.event_banner
+gmarket.co.kr###vipPowerClickLayer
+gmarket.co.kr##.banner
+gmarket.co.kr##.banner1
+gmarket.co.kr##.second_banner
+gmarket.co.kr##.ad_bnr_wrap
+gmarket.co.kr##.item_sponsor_link
+gmarket.co.kr###bigSmileFilter
+gmarket.co.kr##.box__component-sponsor-link
+
+!-- 위메프
+
+wemakeprice.com###top_event_banner3
+wemakeprice.com###right_top_event_banner
+wemakeprice.com##.wrap_shopping
+wemakeprice.com##.wrap_ad
+wemakeprice.com###_topBannerContainer
+wemakeprice.com##.side_bicad
+wemakeprice.com##.m-app-lead-banner
+wemakeprice.com###_rollingBanner
+
+!- 티켓몬스터
+
+tmon.co.kr###topline_ad
+tmon.co.kr###_eventBannerList
+tmon.co.kr###_benefitBanner
+tmon.co.kr###topline_banner
+tmon.co.kr##.banners
+tmon.co.kr##.oneday
+tmon.co.kr##.banner_box
+
+!-- HMALL
+
+hyundaihmall.com##.login-ad
+
+!-- 쿠팡
+
+coupang.com###fullBanner
+coupang.com###coupang-banner
+coupang.com##.promotion-banner
+coupang.com##.quick-scroll
+
+!-- 옥션
+
+auction.co.kr##.advarea
+auction.co.kr##.uxb-newad
+auction.co.kr###sideAds
+auction.co.kr##.banner1
+auction.co.kr##.vip-detailinfo_banner
+
+!-- 신세계
+
+ssg.com###_cmskyCard
+ssg.com###gnbBanrDiv
+ssg.com##.cdtl_bn_marketing
+
+!-- 다나와
+
+ad.danawa.com
+danawa.com/images/newsCommunity/eventSkin/*
+danawa.com/NBP/powerLink.php
+danawa.com###floatAdLayer
+danawa.com##.banner_center
+danawa.com###mdnw-main-recommend-realCuration-container
+danawa.com###mdnw-advertise-adReader-slideContainer
+danawa.com###mdnw-productList-adPointContainer
+danawa.com###productBlog-adContainer
+danawa.com###mobile_dpg_list_bottom2
+danawa.com##.dpg_power_link
+danawa.com###mdnw-main-hotdeal-banner-container
+danawa.com###mdnw-main-computer-topBanner
+danawa.com##.header_banner
+danawa.com###t1Banner
+danawa.com##.h_type.banner_area
+danawa.com###powerLinkRight
+danawa.com###powerLinkBottom
+danawa.com##.banner_area
+danawa.com##.rnb_banner
+danawa.com###danawa-community-rnb-ad-top
+danawa.com##.ttop_banner
+danawa.com###danawa-gnb-header-adBanner-self
+danawa.com##.comty_wrap_link
+danawa.com##.bbs_power_link
+danawa.com###danawa-community-newsView-ad-middle1
+danawa.com###danawa-community-newsView-ad-middle2
+danawa.com##.bbs_banner
+danawa.com##.ad_wide_slide
+danawa.com##.spon_ad
+danawa.com##.dealer_bnr
+danawa.com##.diff_bnr
+danawa.com###mainAdReader
+danawa.com###mainAdStar
+danawa.com##.product_ad_banner
+danawa.com###mainAdPoint
+danawa.com##.ad_section
+danawa.com##.power_link
+danawa.com##.adreader_list
+
+!-- 시네스트
+
+cineaste.co.kr###sky
+cineaste.co.kr##.at-content > center
+
+!-- 가생이
+
+gasengi.com/ad/*
+gasengi.com/img/logo_top.gif$domain=gasengi.com,image
+gasengi.com##.quick_m
+gasengi.com###ad_powerlink_div
+gasengi.com###nhn_ad1
+gasengi.com###nhn_ad2
+gasengi.com###nhn_ad3
+gasengi.com###nhn_ad4
+gasengi.com###nhn_ad5
+gasengi.com###nhn_ad6
+gasengi.com###nhn_ad7
+gasengi.com###nhn_ad8
+gasengi.com###nhn_ad9
+gasengi.com###leftcolumn > div:nth-of-type(5)
+gasengi.com###aswift_0_expand
+gasengi.com##li.cursor.top_l01
+gasengi.com###copyright
+gasengi.com##.board_list > tbody > tr:has-text(국가에충성)
+gasengi.com###commentContents > table:has-text(국가에충성)
+gasengi.com##.board_list > tbody > tr:has-text(a문재인)
+gasengi.com###commentContents > table:has-text(a문재인)
+gasengi.com##.board_list > tbody > tr:has-text(고통번뇌)
+gasengi.com###commentContents > table:has-text(고통번뇌)
+gasengi.com##.board_list > tbody > tr:has-text(실제상황)
+gasengi.com###commentContents > table:has-text(실제상황)
+
+!-- 루리웹
+
+ruliweb.com##.adrrr
+ruliweb.com##.nbp_container
+ruliweb.com##.ad_header_wrapper
+ruliweb.com###fixed_ad
+ruliweb.com##.right_wrapper
+ruliweb.com##.gsc-adBlock
+ruliweb.com##li.right_best_list_item:nth-of-type(20)
+ruliweb.com##.ad
+ruliweb.com##.banner
+
+!-- 인벤
+
+ads.inven.co.kr
+inven.co.kr/image_2011/webtoon/banner/*
+inven.co.kr/column/2018/10/31/event/*
+inven.co.kr/column/2017/03/24/event/*
+inven.co.kr###comAdTopRight3
+inven.co.kr##.AdSky
+inven.co.kr###marketBottom
+inven.co.kr##.testAd
+inven.co.kr##.bbsMiddleAd
+inven.co.kr##.googleSubjectAd
+inven.co.kr##.bannerMenuType1
+inven.co.kr##.rightMarket
+inven.co.kr##.rightImart
+inven.co.kr##.eventBoxWrap
+inven.co.kr##.rightBrandpage
+inven.co.kr##.preregiBoxWrap
+inven.co.kr##.broadSchedule
+inven.co.kr##.adTi
+inven.co.kr##.eventPopup
+inven.co.kr##.banner
+inven.co.kr##div.banner_box
+inven.co.kr###modMarketinven
+inven.co.kr###modPrintgallery
+inven.co.kr##.custom-game-pc
+inven.co.kr###modOpenIssue
+inven.co.kr###comModCommonPart
+inven.co.kr###brandpageCommon
+inven.co.kr##.cosplay
+inven.co.kr###backskinleft
+inven.co.kr###backskinright
+inven.co.kr##.adSlide
+inven.co.kr##.minAd
+inven.co.kr###topskyAd
+inven.co.kr##.marketBottomDable
+inven.co.kr##.repNewsLink
+inven.co.kr###topslideAd
+inven.co.kr###mobileTailAd
+inven.co.kr###mobileTailAd_Layer
+inven.co.kr###mobileTailAd_LayerDummy
+inven.co.kr##.mobileDaNs1
+inven.co.kr##[href="http://m.inven.co.kr/webtoon/"]
+inven.co.kr##.ad-wrap
+inven.co.kr##center
+inven.co.kr###commonpart_market
+
+!-- 게임메카
+
+gm-adimage.gamemeca.com
+gm-adkpf.gamemeca.com
+gamemeca.com##.content-top-ad
+gamemeca.com##.aside-left-ad
+gamemeca.com##.backgroundAdClick
+gamemeca.com##.ad-topscroll
+gamemeca.com##.toastBanner
+gamemeca.com##.news-right-ad
+gamemeca.com##.gnb-left-ad
+gamemeca.com##.gm_head_ads
+gamemeca.com##.main-ranking-section-ad
+gamemeca.com##.board-right-ad
+gamemeca.com##.article-banner
+gamemeca.com##.google_ad_bottom_728x90
+gamemeca.com##.right_ad
+gamemeca.com##.right_ad2
+gamemeca.com###criteo_slot_3531
+gamemeca.com###mobiDiv
+gamemeca.com###aswift_0_expand
+gamemeca.com##.mobile_top_ad
+
+!-- 게임조선
+
+gamechosun.co.kr###FloatLayer1
+gamechosun.co.kr##.main_back
+gamechosun.co.kr##.top_event
+gamechosun.co.kr##.adMobile
+gamechosun.co.kr###foot_banner01
+gamechosun.co.kr###footer
+
+!-- 온라이프
+
+onlifezone.com/ad/*
+onlifezone.com###ad_m_b
+onlifezone.com##.gpe_pm_conban_code
+onlifezone.com##div.scban_wrap
+
+!-- 플레이포럼
+
+playforum.net##.sidead
+playforum.net##.ad_wrap
+playforum.net##.cont_ad
+playforum.net###adBottomBox
+
+!-- 트게더
+
+tgd.kr/event/*
+tgd.kr###weare-out-of-food
+tgd.kr###plz-dont-block-me
+
+!-- 아이템매니아
+
+itemmania.com/images/banner/*
+itemmania.com##.list_layer
+itemmania.com###g_BOTTOM_BANNER
+itemmania.com###trade_top_bn
+itemmania.com###g_remocon_head_banner
+itemmania.com###margin_banner
+itemmania.co.kr###top_banner
+
+!-- 디시인사이드
+
+dcinside.com##div.rightbanner
+dcinside.com##div.leftbanner
+dcinside.com##.stickyunit
+dcinside.com###wif_adx_banner_wrap
+dcinside.com##.con_banner
+dcinside.com##.rightbanner
+dcinside.com##.dory
+dcinside.com##.kakao_ad_area
+dcinside.com##.ad_bottom_list
+dcinside.com##.adv-group
+dcinside.com##.adv-groupin
+dcinside.com##.dori-box
+dcinside.com##.dori-icon
+dcinside.com##.dori-icon-txt
+dcinside.com###div_adnmore_area
+dcinside.com##.adv-grouptop
+dcinside.com##.evt_content
+dcinside.com##.power_click
+dcinside.com###zzbang_div
+dcinside.com##.power_link
+dcinside.com###ad-layer
+dcinside.com##.banner_box
+dcinside.com/ad/*
+
+!-- 헝그리앱
+
+hungryapp.co.kr/banner/*
+hungryapp.co.kr/images/common_/bg_bu.gif
+hungryapp.co.kr/banner/banner_1.php
+hungryapp.co.kr/banner/banner_2.php
+hungryapp.co.kr/banner/banner_3.php
+hungryapp.co.kr/banner/banner_4.php
+hungryapp.co.kr/banner/banner_5.php
+hungryapp.co.kr/banner/banner_6.php
+hungryapp.co.kr/banner/banner_7.php
+hungryapp.co.kr/banner/banner_8.php
+hungryapp.co.kr/banner/banner_9.php
+hungryapp.co.kr###banner_11
+hungryapp.co.kr##.bannersww
+hungryapp.co.kr###banner9_iframe
+hungryapp.co.kr##.RightBnr
+hungryapp.co.kr##.rb_wrapper
+hungryapp.co.kr##.header_menu
+hungryapp.co.kr##.banner_cnt
+hungryapp.co.kr###popUP_ZONE
+hungryapp.co.kr##.banner12
+hungryapp.co.kr##.Mibox_down
+hungryapp.co.kr##.m-main-banner
+hungryapp.co.kr##.banner
+
+!-- 레딧
+
+reddit.com##.eSMtzD.kkicq7-0
+reddit.com###sidebar-atf-0
+reddit.com###sidebar-btf-1
+reddit.com##.bEmdPZ
+
+!-- dvdprime
+
+dvdprime.com/g2/img/banner/*
+dvdprime.com##.relative.a_content > .relative
+dvdprime.com###top_banner
+dvdprime.com##.relative.rc_div > .relative
+dvdprime.com###menu_inner > .relative
+dvdprime.com###empty_right
+dvdprime.com###empty_left
+dvdprime.com###sidebar_doubleclick
+dvdprime.com##.ad_content_bottom
+dvdprime.com###ad_view_right1
+dvdprime.com###menubar_doubleclick
+dvdprime.com###bottom
+
+!-- 정글
+
+jungle.co.kr##.main_banner
+jungle.co.kr##.footer
+
+!-- 클리앙
+
+clien.net###naverAd
+clien.net###hongboInfoList
+clien.net##.view_bottom_ad
+clien.net###side_banner
+clien.net##.main_top_ad
+clien.net##.main_center_ad
+clien.net##.footer_ad
+clien.net##.list_top_ad
+clien.net##.list_bottom_ad
+clien.net##.list_center_ad
+clien.net###naverAd2
+clien.net##.view_center_ad
+clien.net##.footer_wrap
+
+!-- 이토렌드
+
+etoland.co.kr/img/index_banner*.*
+etoland.co.kr/img/banner/*
+etoland.co.kr/img/toptoon/*
+etoland.co.kr/img/chanwoopark/*
+etoland.co.kr/img/19/19ad1/*
+etoland.co.kr/img/baedal/*
+etoland.co.kr/img/metoon/*
+etoland.co.kr/img/19/*
+etoland.co.kr/img/net/banner/*$domain=etoland.co.kr,image
+etoland.co.kr##div.market_div_item
+etoland.co.kr###main_bn
+etoland.co.kr##.cnt_layout
+etoland.co.kr##.middleAds
+etoland.co.kr###text_banner_td
+etoland.co.kr##.fortune_aside1
+etoland.co.kr##.fortune_aside2
+etoland.co.kr##.footer
+etoland.co.kr##.right_aside_wrap
+etoland.co.kr##.ad_list
+etoland.co.kr##.ad_header
+etoland.co.kr##.gsc-adBlock
+etoland.co.kr###mobonDivBanner_16909
+etoland.co.kr###mobonDivBanner_16910
+etoland.co.kr###mobonDivBanner_16912
+etoland.co.kr##.reft_hit_banner
 
 !-- 토렌트하자
 
@@ -3742,14 +4501,6 @@ avnori.pro##.side-banner
 avnori.pro##.main-banner
 wikitree.co.kr###prism_displayAD
 wikitree.co.kr##.wikitree_ad
-xportsnews.com##.nm_list2
-xportsnews.com##.ad_wrap_list
-xportsnews.com##div.ad_wrap
-xportsnews.com##.r_ad_1
-xportsnews.com##.rr_ad_2
-xportsnews.com###r_ad
-xportsnews.com##.ad_1
-xportsnews.com###l_ad
 sougouwiki.com##.adsense-box
 sougouwiki.com##.ads-box
 epochtimes.co.kr##.html_banner
@@ -3851,9 +4602,6 @@ avdbs.com###footer
 namu.live##.ad
 dmm.co.jp###buyee-alliance-banner
 funshop.co.kr##.scrollbox-popup
-newsen.com###left_banner
-newsen.com###right_banner
-newsen.com###news_banner
 washingtonpost.com##.ad-hideable
 assi27.com##div.btv_lbox:nth-of-type(6)
 assi27.com###section2 > div.btv_lbox:nth-of-type(7) > div:nth-of-type(1)
@@ -3899,7 +4647,6 @@ toomics.com##.giftbox-banner
 toomics.com##.gnb-banner
 dispatch.co.kr##.fastview-ad
 wuhanvirus.kr##.banner
-zum.com##.article_ad
 bobaedream.co.kr##.Car_list
 ||nz04com.com/aabdd/aaaddpics/*$image
 webtoonguide.com/8c/c5/*$domain=webtoonguide.com,image
