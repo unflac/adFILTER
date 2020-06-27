@@ -1451,12 +1451,12 @@ bomul.com##.footer
 
 !--- 구글
 
-!googlesyndication.com
-!doubleclick.net
-!google-analytics.com
-!googleadservices.com
-!googletagmanager.com
-!googletagservices.com/*
+googlesyndication.com
+doubleclick.net
+google-analytics.com
+googleadservices.com
+googletagmanager.com
+googletagservices.com/*
 googleads.g.doubleclick.net
 google.com/cse_v2/ads
 google.com/afs/ads
