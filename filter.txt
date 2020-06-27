@@ -1,4 +1,4 @@
-!-- 2020.06.28 Ab
+!-- 2020.06.28 Abcd
 
 !-- 통합 ----------------------------------------------------------------------------------------------------
 
@@ -1451,12 +1451,17 @@ bomul.com##.footer
 
 !--- 구글
 
-googlesyndication.com
-doubleclick.net
-google-analytics.com
-googleadservices.com
-googletagmanager.com
-googletagservices.com/*
+@@||google.com
+@@||g.doubleclick.net
+@@||ad.doubleclick.net
+@@||pagead2.googlesyndication.com
+@@||partner.googleadservices.com
+!googlesyndication.com
+!doubleclick.net
+!google-analytics.com
+!googleadservices.com
+!googletagmanager.com
+!googletagservices.com/*
 googleads.g.doubleclick.net
 google.com/cse_v2/ads
 google.com/afs/ads
