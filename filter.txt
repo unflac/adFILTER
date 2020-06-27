@@ -1,22 +1,56 @@
-!-- 2020.06.27 A
+!-- 2020.06.28 A
 
 !-- 통합 ----------------------------------------------------------------------------------------------------
 
 */RealMedia/ads/*
+*/bn_img/*
+*/adimg/*
+addevent.php
 ##.adsbygoogle
 ##.check_notify
 ###livereContentsContainer
 ##.google_search_ad
 ##.cookies-notice
 ##.power_link
-*/bn_img/*
-*/adimg/*
 ##.adsensemain
 ##.ads-module-wrapper
 ##.adsbyadop
-addevent.php
 ###pLiveContentsWrapper
 ###POWER_LINK_NAVER
+##[id^="AD_LIVE_AREA"]
+##[id^="google_ads_iframe"]
+##[id^="div-gpt-ad"]
+##[id^="adsbygoogle"]
+##[id^="bottomBannerArea"]
+##[class^="AD_LIVE_AREA"]
+##[class^="google_ads_iframe"]
+##[class^="div-gpt-ad"]
+##[class^="adsbygoogle"]
+##[class^="bottomBannerArea"]
+##[href^="https://siape.veta.naver.com/fxclick"]
+##[href^="https://media.naver.com/channel/promotion.nhn"]
+##[href^="http://media.naver.com/channel/promotion.nhn"]
+
+!-- GO TOP
+
+##.btn_top
+##.btn_top_wrap
+##.btn_top_area
+##.fixed-btn
+##.btn-go-top
+###goTopBtn
+###goTop
+##.content_top
+###NM_scroll_top_btn
+##.btn_theme
+###back-to-top
+##.back-to-top
+##.top_move_btn
+##.btn_area
+##.go_top_weekly
+##.gotop
+##.scroll-to-top
+##.btn_pageup
 
 !-- 만화 공통 ----------------------------------------------------------------------------------------------------
 
@@ -45,7 +79,6 @@ addevent.php
 ##.top_banner
 ##.login-block
 ##.hidden-xs
-##.navbar
 
 !-- copytoon92.com
 
@@ -64,7 +97,6 @@ addevent.php
 ##.at-copyright
 ##.view-comment
 ##.comment-media
-##.panel-default
 
 !-- newtoki65.net
 
@@ -72,7 +104,7 @@ addevent.php
 ##.board-tail-banner
 ##.basic-banner
 
-!-- wfwf97.com
+!-- wfwf98.com
 
 ##.modal-overlay
 ##.modal-wrapper
@@ -104,6 +136,16 @@ addevent.php
 
 !-- 광고
 
+ads.youtube.com
+ad.doubleclick.net
+s0.2mdn.net
+s1.2mdn.net 
+googleads.g.doubleclick.net 
+pubads.g.doubleclick.net 
+static.doubleclick.net
+files.adform.net 
+secure-ds.serving-sys.com
+pagead2.googlesyndication.com
 heraldm.com/heraldbiz/version01/mobile/images/event/*
 cdnser.be/ad/*
 ||hitomi.la/hitomi.js$script
@@ -113,16 +155,44 @@ dailyissue.co.kr
 tsyndicate.com
 adjw.co.kr
 dawin.tv
+opap.co.kr
 bananamall.co.kr
+afs.opap.co.kr
 freebody.co.kr
+itg.realclick.co.kr
+ad.hani.co.kr
+realdsp.co.kr
+keywordsconnect.com
 s-toy.co.kr
+adbiz4.co.kr
 realsrv.co
+advimg.khan.co.kr
+adv.khan.co.kr
+ad.khan.co.kr
+altg.widerplanet.com
+adtg.widerplanet.com
+cdn-aitg.widerplanet.com
+realclick.co.kr
+daily.co.kr
+ads.mncmedia.co.kr
+dreamsearch.or.kr
+deliverys.n2s.co.kr
+adv.imadrep.co.kr
+simg.imadrep.co.kr
+inchan.kr
+criteo.com
+cas.criteo.com
+api.dable.io
+sp-api.dable.io
+static.dable.io
+dable.io
 stunninglover.com
 otaserve.net
 adnium.com
 mediacategory.com
 mediacategory.com/servlet/adBanner/*
 mediacategory.com/servlet/adBanner
+mediacategory.com/servlet/adbnMobileBanner
 ads-partners.coupang.com
 tinypic.com
 913vt.com
@@ -142,6 +212,7 @@ pvclouds.com
 runative-syndicate.com
 adxadserv.com
 trackingpro.pro
+ad.hani.co.kr
 adnico.jp
 focas.jp
 megdexchange.com
@@ -168,6 +239,7 @@ jads.co
 mrskin.com
 mrskincash.com
 alexametrics.com
+vrixon.com
 mobii.co.kr
 bangdom.com
 ipecho.net
@@ -194,6 +266,7 @@ fingahvf.top
 ie8eamus.com
 igas13.ru
 onclickmega.com
+ad.afreecatv.com
 onclicksuper.com
 remarketingpixel.com
 trafyield.com
@@ -321,7 +394,6 @@ adbiz.co.kr
 adheim.com
 adbiz2.co.kr
 adbiz3.co.kr
-adc.ohmynews.com
 ad-cdn.technoratimedia.com
 adclickservice.com
 wec.co.kr
@@ -444,6 +516,8 @@ cizion.com
 clickmon.co.kr
 clkads.com
 clrstm.com
+aceplanet.co.kr
+digitalcamp.co.kr
 cm1.joins.com
 cm1.jssearch.net
 cm2.cjmooter.com
@@ -464,7 +538,6 @@ cwdata.itsearch.co.kr
 d.a1comm.co.kr
 d.adroll.com
 d1hn8mrtxasu7m.cloudfront.net
-dable.io
 daisy6.com
 demdex.net
 disqusads.com
@@ -512,6 +585,7 @@ impdesk.com
 innity.com
 innity.net
 innorame.com
+innorame.com/imp/*
 interworksmedia.co.kr
 ipredictive.com
 issuepoll.co.kr
@@ -598,6 +672,7 @@ pippio.com
 whatnow.kr
 polltest.azurewebsites.net
 popin.cc
+popin.cc/discovery/what-is.php
 powerlinks.com
 priel.co.kr
 prism.pandora.tv
@@ -670,6 +745,7 @@ videoplaza.tv
 vidible.tv
 viglink.com
 viralgains.com
+o00.kr
 w55c.net
 waust.at
 wecandeo.com
@@ -794,7 +870,6 @@ naver.com##.bizinfo_side
 naver.com##.blog2_post_adpost
 naver.com##.BookStoreAppLauncher\.launchDefault\(\).u_ftsa
 naver.com##.broadcast_kin
-naver.com##.btn_pcver_area
 naver.com##.cafenew
 naver.com##.container-fluid-content-etc
 naver.com##.da_area
@@ -835,9 +910,9 @@ naver.com###p_main_job_00
 naver.com###p_main_travel_00
 naver.com###p_main_school_01
 naver.com###p_main_wedding_00
-naver.com##div.id_uio_thumbnail.grid1
-naver.com##div.id_cui_stylepick.grid1
-naver.com##div.id_cui_triplethumbs.grid1
+naver.com##.id_uio_thumbnail.grid1
+naver.com##.id_cui_stylepick.grid1
+naver.com##.id_cui_triplethumbs.grid1
 naver.com##.id_cui_banner
 naver.com##._MM_ASIDE_AD
 naver.com##.bw_safari.phishing_banner
@@ -960,8 +1035,6 @@ naver.com##.naverplus.banner_benefit_type_color
 naver.com##.N\=a\:pcs\.safe.safety_guide
 naver.com##._easy_purchase_hide_area.checkout
 naver.com##.benefit
-naver.com###NM_scroll_top_btn
-naver.com##.btn_theme
 naver.com##.link_set
 naver.com##.sa_bar
 naver.com##.play_head
@@ -983,7 +1056,6 @@ naver.com###continuous_player_tooltip
 naver.com###floatingTopAnchor
 naver.com##.cp_list
 naver.com##.IntroPCFooter__root___1NCDg
-naver.com##.btn_top
 naver.com###MM_aside_popup_notification
 naver.com###qrTooltip
 naver.com##.pointplus_benefit
@@ -1067,6 +1139,8 @@ naver.com##.ad_top
 naver.com##.dimmed
 naver.com##.home_img_popup
 naver.com##.lego_banner_main
+naver.com##.spr
+naver.com###_page_fast2
 series.naver.com##footer
 series.naver.com##.fix_top
 serieson.naver.com##footer
@@ -1101,8 +1175,6 @@ comic.naver.com##.banner
 comic.naver.com##.bnr_area
 comic.naver.com###commentIframe
 vlive.tv###footer
-vlive.tv##.btn_top_area
-vlive.tv##.btn_top
 talk.naver.com###footer
 weather.naver.com###footer
 post.naver.com###footer
@@ -1121,6 +1193,7 @@ serieson.naver.com###footer
 movie.naver.com###footer
 novel.naver.com###footer
 auto.naver.com###footer
+sports.naver.com###footer
 finance.naver.com###footer
 terms.naver.com###footer
 book.naver.com###footer
@@ -1129,7 +1202,7 @@ game.naver.com###footer
 entertain.naver.com###footer
 dict.naver.com###footer
 pay.naver.com###footer
-pay.naver.com##div.s_sc
+pay.naver.com##.s_sc
 
 !-- 다음
 
@@ -1253,14 +1326,17 @@ daum.net###pubGameFootGGB
 daum.net##.popup_ticket
 daum.net###footContent
 daum.net##.top_bnr
-daum.net###goTopBtn
 daum.net##.d_foot
-daum.net##.btn_pageup
 daum.net##.box_viewrelate
+daum.net##.kakao_ad_area
+daum.net##.bnrbox_view
+daum.net##.wrap_adfit_item
+daum.net##.link_bnr
+daum.net##.linkbox_view
+daum.net##.box_directlink
 kakao.com##.footer
 kakao.com##.appLinkBox
 kakao.com###daumFoot
-kakao.com##.btn_follow
 kakao.com###kakaoFoot
 kakao.com##.inner_footer
 kakao.com##.tit_kakaotv > .img_player
@@ -1281,7 +1357,7 @@ kakao.com##.link_livechatting
 networkad.nate.com
 nate.com/Etc/ViewADThumb
 nate.com/shopbox/*$domain=pann.nate.com,subdocument
-
+*.nate.com/etc/AdIbl
 nate.com###adContainer
 nate.com###shopping
 nate.com##.area_shopping_today
@@ -1327,14 +1403,18 @@ nate.com##.limited_ad
 nate.com###psypannAd
 nate.com###newsMainBanner
 nate.com##.ad160x600
+nate.com##.sideBanner
+nate.com##.middleBanner
+nate.com###footerWrap
+nate.com##.view_banner
+nate.com##.AdIbl
+pann.nate.com##li.last:nth-of-type(10)
 
 !-- 드림위즈
 
 dreamwiz.com/images/adbanner/*
-
-bomul.com##.lo_title_bn
-bomul.com##.main_side_menu_bn
-
+dreamwiz.com/cont/banner_frame.php
+dreamwiz.com/dw_shopping_box.asp
 dreamwiz.com##.shopping-box
 dreamwiz.com##.top-ad-box
 dreamwiz.com##.neoclick-banner
@@ -1353,6 +1433,20 @@ dreamwiz.com##.main-right-shop-ad
 dreamwiz.com##.main-right-bot-ad
 dreamwiz.com##.main-banner
 dreamwiz.com##.banner-types
+dreamwiz.com##.footer
+dreamwiz.com##.dw-footer
+dreamwiz.com##.show-prompt
+dreamwiz.com##.sendpulse-native-popover
+dreamwiz.com##.sendpulse-prompt
+dreamwiz.com##.footer-search-area
+dreamwiz.com##.ux_bot_wrap
+dreamwiz.com###btn-top
+
+bomul.com/img/add*
+bomul.com##.side_banner
+bomul.com##.lo_title_bn
+bomul.com##.main_side_menu_bn
+bomul.com##.footer
 
 !--- 구글
 
@@ -1364,6 +1458,7 @@ dreamwiz.com##.banner-types
 !googletagservices.com/*
 googleads.g.doubleclick.net
 google.com/cse_v2/ads
+google.com/afs/ads
 google.co.kr##.gsc-adBlock
 google.com##.aKB
 google.com###\:tg
@@ -1375,6 +1470,15 @@ google.co.kr###tads
 zum.com/view/zum/shoppingboxmain/*
 zum.com/view/zum/nativead/*
 zum.com/view/zum/hubzum/shoppingbox/*
+displayad.zum.com
+shoplayer.zum.com
+adr.zum.com
+zum.com##.shopping-box
+zum.com##.bottom-news-category
+zum.com##.tab_shopping
+zum.com###bottom_shopping_box
+zum.com##.today_shopping
+zum.com###wrap_ad_main
 zum.com##.article_ad
 zum.com##.box_top_main_banner
 zum.com##.box_shopping_favorite
@@ -1387,6 +1491,7 @@ zum.com##.t_shopping2
 zum.com##.footer_cont
 zum.com##.footer_bottom
 zum.com##.footer_wrap
+zum.com##footer
 zum.com##.shopping_box
 zum.com###externalRelated
 zum.com##.article_native_ad
@@ -1402,7 +1507,6 @@ zum.com##.aside_ad
 zum.com##.hot_topic_ad_slot
 zum.com###d_hottopic_native_ad
 zum.com###d_hub_native_ad
-zum.com##.btn_top
 zum.com###coinzum_rigthtop_script_201810
 zum.com###footer > ul
 zum.com###footer > .txt
@@ -1412,19 +1516,27 @@ zum.com###main_bottom_ad_wrap
 zum.com###footer > .cont
 zum.com##.banner_bottom
 zum.com##.aside_banner
-zum.com##.btn_page_top
 zum.com##.banner_ad_floating
 zum.com##.banner_big
+zum.com##.btn-app-go
 news.zum.com###footer
 
 !-- 프레시안
 
+pressian.com/mobile/images/banner/*
 pressian.com##.join_banner
-pressian.com##div.h20
+pressian.com##.h20
 pressian.com##.h60
 pressian.com##.affiliates
 pressian.com##.h80
 pressian.com###footer
+pressian.com##.cheering
+pressian.com##.naver_ad
+pressian.com##.adv_p
+pressian.com##.subscription_fee
+pressian.com##.banner
+pressian.com##.support
+pressian.com##.report_support
 
 !-- 미디어오늘
 
@@ -1432,9 +1544,16 @@ mediatoday.co.kr###talklink_contents > .not_print
 mediatoday.co.kr##.banner_box
 mediatoday.co.kr##.ad-template
 mediatoday.co.kr###user-footer
+mediatoday.co.kr###SupportForm_id
+mediatoday.co.kr##.article-support-wrap
+mediatoday.co.kr##.page-footer
+mediatoday.co.kr##.swipe-btn
+mediatoday.co.kr##.ad-template
 
 !-- 전자신문
 
+etnews.com/tools/refresh_script.html
+etnews.com##.ad_view_640
 etnews.com##.ad_news_text
 etnews.com##aside.ad_300x250
 etnews.com##.article_ad
@@ -1446,7 +1565,8 @@ etnews.com###FloatLayer1
 etnews.com##.footer
 etnews.com###wingBanner
 etnews.com##.ad_336x280
-etnews.com##div.left_ad_div
+etnews.com##.left_ad_div
+etnews.com##footer
 
 !-- 국민일보
 
@@ -1455,11 +1575,14 @@ kmib.co.kr##.ad_bottom_floating
 kmib.co.kr##.popup_wrap
 kmib.co.kr##.mn_ad
 kmib.co.kr###footer
+kmib.co.kr##.ftbnr_margin
+kmib.co.kr/images/bnr/*
 
 !-- 비즈한국
 
 bizhankook.com##.banner
 bizhankook.com##.footer
+bizhankook.com##b
 
 !-- 연합뉴스
 
@@ -1529,8 +1652,6 @@ yna.co.kr##.section-add-fixbt
 yna.co.kr##.n-wrap-ticker
 yna.co.kr##.section-bnr
 yna.co.kr##.ad-yna-homelist
-yna.co.kr##.fixed-btn
-yna.co.kr##.btn-close-fixed
 yna.co.kr##.section-ad-adtive
 yna.co.kr##.section-add
 yna.co.kr##.section-ad-joyinfo
@@ -1570,17 +1691,18 @@ yna.co.kr###footer
 
 ytn.co.kr/inc_banner/*
 ytn.co.kr/img/ad/*
+ytn.co.kr/ad/*
 ytn.co.kr##.articleAd_new
-ytn.co.kr##div.sub_adbox1
-ytn.co.kr##div.sub_adbox2
-ytn.co.kr##div.sub_adbox3
-ytn.co.kr##div.sub_adbox4
-ytn.co.kr##div.sub_adbox5
-ytn.co.kr##div.sub_adbox6
-ytn.co.kr##div.sub_adbox7
-ytn.co.kr##div.sub_adbox8
-ytn.co.kr##div.sub_adbox9
-ytn.co.kr##div.adright_box
+ytn.co.kr##.sub_adbox1
+ytn.co.kr##.sub_adbox2
+ytn.co.kr##.sub_adbox3
+ytn.co.kr##.sub_adbox4
+ytn.co.kr##.sub_adbox5
+ytn.co.kr##.sub_adbox6
+ytn.co.kr##.sub_adbox7
+ytn.co.kr##.sub_adbox8
+ytn.co.kr##.sub_adbox9
+ytn.co.kr##.adright_box
 ytn.co.kr###hns_mask
 ytn.co.kr##.ad_zone
 ytn.co.kr##.ad_zone1
@@ -1603,8 +1725,21 @@ ytn.co.kr##.ad06
 ytn.co.kr##.ad07
 ytn.co.kr##.ad08
 ytn.co.kr##.ad09
+ytn.co.kr##.text_ad_type_1
+ytn.co.kr##.text_ad_type_2
+ytn.co.kr##.text_ad_type_3
+ytn.co.kr##.text_ad_type_4
+ytn.co.kr##.text_ad_type_5
+ytn.co.kr##.text_ad_type_6
+ytn.co.kr##.text_ad_type_7
+ytn.co.kr##.text_ad_type_8
+ytn.co.kr##.text_ad_type_9
 ytn.co.kr##.footer
+ytn.co.kr###snsAd_area
 ytn.co.kr###CmAdContent > div
+ytn.co.kr###float_bottom
+ytn.co.kr##.main_banner
+ytn.co.kr##.ad_area
 
 !-- EBN
 
@@ -1613,6 +1748,7 @@ ebn.co.kr/banner/*
 ebn.co.kr###boxAd
 ebn.co.kr##.bn320x200
 ebn.co.kr##footer
+ebn.co.kr##.premiumContainer
 
 !-- 뷰어스
 
@@ -1725,12 +1861,67 @@ heraldcorp.com##.swipe-layers
 heraldcorp.com###adMall_banner_01Qv
 heraldcorp.com##.text_byline
 heraldcorp.com##div.line
+heraldcorp.com##.header_ad
+heraldcorp.com##.ad_title_top
+heraldcorp.com##.inter_bnn
+heraldcorp.com##.footer
+heraldcorp.com##.swipe-btn
+heraldcorp.com##.in_ad_1
+heraldcorp.com##.in_ad_2
+heraldcorp.com##.in_ad_3
+heraldcorp.com##.in_ad_4
+heraldcorp.com##.in_ad_5
+heraldcorp.com##.in_ad_6
+heraldcorp.com##.in_ad_7
+heraldcorp.com##.in_ad_8
+heraldcorp.com##.in_ad_9
+heraldcorp.com##.ad_1
+heraldcorp.com##.ad_2
+heraldcorp.com##.ad_3
+heraldcorp.com##.ad_4
+heraldcorp.com##.ad_5
+heraldcorp.com##.ad_6
+heraldcorp.com##.ad_7
+heraldcorp.com##.ad_8
+heraldcorp.com##.ad_9
+heraldcorp.com##.text_ad
+heraldcorp.com###back-top
+heraldcorp.com##.ad
+
+heraldbiz.com##.header_ad
+heraldbiz.com##.ad_title_top
+heraldbiz.com##.inter_bnn
+heraldbiz.com##.footer
+heraldbiz.com##.swipe-btn
+heraldbiz.com##.in_ad_1
+heraldbiz.com##.in_ad_2
+heraldbiz.com##.in_ad_3
+heraldbiz.com##.in_ad_4
+heraldbiz.com##.in_ad_5
+heraldbiz.com##.in_ad_6
+heraldbiz.com##.in_ad_7
+heraldbiz.com##.in_ad_8
+heraldbiz.com##.in_ad_9
+heraldbiz.com##.ad_1
+heraldbiz.com##.ad_2
+heraldbiz.com##.ad_3
+heraldbiz.com##.ad_4
+heraldbiz.com##.ad_5
+heraldbiz.com##.ad_6
+heraldbiz.com##.ad_7
+heraldbiz.com##.ad_8
+heraldbiz.com##.ad_9
+heraldbiz.com##.text_ad
+heraldbiz.com###back-top
+heraldbiz.com##.ad
+##[href="http://mbiz.heraldcorp.com/event/index_200521.php"]
 
 !-- 디지털타임스
 
 dt.co.kr/images/ben_*$domain=www.dt.co.kr,image
-innorame.com/imp/*$domain=www.dt.co.kr,subdocument
 dt.co.kr/RealMedia/*$domain=www.dt.co.kr,subdocument
+dt.co.kr/images/ben_*
+dt.co.kr##.main_ad_headline
 dt.co.kr###top_ad
 dt.co.kr###foin_02oD_box
 dt.co.kr###foin_02zR_box
@@ -1739,6 +1930,12 @@ dt.co.kr###footer
 dt.co.kr###header_ad1
 dt.co.kr###header_ad2
 dt.co.kr##.reple_box
+dt.co.kr##.mcs_copyright
+dt.co.kr##.go_top
+dt.co.kr###foin_03RM
+dt.co.kr###dcamp_ad_535
+dt.co.kr###dcamp_ad_536
+dt.co.kr##.topbtn
 
 !-- 에포크타임스
 
@@ -1799,11 +1996,66 @@ theepochtimes.com###sidebar_ads_right_300_6
 theepochtimes.com###sidebar_ads_right_300_7
 theepochtimes.com###sidebar_ads_right_300_8
 theepochtimes.com###sidebar_ads_right_300_9
+theepochtimes.com##.ad_banner
+theepochtimes.com##footer
+theepochtimes.com###in_article_ads_1
+theepochtimes.com###in_article_ads_2
+theepochtimes.com###in_article_ads_3
+theepochtimes.com###in_article_ads_4
+theepochtimes.com###in_article_ads_5
+theepochtimes.com###in_article_ads_6
+theepochtimes.com###in_article_ads_7
+theepochtimes.com###in_article_ads_8
+theepochtimes.com###in_article_ads_9
+theepochtimes.com###in_article_ads_10
+theepochtimes.com###in_article_ads_11
+theepochtimes.com###in_article_ads_12
+theepochtimes.com###in_article_ads_13
+theepochtimes.com###in_article_ads_14
+theepochtimes.com###in_article_ads_15
+theepochtimes.com###in_article_ads_16
+theepochtimes.com###in_article_ads_17
+theepochtimes.com###in_article_ads_18
+theepochtimes.com###in_article_ads_19
+theepochtimes.com###in_article_ads_20
+theepochtimes.com##.social_pannel
+theepochtimes.com###cat_ad_300x250_1
+theepochtimes.com###cat_ad_300x250_2
+theepochtimes.com###cat_ad_300x250_3
+theepochtimes.com###cat_ad_300x250_4
+theepochtimes.com###cat_ad_300x250_5
+theepochtimes.com###cat_ad_300x250_6
+theepochtimes.com###cat_ad_300x250_7
+theepochtimes.com###cat_ad_300x250_8
+theepochtimes.com###cat_ad_300x250_9
+theepochtimes.com###cat_ad_300x250_10
+theepochtimes.com###cat_ad_300x250_11
+theepochtimes.com###cat_ad_300x250_12
+theepochtimes.com###cat_ad_300x250_13
+theepochtimes.com###cat_ad_300x250_14
+theepochtimes.com###cat_ad_300x250_15
+theepochtimes.com###cat_ad_300x250_16
+theepochtimes.com###cat_ad_300x250_17
+theepochtimes.com###cat_ad_300x250_18
+theepochtimes.com###cat_ad_300x250_19
+theepochtimes.com###cat_ad_300x250_20
 
 !-- 넥스트데일리
 
 nextdaily.co.kr##.ad_336x280
 nextdaily.co.kr###footerebuzz
+nextdaily.co.kr###back-to-top
+nextdaily.co.kr##.nd_foot
+nextdaily.co.kr###aswift_0_expand
+nextdaily.co.kr###aswift_1_expand
+nextdaily.co.kr###aswift_2_expand
+nextdaily.co.kr###aswift_3_expand
+nextdaily.co.kr###aswift_4_expand
+nextdaily.co.kr###aswift_5_expand
+nextdaily.co.kr###aswift_6_expand
+nextdaily.co.kr###aswift_7_expand
+nextdaily.co.kr###aswift_8_expand
+nextdaily.co.kr###aswift_9_expand
 
 !-- 디지털데일리
 
@@ -1820,6 +2072,10 @@ itworld.co.kr###tail_popup
 itworld.co.kr###banner_right_wing
 itworld.co.kr###techlibrary_left_slide_banner
 itworld.co.kr##.cb.footer_
+itworld.co.kr###mobile_recommand_banner
+itworld.co.kr###footer
+itworld.co.kr###tq_content_div
+itworld.co.kr###banner_bg
 
 !-- 디지털투데이
 
@@ -2026,7 +2282,6 @@ donga.com##.main_adzone
 donga.com###top_adzone
 donga.com##.viewad_top
 donga.com##.bestview_news
-donga.com##.btn_top
 donga.com##.banner
 donga.com##.wide_right > [href^="https://hwoieating.com/bbs/board.php"]
 donga.com###div-gpt-ad-1591248732549-0
@@ -2036,10 +2291,12 @@ donga.com###footer
 donga.com##.sitemap
 donga.com##footer.base
 donga.com##.inc-mark
+
 !-- 중앙일보
 
-joins.com/ui_joongang/banner/*$domain=joongang.joins.com,image
-
+joins.com/ui_joongang/banner/*
+joins.com##.joins-ban
+joins.com##.main__cat-wrap
 joins.com##div.sub_da_300
 joins.com###criteo_network
 joins.com###ab_adtxt_lt
@@ -2090,6 +2347,7 @@ joins.com/ui_portal/portal2010/common/k_gnb_ad_close.png
 joins.com###rt_imc_banner
 joins.com##.banner
 joins.com##.sec_now
+joins.com##.sitemap.links
 
 !-- 디스패치
 
@@ -2097,12 +2355,16 @@ dispatch.co.kr/ad/*
 dispatch.co.kr##.fastview-ad
 dispatch.co.kr###ad-logo-rightside
 dispatch.co.kr##.delimiter-margin-top.row
+dispatch.co.kr###dp-bottom-fixed-ad
+dispatch.co.kr##.adArea
+dispatch.co.kr##.iconAd
+
 
 !-- 한국경제
-
-hankyung.com/img/www/w/main/main-banner-tenaudio2.jpg$domain=www.hankyung.com,image
-hankyung.com/img/www/w/main/main-banner-*$domain=www.hankyung.com,image
+hankyung.com/img/www/m/main/main-banner-*
+hankyung.com/img/www/m/view/banners/*
 hankyung.com/popup/*
+hankyung.com##.joy_info
 hankyung.com##.ad_top
 hankyung.com##.ad_img
 hankyung.com##.ad_list
@@ -2118,7 +2380,6 @@ hankyung.com##.hot_today.asidemodule
 hankyung.com##.info_today.asidemodule
 hankyung.com##div.isuue_plus_module > .tit_module
 hankyung.com##.fltAd
-hankyung.com##.btn_top_wrap
 hankyung.com###footer
 hankyung.com##.footer_sitemap_area
 hankyung.com##.footer
@@ -2129,6 +2390,11 @@ hankyung.com##.ad-module
 hankyung.com##.ad-bottom
 hankyung.com##.ad-top
 hankyung.com##.view-banner
+hankyung.com##.close_ad
+hankyung.com##.ad_bottom_fix
+hankyung.com##.ad_inner
+hankyung.com##.ad_txt
+hankyung.com##.wrap_list
 
 !-- 블로터
 
@@ -2137,6 +2403,7 @@ bloter.net###left-banner-area
 bloter.net##.wp-dfp__container
 bloter.net###footer
 bloter.net##.author-naver-url
+bloter.net###footer-container
 
 !-- 헬로디디
 
@@ -2146,20 +2413,39 @@ hellodd.com##.banner
 hellodd.com###footer
 
 !-- 오마이뉴스
-
+##[class^="ad_box_outline"]
+adc.ohmynews.com
+ohmynews.com/2012_ad_rolling.htm
+ohmynews.com/AD_FILE/*
+ohmynews.com/BBS_ADM_FILE/*
+ohmynews.com/images/ohmynews/main/bn_*
+ohmynews.com##.btn_money
+ohmynews.com##.gnb_btns_r
+ohmynews.com##footer
+ohmynews.com###adDaum
+ohmynews.com##.naver-channel
+ohmynews.com###MobileadAreaDiv
+ohmynews.com##.support-btn
+ohmynews.com##.support-omn
+ohmynews.com##.support-box
+ohmynews.com##.article-remote-wrap
+ohmynews.com##.wing_gallery_banner
 ohmynews.com##.ad-top
 ohmynews.com###dvCenterAd
 ohmynews.com##.ad_scroll
-ohmynews.com##div.aside_ad320
 ohmynews.com##.ad_area
 ohmynews.com##.ad_scroll
 ohmynews.com##.adTop
 ohmynews.com##.aside_ad
-ohmynews.com##div.ad_area620
 ohmynews.com##.more_at_box
 ohmynews.com##.ad_footer
 ohmynews.com##.adSub
 ohmynews.com###scrollTop
+ohmynews.com##.ad_scroll_lt
+ohmynews.com##.ad_scroll_rt
+ohmynews.com###footer_area
+ohmynews.com##div.ad_area620
+ohmynews.com##div.aside_ad320
 ohmynews.com##.new_ad
 ohmynews.com##.new_ad1
 ohmynews.com##.new_ad2
@@ -2181,7 +2467,7 @@ ohmynews.com##.new_ad17
 ohmynews.com##.new_ad18
 ohmynews.com##.new_ad19
 ohmynews.com##.new_ad20
-ohmynews.com###footer_area
+##div[id^="ad_area"]
 
 !-- 조선일보
 
@@ -2297,9 +2583,14 @@ chosun.com###breakingBannerTicker
 chosun.com##.news_letter
 chosun.com##.bnr
 chosun.com##.art_news_letter_v2
+chosun.com##a:nth-of-type(5)
+
+dizzotv.com###footer
+dizzotv.com##.banner_box
 
 !-- 경향신문
 
+khan.co.kr##.art_top_bn
 khan.co.kr##.article_bottom_ad
 khan.co.kr##.ad_movFocus2
 khan.co.kr##.ad_top
@@ -2315,7 +2606,6 @@ khan.co.kr##div.ad_asideBtm
 khan.co.kr##.ad_popularInfo
 khan.co.kr##.ad_ebaysb
 khan.co.kr##.nzine_banner_sub
-khan.co.kr##.btn_area
 khan.co.kr###footer
 khan.co.kr###adFrame1
 khan.co.kr###adFrame2
@@ -2336,6 +2626,9 @@ khan.co.kr###adBCC > .art_btm_text.grid_c
 khan.co.kr##.wrap_bnr_shortcut
 khan.co.kr##.article-view-bnr
 khan.co.kr##.ad_article_view
+khan.co.kr##.open.howto_move
+khan.co.kr###nextArticle
+khan.co.kr##.link_cartoon
 
 !-- 세계일보
 
@@ -2367,6 +2660,8 @@ segyebiz.com##.sideAdList
 
 mk.co.kr/sports/AD/*
 mk.co.kr/news/2013/banner_*$domain=www.mk.co.kr,image
+##[id^="google_dfp"]
+##[class^="text_ad"]
 mk.co.kr##.relation_ad
 mk.co.kr###bottom_ad
 mk.co.kr###google_dfp_MC_250x250
@@ -2556,8 +2851,13 @@ star.mt.co.kr###textBody > div
 
 adv.zdnet.co.kr
 zdnet.co.kr/ads/*
+zdnet.co.kr/template_ad/*
 zdnet.co.kr###main_right_Floating_banner
+zdnet.co.kr##.sub_view_cont > .clfx
 zdnet.co.kr###extruderRight
+zdnet.co.kr###ad_tag
+zdnet.co.kr##.footer
+zdnet.co.kr##.top_bn_zone
 zdnet.co.kr##div.right_bn1
 zdnet.co.kr##div.right_bn2
 zdnet.co.kr##div.right_bn3
@@ -2586,6 +2886,8 @@ zdnet.co.kr###divMenu7
 zdnet.co.kr###divMenu8
 zdnet.co.kr###divMenu9
 zdnet.co.kr##.top_ad
+zdnet.co.kr###mtMenu2
+zdnet.co.kr###wp_adbn_root
 zdnet.co.kr##ul.ad_list
 zdnet.co.kr###divMenu
 zdnet.co.kr###scrollDiv
@@ -2645,17 +2947,7 @@ mtn.co.kr##.adListArea
 !-- SPOTV
 
 spotvnews.co.kr###footer
-spotvnews.co.kr###div-gpt-ad-1583893389954-0
-spotvnews.co.kr###div-gpt-ad-1517972329324-0
-spotvnews.co.kr###div-gpt-ad-1589950422472-0
-spotvnews.co.kr##div.float_banner
-spotvnews.co.kr###div-gpt-ad-1517972013465-0
-spotvnews.co.kr###div-gpt-ad-1517971902060-0
-spotvnews.co.kr###div-gpt-ad-1574328336139-0
-spotvnews.co.kr###div-gpt-ad-1517971679582-0
-spotvnews.co.kr###div-gpt-ad-1517972513223-0
-spotvnews.co.kr###div-gpt-ad-1465785707557-0
-spotvnews.co.kr###div-gpt-ad-1517972697425-0
+spotvnews.co.kr##.float_banner
 spotvnews.co.kr##.banner_box
 spotvnews.co.kr##.ad_148
 spotvnews.co.kr##.edit_inner_content > div:nth-of-type(7)
@@ -3187,15 +3479,17 @@ etoday.co.kr##.add_banner
 etoday.co.kr###etoday_footer_w
 etoday.co.kr##.r_w_banner
 etoday.co.kr##.l_w_banner
-etoday.co.kr###div-gpt-ad-1569217351190-0
-etoday.co.kr###div-gpt-ad-1569220272835-0
-etoday.co.kr###div-gpt-ad-1569218384106-0
-etoday.co.kr###div-gpt-ad-1569219003304-0
-etoday.co.kr###div-gpt-ad-1569219137219-0
-etoday.co.kr###div-gpt-ad-1591836916594-0
-etoday.co.kr###div-gpt-ad-1569219253866-0
-etoday.co.kr###div-gpt-ad-1590472178348-0
-etoday.co.kr###div-gpt-ad-1569217938641-0
+etoday.co.kr###footer
+etoday.co.kr##.swipe-btn
+
+etoday.co.kr###view_bottom_ad
+
+etoday.co.kr##[class^="mobonDivBanner"]
+etoday.co.kr##[id^="mobonDivBanner"]
+etoday.co.kr##[class^="div-gpt-ad"]
+etoday.co.kr##[id^="div-gpt-ad"]
+etoday.co.kr##[class^="dablewidget"]
+etoday.co.kr##[id^="dablewidget"]
 
 !-- 민중의 소리
 
@@ -3437,7 +3731,6 @@ jjan.kr###floating_banner_right
 !-- 충북일보
 inews365.com/data/banner/*
 inews365.com###footer
-inews365.com##.btn_top_wrap
 
 !-- 대구일보
 
@@ -4250,6 +4543,8 @@ gasengi.com##.board_list > tbody > tr:has-text(고통번뇌)
 gasengi.com###commentContents > table:has-text(고통번뇌)
 gasengi.com##.board_list > tbody > tr:has-text(실제상황)
 gasengi.com###commentContents > table:has-text(실제상황)
+gasengi.com##.board_list > tbody > tr:has-text(백두혈통)
+gasengi.com###commentContents > table:has-text(백두혈통)
 
 !-- 루리웹
 
@@ -4309,6 +4604,16 @@ inven.co.kr##[href="http://m.inven.co.kr/webtoon/"]
 inven.co.kr##.ad-wrap
 inven.co.kr##center
 inven.co.kr###commonpart_market
+inven.co.kr##.adPart
+inven.co.kr##.videoAd
+inven.co.kr###webzineAdQuick
+inven.co.kr###webzineTail
+inven.co.kr##.headlineBanner
+inven.co.kr###lolTail
+marketinven.com##.ad
+marketinven.com##.brandList
+marketinven.com##.site-footer
+marketinven.com##.top-fixed
 
 !-- 게임메카
 
@@ -4715,6 +5020,12 @@ ruliweb.com##.ad_background
 ruliweb.com##.row.board_notice
 ruliweb.com###ti3
 ruliweb.com###footer
+
+!-- 웨더뉴스
+
+kr-weathernews.com###anc_adx_space
+kr-weathernews.com##footer
+kr-weathernews.com##div:nth-of-type(3) > button
 
 !-- 네네티비
 
