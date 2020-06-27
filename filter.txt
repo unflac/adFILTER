@@ -1,4 +1,4 @@
-!-- 2020.06.28 Abcd
+!-- 2020.06.28 00001
 
 !-- 통합 ----------------------------------------------------------------------------------------------------
 
@@ -6,6 +6,7 @@
 */bn_img/*
 */adimg/*
 addevent.php
+ad.js
 ##.adsbygoogle
 ##.check_notify
 ###livereContentsContainer
@@ -1451,13 +1452,12 @@ bomul.com##.footer
 
 !--- 구글
 
-@@||google.com
-@@||g.doubleclick.net
-@@||ad.doubleclick.net
-@@||pagead2.googlesyndication.com
-@@||partner.googleadservices.com
+doubleclick.net
+g.doubleclick.net
+ad.doubleclick.net
+pagead2.googlesyndication.com
+partner.googleadservices.com
 !googlesyndication.com
-!doubleclick.net
 !google-analytics.com
 !googleadservices.com
 !googletagmanager.com
