@@ -1,4 +1,4 @@
-!-- 2020.06.28 A
+!-- 2020.06.28 Ab
 
 !-- 통합 ----------------------------------------------------------------------------------------------------
 
@@ -30,6 +30,7 @@ addevent.php
 ##[href^="https://siape.veta.naver.com/fxclick"]
 ##[href^="https://media.naver.com/channel/promotion.nhn"]
 ##[href^="http://media.naver.com/channel/promotion.nhn"]
+##[class^="IntroModal_modal"]
 
 !-- GO TOP
 
@@ -5026,6 +5027,9 @@ ruliweb.com###footer
 kr-weathernews.com###anc_adx_space
 kr-weathernews.com##footer
 kr-weathernews.com##div:nth-of-type(3) > button
+kr-weathernews.com###adtop
+kr-weathernews.com###bigad
+kr-weathernews.com##.adx_anc
 
 !-- 네네티비
 
