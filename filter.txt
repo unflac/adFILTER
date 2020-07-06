@@ -1,4 +1,23 @@
-! 20200706a
+!20200707a
+###.AD_box
+###.adpost
+###.ads
+###.app_download
+###.app_download_main
+###.appDown
+###.banner_event
+###.bn_640x50_3
+###.bnr_sponsor
+###.bot_add_banner
+###.js-display-ad
+###.naver_channel_btn_wrap
+###.newFooterAdArea
+###.pc_dable_ad
+###.pc_topad
+###.r1_banner
+###.remove-ads
+###.right_top_ad
+###.twoLineAd
 ###_banner_area_
 ###_banner_contents
 ###_banner_link
@@ -54,6 +73,7 @@
 ###ad_border
 ###ad_bottom
 ###ad_bottom_list
+###AD_box
 ###ad_box
 ###ad_box_outline
 ###ad_btm
@@ -217,12 +237,14 @@
 ###adpage-top-ad
 ###adPart
 ###adpnut
+###adpost
 ###adPostArea
 ###AdRectangleBanner
 ###adright_box
 ###ADRIGHT_UNI
 ###ad-right-rail-native-ad
 ###adrrr
+###ads
 ###ads
 ###ads_sc
 ###ads-ad
@@ -278,7 +300,10 @@
 ###anni_banner
 ###antZbanner
 ###api_banner
+###app_download
+###app_download_main
 ###app_push_floating_banner
+###appDown
 ###area_ad01
 ###area_ad02
 ###area_ad03
@@ -372,6 +397,7 @@
 ###banner_community
 ###banner_content
 ###banner_cp
+###banner_event
 ###banner_fixed_top
 ###banner_gnb
 ###banner_img
@@ -433,6 +459,7 @@
 ###bjissue_banner
 ###blog2_post_adpost
 ###blogTopAd
+###bn_640x50_3
 ###bn_box
 ###bn_sec
 ###bn300
@@ -442,6 +469,7 @@
 ###bnr_alrim
 ###bnr_bottom
 ###bnr_layer
+###bnr_sponsor
 ###bnr_topbox01
 ###bnr_wing_ad
 ###bnrbox_view
@@ -450,6 +478,7 @@
 ###board-tail-banner
 ###board-upper-banner-area
 ###bodyAd
+###bot_add_banner
 ###botBnr
 ###bottom_ad
 ###bottom_ads
@@ -720,6 +749,7 @@
 ###item_ad
 ###join_banner
 ###joins-ban
+###js-display-ad
 ###kakao_ad
 ###kakao_ad_area
 ###KakaocommerceCardAD
@@ -843,6 +873,7 @@
 ###native_ad
 ###native_ad_box
 ###naver_ad
+###naver_channel_btn_wrap
 ###naver_ssp_da
 ###naverAd
 ###naverAd2
@@ -853,6 +884,7 @@
 ###neoclick-banner-top
 ###neoclick-box
 ###new_ad
+###newFooterAdArea
 ###news_ad
 ###news_banner
 ###news_topad
@@ -871,6 +903,8 @@
 ###par_in_ad
 ###pc_add
 ###pc_banner_right_300_1
+###pc_dable_ad
+###pc_topad
 ###pcDetailBannerArea
 ###pc-down-ad
 ###pc-notice-banner
@@ -911,6 +945,7 @@
 ###r_ad
 ###r_ad_1
 ###R_cnt_bn_0
+###r1_banner
 ###rBanner
 ###read_right_ad
 ###readtopad
@@ -921,6 +956,7 @@
 ###relation_ad
 ###remittance_ad
 ###removeAdLink
+###remove-ads
 ###reply_wing_banner
 ###reView_ad
 ###rg-ad
@@ -948,6 +984,7 @@
 ###right_bnr_v2
 ###right_skyWingBanner
 ###right_sp_banner
+###right_top_ad
 ###right_wingBanner
 ###rightbanner
 ###rightBanner
@@ -1114,6 +1151,7 @@
 ###topslideAd
 ###trade_top_bn
 ###ttop_banner
+###twoLineAd
 ###txt_ban
 ###u_native_ad_box
 ###uio_banner_subject
@@ -1757,6 +1795,7 @@
 ##.dp-bottom-fixed-ad
 ##.dvCenterAd
 ##.dw_neotad
+##.eb-top
 ##.enatic_banner
 ##.end_ad
 ##.event_emblem
@@ -2426,6 +2465,7 @@
 ##[class^="ad_border"]
 ##[class^="ad_bottom"]
 ##[class^="ad_bottom_list"]
+##[class^="AD_box"]
 ##[class^="ad_box"]
 ##[class^="ad_box_outline"]
 ##[class^="ad_btm"]
@@ -2536,7 +2576,6 @@
 ##[class^="ad-9"]
 ##[class^="adArea"]
 ##[class^="ad-area"]
-##[class^="adBanner"]
 ##[class^="ad-banner"]
 ##[class^="ADBanner_banner"]
 ##[class^="adBanner_list"]
@@ -2589,12 +2628,14 @@
 ##[class^="adpage-top-ad"]
 ##[class^="adPart"]
 ##[class^="adpnut"]
+##[class^="adpost"]
 ##[class^="adPostArea"]
 ##[class^="AdRectangleBanner"]
 ##[class^="adright_box"]
 ##[class^="ADRIGHT_UNI"]
 ##[class^="ad-right-rail-native-ad"]
 ##[class^="adrrr"]
+##[class^="ads"]
 ##[class^="ads"]
 ##[class^="ads_sc"]
 ##[class^="ads-ad"]
@@ -2650,7 +2691,10 @@
 ##[class^="anni_banner"]
 ##[class^="antZbanner"]
 ##[class^="api_banner"]
+##[class^="app_download"]
+##[class^="app_download_main"]
 ##[class^="app_push_floating_banner"]
+##[class^="appDown"]
 ##[class^="area_ad01"]
 ##[class^="area_ad02"]
 ##[class^="area_ad03"]
@@ -2744,6 +2788,7 @@
 ##[class^="banner_community"]
 ##[class^="banner_content"]
 ##[class^="banner_cp"]
+##[class^="banner_event"]
 ##[class^="banner_fixed_top"]
 ##[class^="banner_gnb"]
 ##[class^="banner_img"]
@@ -2805,6 +2850,7 @@
 ##[class^="bjissue_banner"]
 ##[class^="blog2_post_adpost"]
 ##[class^="blogTopAd"]
+##[class^="bn_640x50_3"]
 ##[class^="bn_box"]
 ##[class^="bn_sec"]
 ##[class^="bn300"]
@@ -2814,6 +2860,7 @@
 ##[class^="bnr_alrim"]
 ##[class^="bnr_bottom"]
 ##[class^="bnr_layer"]
+##[class^="bnr_sponsor"]
 ##[class^="bnr_topbox01"]
 ##[class^="bnr_wing_ad"]
 ##[class^="bnrbox_view"]
@@ -2822,6 +2869,7 @@
 ##[class^="board-tail-banner"]
 ##[class^="board-upper-banner-area"]
 ##[class^="bodyAd"]
+##[class^="bot_add_banner"]
 ##[class^="botBnr"]
 ##[class^="bottom_ad"]
 ##[class^="bottom_ads"]
@@ -3093,6 +3141,7 @@
 ##[class^="item_ad"]
 ##[class^="join_banner"]
 ##[class^="joins-ban"]
+##[class^="js-display-ad"]
 ##[class^="kakao_ad"]
 ##[class^="kakao_ad_area"]
 ##[class^="KakaocommerceCardAD"]
@@ -3215,6 +3264,7 @@
 ##[class^="native_ad"]
 ##[class^="native_ad_box"]
 ##[class^="naver_ad"]
+##[class^="naver_channel_btn_wrap"]
 ##[class^="naver_ssp_da"]
 ##[class^="naverAd"]
 ##[class^="naverAd2"]
@@ -3225,6 +3275,7 @@
 ##[class^="neoclick-banner-top"]
 ##[class^="neoclick-box"]
 ##[class^="new_ad"]
+##[class^="newFooterAdArea"]
 ##[class^="news_ad"]
 ##[class^="news_banner"]
 ##[class^="news_topad"]
@@ -3243,6 +3294,8 @@
 ##[class^="par_in_ad"]
 ##[class^="pc_add"]
 ##[class^="pc_banner_right_300_1"]
+##[class^="pc_dable_ad"]
+##[class^="pc_topad"]
 ##[class^="pcDetailBannerArea"]
 ##[class^="pc-down-ad"]
 ##[class^="pc-notice-banner"]
@@ -3282,6 +3335,7 @@
 ##[class^="r_ad"]
 ##[class^="r_ad_1"]
 ##[class^="R_cnt_bn_0"]
+##[class^="r1_banner"]
 ##[class^="rBanner"]
 ##[class^="read_right_ad"]
 ##[class^="readtopad"]
@@ -3292,6 +3346,7 @@
 ##[class^="relation_ad"]
 ##[class^="remittance_ad"]
 ##[class^="removeAdLink"]
+##[class^="remove-ads"]
 ##[class^="reply_wing_banner"]
 ##[class^="reView_ad"]
 ##[class^="rg-ad"]
@@ -3319,6 +3374,7 @@
 ##[class^="right_bnr_v2"]
 ##[class^="right_skyWingBanner"]
 ##[class^="right_sp_banner"]
+##[class^="right_top_ad"]
 ##[class^="right_wingBanner"]
 ##[class^="rightbanner"]
 ##[class^="rightBanner"]
@@ -3485,6 +3541,7 @@
 ##[class^="topslideAd"]
 ##[class^="trade_top_bn"]
 ##[class^="ttop_banner"]
+##[class^="twoLineAd"]
 ##[class^="txt_ban"]
 ##[class^="u_native_ad_box"]
 ##[class^="uio_banner_subject"]
@@ -3615,6 +3672,7 @@
 ##[id^="ad_border"]
 ##[id^="ad_bottom"]
 ##[id^="ad_bottom_list"]
+##[id^="AD_box"]
 ##[id^="ad_box"]
 ##[id^="ad_box_outline"]
 ##[id^="ad_btm"]
@@ -3778,12 +3836,14 @@
 ##[id^="adpage-top-ad"]
 ##[id^="adPart"]
 ##[id^="adpnut"]
+##[id^="adpost"]
 ##[id^="adPostArea"]
 ##[id^="AdRectangleBanner"]
 ##[id^="adright_box"]
 ##[id^="ADRIGHT_UNI"]
 ##[id^="ad-right-rail-native-ad"]
 ##[id^="adrrr"]
+##[id^="ads"]
 ##[id^="ads"]
 ##[id^="ads_sc"]
 ##[id^="ads-ad"]
@@ -3839,7 +3899,10 @@
 ##[id^="anni_banner"]
 ##[id^="antZbanner"]
 ##[id^="api_banner"]
+##[id^="app_download"]
+##[id^="app_download_main"]
 ##[id^="app_push_floating_banner"]
+##[id^="appDown"]
 ##[id^="area_ad01"]
 ##[id^="area_ad02"]
 ##[id^="area_ad03"]
@@ -3933,6 +3996,7 @@
 ##[id^="banner_community"]
 ##[id^="banner_content"]
 ##[id^="banner_cp"]
+##[id^="banner_event"]
 ##[id^="banner_fixed_top"]
 ##[id^="banner_gnb"]
 ##[id^="banner_img"]
@@ -3994,6 +4058,7 @@
 ##[id^="bjissue_banner"]
 ##[id^="blog2_post_adpost"]
 ##[id^="blogTopAd"]
+##[id^="bn_640x50_3"]
 ##[id^="bn_box"]
 ##[id^="bn_sec"]
 ##[id^="bn300"]
@@ -4003,6 +4068,7 @@
 ##[id^="bnr_alrim"]
 ##[id^="bnr_bottom"]
 ##[id^="bnr_layer"]
+##[id^="bnr_sponsor"]
 ##[id^="bnr_topbox01"]
 ##[id^="bnr_wing_ad"]
 ##[id^="bnrbox_view"]
@@ -4011,6 +4077,7 @@
 ##[id^="board-tail-banner"]
 ##[id^="board-upper-banner-area"]
 ##[id^="bodyAd"]
+##[id^="bot_add_banner"]
 ##[id^="botBnr"]
 ##[id^="bottom_ad"]
 ##[id^="bottom_ads"]
@@ -4281,6 +4348,7 @@
 ##[id^="item_ad"]
 ##[id^="join_banner"]
 ##[id^="joins-ban"]
+##[id^="js-display-ad"]
 ##[id^="kakao_ad"]
 ##[id^="kakao_ad_area"]
 ##[id^="KakaocommerceCardAD"]
@@ -4403,6 +4471,7 @@
 ##[id^="native_ad"]
 ##[id^="native_ad_box"]
 ##[id^="naver_ad"]
+##[id^="naver_channel_btn_wrap"]
 ##[id^="naver_ssp_da"]
 ##[id^="naverAd"]
 ##[id^="naverAd2"]
@@ -4413,6 +4482,7 @@
 ##[id^="neoclick-banner-top"]
 ##[id^="neoclick-box"]
 ##[id^="new_ad"]
+##[id^="newFooterAdArea"]
 ##[id^="news_ad"]
 ##[id^="news_banner"]
 ##[id^="news_topad"]
@@ -4431,6 +4501,8 @@
 ##[id^="par_in_ad"]
 ##[id^="pc_add"]
 ##[id^="pc_banner_right_300_1"]
+##[id^="pc_dable_ad"]
+##[id^="pc_topad"]
 ##[id^="pcDetailBannerArea"]
 ##[id^="pc-down-ad"]
 ##[id^="pc-notice-banner"]
@@ -4470,6 +4542,7 @@
 ##[id^="r_ad"]
 ##[id^="r_ad_1"]
 ##[id^="R_cnt_bn_0"]
+##[id^="r1_banner"]
 ##[id^="rBanner"]
 ##[id^="read_right_ad"]
 ##[id^="readtopad"]
@@ -4480,6 +4553,7 @@
 ##[id^="relation_ad"]
 ##[id^="remittance_ad"]
 ##[id^="removeAdLink"]
+##[id^="remove-ads"]
 ##[id^="reply_wing_banner"]
 ##[id^="reView_ad"]
 ##[id^="rg-ad"]
@@ -4507,6 +4581,7 @@
 ##[id^="right_bnr_v2"]
 ##[id^="right_skyWingBanner"]
 ##[id^="right_sp_banner"]
+##[id^="right_top_ad"]
 ##[id^="right_wingBanner"]
 ##[id^="rightbanner"]
 ##[id^="rightBanner"]
@@ -4673,6 +4748,7 @@
 ##[id^="topslideAd"]
 ##[id^="trade_top_bn"]
 ##[id^="ttop_banner"]
+##[id^="twoLineAd"]
 ##[id^="txt_ban"]
 ##[id^="u_native_ad_box"]
 ##[id^="uio_banner_subject"]
@@ -4750,6 +4826,8 @@
 */bannerpop/*
 */bn_img/*
 */data/banner/
+*/img/bannar*
+*/img/bannar114.jpg
 */RealMedia/*
 */RealMedia/ads/*
 */uploads/banner/*
@@ -4759,6 +4837,9 @@
 ||hitomi.la/hitomi.js$script
 ||nimage.g-enews.com/g_www/img/con_line01.png
 110.93.143.144
+11st.co.kr###partnerBenefitTxt
+11st.co.kr##.c_ad
+11st.co.kr/browsing/banner/*
 175.119.173.51
 183.110.235.2
 1rx.io
@@ -5026,6 +5107,8 @@ appier.net
 aproxylog-next.tving.com
 aproxy-next.tving.com
 areyouahuman.com
+asiae.co.kr###ad
+asiae.co.kr##.ad
 asiae.co.kr##.art_btm
 asiae.co.kr##.fl_fr
 asiae.co.kr/ad/*
@@ -5052,7 +5135,10 @@ betrad.com
 beusable.net
 bidr.io
 bidswitch.net
+biz.chosun.com##.par > span
+bizhankook.com##.banner
 blismedia.com
+bloter.net##.bloter-plus--pannel__wrapper
 bluekai.com
 bomul.com/img/add*
 borsendental.com
@@ -5060,9 +5146,11 @@ browsers.support
 bttrack.com
 bubbleandyeson.com
 buerchaoshi.com
+businesspost.co.kr###people
 buxmeto.co.kr
 c1.adtc.daum.net
 cad.chosun.com
+cafe.naver.com##.app_guide
 camo.stream.highwebmedia.com
 camwhoreshd.com##.link
 camwhoreshd.com##.table
@@ -5090,6 +5178,8 @@ chartbeat.net
 chaturbate.com##.ad
 chaturbate.com##.banner
 chitika.net
+chosun.com##.ad
+chosun.com##.news_letter
 chosun.com/common/inc/main_right_banner*
 chosun.com/common/inc/main_right_banner*.asp$subdocument
 chosun.com/images/banner/*
@@ -5112,6 +5202,7 @@ cm2.joins.com
 cm2.jssearch.net
 cm3.jssearch.net
 cnzz.com
+comic.naver.com##.banner
 commercialvalue.org
 commutil.kr/fntimes_www/img/naver_stand.gif
 connexity.net
@@ -5158,6 +5249,7 @@ daum.net##.box_adcpc
 daum.net##.box_shopping
 daum.net##.box_viewrelate
 daum.net##.cp_view
+daum.net##.link_appdown
 daum.net##.link_slogo
 daum.net##.quick_view
 daum.net##.shopad_sports
@@ -5195,6 +5287,7 @@ distiltag.com
 dlv.hooniad.com
 d-media.co.kr
 domdex.com
+donga.com##.banner
 dotomi.com
 doubleclick.net
 doublepimpssl.com
@@ -5218,8 +5311,10 @@ dvdprime.com/g2/data/cheditor5/*
 dvdprime.com/g2/img/banner/*
 dyntrk.com
 e9geolgzk6.com
+ebn.co.kr##.banner
 ebn.co.kr/ad_article_center.php
 ebn.co.kr/banner/*
+edaily.co.kr##.banner
 edaily.co.kr##.manyview_info
 edaily.co.kr##.netizen_interest
 edaily.co.kr##.weekend_news
@@ -5229,6 +5324,7 @@ ekn.kr/data/design/content/imgswf*
 emxdgt.com
 ero-advertising.com
 etnews.com/tools/refresh_script.html
+etoday.co.kr##section.mt05.Top_m_conts
 etoland.co.kr//data/*daumeditor*
 etoland.co.kr/data/*daumeditor*
 etoland.co.kr/data/file0207/etomall
@@ -5257,9 +5353,11 @@ fam-ad.com
 feeldmc.com
 filecast.co.kr
 files.adform.net 
+finance.naver.com##.banner
 finead.o00.kr
 fingahvf.top
 flashtalking.com
+fnnews.com##.bot_add_banner
 fnnews.com##.featured_inner > div:nth-of-type(2)
 fnnews.com##.wrap_naverch
 fnnews.com/resources/images/banner_*
@@ -5267,6 +5365,7 @@ fntimes.com##.crt_ad
 fntimes.com##.mcrt19d
 fntimes.com##.top_2d_lt
 fntimes.com##.top_2d_rt
+fntimes.com##div > [href^="https://m.fntimes.com/extcont/adclick.php"]
 focas.jp
 fout.jp
 freebody.co.kr
@@ -5316,6 +5415,12 @@ genieesspv.jp
 getfree-vpn.com
 gm-adimage.gamemeca.com
 gm-adkpf.gamemeca.com
+gmarket.co.kr##.banner
+gmarket.co.kr##.js-impressionable.box__head-ad
+gmarket.co.kr##.plus
+gmarket.co.kr##.section__main-banner.section__main
+gmarket.co.kr##.section__main-fontguide.section__main
+gmarket.co.kr##h3
 google.com/afs/ads
 google.com/cse_v2/ads
 googleads.g.doubleclick.net
@@ -5346,8 +5451,12 @@ hankyung.com/img/www/m/view/banners/*
 hankyung.com/popup/*
 hdjxmf.com
 hechaocheng.cn
+hellodd.com##.banner
 hellodd.com/upload/banner/*
 henanfs.com
+heraldbiz.com##.ad
+heraldcorp.com##.ad
+heraldcorp.com##.banner
 heraldcorp.com/event/*
 heraldm.com/adbanner/*
 heraldm.com/heraldbiz/version01/mobile/images/event/*
@@ -5405,6 +5514,7 @@ ilikesponsorad.co.kr
 ilikesponsorad.com
 ilyo.co.kr/contents/banner/*
 imadrep.co.kr
+imaeil.com##.banner
 imaeil.com/img/banner/*
 image.bizshop.daum.net
 image.msscdn.net/images/emoticons/A_07_150.gif
@@ -5418,6 +5528,7 @@ impdesk.com
 imrworldwide.com
 in.cdn.videofarm.daum.net
 inchan.kr
+inews24.com##.ad
 inews24.com##.body > h1.photo-list
 inews24.com##.h250px
 inews24.com##.iframe
@@ -5501,7 +5612,7 @@ jejudomin.co.kr/banner/*
 jejudomin.co.kr/bannerManager/*
 jejunews.com/image/*banner*
 jejunews.com/image/*banner*.gif
-jemin.com##.body-wrap-side.border-box.dis-block
+jemin.com##.body-wrap-side.border-box.dis-blocksedaily.com###ad
 jemin.com/banner/*
 jemin.com/bannerManager/*
 jhwj88.com
@@ -5511,6 +5622,8 @@ jmana.net###footer
 jmana.net###gotop
 jmana.net###main_popup
 jnilbo.com/upload/banners/*
+joins.com##.ad
+joins.com##.banner
 joins.com##.m_mid_ban
 joins.com##.shpping_life
 joins.com##.sub_da_250
@@ -5523,6 +5636,7 @@ joongdo.co.kr/mnt/images/banner/*
 joseilbo.com##.right_list_ban
 joseilbo.com/Banner/*
 joseilbo.com/Ent/banner/*
+joynews24.com##.ad
 joynews24.com##.h250px
 joynews24.com##.h600px
 joynews24.com##.view > .view > ad
@@ -5530,6 +5644,7 @@ joynews24.com##.view200
 joynews24.com/ad/*
 joyninfo.com
 jpg2.kr
+jr.naver.com##.banner
 js.theprimead.co.kr
 jsc.mgid.com
 jshoppingbox.joinsmsn.com
@@ -5552,11 +5667,14 @@ keepvid.pro/assets/images/*
 keyword.ad.daum.net
 keyword.ad4989.co.kr
 keywordsconnect.com
+khan.co.kr##.banner
 khan.co.kr##.pb30.rt_box
 khufaw1.com
 khufaw2.com
 kick-off.co.kr##.board_view_top_ad
 kihoilbo.co.kr###youtube-manual
+kmib.co.kr##.mbnr300_250.m_ad
+kmib.co.kr##.mtxt01.m_ad
 kmib.co.kr/images/bnr/*
 kmib.co.kr/inc/ifm_sub_content.asp
 kn-adkpf.newscloud.or.kr
@@ -5589,6 +5707,7 @@ kr-weathernews.com##body > div:nth-of-type(2)
 kr-weathernews.com##body > div:nth-of-type(2) > button
 kr-weathernews.com##div:nth-of-type(3)
 kr-weathernews.com##div:nth-of-type(3) > button
+ksilbo.co.kr##.banner
 ksilbo.co.kr/banner/*
 ksilbo.co.kr/bannerManager/*
 kstarplay.tv
@@ -5596,7 +5715,6 @@ kt5850pjz0.com
 ktxtorrent.*##.at-side.at-col.col-md-3 > div.widget-box:nth-of-type(2) > div
 ktxtorrent.*##.hidden-xs.hidden-sm > .widget-box > div
 ktxtorrent.*##.scale
-ktxtorrent.*/img/bannar114.jpg
 kukinews.com/data/kuk/banner/*
 kwangju.co.kr/banner/*
 kwnews.co.kr/banner/*
@@ -5605,6 +5723,7 @@ kyeongin.com###popup1991
 l.m.naver.com
 ladsp.com
 ladsp.jp
+land.naver.com##.banner
 lewat.club
 lg-talk.kakao.com
 lijit.com
@@ -5627,8 +5746,8 @@ marketo.com
 marketo.net
 mathtag.com
 mbcsportsplus.com###allBg
+mbn.co.kr###banner
 mbn.co.kr###event
-mbn.co.kr,tv.naver.com##[id^="banner"]
 mbn.co.kr/storage/ad/*
 mcdlks.com
 mci1.co.kr
@@ -5652,11 +5771,14 @@ mgid.com
 microad-cn.com
 microadinc.com
 mixpanel.com
+mk.co.kr##.ad
 mk.co.kr##.reple_box > h3
 mk.co.kr/ad
 mk.co.kr/news/2013/banner*
 mk.co.kr/news/2013/banner_*
 mk.co.kr/sports/AD/*
+mksports.co.kr###ad
+mksports.co.kr##.ad
 mksports.co.kr##center > table > tbody > tr > td:nth-of-type(1) > table > tbody > tr > td:nth-of-type(1)
 mksports.co.kr##div.bk35
 mktoresp.com
@@ -5671,16 +5793,20 @@ mobon.net
 mookie1.com
 mox.tv
 mp.mmnneo.com
+mrep.kr
 mrpdata.net
 mrskin.com
 mrskincash.com
+mt.co.kr##.ad
 mt.co.kr##.cover_story
 mt.co.kr/*banner*.jpg
 mt.co.kr/starnews/images/banner/*
 mtn.co.kr###hotNbest
+m-tour.store.naver.com##.banner
 munhwa.com/www/banner/*
 mxpnl.com
 mxptint.net
+mydaily.co.kr##.banner
 mydaily.co.kr/ad/*
 mydaily.co.kr/new_yk/html/images_mj/head_left.gif
 mydaily.co.kr/new_yk/html/images_mj/head_left.gif$image
@@ -5689,9 +5815,13 @@ mymyad.co.kr
 n1272adserv.xyz
 n2s.co.kr
 nad.cbs.co.kr
+namu.live##.ad
+namu.live/api/ads
+namu.live/static/ad
 narrative.io
 nate.com###shopping
 nate.com##.area_shopping_today
+nate.com##.banner
 nate.com##.shopBox
 nate.com##.shopping
 nate.com##.sideiframe
@@ -5728,11 +5858,12 @@ naver.com###p_main_show_1
 naver.com###p_main_travel_1
 naver.com###p_main_wedding_1
 naver.com###shopcast
-naver.com###t128560
 naver.com##._14F-vCxnLa
 naver.com##._add_naver_app
 naver.com##._add_short_cut
+naver.com##._paymentInfoArea
 naver.com##.aside_shopping
+naver.com##.banner.list_type
 naver.com##.da_area
 naver.com##.email.MY_EMAIL
 naver.com##.free_work_2
@@ -5764,10 +5895,13 @@ naver.com##.N\=a\:itm\.membanner
 naver.com##.N\=a\:itm\.mkt
 naver.com##.N\=a\:itm\.paypoint
 naver.com##.N\=a\:snb\.notice.mb_layer
+naver.com##.naverbank_ad
 naver.com##.nv-openmain
 naver.com##.s_sc
 naver.com##.section_banner
+naver.com##.spot_event
 naver.com##.TODO_SWITCH_HELP
+naver.com##.tooltip_charge
 naver.com##.tooltip_vertical
 naver.com##[class^="tooltip"]
 naver.com##[href="https://campaign.naver.com/npay/naver-account-open"]
@@ -5798,6 +5932,60 @@ netinsight.co.kr
 netmng.com
 networkad.nate.com
 newdaily.co.kr/site/etc/nd/*
+news.naver.com###articleBodyContents > [href^="http://www.khan.co.kr/"]
+news.naver.com###articleBodyContents > [href^="https://biz.chosun.com/"]
+news.naver.com###articleBodyContents > [href="http://www.dt.co.kr/"]
+news.naver.com###articleBodyContents > ul > li:nth-of-type(1) > [href="http://www.sedaily.com"]
+news.naver.com##[href*="https://media.naver.com/press/629"]
+news.naver.com##[href^="http://mnews.jtbc.joins.com/issue/TimelineIssue.aspx"]
+news.naver.com##[href^="http://news.khan.co.kr/kh_cartoon/"]
+news.naver.com##[href^="http://news.naver.com/main/hotissue/sectionList.nhn"]
+news.naver.com##[href^="http://smile.khan.co.kr/gudoc/gudoc_input_step3.html"]
+news.naver.com##[href^="https://news.naver.com/main/list.nhn"]
+news.naver.com##[href^="https://news.sbs.co.kr/news/newsHotIssueList.do"]
+news.naver.com##[href^="https://www.news1.kr/sissues/"]
+news.naver.com##[href^="https://www.yna.co.kr/board/jebo/index"]
+news.naver.com##[href^="https://www.yna.co.kr/theme-list/factcheck"]
+news.naver.com##[href="http://academy.bloter.net/"]
+news.naver.com##[href="http://fannstar.tf.co.kr"]
+news.naver.com##[href="http://h21.hani.co.kr/arti/reader/together/48543.html"]
+news.naver.com##[href="http://leadgen.bloter.co.kr/workday/"]
+news.naver.com##[href="http://mnews.jtbc.joins.com/Jebo/jebo_edit.aspx"]
+news.naver.com##[href="http://naver.me/GxmvUNz3"]
+news.naver.com##[href="http://naver.me/GXNrxEVx"]
+news.naver.com##[href="http://news.kbs.co.kr/local/main.do"]
+news.naver.com##[href="http://news.kbs.co.kr/special/coronaSpecialMain.do"]
+news.naver.com##[href="http://nuri.hani.co.kr/hanisite/mobile/index.html"]
+news.naver.com##[href="http://plus.hankyung.com/apps/service.introduction"]
+news.naver.com##[href="http://snaptime.edaily.co.kr/"]
+news.naver.com##[href="http://www.hani.co.kr/arti/legacy/legacy_general"]
+news.naver.com##[href="http://www.inews24.com"]
+news.naver.com##[href="http://www.missionlife.co.kr"]
+news.naver.com##[href="http://www.yonhapnewstv.co.kr/add/mobileApp"]
+news.naver.com##[href="https://bit.ly/2yghFOI"]
+news.naver.com##[href="https://en.seoul.co.kr"]
+news.naver.com##[href="https://hankookilbo.com"]
+news.naver.com##[href="https://hankookilbo.com/Vertical/Video"]
+news.naver.com##[href="https://hugs.fnnews.com/"]
+news.naver.com##[href="https://naver.me/Fkbvq9UL"]
+news.naver.com##[href="https://news.joins.com/Issue/11268"]
+news.naver.com##[href="https://newsstand.naver.com/029"]
+news.naver.com##[href="https://nownews.seoul.co.kr"]
+news.naver.com##[href="https://tv.naver.com/inewstv"]
+news.naver.com##[href="https://www.hankyung.com/"]
+news.naver.com##[href="https://www.sedaily.com/Cube/CubeCollect/194"]
+news.naver.com##[href="https://www.yonhapnewstv.co.kr/live"]
+news.naver.com##[href="https://www.youtube.com/channel/UCchlphwTUUpFk5EcP3F5X2A/"]
+news.naver.com##[href="https://www.ytn.co.kr/_hd/hd_live.html"]
+news.naver.com##[href="https://www.ytn.co.kr/issue/corona.php"]
+news.naver.com##[href="https://zdnet.co.kr"]
+news.naver.com##a[href^="https://news.sbs.co.kr/news/newsPlusList.do"]:nth-of-type(2)
+news.naver.com##a[href^="https://news.sbs.co.kr/news/newsPlusList.do"]:nth-of-type(3)
+news.naver.com##a[href^="https://nsearch.chosun.com/search/total.search"]:nth-of-type(1)
+news.naver.com##a[href^="https://nsearch.chosun.com/search/total.search"]:nth-of-type(2)
+news.naver.com##a[href^="https://www.mt.co.kr/redirectAd.php"]
+news.naver.com##a[href="http://www.kmib.co.kr"]:nth-of-type(2)
+news.naver.com##a[href="https://www.news1.kr"]:nth-of-type(2)
 news1.kr/system/ads_t/*
 newscloud.or.kr
 newsen.com##.centeringContainer
@@ -5805,6 +5993,7 @@ newsen.com##table:nth-of-type(1) > tbody > tr > td:nth-of-type(1) > table.black:
 newsen.com/images/2019/copy201909.gif
 newsis.com###detail1-1
 newsis.com###shuffle
+newsis.com##.banner
 newsis.com/ad/*
 newsis.com/new_www/advertise/*
 newsis.com/new_www/banner/*
@@ -5816,8 +6005,9 @@ newspim.com/banner/*
 newssense.co.kr
 newstapa.org###donate_box
 new-star.co.kr
-newsway.co.kr,newsway.kr,inews24.com,mk.co.kr,mt.co.kr,heraldcorp.com,heraldbiz.com,joins.com,marketinven.com,joynews24.com,ytn.co.kr,heraldcorp.com,chosun.com,asiae.co.kr,sportsseoul.com,mksports.co.kr,ruliweb.com##[class^="ad"]
+newsway.co.kr##.ad
 newsway.co.kr/banner/*
+newsway.kr##.ad
 newsway.kr/images/adbanner/*
 newsway.kr/ne_w/banner/*
 newsway.kr/ne_w/images/top.gif
@@ -5880,7 +6070,7 @@ pfrm.co
 phaserep.com
 piclick.me
 pippio.com
-pkgtour.naver.com,land.naver.com,jr.naver.com,m-tour.store.naver.com,ebn.co.kr,ksilbo.co.kr,torrentmep.net,torrentrg.org,inven.co.kr,ruliweb.com,gmarket.co.kr,imaeil.com,skyedaily.com,mydaily.co.kr,newsis.com,khan.co.kr,hellodd.com,joins.com,donga.com,heraldcorp.com,bizhankook.com,pressian.com,nate.com,daum.net,comic.naver.com,finance.naver.com,terms.naver.com,edaily.co.kr##[class^="banner"]
+pkgtour.naver.com##.banner
 playforum.net###adBottomBox
 playforum.net##.ad_wrap
 playforum.net##.cont_ad
@@ -5892,7 +6082,6 @@ pornhub.com###pb_block
 pornhub.com###videoSearchResult > .alpha
 pornhub.com###welcome
 pornhub.com##.adContainer
-pornhub.com##.ad-link
 pornhub.com##.adsPcSmallCenter
 pornhub.com##.clear.hd
 pornhub.com##.clearfix > div:nth-of-type(3)
@@ -5903,6 +6092,7 @@ pornhub.com##.sniperModeEngaged
 pornhub.com##milktruck
 pornhub.com##undefined
 powerlinks.com
+pressian.com##.banner
 pressian.com##.report_support
 pressian.com##.subscription_fee
 pressian.com/mobile/images/banner/*
@@ -5946,6 +6136,8 @@ rfihub.com
 rlcdn.com
 rovenancyde.top
 rubiconproject.com
+ruliweb.com##.ad
+ruliweb.com##.banner
 ruliweb.com##.nbp_container
 runative-syndicate.com
 rundsp.com
@@ -5960,7 +6152,6 @@ script.keywordlink.co.kr
 scrollads.co.kr
 searchad.naver.com
 secure-ds.serving-sys.com
-sedaily.com,asiae.co.kr,sportsseoul.com,mksports.co.kr##[id^="ad"]
 semasio.net
 sendpulse.com
 seoul.co.kr###tdn_vod_AD
@@ -5982,6 +6173,7 @@ site3.co.kr
 sitescout.com
 skplanet.com
 skyedaily.com###newsPad
+skyedaily.com##.banner
 skyedaily.com/AD/*
 skyedaily.com/campain/*
 skyedaily.com/images/*banner*
@@ -5993,12 +6185,15 @@ socdm.com
 sociomantic.com
 something-wrong29.icu
 sp-api.dable.io
+speedgabia.com/img/banner/*
 sportalkorea.com###Contents_Top
 sportalkorea.com##.iwm_ba
 sportalkorea.com##p.box240_line
 sportalkorea.com##p.review_txt
 sportalkorea.com/ad/*
+sportsseoul.com###ad
 sportsseoul.com###article_viewWrap > div:nth-of-type(2)
+sportsseoul.com##.ad
 sportsseoul.com/images/advertise/*
 spot.streamer.videofarm.daum.net
 spotxchange.com
@@ -6025,6 +6220,8 @@ targetpush.co.kr
 teads.tv
 tend-table.com
 tenping.kr
+terms.naver.com##.banner
+tf.co.kr##.swiper-topbanner
 tf.co.kr/public/ad/*
 tgd.kr###plz-dont-block-me
 tgd.kr###weare-out-of-food
@@ -6059,23 +6256,18 @@ toonsarang.*###go-btn
 toonsarang.*###info-tip-subscription
 toonsarang.*###lzpass-tooltip
 toonsarang.*##.bottom-navbar > div:nth-of-type(1)
-torrenthaja.*##.eb-top
 torrenthaja.*/##.banners
 torrenthaja.*/banner/*
-torrenthaja.*/uploads/banner/*
 torrentj11.com##.at-side.at-col.col-md-3 > div.widget-box:nth-of-type(2) > div
 torrentj11.com##.hidden-xs.hidden-sm > .widget-box > div
 torrentj11.com/data/apms/background/*
 torrentj11.com/data/file/to/*
-torrentj11.com/img/bannar*
-torrentmep.*##.eb-top
 torrentmep.*/##.banners
 torrentmep.*/banner/*
-torrentmep.*/uploads/banner/*
-torrentrg.*##.eb-top
+torrentmep.net##.banner
 torrentrg.*/##.banners
 torrentrg.*/banner/*
-torrentrg.*/uploads/banner/*
+torrentrg.org##.banner
 tpc.googlesyndication.com
 tpmn.co.kr
 tracker.mobile.biz.daum.net
@@ -6089,10 +6281,8 @@ tremorhub.com
 tribalfusion.com
 truoptik.com
 tsyndicate.com
-ttobogo.*##.eb-top
 ttobogo.*/##.banners
 ttobogo.*/banner/*
-ttobogo.*/uploads/banner/*
 tube8.com###adBlockAlertWrap
 tube8.com###announcement_ticker
 tube8.com###bottom_filters
@@ -6115,6 +6305,7 @@ tube8.com##.underplayerBanner
 tube8.com##bottom-adblock
 tube8.com##top-adblock
 turn.com
+tv.naver.com###banner
 tvdaily.co.kr/banner/*
 tving.com##.ad
 twitch.tv###dfp-directory-banner
@@ -6136,6 +6327,7 @@ videoamp.com
 videoplaza.tv
 videost.nmv.naver.com
 vidible.tv
+vidmix.tv
 viglink.com
 viralgains.com
 viva100.com##.R_paper01
@@ -6147,7 +6339,6 @@ waust.at
 webid.ad.daum.net
 webtoonguide.com/8c/c5/*
 wec.co.kr
-wecandeo.com
 wfwf99.com##.image-view.group > [href^="https://spin589.com/"]
 wfwf99.com##.modal-overlay
 wfwf99.com##.modal-wrapper
@@ -6206,15 +6397,20 @@ xvideos.com###ad-footer
 xvideos.com###ad-header-mobile-contener
 xvideos.com###ad-tower-div
 xvideos.com###video-ad
-xvideos.com##.remove-ads
 yeongnam.com##.article-video
 yeongnam.com/mnt/webdata/ad/*
 yieldlab.net
 yljiaoluo.com
+yna.co.kr###asideDeepDive
+yna.co.kr###marketingPlayer
+yna.co.kr##.aside-box01
 yna.co.kr##.aside-box08
 yna.co.kr##.aside-box15
 yna.co.kr##.aside-wrap01
 yna.co.kr/ad/*
+yonhapnewstv.co.kr##.banner
+yonhapnewstv.co.kr##.detail-rel
+yonhapnewstv.co.kr##.swiper-container-horizontal.swiper-container.snsSlide
 youtube.com###ad-image\:8
 youtube.com###player-ads
 youtube.com###root-container
@@ -6243,6 +6439,7 @@ youtube.com##ytm-companion-ad-renderer
 youtube.com/api/stats/ads*
 youtube.com/api/stats/ads?ver=2
 ytn.co.kr###CmAdContent > div
+ytn.co.kr##.ad
 ytn.co.kr##.campagin
 ytn.co.kr/ad/*
 ytn.co.kr/img/ad/*
