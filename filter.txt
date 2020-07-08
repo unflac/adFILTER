@@ -1,5 +1,6 @@
-!20200707a
+!20200708a
 ###.AD_box
+###.ad_dfp_premiumrec
 ###.adpost
 ###.ads
 ###.app_download
@@ -17,7 +18,10 @@
 ###.r1_banner
 ###.remove-ads
 ###.right_top_ad
+###.smileday_bn
 ###.twoLineAd
+###.vip-detailinfo_banner
+###.yads
 ###_banner_area_
 ###_banner_contents
 ###_banner_link
@@ -83,6 +87,7 @@
 ###ad_content_bottom
 ###ad_content_right
 ###ad_dable
+###ad_dfp_premiumrec
 ###ad_ebaysb
 ###ad_fix_btm.ad
 ###ad_footer
@@ -448,7 +453,6 @@
 ###b-banner
 ###bbs_power_link
 ###bbsMiddleAd
-###benefit
 ###big_banner
 ###bigad
 ###bigevent_bnr_w
@@ -1081,6 +1085,7 @@
 ###slot7
 ###slot8
 ###slot9
+###smileday_bn
 ###smileday_main_banner
 ###snb_banner
 ###snsAd
@@ -1197,6 +1202,7 @@
 ###view_side_banner
 ###viewad_top
 ###view-banner
+###vip-detailinfo_banner
 ###visual-ad
 ###w_banner
 ###wcms_ad
@@ -1222,6 +1228,7 @@
 ###wrap_bnr
 ###wrap_bnr_shortcut
 ###wrap_in_ad
+###yads
 ###zum_ad_area
 ##._banner_area_
 ##._banner_contents
@@ -1535,7 +1542,6 @@
 ##.asd_banner
 ##.asic-banner
 ##.aside.banner
-##.aside_ad
 ##.aside_ad320
 ##.aside_banner
 ##.aside_bingo_banner
@@ -1646,7 +1652,6 @@
 ##.b-banner
 ##.bbs_power_link
 ##.bbsMiddleAd
-##.benefit
 ##.big_banner
 ##.bigad
 ##.bigevent_bnr_w
@@ -1975,7 +1980,6 @@
 ##.lego_banner_main
 ##.limited_ad
 ##.link_ad
-##.link_banner
 ##.link_gnbbnr
 ##.link_imgbnr
 ##.link_linebnr
@@ -2475,6 +2479,7 @@
 ##[class^="ad_content_bottom"]
 ##[class^="ad_content_right"]
 ##[class^="ad_dable"]
+##[class^="ad_dfp_premiumrec"]
 ##[class^="ad_ebaysb"]
 ##[class^="ad_fix_btm.ad"]
 ##[class^="ad_footer"]
@@ -2727,7 +2732,6 @@
 ##[class^="asd_banner"]
 ##[class^="asic-banner"]
 ##[class^="aside.banner"]
-##[class^="aside_ad"]
 ##[class^="aside_ad320"]
 ##[class^="aside_banner"]
 ##[class^="aside_bingo_banner"]
@@ -2839,7 +2843,6 @@
 ##[class^="b-banner"]
 ##[class^="bbs_power_link"]
 ##[class^="bbsMiddleAd"]
-##[class^="benefit"]
 ##[class^="big_banner"]
 ##[class^="bigad"]
 ##[class^="bigevent_bnr_w"]
@@ -3170,7 +3173,6 @@
 ##[class^="lego_banner_main"]
 ##[class^="limited_ad"]
 ##[class^="link_ad"]
-##[class^="link_banner"]
 ##[class^="link_gnbbnr"]
 ##[class^="link_imgbnr"]
 ##[class^="link_linebnr"]
@@ -3471,6 +3473,7 @@
 ##[class^="slot7"]
 ##[class^="slot8"]
 ##[class^="slot9"]
+##[class^="smileday_bn"]
 ##[class^="smileday_main_banner"]
 ##[class^="snb_banner"]
 ##[class^="snsAd"]
@@ -3587,6 +3590,7 @@
 ##[class^="view_side_banner"]
 ##[class^="viewad_top"]
 ##[class^="view-banner"]
+##[class^="vip-detailinfo_banner"]
 ##[class^="visual-ad"]
 ##[class^="w_banner"]
 ##[class^="wcms_ad"]
@@ -3612,6 +3616,7 @@
 ##[class^="wrap_bnr"]
 ##[class^="wrap_bnr_shortcut"]
 ##[class^="wrap_in_ad"]
+##[class^="yads"]
 ##[class^="zum_ad_area"]
 ##[href^="http://media.naver.com/channel/promotion.nhn"]
 ##[href^="https://media.naver.com/channel/promotion.nhn"]
@@ -3682,6 +3687,7 @@
 ##[id^="ad_content_bottom"]
 ##[id^="ad_content_right"]
 ##[id^="ad_dable"]
+##[id^="ad_dfp_premiumrec"]
 ##[id^="ad_ebaysb"]
 ##[id^="ad_fix_btm.ad"]
 ##[id^="ad_footer"]
@@ -4047,7 +4053,6 @@
 ##[id^="b-banner"]
 ##[id^="bbs_power_link"]
 ##[id^="bbsMiddleAd"]
-##[id^="benefit"]
 ##[id^="big_banner"]
 ##[id^="bigad"]
 ##[id^="bigevent_bnr_w"]
@@ -4678,6 +4683,7 @@
 ##[id^="slot7"]
 ##[id^="slot8"]
 ##[id^="slot9"]
+##[id^="smileday_bn"]
 ##[id^="smileday_main_banner"]
 ##[id^="snb_banner"]
 ##[id^="snsAd"]
@@ -4794,6 +4800,7 @@
 ##[id^="view_side_banner"]
 ##[id^="viewad_top"]
 ##[id^="view-banner"]
+##[id^="vip-detailinfo_banner"]
 ##[id^="visual-ad"]
 ##[id^="w_banner"]
 ##[id^="wcms_ad"]
@@ -4819,6 +4826,7 @@
 ##[id^="wrap_bnr"]
 ##[id^="wrap_bnr_shortcut"]
 ##[id^="wrap_in_ad"]
+##[id^="yads"]
 ##[id^="zum_ad_area"]
 ##div[id^="ad_area"]
 */adimg/*
@@ -5050,6 +5058,7 @@ adtechjp.com
 adtg.widerplanet.com
 adtive.com
 adtng.com
+adtracking.smartmediarep.com
 adv.imadrep.co.kr
 adv.khan.co.kr
 adv.mediakeep.co.kr
@@ -5115,6 +5124,8 @@ asiae.co.kr/ad/*
 asiae.co.kr/banner/*
 asiatoday.co.kr##.iwm_ba
 asiatoday.co.kr##.m_line
+auction.co.kr##.js-display-ad
+auction.co.kr##.js-impressionable.module_slot.promo
 audience73.com
 avocet.io
 bananamall.co.kr
@@ -5150,7 +5161,6 @@ businesspost.co.kr###people
 buxmeto.co.kr
 c1.adtc.daum.net
 cad.chosun.com
-cafe.naver.com##.app_guide
 camo.stream.highwebmedia.com
 camwhoreshd.com##.link
 camwhoreshd.com##.table
@@ -5210,6 +5220,9 @@ contentabc.com
 contentlink.co.kr
 contentsfeed.com
 contextweb.com
+copytoon*.com###go-btn
+copytoon*.com##.at-go
+copytoon*.com##.nav-fixed
 copytoon93.com###go-btn
 copytoon93.com##.at-go
 copytoon93.com##.nav-fixed
@@ -5466,6 +5479,11 @@ hitomi.la/hitomi.js
 hivps.xyz
 hnscom.com
 hnyiche3.com
+hodu*.com###scroll_div
+hodu*.com##.banners
+hodu*.com##.renewal17_bltl_basiclist
+hodu*.com##.t_baner_box
+hodu*.com##.todays_free_third
 hodu209.com###scroll_div
 hodu209.com##.banners
 hodu209.com##.renewal17_bltl_basiclist
@@ -5737,6 +5755,8 @@ lottorich.co.kr
 luxad.kr
 m.adtc.daum.net
 m.spot.streamer.videofarm.daum.net
+manamoa*.net##.at-copyright
+manamoa*.net##.go-top
 manamoa49.net##.at-copyright
 manamoa49.net##.go-top
 mapy.co.kr
@@ -5861,7 +5881,8 @@ naver.com###shopcast
 naver.com##._14F-vCxnLa
 naver.com##._add_naver_app
 naver.com##._add_short_cut
-naver.com##._paymentInfoArea
+naver.com##._paymentInfoArea.viewer_area
+naver.com##.app_guide
 naver.com##.aside_shopping
 naver.com##.banner.list_type
 naver.com##.da_area
@@ -5895,14 +5916,20 @@ naver.com##.N\=a\:itm\.membanner
 naver.com##.N\=a\:itm\.mkt
 naver.com##.N\=a\:itm\.paypoint
 naver.com##.N\=a\:snb\.notice.mb_layer
+naver.com##.naverbank
 naver.com##.naverbank_ad
 naver.com##.nv-openmain
+naver.com##.paymentMethodStatementArea.credit_event.guide_box
 naver.com##.s_sc
 naver.com##.section_banner
+naver.com##.shopping_section
 naver.com##.spot_event
 naver.com##.TODO_SWITCH_HELP
 naver.com##.tooltip_charge
 naver.com##.tooltip_vertical
+naver.com##[class^="Alarm_article"]
+naver.com##[class^="Footer_android_add"]
+naver.com##[class^="MyBankbookInfoCard_article"]
 naver.com##[class^="tooltip"]
 naver.com##[href="https://campaign.naver.com/npay/naver-account-open"]
 naver.com##[href="https://nid.naver.com/membership/join"]
@@ -5919,13 +5946,13 @@ nene365.com###undefined-sticky-wrapper
 nene365.com##.at-footer
 nene365.com##.at-go
 nene365.com##.at-main.at-col.col-md-9 > .row
-nene365.com##.at-main.at-col.col-md-9 > div:nth-of-type(3)
+nene365.com##.at-main.at-col.col-md-9 > div:nth-of-type(2)
 nene365.com##.hidden-xs.hidden-sm > .div-title-underbar
 nene365.com##.hidden-xs.hidden-sm > [href="http://open.kakao.com/o/s2ituaO"]
 nene365.com##.pc-header
 nene365.com##.sideright
 nene365.com##[src="../img/tele2.gif"]
-nene365.com##[src="https://demo-livematchpro.statscore.com/ko/soccer"]
+nene365.com/data/apms/background/5356755_062119-cc-ss-summer-sun-img.jpg
 nene365.com/data/apms/background/5356755_062119-cc-ss-summer-sun-img.jpg
 neoebiz.co.kr
 netinsight.co.kr
@@ -6011,6 +6038,10 @@ newsway.kr##.ad
 newsway.kr/images/adbanner/*
 newsway.kr/ne_w/banner/*
 newsway.kr/ne_w/images/top.gif
+newtoki*.net###main-banner-view
+newtoki*.net##.at-copyright
+newtoki*.net##.board-tail-banner
+newtoki*.net##.go-top
 newtoki66.net###main-banner-view
 newtoki66.net##.at-copyright
 newtoki66.net##.board-tail-banner
@@ -6180,6 +6211,7 @@ skyedaily.com/images/*banner*
 skyedaily.com/images/tmp/banner*
 smartadserver.com
 smr.tvpot.daum.net
+smrmembers-smr.smartmediarep.com
 sndkorea.co.kr
 socdm.com
 sociomantic.com
@@ -6197,6 +6229,8 @@ sportsseoul.com##.ad
 sportsseoul.com/images/advertise/*
 spot.streamer.videofarm.daum.net
 spotxchange.com
+spowiki*.com###banner_bo2_wrapper
+spowiki*.com###sbn_side
 spowiki33.com###banner_bo2_wrapper
 spowiki33.com###sbn_side
 ssix.io
@@ -6237,6 +6271,21 @@ tidaltv.com
 tinypic.com
 tjtune.com
 toon_img > div
+toonkor*.net###banner_21_img
+toonkor*.net###go-btn
+toonkor*.net###toon_img > div:nth-of-type(1)
+toonkor*.net###toon_img > div:nth-of-type(2)
+toonkor*.net###toon_img > div:nth-of-type(3)
+toonkor*.net##.alert_windows
+toonkor*.net##.banner_m
+toonkor*.net##.bnt.bn
+toonkor*.net##.h40
+toonkor*.net##.hidden-xs
+toonkor*.net##.login-block
+toonkor*.net##.main_top_bann
+toonkor*.net##.section
+toonkor*.net##.tail-logo
+toonkor*.net##.top_banner
 toonkor10.net###banner_21_img
 toonkor10.net###go-btn
 toonkor10.net###toon_img > div:nth-of-type(1)
@@ -6339,6 +6388,17 @@ waust.at
 webid.ad.daum.net
 webtoonguide.com/8c/c5/*
 wec.co.kr
+wfwf*.com##.image-view.group > [href^="https://spin589.com/"]
+wfwf*.com##.modal-overlay
+wfwf*.com##.modal-wrapper
+wfwf*.com##.nextpage
+wfwf*.com##.pn-ProductNav_Wrapper
+wfwf*.com##.prepage
+wfwf*.com##.top-banner
+wfwf*.com##.top-btn
+wfwf*.com##.top-side
+wfwf*.com##.updown
+wfwf*.com##footer
 wfwf99.com##.image-view.group > [href^="https://spin589.com/"]
 wfwf99.com##.modal-overlay
 wfwf99.com##.modal-wrapper
