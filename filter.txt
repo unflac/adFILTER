@@ -1,3 +1,16 @@
+!########################################################################################################################################################
+
+!ggpht.com 유튜브
+!fonts.googleapis.com 구글
+!google-analytics.com 구글
+!google.co.kr 구글
+!google.com 구글
+!googleadservices.com 구글
+!googlesyndication.com 구글
+!googletagmanager.com 구글
+!googletagservices.com 구글
+!gstatic.com 구글
+
 jads.co
 adplex.co.kr
 interworksmedia.co.kr
@@ -1561,3 +1574,7 @@ movie.naver.com##.gnb_content
 sps.lottecard.co.kr##.adArea
 sps.lottecard.co.kr##.bannerArea
 sps.lottecard.co.kr##.event
+
+! 2021-01-13 https://m.naver.com
+naver.com##._MM_FOOTER.contents_footer > .footer
+
