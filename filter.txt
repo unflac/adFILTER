@@ -1,16 +1,3 @@
-!########################################################################################################################################################
-
-!ggpht.com 유튜브
-!fonts.googleapis.com 구글
-!google-analytics.com 구글
-!google.co.kr 구글
-!google.com 구글
-!googleadservices.com 구글
-!googlesyndication.com 구글
-!googletagmanager.com 구글
-!googletagservices.com 구글
-!gstatic.com 구글
-
 jads.co
 adplex.co.kr
 interworksmedia.co.kr
@@ -620,6 +607,7 @@ shopping.naver.com##[class^="ad_banner"]
 shopping.naver.com##[id^="footer"]
 shopping.naver.com##[class^="footer"]
 pay.naver.com##[id^="Glad_single_banner"]
+naver.com##.search_footer
 pay.naver.com##[class^="Glad_single_banner"]
 pay.naver.com##[id^="Footer_article"]
 pay.naver.com##[class^="Footer_article"]
@@ -1573,4 +1561,3 @@ movie.naver.com##.gnb_content
 sps.lottecard.co.kr##.adArea
 sps.lottecard.co.kr##.bannerArea
 sps.lottecard.co.kr##.event
-
