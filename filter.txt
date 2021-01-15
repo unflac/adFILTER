@@ -1,3 +1,49 @@
+! ublock 평가 팝업
+##.pb-toast-main-move
+
+! 뉴토끼 https://newtoki93.com
+###hd_pop
+###main-banner-view
+##.at-go
+##.basic-banner
+##.board-tail-banner
+###main-banner-view
+##.board-tail-banner
+##.at-copyright
+##.go-top
+##.text-center.well
+###viewcomment
+
+! 툰코 https://tkr06.com
+##.alert_windows
+##.pc-banners
+##.mobile-banner
+##.bnt.bn
+##[href="https://bit.ly/2vbBOV2"]
+##[href="http://wb-bk.com"]
+###toon_img > div:nth-of-type(1)
+###toon_img > div:nth-of-type(2)
+###toon_img > div:nth-of-type(3)
+###go-btn
+###banner_21_img
+##.tail-logo
+##.alert_windows
+##.top_banner
+##.banner_m
+##.main_top_bann
+##.bnt.bn
+##.login-block
+##.hidden-xs
+##.h40
+##.section
+##.section
+##div.col-float-5:nth-of-type(4)
+##div.col-float-5:nth-of-type(6)
+##div.col-float-5:nth-of-type(7)
+##.h40
+
+
+
 !########################################################################################################################################################
 
 !ggpht.com 유튜브
@@ -11,6 +57,7 @@
 !googletagservices.com 구글
 !gstatic.com 구글
 
+il119.com
 jads.co
 adplex.co.kr
 interworksmedia.co.kr
@@ -18,6 +65,9 @@ mncmedia.co.kr
 targetpush.co.kr
 reople.co.kr
 feedbag.co.kr
+waust.at
+amung.us
+ionicframework.com
 2020mustang.com
 adtng.com
 feeldmc.com
@@ -157,7 +207,6 @@ dotomi.com
 doubleclick.net
 ad-delivery.net
 btloader.com
-facebook.net
 ftd.agency
 indexww.com
 orangeclickmedia.com
@@ -215,6 +264,7 @@ openx.net
 optad360.io
 optimizely.com
 outbrain.com
+turl.co.kr
 owneriq.net
 pathfactory.com
 pdst.fm
@@ -246,7 +296,6 @@ spotxchange.com
 stickyadstv.com
 sundaysky.com
 survata.com
-t.co
 taboola.com
 tapad.com
 teads.tv
@@ -1577,4 +1626,73 @@ sps.lottecard.co.kr##.event
 
 ! 2021-01-13 https://m.naver.com
 naver.com##._MM_FOOTER.contents_footer > .footer
+brand.naver.com##.N\=a\:flo\.giftpoint
+brand.naver.com##.N\=a\:pcs\.mem
+blog.naver.com##[id^="externalwidget"]
+blog.naver.com##[class^="externalwidget"]
+blog.naver.com###widget-visitorgp
+blog.naver.com###blog_buddyconnect
+blog.naver.com###widget-saying
+blog.naver.com###blog-stat
 
+ads-partners.coupang.com
+static.coupangcdn.com/image/affiliate/banner/*
+
+coupang.com###coupang-banner
+coupang.com##.promotion-banner
+coupang.com###footer
+coupang.com##.ads-line-banner-container
+coupang.com###sdp-mid-banner-btf
+coupang.com###sdp-bottom-banner
+coupang.com###sdpBottomAds
+coupang.com##.member-footer
+coupang.com###rocket-tooltip
+coupang.com###cart-ads-widget
+coupang.com###cart-reco-widget
+coupang.com##.cart-subs-recommendation-widget
+coupang.com##.today-product
+
+cineaste.co.kr###sky
+cineaste.co.kr##footer
+cineaste.co.kr##[id^="criteo"]
+cineaste.co.kr##[class^="criteo"]
+cineaste.co.kr##[id^="dablewidget"]
+cineaste.co.kr##[class^="dablewidget"]
+cineaste.co.kr###_slot_1381070
+cineaste.co.kr###sky
+cineaste.co.kr##.widget-index-right.col-md-3 > .row > div.widget-main-box > .widget-small-box
+
+! 2021-01-14 https://login.11st.co.kr
+login.11st.co.kr##.login_banner
+login.11st.co.kr##.c_login_copyright
+
+! 2021-01-14 http://www.11st.co.kr
+www.11st.co.kr###ad_benefit
+www.11st.co.kr##.c_product_banner_benefit
+www.11st.co.kr###recommend_top
+www.11st.co.kr###footer
+www.11st.co.kr##.sponsor_link_wrap
+www.11st.co.kr##.c_product_banner
+www.11st.co.kr##.c_product_item_list_style2.c_product_item_list
+www.11st.co.kr##.l_product_view_wrap > .c_product_title_style1.c_product_title
+
+
+dcinside.com/ad/*
+dcinside.com###div_adnmore_area
+dcinside.com###wif_adx_banner_wrap
+dcinside.com###zzbang_div
+dcinside.com##.adv-group
+dcinside.com##.adv-groupin
+dcinside.com##.adv-grouptop
+dcinside.com##.dori-box
+dcinside.com##.dori-icon
+dcinside.com##.dori-icon-txt
+dcinside.com##.dory
+dcinside.com##.evt_content
+dcinside.com##.power_click
+dcinside.com##.stickyunit
+dcinside.com##.leftbanner
+dcinside.com##.rightbanner
+dcinside.com##.dcfoot
+
+search.shopping.naver.com###section_recommend
