@@ -1,8 +1,1209 @@
+!-- toonsarang.cafe
+toonsarang.*##.bottom-navbar > div:nth-of-type(1)
+toonsarang.*###info-tip-subscription
+toonsarang.*###lzpass-tooltip
+toonsarang.*###go-btn
+
+!-- toonkor10.net
+toonkor10.net###toon_img > div:nth-of-type(1)
+toonkor10.net###toon_img > div:nth-of-type(2)
+toonkor10.net###toon_img > div:nth-of-type(3)
+toonkor10.net###go-btn
+toonkor10.net###banner_21_img
+toonkor10.net##.tail-logo
+toonkor10.net##.alert_windows
+toonkor10.net##.top_banner
+toonkor10.net##.banner_m
+toonkor10.net##.main_top_bann
+toonkor10.net##.bnt.bn
+toonkor10.net##.login-block
+toonkor10.net##.hidden-xs
+toonkor10.net##.h40
+toonkor10.net##.section
+
+!-- toonkor*.net
+toonkor*.net###toon_img > div:nth-of-type(1)
+toonkor*.net###toon_img > div:nth-of-type(2)
+toonkor*.net###toon_img > div:nth-of-type(3)
+toonkor*.net###go-btn
+toonkor*.net###banner_21_img
+toonkor*.net##.tail-logo
+toonkor*.net##.alert_windows
+toonkor*.net##.top_banner
+toonkor*.net##.banner_m
+toonkor*.net##.main_top_bann
+toonkor*.net##.bnt.bn
+toonkor*.net##.login-block
+toonkor*.net##.hidden-xs
+toonkor*.net##.h40
+toonkor*.net##.section
+
+!-- copytoon93.com
+copytoon93.com##.nav-fixed
+copytoon93.com##.at-go
+copytoon93.com###go-btn
+
+!-- copytoon93.com
+copytoon*.com##.nav-fixed
+copytoon*.com##.at-go
+copytoon*.com###go-btn
+
+!-- manamoa49.net
+manamoa49.net##.at-copyright
+manamoa49.net##.go-top
+
+!-- manamoa49.net
+manamoa*.net##.at-copyright
+manamoa*.net##.go-top
+
+!-- newtoki83.com
+newtoki83.com###main-banner-view
+newtoki83.com##.board-tail-banner
+newtoki83.com##.at-copyright
+newtoki83.com##.go-top
+newtoki83.com##.text-center.well
+newtoki83.com###viewcomment
+
+!-- newtoki83.com
+newtoki*.com###main-banner-view
+newtoki*.com##.board-tail-banner
+newtoki*.com##.at-copyright
+newtoki*.com##.go-top
+newtoki*.com##.text-center.well
+newtoki*.com###viewcomment
+
+!-- wfwf99.com
+wfwf99.com##.modal-overlay
+wfwf99.com##.modal-wrapper
+wfwf99.com##.top-banner
+wfwf99.com##.top-btn
+wfwf99.com##.updown
+wfwf99.com##.nextpage
+wfwf99.com##.prepage
+wfwf99.com##.pn-ProductNav_Wrapper
+wfwf99.com##.top-side
+wfwf99.com##footer
+wfwf99.com##.image-view.group > [href^="https://spin589.com/"]
+
+!-- wfwf*.com
+wfwf*.com##.modal-overlay
+wfwf*.com##.modal-wrapper
+wfwf*.com##.top-banner
+wfwf*.com##.top-btn
+wfwf*.com##.updown
+wfwf*.com##.nextpage
+wfwf*.com##.prepage
+wfwf*.com##.pn-ProductNav_Wrapper
+wfwf*.com##.top-side
+wfwf*.com##footer
+wfwf*.com##.image-view.group > [href^="https://spin589.com/"]
+
+!-- hodu209.com
+hodu209.com##.banners
+hodu209.com##.renewal17_bltl_basiclist
+hodu209.com##.todays_free_third
+hodu209.com##.t_baner_box
+hodu209.com###scroll_div
+
+!-- hodu*.com
+hodu*.com##.banners
+hodu*.com##.renewal17_bltl_basiclist
+hodu*.com##.todays_free_third
+hodu*.com##.t_baner_box
+hodu*.com###scroll_div
+
+!-- spowiki33.com
+spowiki33.com###sbn_side
+spowiki33.com###banner_bo2_wrapper
+
+!-- spowiki33.com
+spowiki*.com###sbn_side
+spowiki*.com###banner_bo2_wrapper
+
+!-- jmana.net
+jmana.net###main_popup
+jmana.net###gotop
+jmana.net###footer
+
+!-- camwhoreshd.com
+camwhoreshd.com##.link
+camwhoreshd.com##.table
+camwhoreshd.com##body > div:nth-of-type(4) > div
+camwhoreshd.com##canvas
+
+!-- chaturbate.com
+chaturbate.com##.ad
+chaturbate.com##.banner
+
+!-- tube8.com
+tube8.com###adBlockAlertWrap
+tube8.com###announcement_ticker
+tube8.com###bottom_filters
+tube8.com###catFishBanner
+tube8.com###footerblock
+tube8.com###footer-text
+tube8.com###js-mobile-top-banner
+tube8.com###tjBottomAd
+tube8.com###top
+tube8.com###videopageadblock
+tube8.com##.adblock-container
+tube8.com##.footerBanner
+tube8.com##.footer-stripe-wrapper-grey
+tube8.com##.gridBanner
+tube8.com##.gridBanner_
+tube8.com##.premiumAdvert
+tube8.com##.rightColBanner
+tube8.com##.scale_4k
+tube8.com##.underplayerBanner
+tube8.com##bottom-adblock
+tube8.com##top-adblock
+
+!-- xhamster18.com
+xhamster18.com###dyltv-anchor
+xhamster18.com##.about-control.xh-button
+xhamster18.com##.comments-control
+xhamster18.com##.controls__line:nth-of-type(2)
+xhamster18.com##.controls__line:nth-of-type(6)
+xhamster18.com##.description-text
+xhamster18.com##.dyltv-container
+xhamster18.com##.no-popunder.bottom-widget-section
+xhamster18.com##.no-popunder.companion-ads
+xhamster18.com##.no-popunder.cookie-announce
+xhamster18.com##.no-popunder.wih-spb
+xhamster18.com##.no-popunder.wih-spot-container.wih-player
+xhamster18.com##.no-popunder.wih-spot-container.wih-player > .traffic-stars
+xhamster18.com##.player-add-overlay
+xhamster18.com##.premium-overlay
+xhamster18.com##.promo-message
+xhamster18.com##.rendered.underplayer
+xhamster18.com##.right-rectangle
+xhamster18.com##.share-control.gray.xh-button
+xhamster18.com##.small.disclaimer
+xhamster18.com##.traffic-stars
+xhamster18.com##.ts-interstitial
+xhamster18.com##.ts-interstitial__mask
+xhamster18.com##.wid-banner-container
+xhamster18.com##.wid-player
+xhamster18.com##.wih-banner
+xhamster18.com##.wih-spa.no-popunder.wih-spb
+xhamster18.com##.wih-spa.wih-spb
+xhamster18.com##.wih-spot-container.bottom-widget-section
+xhamster18.com##.wih-spot-container.wih-player
+xhamster18.com##.wih-spot-container--top
+xhamster18.com##.wil-static-banner
+xhamster18.com##.xh-dropdown.positioned.favorites-control
+
+!-- xvideos.com
+xvideos.com###ad-footer
+xvideos.com###ad-header-mobile-contener
+xvideos.com###ad-tower-div
+xvideos.com###video-ad
+
+!-- torrentboza2.com
+
+!-- ktxtorrent.com
+ktxtorrent.*##.hidden-xs.hidden-sm > .widget-box > div
+ktxtorrent.*##.at-side.at-col.col-md-3 > div.widget-box:nth-of-type(2) > div
+ktxtorrent.*##.scale
+
+!-- torrentj11.com
+torrentj11.com/data/file/to/*
+torrentj11.com/data/apms/background/*
+torrentj11.com##.hidden-xs.hidden-sm > .widget-box > div
+torrentj11.com##.at-side.at-col.col-md-3 > div.widget-box:nth-of-type(2) > div
+
+!-- ttobogo.net
+ttobogo.*/banner/*
+ttobogo.*/##.banners
+
+!-- torrenthaja.com
+torrenthaja.*/banner/*
+torrenthaja.*/##.banners
+
+!-- torrentmep.org
+torrentmep.*/banner/*
+torrentmep.*/##.banners
+
+!-- torrentrg.me
+torrentrg.*/banner/*
+torrentrg.*/##.banners
+
+nene25.com##.sideright
+nene25.com##.pc-header
+nene25.com##.at-main.at-col.col-md-9 > .row
+nene25.com##.at-main.at-col.col-md-9 > div:nth-of-type(2)
+nene25.com###undefined-sticky-wrapper
+nene25.com##[src="../img/tele2.gif"]
+nene25.com##.hidden-xs.hidden-sm > [href="http://open.kakao.com/o/s2ituaO"]
+nene25.com##.at-go
+nene25.com##.at-footer
+nene25.com##.hidden-xs.hidden-sm > .div-title-underbar
+nene25.com/data/apms/background/5356755_062119-cc-ss-summer-sun-img.jpg
+
+! @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+! @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+! @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+news.naver.com##[href="https://bit.ly/2yghFOI"]
+news.naver.com##[href="http://nuri.hani.co.kr/hanisite/mobile/index.html"]
+news.naver.com##[href="http://h21.hani.co.kr/arti/reader/together/48543.html"]
+news.naver.com##[href="http://www.hani.co.kr/arti/legacy/legacy_general"]
+news.naver.com##[href^="https://www.yna.co.kr/theme-list/factcheck"]
+news.naver.com##[href^="https://www.yna.co.kr/board/jebo/index"]
+news.naver.com##a[href="https://www.news1.kr"]:nth-of-type(2)
+news.naver.com##[href^="https://www.news1.kr/sissues/"]
+news.naver.com##[href="https://www.ytn.co.kr/issue/corona.php"]
+news.naver.com##[href="https://www.ytn.co.kr/_hd/hd_live.html"]
+news.naver.com##[href^="http://news.naver.com/main/hotissue/sectionList.nhn"]
+news.naver.com##[href="https://naver.me/Fkbvq9UL"]
+news.naver.com##[href="https://news.joins.com/Issue/11268"]
+news.naver.com##[href="https://nownews.seoul.co.kr"]
+news.naver.com##[href="https://en.seoul.co.kr"]
+news.naver.com##a[href^="https://nsearch.chosun.com/search/total.search"]:nth-of-type(2)
+news.naver.com##a[href^="https://nsearch.chosun.com/search/total.search"]:nth-of-type(1)
+news.naver.com##[href*="https://media.naver.com/press/629"]
+news.naver.com##[href="http://fannstar.tf.co.kr"]
+news.naver.com##[href="http://naver.me/GxmvUNz3"]
+news.naver.com##a[href="http://www.kmib.co.kr"]:nth-of-type(2)
+news.naver.com##[href="http://news.kbs.co.kr/special/coronaSpecialMain.do"]
+news.naver.com##[href="http://news.kbs.co.kr/local/main.do"]
+news.naver.com##[href="https://hankookilbo.com/Vertical/Video"]
+news.naver.com##[href="https://hankookilbo.com"]
+news.naver.com##[href="http://www.missionlife.co.kr"]
+news.naver.com##[href="http://naver.me/GXNrxEVx"]
+news.naver.com##[href="http://snaptime.edaily.co.kr/"]
+news.naver.com##[href^="http://news.khan.co.kr/kh_cartoon/"]
+news.naver.com##[href^="http://smile.khan.co.kr/gudoc/gudoc_input_step3.html"]
+news.naver.com###articleBodyContents > [href^="http://www.khan.co.kr/"]
+news.naver.com##[href="http://academy.bloter.net/"]
+news.naver.com##[href="http://leadgen.bloter.co.kr/workday/"]
+news.naver.com###articleBodyContents > ul > li:nth-of-type(1) > [href="http://www.sedaily.com"]
+news.naver.com##[href="https://www.sedaily.com/Cube/CubeCollect/194"]
+news.naver.com###articleBodyContents > [href^="https://biz.chosun.com/"]
+news.naver.com##[href="http://mnews.jtbc.joins.com/Jebo/jebo_edit.aspx"]
+news.naver.com##[href^="http://mnews.jtbc.joins.com/issue/TimelineIssue.aspx"]
+news.naver.com##a[href^="https://www.mt.co.kr/redirectAd.php"]
+news.naver.com##[href="https://www.hankyung.com/"]
+news.naver.com##[href="http://plus.hankyung.com/apps/service.introduction"]
+news.naver.com##[href^="https://news.sbs.co.kr/news/newsHotIssueList.do"]
+news.naver.com##a[href^="https://news.sbs.co.kr/news/newsPlusList.do"]:nth-of-type(2)
+news.naver.com##[href="https://www.yonhapnewstv.co.kr/live"]
+news.naver.com##[href="http://www.yonhapnewstv.co.kr/add/mobileApp"]
+news.naver.com##[href^="https://news.naver.com/main/list.nhn"]
+news.naver.com##[href="https://hugs.fnnews.com/"]
+news.naver.com##[href="https://www.youtube.com/channel/UCchlphwTUUpFk5EcP3F5X2A/"]
+news.naver.com##a[href^="https://news.sbs.co.kr/news/newsPlusList.do"]:nth-of-type(3)
+news.naver.com##[href="https://newsstand.naver.com/029"]
+news.naver.com###articleBodyContents > [href="http://www.dt.co.kr/"]
+news.naver.com##[href="https://tv.naver.com/inewstv"]
+news.naver.com##[href="http://www.inews24.com"]
+news.naver.com##[href="https://zdnet.co.kr"]
+
+! @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+afreecatv.com###afreecaAd
+afreecatv.com###chat_ad
+afreecatv.com###header_ad
+afreecatv.com###topBnrArea
+afreecatv.com###tuneOut > p
+afreecatv.com##.adcon-area
+afreecatv.com##.bjissue_banner
+afreecatv.com##.bs-notice_layer
+afreecatv.com##.ng-scope.banner_wrap
+afreecatv.com##.ng-scope.seasonal
+afreecatv.com##.on.user_clip
+afreecatv.com##.seasonal
+afreecatv.com##div.item_list_layer
+ajunews.com##.aju_event
+asiae.co.kr###ad
+asiae.co.kr##.ad
+asiae.co.kr##.art_btm
+asiae.co.kr##.fl_fr
+asiatoday.co.kr##.iwm_ba
+asiatoday.co.kr##.m_line
+bizhankook.com##.banner
+chosun.com##.ad
+cineaste.co.kr###sky
+cineaste.co.kr##.at-content > center
+comic.naver.com##.banner
+danawa.com##.wrap_link_left
+daum.net ##.native_ad_li
+daum.net###C3
+daum.net###C5
+daum.net###premiumLinkColl
+daum.net###splinkColl
+daum.net##.\#cate.na.link_item
+daum.net##.\#homecooking\#945_nacontent\#img
+daum.net##.\#money\#940_nacontent\#img
+daum.net##.aside_shopping
+daum.net##.banner
+daum.net##.box_adcpc
+daum.net##.box_shopping
+daum.net##.box_viewrelate
+daum.net##.cp_view
+daum.net##.link_slogo
+daum.net##.quick_view
+daum.net##.shopad_sports
+daum.net##.tit_kakaotv > .img_player
+dcinside.com###div_adnmore_area
+dcinside.com###wif_adx_banner_wrap
+dcinside.com###zzbang_div
+dcinside.com##.adv-group
+dcinside.com##.adv-groupin
+dcinside.com##.adv-grouptop
+dcinside.com##.dori-box
+dcinside.com##.dori-icon
+dcinside.com##.dori-icon-txt
+dcinside.com##.dory
+dcinside.com##.evt_content
+dcinside.com##.power_click
+dcinside.com##.stickyunit
+digitaltoday.co.kr##.nstand
+donga.com##.banner
+dreamwiz.com###neoclick_area
+dreamwiz.com##.r-keyword-wrap
+dreamwiz.com##.shopping
+dreamwiz.com##.shopping-box
+dvdprime.com###top_banner
+dvdprime.com##.relative.a_content > .relative
+ebn.co.kr##.banner
+edaily.co.kr##.banner
+edaily.co.kr##.manyview_info
+edaily.co.kr##.netizen_interest
+edaily.co.kr##.weekend_news
+edaily.co.kr##.youlike_news
+finance.naver.com##.banner
+fnnews.com##.featured_inner > div:nth-of-type(2)
+fnnews.com##.wrap_naverch
+fntimes.com##.crt_ad
+fntimes.com##.mcrt19d
+fntimes.com##.top_2d_lt
+fntimes.com##.top_2d_rt
+gamechosun.co.kr###FloatLayer1
+gamechosun.co.kr###foot_banner01
+gamechosun.co.kr##.adMobile
+gamechosun.co.kr##.main_back
+gamechosun.co.kr##.top_event
+gamemeca.com###aswift_0_expand
+gamemeca.com###criteo_slot_3531
+gamemeca.com###mobiDiv
+gamemeca.com##.ad-topscroll
+gamemeca.com##.article-banner
+gamemeca.com##.aside-left-ad
+gamemeca.com##.backgroundAdClick
+gamemeca.com##.board-right-ad
+gamemeca.com##.content-top-ad
+gamemeca.com##.gm_head_ads
+gamemeca.com##.gnb-left-ad
+gamemeca.com##.google_ad_bottom_728x90
+gamemeca.com##.main-ranking-section-ad
+gamemeca.com##.mobile_top_ad
+gamemeca.com##.news-right-ad
+gamemeca.com##.right_ad
+gamemeca.com##.right_ad2
+gamemeca.com##.toastBanner
+gmarket.co.kr##.banner
+hani.co.kr##.kisa-sponsor-area
+hankyung.com##.info_time
+hellodd.com##.banner
+heraldbiz.com##.ad
+heraldcorp.com##.ad
+heraldcorp.com##.banner
+hungryapp.co.kr###banner_11
+hungryapp.co.kr###banner9_iframe
+hungryapp.co.kr###popUP_ZONE
+hungryapp.co.kr##.banner
+hungryapp.co.kr##.banner_cnt
+hungryapp.co.kr##.banner12
+hungryapp.co.kr##.bannersww
+hungryapp.co.kr##.header_menu
+hungryapp.co.kr##.Mibox_down
+hungryapp.co.kr##.m-main-banner
+hungryapp.co.kr##.rb_wrapper
+hungryapp.co.kr##.RightBnr
+idaegu.com##section > .post-related
+imaeil.com##.banner
+imbc.com##.spot-wrap
+inews24.com##.ad
+yonhapnewstv.co.kr##.detail-rel
+inews24.com##.body > h1.photo-list
+inews24.com##.h250px
+inews24.com##.iframe
+inews24.com##.right-wing
+inews24.com##.view > .view > ad
+inews24.com##.view200
+inews24.com##ad
+inven.co.kr###backskinleft
+inven.co.kr###backskinright
+inven.co.kr###brandpageCommon
+inven.co.kr###comAdTopRight3
+inven.co.kr###comModCommonPart
+inven.co.kr###commonpart_market
+inven.co.kr###lolTail
+inven.co.kr###marketBottom
+inven.co.kr###mobileTailAd
+inven.co.kr###mobileTailAd_Layer
+inven.co.kr###mobileTailAd_LayerDummy
+inven.co.kr###modMarketinven
+inven.co.kr###modOpenIssue
+inven.co.kr###modPrintgallery
+inven.co.kr###topskyAd
+inven.co.kr###topslideAd
+inven.co.kr###webzineAdQuick
+inven.co.kr##.adPart
+inven.co.kr##.AdSky
+inven.co.kr##.adSlide
+inven.co.kr##.adTi
+inven.co.kr##.ad-wrap
+inven.co.kr##.banner
+inven.co.kr##.bannerMenuType1
+inven.co.kr##.bbsMiddleAd
+inven.co.kr##.broadSchedule
+inven.co.kr##.cosplay
+inven.co.kr##.custom-game-pc
+inven.co.kr##.eventBoxWrap
+inven.co.kr##.eventPopup
+inven.co.kr##.googleSubjectAd
+inven.co.kr##.headlineBanner
+inven.co.kr##.marketBottomDable
+inven.co.kr##.minAd
+inven.co.kr##.mobileDaNs1
+inven.co.kr##.preregiBoxWrap
+inven.co.kr##.repNewsLink
+inven.co.kr##.rightBrandpage
+inven.co.kr##.rightImart
+inven.co.kr##.rightMarket
+inven.co.kr##.testAd
+inven.co.kr##.videoAd
+inven.co.kr##[href="http://m.inven.co.kr/webtoon/"]
+inven.co.kr##center
+inven.co.kr##div.banner_box
+itemmania.co.kr###top_banner
+itemmania.com###g_BOTTOM_BANNER
+itemmania.com###g_remocon_head_banner
+itemmania.com###margin_banner
+itemmania.com###trade_top_bn
+itemmania.com##.list_layer
+itworld.co.kr###tail_popup
+jemin.com##.body-wrap-side.border-box.dis-blocksedaily.com###ad
+joins.com##.ad
+joins.com##.banner
+joins.com##.m_mid_ban
+joins.com##.shpping_life
+joins.com##.sub_da_250
+joins.com##.sub_da_300
+joseilbo.com##.right_list_ban
+joynews24.com##.ad
+joynews24.com##.h250px
+joynews24.com##.h600px
+joynews24.com##.view > .view > ad
+joynews24.com##.view200
+jr.naver.com##.banner
+kakao.com##.link_slogo
+kakao.com##.tit_kakaotv > .img_player
+kakao.com##.tooltip_mini
+keepvid.pro###slogan
+keepvid.pro##.banner-tools
+keepvid.pro##.chrome-addon
+keepvid.pro##.download-guides
+keepvid.pro##.header
+keepvid.pro##.legal-desc
+keepvid.pro##.support-site
+keepvid.pro##.video-converter
+keepvid.pro##.videoproc
+keepvid.pro##footer
+khan.co.kr##.banner
+khan.co.kr##.pb30.rt_box
+kick-off.co.kr##.board_view_top_ad
+kihoilbo.co.kr###youtube-manual
+kookje.co.kr###nsnb
+koreatimes.com##.bn_300x250_2
+koreatimes.com##.bn_300x250_3
+koreatimes.com##.sld_kims
+kr-weathernews.com###adtop
+kr-weathernews.com###anc_adx_space
+kr-weathernews.com###bigad
+kr-weathernews.com###main_slider
+kr-weathernews.com###news1.newsBar
+kr-weathernews.com###topicmain
+kr-weathernews.com##.adx_anc
+kr-weathernews.com##.bottom-movielist
+kr-weathernews.com##article.sub.block
+kr-weathernews.com##body > div:nth-of-type(2)
+kr-weathernews.com##body > div:nth-of-type(2) > button
+kr-weathernews.com##div:nth-of-type(3)
+kr-weathernews.com##div:nth-of-type(3) > button
+ksilbo.co.kr##.banner
+kyeongin.com###popup1991
+land.naver.com##.banner
+marketinven.com##.ad
+marketinven.com##.brandListcamwhoreshd.com##.opt
+mbcsportsplus.com###allBg
+mbn.co.kr###banner
+mbn.co.kr###event
+mediapen.com##.iwm_ba
+mediapen.com##.iwm_bip
+mk.co.kr##.ad
+mk.co.kr##.reple_box > h3
+mksports.co.kr###ad
+mksports.co.kr##.ad
+mksports.co.kr##center > table > tbody > tr > td:nth-of-type(1) > table > tbody > tr > td:nth-of-type(1)
+mksports.co.kr##div.bk35
+mt.co.kr##.ad
+mt.co.kr##.cover_story
+mtn.co.kr###hotNbest
+m-tour.store.naver.com##.banner
+mydaily.co.kr##.banner
+nate.com###shopping
+nate.com##.area_shopping_today
+nate.com##.banner
+nate.com##.shopBox
+nate.com##.shopping
+nate.com##.sideiframe
+nate.com##.svcCntBn
+nate.com##.svcNav2
+nate.com##[src="//mobile.nate.com/inner/bizAd.html"]
+nate.com##[src="/inner/bizAd.html"]
+naver.com###buddyRecommendLayer
+naver.com###continuous_player_tooltip
+naver.com###doubleDA
+naver.com###floatingda_home
+naver.com###MM_aside_qr_checkin_tooltip
+naver.com###p_main_animal_1
+naver.com###p_main_beauty_1
+naver.com###p_main_business_1
+naver.com###p_main_cargame_1
+naver.com###p_main_china_1
+naver.com###p_main_design_1
+naver.com###p_main_finance_1
+naver.com###p_main_ittech_1
+naver.com###p_main_job_1
+naver.com###p_main_living_1
+naver.com###p_main_livinghome_1
+naver.com###p_main_momkids_1
+naver.com###p_main_school_1
+naver.com###p_main_show_1
+naver.com###p_main_travel_1
+naver.com###p_main_wedding_1
+naver.com###shopcast
+naver.com##._14F-vCxnLa
+naver.com##._add_naver_app
+naver.com##._add_short_cut
+naver.com##.aside_shopping
+naver.com##.banner.list_type
+naver.com##.da_area
+naver.com##.email.MY_EMAIL
+naver.com##.free_work_2
+naver.com##.home_da2
+naver.com##.home_placard
+naver.com##.home_shopping
+naver.com##.info_bottom
+naver.com##.link_news
+naver.com##.logo_whale
+naver.com##.lst_series
+naver.com##.lst_series.lst_item2
+naver.com##.ly_help
+naver.com##.media_end_linked
+naver.com##.n_add
+naver.com##.N\=a\:banner\.mem
+naver.com##.N\=a\:fot\.agreement
+naver.com##.N\=a\:fot\.cs
+naver.com##.N\=a\:fot\.expo
+naver.com##.N\=a\:fot\.ftc
+naver.com##.N\=a\:fot\.infoclose
+naver.com##.N\=a\:fot\.logout
+naver.com##.N\=a\:fot\.navercorp
+naver.com##.N\=a\:fot\.payagreement
+naver.com##.N\=a\:fot\.shortcut
+naver.com##.N\=a\:fot\.sitemap
+naver.com##.N\=a\:fot\.terms
+naver.com##.N\=a\:fot\.top
+naver.com##.N\=a\:itm\.membanner
+naver.com##.N\=a\:itm\.mkt
+naver.com##.N\=a\:itm\.paypoint
+naver.com##.N\=a\:snb\.notice.mb_layer
+naver.com##.nv-openmain
+naver.com##.s_sc
+naver.com##.section_banner
+naver.com##.TODO_SWITCH_HELP
+naver.com##.tooltip_vertical
+naver.com##[href="https://campaign.naver.com/npay/naver-account-open"]
+naver.com##[href="https://nid.naver.com/membership/join"]
+naver.com##li._itemSection.ad
+naver.com##li._vsb_common._ad
+newsen.com##.centeringContainer
+newsen.com##table:nth-of-type(1) > tbody > tr > td:nth-of-type(1) > table.black:nth-of-type(1) > tbody > tr:nth-of-type(1) > td
+newsis.com###detail1-1
+newsis.com###shuffle
+newsis.com##.banner
+newstapa.org###donate_box
+newsway.co.kr##.ad
+newsway.kr##.ad
+ohmynews.com###scrollTop
+ohmynews.com##.atc_til_ad
+onlifezone.com###ad_m_b
+onlifezone.com##.gpe_pm_conban_code
+onlifezone.com##div.scban_wrap
+pay.naver.com###_summaryPointTotalTooltip1
+pkgtour.naver.com##.banner
+playforum.net###adBottomBox
+playforum.net##.ad_wrap
+playforum.net##.cont_ad
+playforum.net##.sidead
+pressian.com##.banner
+pressian.com##.report_support
+pressian.com##.subscription_fee
+ruliweb.com##.ad
+ruliweb.com##.banner
+ruliweb.com##.nbp_container
+seoul.co.kr###tdn_vod_AD
+seoul.co.kr##.ncontent > div:nth-of-type(1)
+seoul.co.kr##.Rad
+seoul.co.kr##[src="//imgnn.seoul.co.kr/img/nowStand_now02.jpg"]
+seoul.co.kr##table:nth-of-type(2)
+seoul.co.kr##table:nth-of-type(2) > tbody > tr > td
+sisajournal-e.com###roll_62
+skyedaily.com###newsPad
+skyedaily.com##.banner
+sportalkorea.com###Contents_Top
+sportalkorea.com##.iwm_ba
+sportalkorea.com##p.box240_line
+sportalkorea.com##p.review_txt
+sportsseoul.com###ad
+sportsseoul.com###article_viewWrap > div:nth-of-type(2)
+sportsseoul.com##.ad
+terms.naver.com##.banner
+tgd.kr###plz-dont-block-me
+tgd.kr###weare-out-of-food
+theepochtimes.com###pe_confirm
+theepochtimes.com###pe-widget-bell
+theepochtimes.com##.pay-for-article
+torrentmep.net##.banner
+torrentrg.org##.banner
+tv.naver.com###banner
+tving.com##.ad
+twitch.tv###dfp-directory-banner
+twitch.tv###dfp-directory-rectangle
+twitch.tv##.blue-bar
+twitch.tv##.extension-taskbar
+viva100.com##.R_paper01
+vop.co.kr###spon-frame
+www.mediatoday.co.kr###SupportForm_id
+www.upinews.kr##.rollover
+yeongnam.com##.article-video
+yna.co.kr##.aside-box08
+yna.co.kr##.aside-box15
+yna.co.kr##.aside-wrap01
+ytn.co.kr###CmAdContent > div
+ytn.co.kr##.ad
+ytn.co.kr##.campagin
+zum.com###externalRelated
+zum.com###zum-shoppingBox
+zum.com##.aside_shopping_box
+zum.com##.d_box_shopping_favorite
+zum.com##.d_rank_shopping
+zum.com##.d_shopping_ad_tab
+zum.com##.search_guide_layer
+zum.com##.shopping-box
+zum.com##.t_shopping2
+zum.com##.today_tab_shopping
+11st.co.kr###partnerBenefitTxt
+gmarket.co.kr##.section__main-fontguide.section__main
+gmarket.co.kr##.section__main-banner.section__main
+gmarket.co.kr##.plus
+gmarket.co.kr##h3
+gmarket.co.kr##.js-impressionable.box__head-ad
+11st.co.kr##.c_ad
+yna.co.kr###asideDeepDive
+yna.co.kr###marketingPlayer
+yna.co.kr##.aside-box01
+biz.chosun.com##.par > span
+namu.live##.ad
+etoday.co.kr##section.mt05.Top_m_conts
+kmib.co.kr##.mtxt01.m_ad
+kmib.co.kr##.mbnr300_250.m_ad
+tf.co.kr##.swiper-topbanner
+fntimes.com##div > [href^="https://m.fntimes.com/extcont/adclick.php"]
+fnnews.com##.bot_add_banner
+businesspost.co.kr###people
+yonhapnewstv.co.kr##.banner
+yonhapnewstv.co.kr##.swiper-container-horizontal.swiper-container.snsSlide
+bloter.net##.bloter-plus--pannel__wrapper
+chosun.com##.news_letter
+daum.net##.link_appdown
+naver.com##.tooltip_charge
+naver.com##.naverbank_ad
+naver.com##.spot_event
+naver.com##.app_guide
+naver.com##.shopping_section
+naver.com##[class^="MyBankbookInfoCard_article"]
+naver.com##[class^="Alarm_article"]
+naver.com##[class^="Footer_android_add"]
+naver.com##._paymentInfoArea.viewer_area
+naver.com##.paymentMethodStatementArea.credit_event.guide_box
+naver.com##.naverbank
+auction.co.kr##.js-impressionable.module_slot.promo
+auction.co.kr##.js-display-ad
+convertio.co##.chrome-app
+convertio.co##.rate-us
+yofreesamples.com###footer
+yofreesamples.com##.entry-navigation
+yofreesamples.com###secondary
+yofreesamples.com###masthead
+yofreesamples.com###mastad
+yofreesamples.com##div.com-ad
+yofreesamples.com###content > .container
+yofreesamples.com###related-posts
+yofreesamples.com##[src="https://yofreesamples.com/wp-content/uploads/2018/12/FREE-Google-Play-Android-Apps-Today.jpg"]
+yofreesamples.com###\38 66232304
+yofreesamples.com##.browse-more.row
+interpark.com##.powerlinkWrapper
+movie.naver.com###thumb_promotion_layer
+sports.media.daum.net##.wing_1boon
+sports.news.naver.com##.messageAndTime > .tooltip_vw
+sports.news.naver.com###_top_left_score
+sports.news.naver.com###_top_right_score
+sports.news.naver.com##.goal
+sports.news.naver.com##.topOverlayArea
+
+skin-demo-0053.tistory.com##body > p
+skin-demo-f94f4.tistory.com##body > p
+skin-demo-36cb2.tistory.com##body > p
+skin-demo-041c2.tistory.com##body > p
+skin-demo-497e6.tistory.com##body > p
+
+! 2020. 7. 14. https://ktxtorrent1.com
+ktxtorrent1.com##.scale
+
+! 2020. 7. 15. https://sports.news.naver.com
+sports.news.naver.com##[href="http://unse.sportschosun.com/main/portal"]
+sports.news.naver.com##[href="https://tv.naver.com/v/14682444"]
+
+! 2020. 7. 16. https://escrow.wemakeprice.com
+escrow.wemakeprice.com##.finish_banner
+
+! 2020. 8. 10. https://www.livecodi.com
+www.livecodi.com##.w-p15.w-box
+www.livecodi.com##.miso-post-gallery
+
+! 2020. 8. 11. https://www.livecodi.com
+www.livecodi.com###bo_vc
+
+! 2020. 8. 14. https://www.dispatch.co.kr
+www.dispatch.co.kr##.piclick-product
+
+! 2020. 8. 16. https://namu.wiki
+arca.live/static/ad/*$domain=namu.wiki,subdocument
+
+! 2020-08-20 https://mega.nz
+mega.nz##.register-side-pane
+
+! 2020-08-23 https://www.naver.com
+www.naver.com###NM_MID_BANNER
+
+! 2020-08-24 https://famousinternetgirls.com
+famousinternetgirls.com##.sidebar.col-sm-12.col-md-4
+
+! 2020-08-24 https://foryoutiktok.com
+foryoutiktok.com##.happy-sidebar
+foryoutiktok.com##.logo-footer
+foryoutiktok.com##.textwidget
+foryoutiktok.com##.happy-footer
+foryoutiktok.com##.happy-inside-player
+foryoutiktok.com##.happy-under-player
+foryoutiktok.com##.happy-header
+
+! 2020-08-24 https://www.windy.com
+www.windy.com###logo-wrapper
+
+! 2020-08-25 https://www.etoland.co.kr
+www.etoland.co.kr##.cnt_layout
+
+! 2020-08-26 https://sports.news.naver.com
+sports.news.naver.com##.scoreListExpandBtn
+sports.news.naver.com##.homerun.scorePoints
+
+! 2020-08-27 https://sports.daum.net
+sports.daum.net##.ad_side_right
+sports.daum.net##.ad_side_left
+
+! 2020-08-28 https://tktk10.com
+tktk21.com##.alert_windows
+
+! 2020-08-30 http://myg.gmarket.co.kr
+myg.gmarket.co.kr###pb-toast-main
+
+! 2020-08-31 https://www.jinyi7.me
+www.jinyi7.me##.pc-adbox
+www.jinyi7.me##.videoads
+
+! 2020-08-31 https://e-hentai.org
+e-hentai.org##.itd
+
+! 2020-09-01 https://sukebei.nyaa.si
+sukebei.nyaa.si##.servers-cost-money1
+
+! 2020-09-04 https://series.naver.com
+series.naver.com###footer
+series.naver.com##.notice_info
+
+! 2020-09-06 http://shopping.interpark.com
+shopping.interpark.com##.ad.couponContent
+
+! 2020. 7. 24. https://ridibooks.com
+ridibooks.com##.detail_header
+ridibooks.com##.detail_other_info
+ridibooks.com##.detail_guide.detail_block
+ridibooks.com/ridibooks_banner.m/*
+ridibooks.com###view_similar_books
+ridibooks.com##.js_show_another_payment.text_button
+ridibooks.com###js_serial_free_rent_coupon_popup > .serial_checkout_wrapper.popup_body > .checkout_description > .js_checkout_book_title.main_description
+ridibooks.com##.BookDetailNotice
+ridibooks.com###__next
+ridibooks.com###notice_component
+ridibooks.com###series_price_type
+ridibooks.com###__next__footer
+ridibooks.com##.js_btn_download.rui_button_white_50
+ridibooks.com##.js_author_introduce.detail_introduce.detail_block
+ridibooks.com##.detail_category_best.detail_block
+ridibooks.com###review_list_section
+ridibooks.com###detail_review
+ridibooks.com##div.detail_introduce.detail_block:nth-of-type(6)
+ridibooks.com##.noti_buttons_area
+ridibooks.com##.footer_fixed_btn
+ridibooks.com##.js_series_list_option_wrap.list_option_wrap
+ridibooks.com###introduce_book
+ridibooks.com##div.detail_introduce.detail_block
+ridibooks.com###js_serial_checkout_cash_and_point_popup > .serial_checkout_wrapper.popup_body > .checkout_description > .js_checkout_book_title.main_description
+ridibooks.com###detail_keyword_wrap
+ridibooks.com##.detail_trailer.detail_block
+ridibooks.com###js_serial_checkout_cash_and_point_popup.active.js_serial_checkout_popup.popup_wrapper
+ridibooks.com###full_page_spinner
+
+! 2020-09-08 https://ridibooks.com
+ridibooks.com##.header_thumbnail_wrap
+ridibooks.com##.metadata
+ridibooks.com##.metadata_available_info
+ridibooks.com##.info_title_wrap
+ridibooks.com##.metadata_rate
+
+! 2020-09-11 http://www.gasengi.com
+www.gasengi.com##li.cursor.top_l01
+
+! 2020-09-12 https://ridibooks.com
+ridibooks.com##div.js_guide_section.guide_block:nth-of-type(1)
+
+! 2020-09-13 http://nene25.com
+nene25.com##marquee
+
+! 2020-09-14 https://sports.news.naver.com
+sports.news.naver.com###_home_special
+
+! 2020-09-15 https://series.naver.com
+series.naver.com###cbox_module
+series.naver.com##.price_graph
+series.naver.com##.also_wrap
+series.naver.com###_alsoBought
+series.naver.com###_otherProductByPerson
+
+! 2020-09-15 https://page.kakao.com
+page.kakao.com##.css-tgplph
+
+! 2020-09-19 https://www.sbs.co.kr
+www.sbs.co.kr##.brl_inner
+www.sbs.co.kr##.main_da_banner_w
+
+! 2020-09-19 http://play.sbs.co.kr
+play.sbs.co.kr##.layer_3minute_w
+
+! 2020-09-20 http://richtv365.com
+richtv365.com###addon-popup1-layer
+richtv365.com###addon-popup2-layer
+richtv365.com###header
+richtv365.com##.relative
+richtv365.com##.tabWidget
+richtv365.com###addon-popup-layer
+richtv365.com##.content_widget_bar
+richtv365.com##div.xe-widget-wrapper:nth-of-type(2)
+richtv365.com##.move_target
+richtv365.com###bottom
+
+! 2020-09-20 https://www.coupang.com
+www.coupang.com###srpKeywordProductTopBanner
+
+! 2020-09-21 https://www.yahoo.co.jp
+www.yahoo.co.jp###TBP
+www.yahoo.co.jp###Service
+www.yahoo.co.jp###GoToBanner
+
+! 2020-09-26 http://nene25.com
+nene25.com##.at-main.at-col.col-md-9 > div:nth-of-type(1)
+
+! 2020-09-28 http://nene25.com
+nene25.com##[href="https://open.kakao.com/o/sWryhzyc"]
+
+! 2020-09-30 http://nene25.com
+nene25.com##.widget-basic-member-list
+
+! 2020-10-07 https://movie.naver.com
+movie.naver.com###content > .article > .sub_tab_area
+movie.naver.com###content > .article > .wide_info_area > .mv_info > .end_btn_area > ul
+||ssl.pstatic.net/static/movie/2012/06/ico_arrow2.gif$image
+movie.naver.com###content > .article > .wide_info_area > .mv_info > .info_spec2 > .more
+movie.naver.com###content > .article > .wide_info_area > .mv_info > .spi_area
+movie.naver.com###content > .article > .wide_info_area > .mv_info > .main_score
+movie.naver.com###content > .article > .wide_info_area > .viewing_graph
+
+! 2020-10-07 https://movie.daum.net
+movie.daum.net###mArticle > .detail_main.detail_movie > .movie_detail > .movie_basic > .main_detail > .detail_summarize > .movie_summary > .wrap_pbtn
+movie.daum.net###mArticle > .detail_main.detail_movie > .movie_detail > .movie_basic > .main_detail > .detail_summarize > .movie_summary > .list_placing
+movie.daum.net###mArticle > .detail_main.detail_movie > .movie_detail > .movie_basic > .main_detail > .detail_summarize > .movie_summary > .subject_movie > .info_origin > .wrap_grade
+
+! 2020-10-07 https://movie.naver.com
+movie.naver.com##.wide_info_area > .mv_info > .exp_score
+movie.naver.com##.info_spec > span > .help
+
+! 2020-10-08 https://blog.naver.com
+||ssl.pstatic.net/static/common/spi/2020/0806/sp_spi_pc.png$image
+||ssl.pstatic.net/static/common/spi/2020/0806/sp_spi_pc.png$image
+blog.naver.com##.spi_btn_release._spi_release_btn._spi_release._spi_release_cont > ._spi_release
+||ssl.pstatic.net/static/common/spi/2020/0806/sp_spi_pc.png$image
+blog.naver.com##.spi_lst._spi_lst
+blog.naver.com##._param\(https\:\/\/blog\.stat\.naver\.com\/blog\/article\/222109705181\/cv\)._returnFalse._postStat.pcol2.btn_stat
+blog.naver.com##._transPosition._se3copybtn._returnFalse._setClipboard.pcol2.url
+
+! 2020-10-09 https://movie.naver.com
+||ssl.pstatic.net/static/movie/2019/10/sp_btn.png$image
+||ssl.pstatic.net/static/movie/2019/10/sp_btn.png$image
+movie.naver.com##.story_area > .story_more
+###se-toolbar-button se-toolbar-button-social-media-image se-document-toolbar-button se-basic-button-bottom-label
+
+! 2020-10-09 https://blog.naver.com
+blog.naver.com##._param\(https\:\/\/blog\.stat\.naver\.com\/blog\/article\/222111199329\/cv\)._returnFalse._postStat.pcol2.btn_stat > .aline
+blog.naver.com##._param\(https\:\/\/blog\.stat\.naver\.com\/blog\/article\/222111199329\/cv\)._returnFalse._postStat.pcol2.btn_stat
+
+! 2020-10-15 https://www.epicgames.com
+www.epicgames.com##.blocked-overlay.open.overlay-epic.overlay
+||static-assets-prod.epicgames.com/payment-web/static/assets/webpack/2de7f988e4229d74524cbe146a320be7-2de7f988e4229d74524cbe146a320be7.png$image
+
+! 2020-10-16 https://blog.naver.com
+blog.naver.com##._param\(https\:\/\/blog\.stat\.naver\.com\/blog\/article\/222112489287\/cv\)._returnFalse._postStat.pcol2.btn_stat > .aline
+blog.naver.com##._param\(https\:\/\/blog\.stat\.naver\.com\/blog\/article\/222112489287\/cv\)._returnFalse._postStat.pcol2.btn_stat
+
+! 2020-10-16 https://www.chosun.com
+www.chosun.com##.dfpAd
+
+! 2020-10-17 https://movie.naver.com
+movie.naver.com##.staff
+movie.naver.com##.wide_info_area > .mv_info > .h_movie > .opening > em
+||ssl.pstatic.net/static/movie/2019/11/sp_ico3.png$image
+movie.naver.com##.wide_info_area > .mv_info > .h_movie > .opening
+
+! 2020-10-18 https://u9c9.com
+u9c9.com##.ADTOPLB_156
+||u9c9.com/nnn/2.gif$image
+||u9c9.com/nnn/1.gif$image
+u9c9.com##.ADTOPLB_214
+
+! 2020-10-22 https://m.blog.naver.com
+m.blog.naver.com##.add_to_main
+
+! 2020-10-23 https://movie.naver.com
+movie.naver.com##.info_spec > .uio_ntz_btn
+movie.naver.com##.info_spec > .count
+
+! 2020-10-26 https://movie.naver.com
+movie.naver.com##.best_lines
+movie.naver.com##.type2.link_movie
+movie.naver.com##.rank_keyword
+movie.naver.com##.db_bottom
+movie.naver.com##.aka
+movie.naver.com##.photo
+movie.naver.com##.people
+movie.naver.com##.score_result
+movie.naver.com##.score_area
+movie.naver.com##.video_thumb > li
+movie.naver.com##div.obj_section > div.score
+movie.naver.com###footer
+||ssl.pstatic.net/static/movie/2012/08/btn_top.png$image
+movie.naver.com##div.section_group:nth-of-type(5)
+movie.naver.com##.section_group_frst.section_group > div.obj_section:nth-of-type(3)
+movie.naver.com##.video > .title_area
+movie.naver.com##.section_group_frst.section_group > div.obj_section:nth-of-type(4)
+movie.naver.com##.section_group_frst.section_group > div.obj_section:nth-of-type(2)
+movie.naver.com##.wide_info_area > .mv_info > .h_movie > .uio_rating19
+movie.naver.com##.scrollbar-box
+movie.naver.com##.scrollbar
+movie.naver.com###header
+movie.naver.com##.top_list
+movie.naver.com##.gnb_content
+
+! 2020-10-29 http://goodlivetv.com
+goodlivetv.com##.banner
+goodlivetv.com###header
+goodlivetv.com###addon-popup1-layer
+goodlivetv.com##.widget2
+goodlivetv.com##.content_widget_bar
+goodlivetv.com##.content_left_bar
+goodlivetv.com##.relative
+goodlivetv.com##.menu
+goodlivetv.com##.style
+goodlivetv.com###bottom
+goodlivetv.com##.move_target
+goodlivetv.com###addon-popup2-layer
+||goodlivetv.com/files/attach/images/166/244bc3409ddfaa71a7a62f1bea6ab192.png$image
+
+! 2020-10-29 http://www.smantv2.net
+www.smantv2.net###aside_total
+www.smantv2.net###hd
+www.smantv2.net##.fixed
+www.smantv2.net###ft
+www.smantv2.net###sky
+
+! 2020-10-29 http://www.popeyetv.com
+www.popeyetv.com##.header-topbar
+www.popeyetv.com##.header-title
+www.popeyetv.com##.header-sticky.header-nav
+www.popeyetv.com##.col-md-3.left-side.basic-body-side
+www.popeyetv.com##.quick-menu-main.quick-menu
+www.popeyetv.com##.comm001-notice-roll-wrap
+www.popeyetv.com##.margin-bottom-30.row
+www.popeyetv.com##.footer
+www.popeyetv.com##.footer-top
+www.popeyetv.com##.back-to-top
+
+! 2020-10-29 https://movie.daum.net
+movie.daum.net##div.movie_staff.movie_join > .list_staff.list_join > li > .link_join > .desc_join > .txt_awards > .txt_join
+movie.daum.net##div.movie_staff.movie_join > .list_staff.list_join > li > .link_join > .join_img
+movie.daum.net##div.info_produce
+movie.daum.net##.d_foot
+
+! 2020-10-30 https://movie.daum.net
+movie.daum.net##.join_img
+
+! 2020-10-30 https://search.daum.net
+search.daum.net###tv_casting > .castingList.wrap_col > .col_size5 > li > .wrap_thumb > .thumb
+search.daum.net###tv_casting > .castingList.wrap_col > .col_size5 > li > .txt_name
+
+! 2020-10-31 http://prod.danawa.com
+prod.danawa.com##.popup_ad_floating
+
+! 2020-10-31 https://xhamster18.com
+xhamster18.com##.wiz-cams-widget
+xhamster18.com##.native.wiz-spot-container.list-items.wiz-right-rectangle
+xhamster18.com##.wiz-spb
+
+! 2020-11-01 https://star.mt.co.kr
+star.mt.co.kr##.piclick-link
+
+! 2020-11-01 https://ktxtorrent10.com
+ktxtorrent10.com##.scale
+
+! 2020-11-01 https://www.hlsloader.com
+www.hlsloader.com##.text-center.hide-xxl.col-3.column.docs-content
+www.hlsloader.com###section-howto
+www.hlsloader.com###section-spec
+www.hlsloader.com###section-unsupport
+www.hlsloader.com###section-fastdownload
+www.hlsloader.com###section-tips
+www.hlsloader.com###troubleshoot
+www.hlsloader.com###section-form
+www.hlsloader.com##section.bg-gray
+www.hlsloader.com##span > div > strong
+
+! 2020-11-01 https://xhamster18.com
+xhamster18.com##.wiz-spot-container.list-items.wiz-right-rectangle
+
+! 2020-11-03 https://www.ytn.co.kr
+www.ytn.co.kr##div#hns_mask.hns_mask_div
+
+exoclick.com
+infolinks.com
+paddypower.com
+windows.net/libraryimages/football/adverts
+
+! 2020-11-04 https://www.magnet-search.com
+www.magnet-search.com##.exo_wrapper
+www.magnet-search.com##.right-ad
+www.magnet-search.com##.exo-native-widget-item
+
+! 2020-11-06 https://www.twitch.tv
+||extensions-discovery-images.twitch.tv/d4uvtfdr04uq6raoenvj7m86gdk16v/2.2.41/logo9ddb9aba-c647-4e34-900e-7b488d158a00$image
+||extensions-discovery-images.twitch.tv/d4uvtfdr04uq6raoenvj7m86gdk16v/2.2.41/logo9ddb9aba-c647-4e34-900e-7b488d158a00$image
+www.twitch.tv##.extensions-dock-card__image
+www.twitch.tv##.extensions-dock__dock
+
+! 2020-11-14 https://www.twitch.tv
+www.twitch.tv##.tw-mg-t-2.tw-mg-b-1.tw-justify-content-center.tw-flex
+
+! 2020-12-17 https://15.torrentube.net
+15.torrentube.net###AD_ONE_LINE
+
+! 2020-12-22 https://uptobox.com
+uptobox.com##form > center
+uptobox.com###topBar
+uptobox.com###navbar
+||uptobox.com/assets/images/background_sky.png$image
+uptobox.com##div:nth-of-type(5)
+uptobox.com###footer
+uptobox.com##tbody
+uptobox.com###content iframe
+uptobox.com###\30 554a4f0fc93
+
+! 2020-12-24 https://www.noltorr1.com
+www.noltorr1.com##a.nivo-imageLink
+www.noltorr1.com##.wrap_lnb > div > .xe-widget-wrapper
+
+! 2021-01-02 http://goodlivetv24.com
+goodlivetv24.com##.relative
+goodlivetv24.com##.banner
+||goodlivetv24.com/tr/rank.html$subdocument
+goodlivetv24.com##.content_left_bar
+goodlivetv24.com##.widget.widget2 > .xe-widget-wrapper
+goodlivetv24.com##.widget_bar_wrap
+goodlivetv24.com##.fix_width.gnb
+goodlivetv24.com###addon-popup2-layer
+
+! 2021-01-02 http://ktxtorrent16.com
+ktxtorrent16.com##.scale
+
+! 2021-01-04 https://sports.news.naver.com
+sports.news.naver.com##.aside_creator
+
+
+
+!@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 ! ublock 평가 팝업
 ##.pb-toast-main-move
 
-! 구글 통합
-##.adsbygoogle
+! 통합 광고제거
+
+##[id^="div-gpt-ad"]
+##[class^="div-gpt-ad"]
+
+##[id^="mobonDivBanner"]
+##[class^="mobonDivBanner"]
+
+##[id^="adsbyadop"]
+##[class^="adsbyadop"]
+
+##[id^="dablewidget"]
+##[class^="dablewidget"]
+
+##[id^="criteo"]
+##[class^="criteo"]
+
+##[id^="adsbygoogle"]
+##[class^="adsbygoogle"]
+
+##[class^="instreamBanner"]
+##[class^="instreamBanner"]
+
+##[id^="google_ads_iframe"]
+##[class^="google_ads_iframe"]
 
 !########################################################################################################################################################
 
@@ -17,354 +1218,1200 @@
 !googletagservices.com 구글
 !gstatic.com 구글
 
-
-superfastcdn.com
-adsxyz.com
-celebjihad.com
-clipsex.online
-cloudimagesa.com
-yadro.ru
-conkac.com
-districtbaloneywhiskers.com
-exosrv.com
-fappinghd.com
-javbebe.com
-javbest.co
-madcpms.com
-nudostar.com
-plannerladyreality.com
-plywoodenchant.com
-pornpicvip.com
-realsrv.com
-remarketingpixel.com
-sex4viet.com
-slutmesh.com
-tentmess.com
-thefappeningblog.com
-thefappeningblog1.com
-thesexscene.com
-tightsaturdayi.com
-topdisplaynetwork.com
-visitsfunk.com
-
-
-cdncontentdelivery.com
-madcpms.com
-velocecdn.com
-onclickperformance.com
-pulpsbarndomed.com
-
-okvfijgdmqton.bid
-fvkdatbzswo.bid
-predictivdisplay.com
-easy-bars.com
-fe7qygqi2p2h.com
-hdmvie.xyz
-theonecdn.com
-uptimecdn.com
-crrepo.com
-dexpredict.com
-
-tentmess.com
-yourwebbars.com
-popcash.net
-profitabledisplaycontent.com
-remarketingpixel.com
-tilltucked.com
-tsyndicate.com
-vublbm.com
-
-imglnkd.com
-cfgr3.com
-plufdsb.com
-dzhjmp.com
-il119.com
-jads.co
-adplex.co.kr
-interworksmedia.co.kr
-mncmedia.co.kr
-targetpush.co.kr
-reople.co.kr
-feedbag.co.kr
-waust.at
-amung.us
-ionicframework.com
-2020mustang.com
-adtng.com
-feeldmc.com
-imadrep.co.kr
-compiclick.me
-popin.cc
-realclick.co.kr
-tadapi.info
-treasuredata.com
-etahub.com
-nsimg.net
-trafficjunky.com
-trafficjunky.net
-adpnut.com
-adbiz3.co.kr
-adinc.kr
-anniversarytoothbrush.com
-faithfulfacultativeladder.com
-splittingpick.com
-tabloidsuggest.com
-servboost.tech
-cloudimagesa.com
-cupmedia.fun
-eondunpea.com
-grafthivecrocus.cam
-moonicorn.network
-ndroip.com
-partymidge.com
-pdvacde.com
-runative-syndicate.com
-tgpsew.com
-performanceplay.co.kr
-vidmix.tv
-wmgroup.us
-adwmg.com
-trafficstars.com
-dtprofit.com
-doublepimpads.com
-schjmp.com
-twinrdsrv.com
-adsco.re
-exosrv.com
-gravatar.com
-juicyads.com
-poweredbyliquidfire.mobi
-adxadserv.com
-d24ak3f2b.top
-olmsoneenh.info
-ptuxinewhi.pro
-tremblingkeyboardassistant.com
-trwl1.com
-squeezedthoughtfully.com
-popads.net
-t8cdn.com/catfishBanner
-digitalcamp.co.kr
-bizographics.com
-gfx.ms
-mgid.com
-linkedin.com
-omnitagjs.com
-outbrain.com
-scorecardresearch.com
-zemanta.com
-about.co.kr
-ednplus.com
-iacstatic.co.kr
-widerplanet.com
-ad4989.co.kr
-ad.daum.net
-loader.fmkorea.com
-hostcontent.live
-hostingcloud.racing
-onclickgenius.com
-skimegcolder.com
-ufpcdn.com
-velocitycdn.com
-amicms.co.kr
-ackcdn.net
-dtscdn.com
-flixcdn.com
-ftcdn.net
-intercomcdn.com
-licdn.com
-rlcdn.com
+*banner.s3.amazonaws.com
+hitomi.la/hitomi.js$script
+110.93.143.144
 152media.com
+175.119.173.51
+183.110.235.2
 1rx.io
+2020mustang.com
+211.239.126.150
+211.44.183.99
+218.145.26.75
+218.145.28.155
+220.73.139.25
+222.122.232.98
+2beon.co.kr
 2mdn.net
 33across.com
 360yield.com
+3dpop.kr
 3lift.com
+pubmatic.com
+pubmine.com
+4006825178.com
+51.la
 6sc.co
+7794.com
+913vt.com
+a.wyzmob.com
+a1.dp25.kr
+a-ads.com
+abbp1.com
+about.co.kr
+acecounter.com
+aceplanet.co.kr
+acetrader.co.kr
+ackcdn.net
+acloudimages.com
+acrosspf.com
+acxiom.com
+acxiomapac.com
+ad.about.co.kr
+ad.ad4989.co.kr
+ad.adinc.kr
+ad.adixs.co.kr
+ad.adlike.co.kr
+ad.adnmore.co.kr
+ad.ad-ya.net
+ad.aeonad.co.kr
+ad.aeonad.net
+ad.afreecatv.com
+ad.applead.co.kr
+ad.cache.newdaily.co.kr
+ad.chosun.com
+ad.crwdcntrl.net
+ad.daum.net
+ad.doubleclick.net
+ad.dt.co.kr
+ad.gt
+ad.hani.co.kr
+ad.hankooki.com
+ad.hankookilbo.com
+ad.hooniad.com
+ad.imp.joins.com
+ad.ingfac.co.kr
+ad.js
+ad.jungle.co.kr
+ad.khan.co.kr
+ad.kmib.co.kr
+ad.koreadaily.com
+ad.maist.jp
+ad.mapy.co.kr
+ad.mediatoday.co.kr
+ad.naver.com
+ad.nbms.naver.com
+ad.news.naver.com
+ad.nmv.naver.com
+ad.openmatch.co.kr
+ad.osen.co.kr
+ad.owra.net
+ad.pickple.net
+ad.priel.co.kr
+ad.reople.co.kr
+ad.tf.co.kr
+ad.touchwise.co.kr
+ad.tvreport.co.kr
+ad.wowtv.co.kr
+ad.xc.nis.nitmus.com
+ad.yieldmanager.com
+ad_shoppingCallme.php
+ad00.inews24.com
+ad01.inews24.com
+ad02.inews24.com
+ad1.eventmanager.co.kr
+ad1.sportschosun.com
+ad1.sportsseoul.com
+ad2.mediatoday.co.kr
+ad2.segye.com
+ad2.thisisgame.com
+ad4980.kr
+ad4989.co.kr
+ad4989.dailian.co.kr
 ad4m.at
+adand.co.kr
+adap.tv
+adapf.com
+adapi.inlcorp.com
+ad-arata.com
+adballoonimg.afreecatv.com
+adbinead.com
+adbiz.co.kr
+adbiz2.co.kr
+adbiz3.co.kr
+adbiz4.co.kr
+adc.naver.com
+adc.ohmynews.com
+ad-cdn.technoratimedia.com
+adclickservice.com
+adclix.daum.net
+adclixad.daum.net
+adcr.naver.com
+adcr.naver.com/adcr
+adcreative.naver.com
+ad-delivery.net
+addevent.php
 addthis.com
 addthisedge.com
-algolianet.com
+adenc.co.kr
+adex.ednplus.com
+adexchangemachine.com
+adexpert.ad4989.co.kr
+adexview.neoebiz.co.kr
+adexview.new-star.co.kr
+adf.send.microad.jp
+ad-first.co.kr
 adform.net
+adget.co.kr
+adgrp1.ad4989.co.kr
+adgrx.com
+adheim.com
+adhigh.net
+adimage.hankookilbo.com
+adimg.nateimg.co.kr
+adimg.newstomato.com
+adimg1.adinc.co.kr
+adin.ad4980.kr
+adinc.co.kr
+adinc.kr
 adingo.jp
+adinsight.co.kr
+adition.com
+adixs.net
+adjw.co.kr
+adkova.com
+adkpf.newscloud.or.kr
+adlibr.com
+adlink.pw
+ad-m.asia
+admanager.co.kr
 admanmedia.com
+ad-mapps.com
+admaru.com
+admixer.co.kr
+adn.adneo.co.kr
+adn.inven.co.kr
+adn.nsmartad.com
+adnico.jp
+adnium.com
+adnmore.co.kr
 adnxs.com
 adop.cc
+adotmob.com
+adotsolution.com
+adpies.com
+adpingpong.co.kr
+adpingpong1.co.kr
+adpingpong2.co.kr
+adpingpong3.co.kr
+adpingpong4.co.kr
+adpingpong5.co.kr
+adpingpong6.co.kr
+adpingpong7.co.kr
+adpingpong8.co.kr
+adpingpong9.co.kr
+ad-playstore.com
+adplex.co.kr
+adpnut.com
+adpopcon.com
+adr.zum.com
 adreactor.com
-adx1.com
-awebotchunto.work
-banesnorttat.cam
-caradstag.casa
-fryawlauk.com
-ftigholm.site
-idelv.net
-showcasethat.com
+adreal.dt.co.kr
+adriver.ru
 adroll.com
+ads.exoclick.com
+ads.gamemeca.com
+ads.inven.co.kr
+ads.mncmedia.co.kr
+ads.netinsight.co.kr
+ads.pixiv.org
+ads.tapzin.com
+ads.tlvmedia.com
+ads.yahoo.com
+ads.youtube.com
+ads3.adinc.co.kr
+ads-api.ad.daum.net
+ads-api.daumkakao.com
+ads-by.yieldselect.com
+adsco.re
+adserver.adtech.advertising.com
+adserver.adtechus.com
+adserver.joseilbo.com
+adserver.sbtrustmedia.com
+adserver.uniqube.tv
+adservice.google.co.kr
+adservice.sbs.co.kr
+adskeeper.co.uk
 adsnative.com
+ads-optima.com
+ads-partners.coupang.com
 adsrvr.org
 ad-stir.com
 ads-twitter.com
+adsvc2.wisenut.co.kr
+adsvr.kmib.co.kr
+adsxyz.com
 adsymptotic.com
 adtdp.com
+adtechjp.com
 adtelligent.com
+adtg.widerplanet.com
+adtive.com
+adtng.com
+adv.imadrep.co.kr
+adv.khan.co.kr
+adv.mediakeep.co.kr
+adv.tvreport.co.kr
+adv.zdnet.co.kr
+adv1.tvreport.co.kr
+adv2.tvreport.co.kr
 advangelists.com
 advertising.com
+adverweb.cjenm.com
+advimg.ad-mapps.com
+advimg.khan.co.kr
+adw.heraldm.com
+adweb.co.kr
+adwmg.com
+adx1.com
+adxadserv.com
+adxpansion.com
+adzon.net
+afs.opap.co.kr
+afy11.net
 agkn.com
-akamaihd.net
+aicontents.net
+aidata.io
+ajunews.com/images/site/img/ads/*
+akamai.net
+ak-gb.marketgid.com
+alea.adam.ad.daum.net
+alea.adam.daum.net
+alexametrics.com
+algolianet.com
+altg.widerplanet.com
 amazon-adsystem.com
+amazonaws.com/data1/resources/banner/*
+amicms.co.kr
 a-mo.net
-ampproject.org
+ams.rmcnmv.naver.com
+ams-ad.com
+amsv1.daum.net
+amsv2.daum.net
+amung.us
+analytics.ad.daum.net
+anewsa.com/master/banner/*
+anniversarytoothbrush.com
+api.dable.io
+appier.net
+aproxylog-next.tving.com
+aproxy-next.tving.com
 arca.live/static/ad/*
+areyouahuman.com
+asiae.co.kr/ad/*
+asiae.co.kr/banner/*
 atemda.com
+audience73.com
 audiencemanager.de
 audrte.com
 avct.cloud
+avocet.io
+awebotchunto.work
+bananamall.co.kr
+banesnorttat.cam
+bangdom.com
+banner_1.php
+banner_2.php
+banner_3.php
+banner_4.php
+banner_5.php
+banner_6.php
+banner_7.php
+banner_8.php
+banner_9.php
+bannerflow.com
+basebanner.com
+bb.ad.naver.com
+bedrapiona.com
+betrad.com
+beusable.net
 bfmio.com
 bidr.io
 bidswitch.net
 bizible.com
+bizographics.com
 blismedia.com
 bluekai.com
+bomul.com/img/add*
+borsendental.com
 brand-display.com
+browsers.support
+btloader.com
 bttrack.com
+bubbleandyeson.com
+buerchaoshi.com
+buxmeto.co.kr
+c1.adtc.daum.net
+cad.chosun.com
+camo.stream.highwebmedia.com
+candy.ad9.kr
+caradstag.casa
+care-health.co.kr
+cas.criteo.com
 casalemedia.com
+castbox.naver.com
+castbox.shopping.naver.com
+catad5959.com
+vfthr.com
+cbarsrv.com
+ccdailynews.com/bannerManager/*
+cdn1d-static-shared.phncdn.com/iframe-1.1.5.html
+cdn-aitg.widerplanet.com
+cdnativepush.com
+cdncontentdelivery.com
+cdnprism.pandora.tv
+cdnser.be/ad/*
+celeb.nann.co.kr
+celebjihad.com
+centrofiles.com
+cfgr3.com
+cfqpxzx.com
+channel.kakao.com
+chartbeat.com
+chartbeat.net
+chitika.net
+chosun.com/common/inc/main_right_banner*
+chosun.com/common/inc/main_right_banner*.asp$subdocument
+chosun.com/images/banner/*
+chosun.com/img/*-img/bn*
 cintnetworks.com
 cizion.com
 ck-ie.com
+clevernt.com
+clickaine.com
+clickco.net
 clickmon.co.kr
+clipsex.online
+clix.bizshop.daum.net
+clixad.daum.net
+clkads.com
+cloudimagesa.com
+cloudinary.com/dksgjy3j6/image/upload/*
+cloystercdn.com
+clrstm.com
+cm1.joins.com
+cm1.jssearch.net
+cm2.cjmooter.com
+cm2.joins.com
+cm2.jssearch.net
+cm3.jssearch.net
 cnzz.com
 colossusssp.com
 commander1.com
+commercialvalue.org
+commutil.kr/fntimes_www/img/naver_stand.gif
 company-target.com
+compiclick.me
+conkac.com
 connectad.io
+connexity.net
 consensu.org
+contentabc.com
+contentlink.co.kr
+contentsfeed.com
 contextweb.com
+cpv.ad.naver.com
 crazyegg.com
+creative.nbms.naver.com
+creative.wwwpromoter.com
+creditform.co.kr
 criteo.com
 criteo.net
+crossmetrix.com
+crrepo.com
 crwdcntrl.net
+ctnsnet.com
+cupmedia.fun
+cwdata.itsearch.co.kr
+d.a1comm.co.kr
+d.adroll.com
+d1hn8mrtxasu7m.cloudfront.net
+d24ak3f2b.top
 dable.io
+daejonilbo.com/bnr/*
+daily.co.kr
+dailyissue.co.kr
+daisy6.com
+damoive.dn.naver.com
+damovie.dn.naver.com
+danawa.com/images/newsCommunity/eventSkin/*
+daum.net/images/bn*
+daumcdn.net/zigbang/_deploy/daum-www/_next/static/banner_*
+dawin.tv
+dcinside.com/ad/*
+ddaily.co.kr/*anner_*
+deepdive.zum.com
 deepintent.com
+deliverys.n2s.co.kr
 demandbase.com
+demdex.net
+dexpredict.com
+dgafgadsgkjg.top
+digitalcamp.co.kr
+dispatch.cdnser.be/ad/*
+dispatch.co.kr/ad/*
+display.ad.daum.net
+displayad.zum.com
+disqusads.com
+distiltag.com
+districtbaloneywhiskers.com
+dlv.hooniad.com
+d-media.co.kr
 dmxleo.com
 dn1f1hmdujj40.cloudfront.net
+domdex.com
 dotomi.com
 doubleclick.net
-ad-delivery.net
-btloader.com
-ftd.agency
-indexww.com
-orangeclickmedia.com
-videoplayerhub.com
-kodcad.kr
-webpu.sh
+doublepimpads.com
+doublepimpssl.com
+doyouad.com
+dp25.kr
+dreamsearch.or.kr
+dreamwiz.com/cont/banner_frame.php
+dreamwiz.com/dw_shopping_box.asp
+dreamwiz.com/images/adbanner/*
+dt.co.kr/images/ben_
+dt.co.kr/images/ben_*
+dtprofit.com
+dtscdn.com
 dtscout.com
 dtsedge.com
+dvdprime.com/g2/data/cheditor5/*
+dvdprime.com/g2/img/banner/*
+dyntrk.com
+dzhjmp.com
+e9geolgzk6.com
+easy-bars.com
+ebn.co.kr/ad_article_center.php
+ebn.co.kr/banner/*
+ednplus.com
+ekn.kr/data/design/content/imgswf*
+emxdgt.com
 engagio.com
+eondunpea.com
 e-planning.net
 eqads.com
 erne.co
+ero-advertising.com
+etahub.com
+etnews.com/tools/refresh_script.html
+etoland.co.kr/data/file0207/etomall
+etoland.co.kr/img/19/*
+etoland.co.kr/img/19/19ad1/*
+etoland.co.kr/img/baedal/*
+etoland.co.kr/img/banner/*
+etoland.co.kr/img/chanwoopark/*
+etoland.co.kr/img/index_banner*.*
+etoland.co.kr/img/metoon/*
+etoland.co.kr/img/net/banner/*
+etoland.co.kr/img/toptoon/*
+etomato.com/banner/*
 everesttech.net
+ex.mdtoday.co.kr
+exdynsrv.com
 exelator.com
+exelbid.com
+exosrv.com
 exoticads.com
+ext-twitch.tv/supervisor/*
 eyeota.net
+eyereturn.com
+eyeviewads.com
+faithfulfacultativeladder.com
+fam-ad.com
+fappinghd.com
+fe7qygqi2p2h.com
+feedbag.co.kr
+feeldmc.com
+filecast.co.kr
+files.adform.net 
+finead.o00.kr
+fingahvf.top
+flashtalking.com
+flixcdn.com
+fnnews.com/resources/images/banner_*
+focas.jp
+fout.jp
+freebody.co.kr
+frtyi.com
+fryawlauk.com
+ftcdn.net
+ftd.agency
+ftigholm.site
 fullxh.com
+funybirth12.agency
+fvkdatbzswo.bid
+fwmrm.net
+g.doubleclick.net
+g4p.redtram.com
+gds786bomyc.com
+g-enews.com/g_www/img16/*ban*
+genieesspv.jp
+getfree-vpn.com
+gfx.ms
+gm-adimage.gamemeca.com
+gm-adkpf.gamemeca.com
+google.com/afs/ads
+google.com/cse_v2/ads
+googleads.g.doubleclick.net
+googleads.g.doubleclick.net 
+googleadservices.com
+grafthivecrocus.cam
+gravatar.com
+grtyb.com
+gsad.gameshot.net
+gssprt.jp
+guide.allblet.net
+gwallet.com
+gwangnam.co.kr/ad_view.php
+gwangnam.co.kr/banner/*
+h.adscope.co.kr
+h12-media.com
+hankooki.com/ad/*
+hankooki.com/daily/2018/07/daily_newsstand_*
+hankooki.com/m/ad
+hankooki.com/portal/2015/10/gra_c.png
+hankooki.com/sports/2017/12/sports_newsstand_*
+hankookquiz.azurewebsites.net
+hankyung.com/img/www/m/main/main-banner-*
+hankyung.com/img/www/m/view/banners/*
+hankyung.com/popup/*
+hdjxmf.com
+hdmvie.xyz
+hechaocheng.cn
+hellodd.com/upload/banner/*
+henanfs.com
+heraldcorp.com/event/*
+heraldm.com/adbanner/*
+heraldm.com/heraldbiz/version01/mobile/images/event/*
+heraldm.com/iframe/*
 histats.com
-ib-ibi.com
+hitomi.la/hitomi.js
+hivps.xyz
+hnscom.com
+hnyiche3.com
+honam.co.kr/lib/thumb.html?src=/banner/*
+hostcontent.live
+hostingcloud.racing
+hotjar.com
+hpyrdr.com
+hu.co.kr
+torrenti.co.kr
+badaboa.com
+statcounter.com
+truepush.com
+flagcounter.com
+hungryapp.co.kr/banner/*/*_back.jpg
+hungryapp.co.kr/banner/banner_*.php
+hungryapp.co.kr/banner/banner_1.php
+hungryapp.co.kr/banner/banner_2.php
+hungryapp.co.kr/banner/banner_3.php
+hungryapp.co.kr/banner/banner_4.php
+hungryapp.co.kr/banner/banner_5.php
+hungryapp.co.kr/banner/banner_6.php
+hungryapp.co.kr/banner/banner_7.php
+hungryapp.co.kr/banner/banner_8.php
+hungryapp.co.kr/banner/banner_9.php
+hungryapp.co.kr/images/common_/bg_bu.gif
+ia.naver.com
+ia.www.naver.com
+iacstatic.co.kr
+iasds01.com
 ibb.co
+ib-ibi.com
+icast-ad.com
+iclickcdn.com
+icontact.kr
 id5-sync.com
+idelv.net
+idnad.co.kr
+ie8eamus.com
+igas13.ru
+ihalla.com/upimages/banner/*
+il119.com
+ilikesponsorad.co.kr
+ilikesponsorad.com
+ilyo.co.kr/contents/banner/*
+imadrep.co.kr
+imaeil.com/img/banner/*
+image.bizshop.daum.net
+image.msscdn.net/images/emoticons/A_07_150.gif
+imbc.com/operate/common/ad/*
+imbc.com/operate/pc/main/ad/*
+imglnkc.com
+imglnkd.com
 impact-ad.jp
+impactify.io
+impdesk.com
+imrworldwide.com
+in.cdn.videofarm.daum.net
+inchan.kr
 increaserev.com
+indexww.com
+inews24.com/ad/*
+innity.com
+innity.net
+innorame.com
+innorame.com/imp/*
+inpagepush.com
+inter1ads.com
 intercom.io
 intercomassets.com
+intercomcdn.com
+interst12.com
+interworksmedia.co.kr
+inven.co.kr/column/2017/03/24/event/*
+inven.co.kr/column/2018/10/31/event/*
+inven.co.kr/image_2011/webtoon/banner/*
+ionicframework.com
+ipecho.net
+ipredictive.com
+issuepoll.co.kr
+issuepoll.net
+istripper.com
+itemmania.com/images/banner/*
+itg.realclick.co.kr
+iusm.co.kr/Autobox/banner*
+jads.co
+javbebe.com
+javbest.co
+jejudomin.co.kr/banner/*
+jejudomin.co.kr/bannerManager/*
+jejunews.com/image/*banner*
+jejunews.com/image/*banner*.gif
+jemin.com/banner/*
+jemin.com/bannerManager/*
+jhwj88.com
+jisuoping.com
+jiuyue699.com
+jnilbo.com/upload/banners/*
+joins.com/ui_joongang/banner/*
+joins.com/ui_joongang/news/pc/banner/*
+joins.com/ui_portal/portal2010/common/k_gnb_ad_close.png
+jointreport-switch.com
+joongdo.co.kr/mnt/images/banner/*
+joseilbo.com/Banner/*
+joseilbo.com/Ent/banner/*
+joynews24.com/ad/*
+joyninfo.com
+jpg2.kr
+js.theprimead.co.kr
+jsc.mgid.com
+jshoppingbox.joinsmsn.com
+jssearch.net
+juicyads.com
+keepvid.pro/assets/images/*
+keyword.ad.daum.net
+keyword.ad4989.co.kr
+keywordsconnect.com
+khufaw1.com
+khufaw2.com
+kmib.co.kr/images/bnr/*
+kmib.co.kr/inc/ifm_sub_content.asp
+kn-adkpf.newscloud.or.kr
+knnews.co.kr/banner/*
+knnews.co.kr/edb/banner/*
+kodcad.kr
+kookje.co.kr/design/banner*
+kookje.co.kr/design/banner_*
+kookje.co.kr/design/bn*
+kookje.co.kr/design/bn_*
+kookje.co.kr/service/banner/*
+kookje.co.kr/service/side/pnut_box.htm
+kookje.co.kr/service/side/pnut_right.htm
+koreatimes.com/banner/*
+kpa.so/data/kpa_so/banner/*
 krxd.net
+ksilbo.co.kr/banner/*
+ksilbo.co.kr/bannerManager/*
+kstarplay.tv
+kt5850pjz0.com
 ktkjmp.com
+kukinews.com/data/kuk/banner/*
+kwangju.co.kr/banner/*
+kwnews.co.kr/banner/*
+kwnews.co.kr/kwnews/ad/*
+l.m.naver.com
+ladsp.com
+ladsp.jp
+lalaping.com
+lewat.club
 lfstmedia.com
+lg-talk.kakao.com
 liadm.com
+licdn.com
 lijit.com
+linkadx.com
 linkedin.com
+linkprice.com
+littlecdn.com
+loader.fmkorea.com
 lockerdome.com
+log.inside.daum.net
+loginside.co.kr
+longkeyone.co.kr
 lookbookhq.com
+lottecard.co.kr/resources/images/vtxImg/event_banner/*
+lottorich.co.kr
+luxad.kr
+m.adtc.daum.net
+m.spot.streamer.videofarm.daum.net
+madcpms.com
+mapy.co.kr
+marketo.com
 marketo.net
 mathtag.com
+mbn.co.kr/storage/ad/*
+mcdlks.com
+mci1.co.kr
+meba.kr
 media.net
+media6degrees.com
 mediacategory.com
+mediacategory.com/servlet/adBanner
+mediacategory.com/servlet/adBanner/*
+mediacategory.com/servlet/adbnMobileBanner
+mediafarm.co.kr
+mediaharbor.co.kr
+medianewpage.com
+mediapen.com/banners/*
+mediarithmics.com
+mediaview.co.kr
 megadata.co.kr
+megdexchange.com
+metadsp.co.uk
+mgid.com
 microad.jp
+microad-cn.com
+microadinc.com
+mixpanel.com
+mk.co.kr/ad
+mk.co.kr/news/2013/banner*
+mk.co.kr/news/2013/banner_*
+mk.co.kr/sports/AD/*
 mktoresp.com
 mman.kr
+mmnneo.com
 mmstat.com
+mncmedia.co.kr
 moatads.com
+mobii.co.kr
+mobile.biz.daum.net
+mobitree.co.kr
 mobon.net
 modebaca.com
 mookie1.com
+moonicorn.network
+mox.tv
+mp.mmnneo.com
+mrep.kr
+mrpdata.net
+mrskin.com
+mrskincash.com
+mt.co.kr/*banner*.jpg
+mt.co.kr/starnews/images/banner/*
+munhwa.com/www/banner/*
+mxpnl.com
+mxptint.net
+mybestnewz.com
+mydaily.co.kr/ad/*
+mydaily.co.kr/new_yk/html/images_mj/head_left.gif
+mydaily.co.kr/new_yk/html/images_mj/head_left.gif$image
+mygoodlives.com
+tradedoubler.com
+mymyad.co.kr
 myvisualiq.net
+n1272adserv.xyz
+n2s.co.kr
+nad.cbs.co.kr
+namu.live/api/ads
+namu.live/static/ad
+narrative.io
+nate.com/adv
+nate.com/adv/*
+nate.com/etc/AdIbl
+nate.com/Etc/ViewADThumb
+nate.com/reply_ad_left.html
+nate.com/shopbox
+nate.com/shopbox/shopbox.htm
 navdmp.com
+naver.com/assets/images/banner_*
+naver.com/img/*banner*
+naver.com/img/banner/*
+nbp-corp.com
+ncclick.co.kr
+nd-adimage.newdaily.co.kr
+nd-adkpf.newdaily.co.kr
+ndroip.com
+nene365.com/data/apms/background/5356755_062119-cc-ss-summer-sun-img.jpg
+neoebiz.co.kr
 netinsight.co.kr
-newrelic.com
+netmng.com
+networkad.nate.com
+newdaily.co.kr/site/etc/nd/*
+news1.kr/system/ads_t/*
+newscloud.or.kr
+newsen.com/images/2019/copy201909.gif
+newsis.com/ad/*
+newsis.com/new_www/advertise/*
+newsis.com/new_www/banner/*
+newsis.com/new_www/homepage/banner*
+newsis.com/new_www/homepage/banner_*
+newsmobile.co.kr
+newsngame.com/ads/*
+newspim.com/banner/*
+newssense.co.kr
+new-star.co.kr
+newsway.co.kr/banner/*
+newsway.kr/images/adbanner/*
+newsway.kr/ne_w/banner/*
+newsway.kr/ne_w/images/top.gif
+nex8.net
+nexac.com
+nitmus.com
+nocutnews.co.kr/nocut/v3/img/ban_*
+nocutnews.co.kr/nocut/v3/main/ban_*
+np-adkpf.newscloud.or.kr
 nr-data.net
+nsense.co.kr
+nsimg.net
+nsmartad.com
+nudostar.com
+nv.ad.naver.com
+nv.veta.naver.com
+nv1.ad.naver.com
+nv1.veta.naver.com
+nv2.ad.naver.com
+nv2.veta.naver.com
+nv3.ad.naver.com
+nv4.ad.naver.com
+nv4.ad.naver.com 
+nw.realssp.co.kr
+nyetm2mkch.com
+o00.kr
+oddconcepts.kr
+ohmynews.com/2012_ad_rolling.htm
+ohmynews.com/AD_FILE/*
+ohmynews.com/BBS_ADM_FILE/*
+ohmynews.com/images/ohmynews/main/bn_*
+okvfijgdmqton.bid
+olmsoneenh.info
+omnitagjs.com
 onaudience.com
+onclickgenius.com
+onclickmega.com
+onclickperformance.com
+onclicksuper.com
 onetag-sys.com
+onlifezone.com/ad/*
+onmarshtompor.com
+opap.co.kr
+opendsp.com
+openx.com
 openx.net
 optad360.io
 optimizely.com
+orangeclickmedia.com
+origin-ads.exoclick.com
+osen.co.kr/banner/*
+otaserve.net
+otnolabttmup.com
 outbrain.com
-turl.co.kr
 owneriq.net
+oyez.co.kr
+p.lumieyes.com
+pagead2.googlesyndication.com
+partner.googleadservices.com
+partner.toptoon.com
+partymidge.com
 pathfactory.com
+patreon.com
 pdst.fm
+pdvacde.com
+perfectmarket.com
+performanceplay.co.kr
+pfrm.co
+phaserep.com
 piclick.kr
+piclick.me
+pippio.com
+plannerladyreality.com
+plufdsb.com
+plywoodenchant.com
+polltest.azurewebsites.net
+popads.net
+popcash.net
+popin.cc
+popin.cc/discovery/what-is.php
+pornpicvip.com
+poweredbyliquidfire.mobi
+powerlinks.com
+predictivdisplay.com
+pressian.com/mobile/images/banner/*
+priel.co.kr
+prism.pandora.tv
+profitabledisplaycontent.com
+propeller-tracking.com
+prwidgets.com
+pstatic.net/adimg3.search/adpost/*
+pstatic.net/banner/*
+pstatic.net/display/p/static/20200625145044//img/sv/my/*_banner*
+pstatic.net/sstatic/search/pc/tmp/*
+pstatic.net/sstatic/search/pc/tmp/ban*
+pstatic.net/static/kin/09renewal/banner_*
+pstatic.net/static/novel/banner_*
+pstatic.net/static/pwe/bn/*
+ptoahaistais.com
+ptuxinewhi.pro
+pubads.g.doubleclick.net 
 pubmatic.com
+pulpsbarndomed.com
+push-notifications.top
+pvclouds.com
+qianliexiancha.com
+qiqivv.com
 quantcount.com
 quantserve.com
 quantumdex.io
+queen-casino.info
+ra.ntwoad.co.kr
+r-ad.ne.jp
+rainbownine.net
+rawgit.com
+realclick.co.kr
+realdsp.co.kr
+realsrv.co
 realsrv.com
+realssp.co.kr
+rebrand.ly
+rebrandly.com
+recobell.io
+reebonzkorea.co.kr
+remarketingpixel.com
+reople.co.kr
 resetdigital.co
+revcontent.com
+rezync.com
+rfihub.com
 richaudience.com
+rlcdn.com
+rovenancyde.top
 rtbsuperhub.com
+rtmark.net
 rubiconproject.com
+runative-syndicate.com
+rundsp.com
+s0.2mdn.net
+s1.2mdn.net 
+saedu.naver.com
 salesloft.com
+sascdn.com
+sbtrustmedia.com
+schjmp.com
+scorecardresearch.com
+screensharp.kr
+script.keywordlink.co.kr
+scrollads.co.kr
+searchad.naver.com
+secure-ds.serving-sys.com
 segment.com
 segment.io
+semasio.net
+sendpulse.com
+seoul.co.kr/ad
+servboost.tech
 servenobid.com
+sex4viet.com
 sharethrough.com
+shinobi.jp
+shoplayer.zum.com
 shoppingcall.me
+shop-redapi.daum.net
+shorteh.com
+showcasethat.com
+sh-talk.kakao.com
+simg.imadrep.co.kr
 simpli.fi
+site3.co.kr
 sitescout.com
+skimegcolder.com
+skplanet.com
+skyedaily.com/AD/*
+skyedaily.com/campain/*
+skyedaily.com/images/*banner*
+skyedaily.com/images/tmp/banner*
+slutmesh.com
 smaato.net
 smartadserver.com
+smr.tvpot.daum.net
 smrtb.com
+sndcheckw.click
+sndkorea.co.kr
 socdm.com
+sociomantic.com
+something-wrong29.icu
 s-onetag.com
 sonobi.com
+sp-api.dable.io
+speedgabia.com/img/banner/*
+splittingpick.com
+spongead.com
+sportalkorea.com/ad/*
+sportsseoul.com/images/advertise/*
+spot.streamer.videofarm.daum.net
 spotxchange.com
+squeezedthoughtfully.com
+ssix.io
+static.dable.io
+static.doubleclick.net
+statistics.videofarm.daum.net
+statscore.com
+steepto.com
 stickyadstv.com
+s-toy.co.kr
+strpjmp.com
+stunninglover.com
 sundaysky.com
+sunnyworks.co.kr
+superfastcdn.com
 survata.com
+syndication.openapi.naver.com
+t8cdn.com/catfishBanner
+tabloidsuggest.com
 taboola.com
+tadapi.info
+taggify.net
+tangeb.com
 tapad.com
+targetpush.co.kr
 teads.tv
 technoratimedia.com
 techtarget.com
+tend-table.com
+tenping.kr
+tentmess.com
+tf.co.kr/public/ad/*
+tgd.kr/event/*
+tgpsew.com
+theadtech.com
+thefappeningblog.com
+thefappeningblog1.com
+theonecdn.com
+thesexscene.com
+theviewers.co.kr/images/main/banner/*
+thrtle.com
+ti-center.co.kr
 tidaltv.com
+tightsaturdayi.com
+tilltucked.com
+tinypic.com
+tjtune.com
+toglooman.com
+toon_img > div
+topdisplaynetwork.com
+tpc.googlesyndication.com
+tpmn.co.kr
+tracker.mobile.biz.daum.net
+trackingpro.pro
+traffic.adxprts.com
 trafficfactory.biz
+trafficjunky.com
+trafficjunky.net
 trafficroots.com
+trafficstars.com
+trafyield.com
+treasuredata.com
+tremblingkeyboardassistant.com
 tremorhub.com
 tribalfusion.com
+truoptik.com
+trwl1.com
+tsyndicate.com
+turl.co.kr
 turn.com
+tvdaily.co.kr/banner/*
+twinrdsrv.com
 tynt.com
+ufpcdn.com
+ulsanpress.net/banner/*
+uncn.jp
 unrulymedia.com
+uplynk.com
+uptimecdn.com
 us-central1-adaptive-growth.cloudfunctions.net
+userreport.com
+vads-api.ad.daum.net
+vasgenerete.site
 vebma.com
+velocecdn.com
+velocitycdn.com
+verizon.com
+veta.naver.com
+veta.naver.com/fxshow
+videoamp.com
+videoplayerhub.com
+videoplaza.tv
+videost.nmv.naver.com
+vidible.tv
+vidmix.tv
+viglink.com
+viralgains.com
+visitsfunk.com
 vlitag.com
 vrixon.com
+vts.rmcnmv.naver.com
+vublbm.com
 w55c.net
+waust.at
+webid.ad.daum.net
+webpu.sh
+webtoonguide.com/8c/c5/*
+wec.co.kr
+whatnow.kr
+widerplanet.com
+widespace.com
+wisenut.co.kr
 wistia.com
 wistia.net
+wmgroup.us
+wowreality.info
+wowtv.co.kr/PcStyle/images/banner/*
+wpu.sh
+wpush.org
+wrd.naver.com
+x1cdn.com
+xhamsterpremium.com
+yadro.ru
+yeongnam.com/mnt/webdata/ad/*
+yieldlab.net
 yieldmo.com
+yljiaoluo.com
+yna.co.kr/ad/*
+yourwebbars.com
+youtube.com/api/stats/ads*
+youtube.com/api/stats/ads?ver=2
+ytn.co.kr/ad/*
+ytn.co.kr/img/ad/*
+ytn.co.kr/inc_banner/*
+yttz113.com
+yume.com
+yzjlsb.com
+zdnet.co.kr/ads/*
+zdnet.co.kr/template_ad/*
+zemanta.com
 zeotap.com
+zhiyaspa.com
+zum.com/view/zum/hubzum/shoppingbox/*
+zum.com/view/zum/nativead/*
+zum.com/view/zum/shoppingboxmain/*
+zumads.vrixon.com
+何朝城.eu.org
 
 !########################################################################################################################################################
 
+gasengi.com##.board_list > tbody > tr:has-text(GODBLESSME)
+gasengi.com###commentContents > table:has-text(GODBLESSME)
 gasengi.com##.board_list > tbody > tr:has-text(국가에충성)
 gasengi.com###commentContents > table:has-text(국가에충성)
 gasengi.com##.board_list > tbody > tr:has-text(a문재인)
@@ -426,13 +2473,8 @@ gasengi.com###commentContents > table:has-text(가을연가)
 gasengi.com##.board_list > tbody > tr:has-text(안사요)
 gasengi.com###commentContents > table:has-text(안사요)
 gasengi.com##li.cursor.top_l01
-gasengi.com##.adsbygoogle
 gasengi.com###copyright
 gasengi.com##.powerlink
-gasengi.com##[id^="mobonDivBanner"]
-gasengi.com##[class^="mobonDivBanner"]
-gasengi.com##[id^="dablewidget"]
-gasengi.com##[class^="dablewidget"]
 
 !########################################################################################################################################################
 
@@ -466,6 +2508,42 @@ youtube.com##.ytd-search-pyv-renderer.style-scope
 youtube.com##ytm-companion-ad-renderer
 youtube.com##.yt-live-chat-viewer-engagement-message-renderer
 youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-display-ad-renderer.style-scope
+
+
+! 이전 삭제
+!youtube.com###dislike-button > .ytd-toggle-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-text.ytd-toggle-button-renderer.style-scope
+!youtube.com###like-button > .ytd-toggle-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-text.ytd-toggle-button-renderer.style-scope
+!youtube.com##.ytp-chrome-top-buttons
+!youtube.com###ab4yt-brand
+!youtube.com##.ab4yt-dialog
+!youtube.com###ad-image\:8
+!youtube.com###player-ads
+!youtube.com###root-container
+!youtube.com###spinner
+!youtube.com###title.ytd-rich-grid-renderer
+!youtube.com###ytp-pause-overlay
+!youtube.com##.adDisplay
+!youtube.com##.annotation
+!youtube.com##.branding-img-container
+!youtube.com##.companion-ad-container
+!youtube.com##.video-ads
+!youtube.com##.ytd-rich-item-renderer
+!youtube.com##.ytd-rich-section-renderer.style-scope
+!youtube.com##.ytd-search-pyv-renderer.style-scope
+!youtube.com##.ytp-ad-player-overlay-instream-info
+!youtube.com##.ytp-cards-button-icon
+!youtube.com##.ytp-ce-covering-overlay
+!youtube.com##.ytp-ce-element-show
+!youtube.com##.ytp-endscreen-content
+!youtube.com##.ytp-endscreen-next
+!youtube.com##.ytp-endscreen-previous
+!youtube.com##.ytp-scroll-min
+!youtube.com##.ytp-title-link
+!youtube.com##.ytp-youtube-button
+!youtube.com##.ytp-popup.ytp-generic-popup 전체화면 불가 멘트
+!youtube.com##ytd-compact-video-renderer.ytd-watch-next-secondary-results-renderer.style-scope
+!youtube.com##ytm-companion-ad-renderer
+!youtube.com##.yt-live-chat-viewer-engagement-message-renderer
 
 !########################################################################################################################################################
 
@@ -552,12 +2630,10 @@ goodlivetv24.com##.content_widget_bar
 
 !########################################################################################################################################################
 
-auto.zum.com##.adsbygoogle
 auto.zum.com##.ad-wrap
 auto.zum.com##.common_ad
 auto.zum.com##footer
 coin.zum.com###footer
-coin.zum.com##.adsbygoogle
 coin.zum.com##.side_banner
 food.zum.com##.zum_ad_area
 food.zum.com##.zumFooter
@@ -654,7 +2730,6 @@ sports.daum.net##.wing_1boon
 sports.daum.net##.wing_ad
 v.daum.net###kakaoFoot
 v.daum.net##.ad_gnb
-v.daum.net##.cmt_view.cmt_news
 v.daum.net##.cp_view
 v.daum.net##.direct_list
 v.daum.net##.footer_comm
@@ -1096,28 +3171,8 @@ xvideos.com##[class^="ad"]
 avsecret.net##.banners
 avsecret.net##.popup_layer
 
-pornhub.com##[id^="ad"]
-pornhub.com##[class^="ad"]
-pornhub.com##iframe
-pornhub.com##.footerContentWrapper
-pornhub.com##.ad-link
-pornhub.com##.underplayerAd
-pornhub.com###pb_template
-pornhub.com##.clearfix.search-video-thumbs.videos
-pornhub.com##.relatedSearchTermsBottom
-pornhub.com##.sectionWrapper > div.sectionWrapper > .sectionTitle
-pornhub.com##.newPaidSection
-pornhub.com###\31
-pornhub.com##.abAlertShown
-pornhub.com##cddei
-pornhub.com##.premiumPromoBanner
-pornhub.com###hotVideosSection > .alpha
-pornhub.com##deicc
-
 noltorr1.com##.theme-default.slider-wrapper
 
-namu.wiki##[id^="google_ads_iframe"]
-namu.wiki##[class^="google_ads_iframe"]
 namu.wiki##footer
 
 itemmania.com###top_banner
@@ -1134,7 +3189,6 @@ itemmania.com###frmPayment > [href="http://trade.itemmania.com/myroom/mileage/ch
 itemmania.com###side_banner
 
 miuiku.com###vi-smartbanner
-miuiku.com##.adsbygoogle
 miuiku.com##.adsbyvli
 miuiku.com##.adWrapper
 miuiku.com##.container-fluid
@@ -1149,13 +3203,10 @@ miuiku.com##.main-footer
 miuiku.com##.main-header
 miuiku.com##.slideInLeft
 miuiku.com##[class^="ADOP"]
-miuiku.com##[class^="adsbyadop"]
-miuiku.com##[class^="instreamBanner"]
 miuiku.com##[class^="oa"]
 miuiku.com##[href^="https://adserver.adreactor.com/servlet/view/window/url/zone"]
 miuiku.com##[href="https://www.modebaca.com/"]
 miuiku.com##[id^="ADOP"]
-miuiku.com##[id^="adsbyadop"]
 miuiku.com##[id^="instreamBanner"]
 miuiku.com##[id^="oa"]
 miuiku.com##h2
@@ -1164,7 +3215,6 @@ miuiku.com##p
 miuiku.com##h4
 
 sekilastekno.com###vi-smartbanner
-sekilastekno.com##.adsbygoogle
 sekilastekno.com##.adsbyvli
 sekilastekno.com##.adWrapper
 sekilastekno.com##.container-fluid
@@ -1179,13 +3229,10 @@ sekilastekno.com##.main-footer
 sekilastekno.com##.main-header
 sekilastekno.com##.slideInLeft
 sekilastekno.com##[class^="ADOP"]
-sekilastekno.com##[class^="adsbyadop"]
-sekilastekno.com##[class^="instreamBanner"]
 sekilastekno.com##[class^="oa"]
 sekilastekno.com##[href^="https://adserver.adreactor.com/servlet/view/window/url/zone"]
 sekilastekno.com##[href="https://www.modebaca.com/"]
 sekilastekno.com##[id^="ADOP"]
-sekilastekno.com##[id^="adsbyadop"]
 sekilastekno.com##[id^="instreamBanner"]
 sekilastekno.com##[id^="oa"]
 sekilastekno.com##h2
@@ -1200,7 +3247,6 @@ dddrive.me###btn-dl
 dddrive.me##.navbar-brand
 dddrive.me##.btn-sm.round
 
-thetvdb.com##.adsbygoogle
 thetvdb.com##.footer
 
 uptobox.com###topBar
@@ -1221,7 +3267,6 @@ ddaily.co.kr###body_bn
 ddaily.co.kr###footer
 
 fmkorea.com###adpost
-fmkorea.com##.adsbygoogle
 fmkorea.com###footer
 fmkorea.com##.padding
 fmkorea.com###banner1
@@ -1234,12 +3279,6 @@ fmkorea.com###banner7
 fmkorea.com###banner8
 fmkorea.com###banner9
 
-yonhapnewstv.co.kr##[id^="mobonDivBanner"]
-yonhapnewstv.co.kr##[class^="mobonDivBanner"]
-yonhapnewstv.co.kr##[id^="dablewidget"]
-yonhapnewstv.co.kr##[class^="dablewidget"]
-yonhapnewstv.co.kr##[id^="adsbyadop"]
-yonhapnewstv.co.kr##[class^="adsbyadop"]
 
 yonhapnewstv.co.kr##.mainBanner
 yonhapnewstv.co.kr##.mainBanner01
@@ -1497,8 +3536,6 @@ ytn.co.kr##.text_ad_type_6
 ytn.co.kr##.text_ad_type_7
 ytn.co.kr##.text_ad_type_8
 ytn.co.kr##.text_ad_type_9
-ytn.co.kr##[id^="mobonDivBanner"]
-ytn.co.kr##[class^="mobonDivBanner"]
 ytn.co.kr##.ad_box
 ytn.co.kr##div#hns_mask
 ytn.co.kr##.wing_ad
@@ -1566,25 +3603,17 @@ yna.co.kr###aside8eepDive
 yna.co.kr##.adsby9oogle
 yna.co.kr##[id^="imad"]
 yna.co.kr##[class^="imad"]
-yna.co.kr##[id^="div-gpt-ad"]
-yna.co.kr##[class^="div-gpt-ad"]
 yna.co.kr##.aside-wrap01
 yna.co.kr###footer
-yna.co.kr##.adsbygoogle
 yna.co.kr###asideDeepDive
 yna.co.kr##.aside-box10
 
-news1.kr##.adsbyadop
 news1.kr##.ad_content
 news1.kr###footer
 news1.kr##.ad_wing_l
 news1.kr##.adBlock
 news1.kr##.ad_txt_article
 news1.kr##.s_news_list
-news1.kr##[id^="adsbyadop"]
-news1.kr##[class^="adsbyadop"]
-news1.kr##[id^="mobonDivBanner"]
-news1.kr##[class^="mobonDivBanner"]
 news1.kr###targetpushAd_pc_wrap
 news1.kr##.trc_elastic_alternating-thumbnails-a
 news1.kr##.adList
@@ -1676,10 +3705,6 @@ coupang.com##.today-product
 
 cineaste.co.kr###sky
 cineaste.co.kr##footer
-cineaste.co.kr##[id^="criteo"]
-cineaste.co.kr##[class^="criteo"]
-cineaste.co.kr##[id^="dablewidget"]
-cineaste.co.kr##[class^="dablewidget"]
 cineaste.co.kr###_slot_1381070
 cineaste.co.kr###sky
 cineaste.co.kr##.widget-index-right.col-md-3 > .row > div.widget-main-box > .widget-small-box
@@ -1801,6 +3826,52 @@ newtoki99.com##.basic-banner
 newtoki99.com##.board-tail-banner
 newtoki99.com##.go-top
 newtoki99.com##.text-center.well
+
+
+manatoki95.net###hd_pop
+manatoki95.net###main-banner-view
+manatoki95.net##.at-copyright
+manatoki95.net##.at-go
+manatoki95.net##.basic-banner
+manatoki95.net##.board-tail-banner
+manatoki95.net##.go-top
+manatoki95.net##.text-center.well
+
+manatoki96.net###hd_pop
+manatoki96.net###main-banner-view
+manatoki96.net##.at-copyright
+manatoki96.net##.at-go
+manatoki96.net##.basic-banner
+manatoki96.net##.board-tail-banner
+manatoki96.net##.go-top
+manatoki96.net##.text-center.well
+
+manatoki97.net###hd_pop
+manatoki97.net###main-banner-view
+manatoki97.net##.at-copyright
+manatoki97.net##.at-go
+manatoki97.net##.basic-banner
+manatoki97.net##.board-tail-banner
+manatoki97.net##.go-top
+manatoki97.net##.text-center.well
+
+manatoki98.net###hd_pop
+manatoki98.net###main-banner-view
+manatoki98.net##.at-copyright
+manatoki98.net##.at-go
+manatoki98.net##.basic-banner
+manatoki98.net##.board-tail-banner
+manatoki98.net##.go-top
+manatoki98.net##.text-center.well
+
+manatoki99.net###hd_pop
+manatoki99.net###main-banner-view
+manatoki99.net##.at-copyright
+manatoki99.net##.at-go
+manatoki99.net##.basic-banner
+manatoki99.net##.board-tail-banner
+manatoki99.net##.go-top
+manatoki99.net##.text-center.well
 
 ! 툰코 https://tkr06.com
 tkr06.com###banner_21_img
@@ -1937,4 +4008,211 @@ accounts.kakao.com###kakaoFoot
 
 ! 2021-01-15 https://sports.v.daum.net
 sports.v.daum.net##.vod_open.fixed_bar
+
+! 2021-01-16 http://incorp.interpark.com
+incorp.interpark.com##.adBannerBox
+
+kin.naver.com##._pointGiftTooltip
+section.blog.naver.com##.area_promotion
+section.blog.naver.com##.area_advertisement
+section.blog.naver.com###floatingda_home
+
+! 2021-01-17 https://www.daum.net
+www.daum.net##.head_bnr
+
+! 2021-01-17 https://news.daum.net
+news.daum.net##.link_ad
+
+! 2021-01-17 https://news.joins.com
+news.joins.com##.ab_adtxt_wrap
+news.joins.com###criteo_network
+news.joins.com###wide_ad_bottom
+news.joins.com##.ad_top
+news.joins.com##.footer
+
+! 2021-01-17 https://joongang.joins.com
+joongang.joins.com###left_wingbanner
+joongang.joins.com##.da_300
+joongang.joins.com##.footer
+joongang.joins.com##.branded_content
+
+! 2021-01-17 https://www.imdb.com
+www.imdb.com##.banner
+
+! 2021-01-18 https://m.pay.naver.com
+m.pay.naver.com##.tooltip_green
+
+! 2021-01-18 https://m.smartstore.naver.com
+m.smartstore.naver.com##.N\=a\:flo\.giftpoint
+m.smartstore.naver.com##.N\=a\:pcs\.mem
+
+! 2021-01-18 https://www.kr-weathernews.com
+www.kr-weathernews.com###fbanner
+www.kr-weathernews.com##.footer2
+
+
+blog.naver.com##.se-toolbar-tooltip
+
+cine21.com/misc/iframe/ad_hani
+cine21.com##[class^="banner"]
+cine21.com##[id^="banner"]
+cine21.com##.index_popup
+adimg.hani.co.kr
+
+! 2021-01-18 http://www.cine21.com
+www.cine21.com##.mgB50
+
+! 2021-01-19 https://nid.naver.com
+nid.naver.com###qrTooltip
+nid.naver.com##.banner_certify
+nid.naver.com##.promotion_wrap
+nid.naver.com##.footer
+nid.naver.com##.banner_security
+
+! 2021-01-19 https://invoice.naver.com
+invoice.naver.com##.signup_nudge
+
+! 2021-01-19 https://nid.naver.com
+nid.naver.com##.promotion_section
+
+
+pornhub.com##[id^="ad"]
+pornhub.com##[class^="ad"]
+pornhub.com##iframe
+pornhub.com##.footerContentWrapper
+pornhub.com##.ad-link
+pornhub.com##.underplayerAd
+pornhub.com###pb_template
+pornhub.com##.clearfix.search-video-thumbs.videos
+pornhub.com##.relatedSearchTermsBottom
+pornhub.com##.sectionWrapper > div.sectionWrapper > .sectionTitle
+pornhub.com##.newPaidSection
+pornhub.com###\31
+pornhub.com##.abAlertShown
+pornhub.com##cddei
+pornhub.com##.premiumPromoBanner
+pornhub.com###hotVideosSection > .alpha
+
+pornhub.com##deicc
+pornhub.com##dbicd
+pornhub.com##bdbbd
+pornhub.com##cdbcd
+pornhub.com##bdcdi
+pornhub.com##bdcdc
+pornhub.com##ddebc
+pornhub.com##cbecb
+pornhub.com##ccbbg
+
+! 2021-01-19 https://www.netflix.com
+www.netflix.com##.value-prop-with-cta
+www.netflix.com##.is-fixed.nm-content-header
+www.netflix.com##.site-footer-wrapper
+
+
+
+g-enews.com##.footer_2d
+g-enews.com##.footer_1d
+
+! 2021-01-19 https://torrenthaja.com
+torrenthaja.com##.side-banner
+torrenthaja.com##.main-banner
+torrenthaja.com/data/banner/*$domain=torrenthaja.com,image
+
+heraldcorp.com###ADLEFT_UNI
+heraldcorp.com###footer
+heraldcorp.com###naver_relative
+
+! 2021-01-19 http://pop.heraldcorp.com
+pop.heraldcorp.com###siteleft_banner
+pop.heraldcorp.com###siteright_banner
+ads.mncmedia.co.kr
+
+
+! 네이버 블로그 메뉴 지우기
+blog.naver.com##.se-toolbar-item-social-media-image.se-toolbar-item
+blog.naver.com##.se-toolbar-item-sticker.se-toolbar-item
+blog.naver.com##.se-toolbar-item-map.se-toolbar-item
+
+! 2021-01-21 https://blog.naver.com
+blog.naver.com##.se-toolbar-item-insert-quotation.se-toolbar-item
+blog.naver.com##.se-toolbar-item-insert-horizontal-line.se-toolbar-item
+blog.naver.com##.se-toolbar-item-oglink.se-toolbar-item
+blog.naver.com##.se-toolbar-item-schedule.se-toolbar-item
+blog.naver.com##.se-toolbar-item-code.se-toolbar-item
+blog.naver.com##.se-toolbar-item-formula.se-toolbar-item
+blog.naver.com##.se-toolbar-item-table.se-toolbar-item
+
+! 2021-01-21 https://tv.naver.com
+pstatic.net/static/tv/navertv/pc/img/*$domain=tv.naver.com,image
+
+! 2021-01-21 https://m.naver.com
+m.naver.com##.lg_npay_nudge
+m.naver.com##.cd_show_banner
+m.naver.com##.nlabs_plink
+
+! 2021-01-21 https://www.amazon.co.uk
+www.amazon.co.uk###sp-cc
+
+! 2021-01-21 https://star.mbn.co.kr
+star.mbn.co.kr##.right_image
+
+! 2021-01-22 https://www.youtube.com
+www.youtube.com###offer-module
+
+! 2021-01-23 https://www.sports-g.com
+www.sports-g.com##.iwm_ba
+
+! 2021-01-25 http://www.inven.co.kr
+www.inven.co.kr##.inven-float-alarm
+
+
+shoppinglive.naver.com##[class^="BridgePage_banner"]
+shoppinglive.naver.com##[id^="BridgePage_banner"]
+
+! 2021-01-26 http://www.joseilbo.com
+www.joseilbo.com##.banner_box_wrap
+
+! 2021-01-26 https://www.popeyetv.com
+www.popeyetv.com###hd_pop
+www.popeyetv.com##.in.fade.modal-backdrop
+
+! 2021-01-27 http://nene25.com
+||nene25.com/img/pmbanner.jpg$image
+
+! 2021-01-27 http://fifaonline4.nexon.com
+fifaonline4.nexon.com##.quick_link
+fifaonline4.nexon.com##.active.mainYoutubePop
+
+! 2021-01-29 https://login.11st.co.kr
+login.11st.co.kr##.login_banner
+
+! 2021-01-29 https://accounts.interpark.com
+accounts.interpark.com##.businessShipBanner
+
+! 2021-01-29 https://nid.naver.com
+nid.naver.com##.naversign_cert_banner
+
+! 2021-01-29 https://tv.kakao.com
+tv.kakao.com###kakaoFoot
+
+! 2021-01-30 http://nene25.com
+nene25.com/img/pmbanner2.jpg$domain=nene25.com,image
+
+! 2021-01-30 http://mksports.co.kr
+
+
+mksports.co.kr##[id^="slot"]
+mksports.co.kr##[class^="slot"]
+
+! 2021-01-31 https://blog.naver.com
+||blogimgs.pstatic.net/nblog/mylog/post/gr_green.gif$image
+
+! 2021-01-31 https://unwww.tistory.com
+tistory.com##button.btn_mark:nth-of-type(3)
+tistory.com##.ico_statistics.ico_postbtn
+
+
+tistory.com##.wrap_btn_share.wrap_btn
+tistory.com##.uoc-icon.btn_post
+unwww.tistory.com##button.btn_mark:nth-of-type(2)
 
