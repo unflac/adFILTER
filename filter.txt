@@ -4293,10 +4293,10 @@ edaily.co.kr##.ad_dable_box
 edaily.co.kr##.boxbanner_footer_dable
 edaily.co.kr##.iwm_ba
 edaily.co.kr##.banner_300x169
-www.edaily.co.kr##.photo_ad_1080_200
+edaily.co.kr##.photo_ad_1080_200
 
 ! 2021-02-13 https://www.sportalkorea.com
-www.sportalkorea.com###topAdBox
+sportalkorea.com###topAdBox
 
 ! 2021-02-13 https://drive.google.com
 drive.google.com##.a-la-B-x
@@ -4310,11 +4310,11 @@ ppss.kr###custom_html-2
 ppss.kr###custom_html-3
 
 ! 2021-02-14 https://www.freebunker.com
-www.freebunker.com###layer
-www.freebunker.com##.introOverlayBg
+freebunker.com###layer
+freebunker.com##.introOverlayBg
 
 ! 2021-02-14 https://www.pornhub.com
-www.pornhub.com##.removeAdLink
+pornhub.com##.removeAdLink
 phncdn.com/pics/skins/000/002/572/2572_large.png$domain=www.pornhub.com,image
 
 ! 2021-02-18 https://fboom.me
@@ -4325,13 +4325,14 @@ fboom.me##.navigation-top
 fboom.me##.omni-email-widget
 
 ! 2021-02-23 https://www.afreecatv.com
-www.afreecatv.com##.Advertising_Output_Area
+afreecatv.com##.Advertising_Output_Area
 
 ! 2021-05-11 https://m.naver.com
-m.naver.com##.ISSUE-BANNER-AD
-m.naver.com##.id_comp_anniversary_banner
-m.naver.com##._MM_HOME_PROMOTION_PROMOTION
-m.naver.com##.id_comp_napp_banner
-m.naver.com##.id_comp_promotion
-m.naver.com##.main_footer
+naver.com##.ISSUE-BANNER-AD
+naver.com##.id_comp_anniversary_banner
+naver.com##._MM_HOME_PROMOTION_PROMOTION
+naver.com##.id_comp_napp_banner
+naver.com##.id_comp_promotion
+naver.com##.main_footer
+naver.com##.aside_footer
 
