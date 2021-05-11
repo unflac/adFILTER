@@ -1180,6 +1180,7 @@ sports.news.naver.com##.aside_creator
 ##.pb-toast-main-move
 
 ! 통합 광고제거
+##.adfit
 
 ##[id^="div-gpt-ad"]
 ##[class^="div-gpt-ad"]
@@ -1222,6 +1223,7 @@ sports.news.naver.com##.aside_creator
 hitomi.la/hitomi.js$script
 110.93.143.144
 152media.com
+moviemediaz.com
 175.119.173.51
 183.110.235.2
 1rx.io
@@ -1240,6 +1242,21 @@ hitomi.la/hitomi.js$script
 3lift.com
 pubmatic.com
 pubmine.com
+15cf13b2000029.com
+1625e2f71ba.com
+8dwd87c7a091b12x.com
+931b4fb4be61b.com
+betteradsystem.com
+
+9ad16721d9d5c56.com
+
+d2d92afbfc16.com
+jcqwzssqks.com
+
+
+vobquhydgvyqf.com
+
+
 4006825178.com
 51.la
 6sc.co
@@ -1261,6 +1278,7 @@ acxiomapac.com
 ad.about.co.kr
 ad.ad4989.co.kr
 ad.adinc.kr
+tv-co.top
 ad.adixs.co.kr
 ad.adlike.co.kr
 ad.adnmore.co.kr
@@ -1273,7 +1291,6 @@ ad.cache.newdaily.co.kr
 ad.chosun.com
 ad.crwdcntrl.net
 ad.daum.net
-ad.doubleclick.net
 ad.dt.co.kr
 ad.gt
 ad.hani.co.kr
@@ -1662,7 +1679,6 @@ dmxleo.com
 dn1f1hmdujj40.cloudfront.net
 domdex.com
 dotomi.com
-doubleclick.net
 doublepimpads.com
 doublepimpssl.com
 doyouad.com
@@ -1695,6 +1711,7 @@ eqads.com
 erne.co
 ero-advertising.com
 etahub.com
+zombierunfrance.fr
 etnews.com/tools/refresh_script.html
 etoland.co.kr/data/file0207/etomall
 etoland.co.kr/img/19/*
@@ -1740,10 +1757,17 @@ ftcdn.net
 ftd.agency
 ftigholm.site
 fullxh.com
+
+
+googleads.g.doubleclick.net
+g.doubleclick.net
+ad.doubleclick.net
+static.doubleclick.net
+pubads.g.doubleclick.net
+
 funybirth12.agency
 fvkdatbzswo.bid
 fwmrm.net
-g.doubleclick.net
 g4p.redtram.com
 gds786bomyc.com
 g-enews.com/g_www/img16/*ban*
@@ -1754,9 +1778,6 @@ gm-adimage.gamemeca.com
 gm-adkpf.gamemeca.com
 google.com/afs/ads
 google.com/cse_v2/ads
-googleads.g.doubleclick.net
-googleads.g.doubleclick.net 
-googleadservices.com
 grafthivecrocus.cam
 gravatar.com
 grtyb.com
@@ -1818,7 +1839,6 @@ ia.naver.com
 ia.www.naver.com
 iacstatic.co.kr
 iasds01.com
-ibb.co
 ib-ibi.com
 icast-ad.com
 iclickcdn.com
@@ -1862,6 +1882,20 @@ intercomcdn.com
 interst12.com
 interworksmedia.co.kr
 inven.co.kr/column/2017/03/24/event/*
+webvisor.org
+swwpush.com
+adspyglass.com
+ntvpwpush.com
+nawpush.com
+riverpush.com
+achilles-ena.com
+aexperiod.fun
+bestcontentfood.top
+bonertraffic12.mobi
+bonertraffic14.pro
+cdnspace.io
+chaserwit.top
+cstwpush.com
 inven.co.kr/column/2018/10/31/event/*
 inven.co.kr/image_2011/webtoon/banner/*
 ionicframework.com
@@ -2164,7 +2198,6 @@ pstatic.net/static/novel/banner_*
 pstatic.net/static/pwe/bn/*
 ptoahaistais.com
 ptuxinewhi.pro
-pubads.g.doubleclick.net 
 pubmatic.com
 pulpsbarndomed.com
 push-notifications.top
@@ -2264,7 +2297,6 @@ spotxchange.com
 squeezedthoughtfully.com
 ssix.io
 static.dable.io
-static.doubleclick.net
 statistics.videofarm.daum.net
 statscore.com
 steepto.com
@@ -2274,6 +2306,17 @@ strpjmp.com
 stunninglover.com
 sundaysky.com
 sunnyworks.co.kr
+addthis.com
+
+dibpic.com
+edparticu.fun
+ncefibroth.fun
+realtime-bid.com
+spination.top
+tablesper.top
+watchuseek.com
+yopriceville.com
+
 superfastcdn.com
 survata.com
 syndication.openapi.naver.com
@@ -2327,7 +2370,6 @@ tremorhub.com
 tribalfusion.com
 truoptik.com
 trwl1.com
-tsyndicate.com
 turl.co.kr
 turn.com
 tvdaily.co.kr/banner/*
@@ -2472,6 +2514,10 @@ gasengi.com##.board_list > tbody > tr:has-text(가을연가)
 gasengi.com###commentContents > table:has-text(가을연가)
 gasengi.com##.board_list > tbody > tr:has-text(안사요)
 gasengi.com###commentContents > table:has-text(안사요)
+gasengi.com##.board_list > tbody > tr:has-text(이추수)
+gasengi.com###commentContents > table:has-text(이추수)
+gasengi.com##.board_list > tbody > tr:has-text(김너겟)
+gasengi.com###commentContents > table:has-text(김너겟)
 gasengi.com##li.cursor.top_l01
 gasengi.com###copyright
 gasengi.com##.powerlink
@@ -4206,13 +4252,86 @@ mksports.co.kr##[class^="slot"]
 
 ! 2021-01-31 https://blog.naver.com
 ||blogimgs.pstatic.net/nblog/mylog/post/gr_green.gif$image
+downsub.com##.wrap.layout
+etoday.co.kr##.relation_newslist
+etoday.co.kr##.popular_newslist
+sportalkorea.com##.ad_gigigi
+tistory.com###kakaoFoot
 
-! 2021-01-31 https://unwww.tistory.com
+
 tistory.com##button.btn_mark:nth-of-type(3)
 tistory.com##.ico_statistics.ico_postbtn
-
-
 tistory.com##.wrap_btn_share.wrap_btn
 tistory.com##.uoc-icon.btn_post
-unwww.tistory.com##button.btn_mark:nth-of-type(2)
+tistory.com##button.btn_mark:nth-of-type(2)
+
+! 2021-02-09 https://nid.naver.com
+nid.naver.com##.whale_wrap
+
+! 2021-02-11 https://pirateproxy.live
+pirateproxy.live###adrestop
+pirateproxy.live###bottomads
+
+! 2021-02-11 http://prod.danawa.com
+prod.danawa.com###mainAdReader
+prod.danawa.com###mainAdPoint
+prod.danawa.com###ebayPowerClickBottomArea
+danawa.com/NBP/powerLink.php$domain=prod.danawa.com,subdocument
+prod.danawa.com###danawa_footer
+prod.danawa.com###brandHallArea
+
+! 2021-02-11 https://www.edaily.co.kr
+edaily.co.kr##.ad_texbanner
+edaily.co.kr##.ad_texbanner_300
+edaily.co.kr##.boxbanner_250x250
+edaily.co.kr##.boxbanner_300x250
+edaily.co.kr##.list_advertising
+edaily.co.kr##.ad_740x150
+edaily.co.kr##.ad_taboola
+edaily.co.kr##.ad_text1
+edaily.co.kr##.ad_dable_box
+edaily.co.kr##.boxbanner_footer_dable
+edaily.co.kr##.iwm_ba
+edaily.co.kr##.banner_300x169
+www.edaily.co.kr##.photo_ad_1080_200
+
+! 2021-02-13 https://www.sportalkorea.com
+www.sportalkorea.com###topAdBox
+
+! 2021-02-13 https://drive.google.com
+drive.google.com##.a-la-B-x
+
+! 2021-02-14 https://ppss.kr
+ppss.kr##.wing_banner
+ppss.kr##.ppss-title-banner
+ppss.kr###genesis-footer-widgets
+ppss.kr##.site-footer
+ppss.kr###custom_html-2
+ppss.kr###custom_html-3
+
+! 2021-02-14 https://www.freebunker.com
+www.freebunker.com###layer
+www.freebunker.com##.introOverlayBg
+
+! 2021-02-14 https://www.pornhub.com
+www.pornhub.com##.removeAdLink
+phncdn.com/pics/skins/000/002/572/2572_large.png$domain=www.pornhub.com,image
+
+! 2021-02-18 https://fboom.me
+fboom.me##.premium-advantages
+fboom.me##.help-block.pull-right
+fboom.me###footer
+fboom.me##.navigation-top
+fboom.me##.omni-email-widget
+
+! 2021-02-23 https://www.afreecatv.com
+www.afreecatv.com##.Advertising_Output_Area
+
+! 2021-05-11 https://m.naver.com
+m.naver.com##.ISSUE-BANNER-AD
+m.naver.com##.id_comp_anniversary_banner
+m.naver.com##._MM_HOME_PROMOTION_PROMOTION
+m.naver.com##.id_comp_napp_banner
+m.naver.com##.id_comp_promotion
+m.naver.com##.main_footer
 
