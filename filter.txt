@@ -868,9 +868,6 @@ series.naver.com##.also_wrap
 series.naver.com###_alsoBought
 series.naver.com###_otherProductByPerson
 
-! 2020-09-15 https://page.kakao.com
-page.kakao.com##.css-tgplph
-
 ! 2020-09-19 https://www.sbs.co.kr
 www.sbs.co.kr##.brl_inner
 www.sbs.co.kr##.main_da_banner_w
@@ -1725,6 +1722,7 @@ naver.com##.MM_DA_BRANDING_BANNER
 naver.com##.MM_DA_SMARTCHANNEL
 naver.com##.sc_shopcast
 naver.com##.section_banner_smartchannel
+sports.naver.com##.ad_box
 news.naver.com##.rightBottomDouble
 news.naver.com###doubleDA
 news.naver.com###footer
@@ -3217,7 +3215,6 @@ about.co.kr
 acecounter.com
 aceplanet.co.kr
 acetrader.co.kr
-ackcdn.net
 acloudimages.com
 acrosspf.com
 acxiom.com
@@ -3526,6 +3523,22 @@ cdnativepush.com
 cdncontentdelivery.com
 cdnprism.pandora.tv
 cdnser.be/ad/*
+ackcdn.net
+x1cdn.com
+velocecdn.com
+velocitycdn.com
+uptimecdn.com
+ufpcdn.com
+theonecdn.com
+superfastcdn.com
+sascdn.com
+rlcdn.com
+littlecdn.com
+licdn.com
+cdnspace.io
+intercomcdn.com
+iclickcdn.com
+ftcdn.net
 celeb.nann.co.kr
 celebjihad.com
 centrofiles.com
@@ -3693,14 +3706,12 @@ files.adform.net
 finead.o00.kr
 fingahvf.top
 flashtalking.com
-flixcdn.com
 fnnews.com/resources/images/banner_*
 focas.jp
 fout.jp
 freebody.co.kr
 frtyi.com
 fryawlauk.com
-ftcdn.net
 ftd.agency
 ftigholm.site
 fullxh.com
@@ -3788,7 +3799,6 @@ iacstatic.co.kr
 iasds01.com
 ib-ibi.com
 icast-ad.com
-iclickcdn.com
 icontact.kr
 id5-sync.com
 idelv.net
@@ -3825,7 +3835,6 @@ inpagepush.com
 inter1ads.com
 intercom.io
 intercomassets.com
-intercomcdn.com
 interst12.com
 interworksmedia.co.kr
 inven.co.kr/column/2017/03/24/event/*
@@ -3840,7 +3849,6 @@ aexperiod.fun
 bestcontentfood.top
 bonertraffic12.mobi
 bonertraffic14.pro
-cdnspace.io
 chaserwit.top
 cstwpush.com
 inven.co.kr/column/2018/10/31/event/*
@@ -3921,12 +3929,10 @@ lewat.club
 lfstmedia.com
 lg-talk.kakao.com
 liadm.com
-licdn.com
 lijit.com
 linkadx.com
 linkedin.com
 linkprice.com
-littlecdn.com
 loader.fmkorea.com
 lockerdome.com
 log.inside.daum.net
@@ -4059,15 +4065,6 @@ nsense.co.kr
 nsimg.net
 nsmartad.com
 nudostar.com
-nv.ad.naver.com
-nv.veta.naver.com
-nv1.ad.naver.com
-nv1.veta.naver.com
-nv2.ad.naver.com
-nv2.veta.naver.com
-nv3.ad.naver.com
-nv4.ad.naver.com
-nv4.ad.naver.com 
 nw.realssp.co.kr
 nyetm2mkch.com
 o00.kr
@@ -4175,7 +4172,6 @@ revcontent.com
 rezync.com
 rfihub.com
 richaudience.com
-rlcdn.com
 rovenancyde.top
 rtbsuperhub.com
 rtmark.net
@@ -4186,7 +4182,6 @@ s0.2mdn.net
 s1.2mdn.net 
 saedu.naver.com
 salesloft.com
-sascdn.com
 sbtrustmedia.com
 schjmp.com
 scorecardresearch.com
@@ -4264,7 +4259,6 @@ tablesper.top
 watchuseek.com
 yopriceville.com
 
-superfastcdn.com
 survata.com
 syndication.openapi.naver.com
 t8cdn.com/catfishBanner
@@ -4287,7 +4281,6 @@ tgpsew.com
 theadtech.com
 thefappeningblog.com
 thefappeningblog1.com
-theonecdn.com
 thesexscene.com
 theviewers.co.kr/images/main/banner/*
 thrtle.com
@@ -4322,22 +4315,16 @@ turn.com
 tvdaily.co.kr/banner/*
 twinrdsrv.com
 tynt.com
-ufpcdn.com
 ulsanpress.net/banner/*
 uncn.jp
 unrulymedia.com
 uplynk.com
-uptimecdn.com
 us-central1-adaptive-growth.cloudfunctions.net
 userreport.com
 vads-api.ad.daum.net
 vasgenerete.site
 vebma.com
-velocecdn.com
-velocitycdn.com
 verizon.com
-veta.naver.com
-veta.naver.com/fxshow
 videoamp.com
 videoplayerhub.com
 videoplaza.tv
@@ -4369,7 +4356,6 @@ wowtv.co.kr/PcStyle/images/banner/*
 wpu.sh
 wpush.org
 wrd.naver.com
-x1cdn.com
 xhamsterpremium.com
 yadro.ru
 yeongnam.com/mnt/webdata/ad/*
@@ -4410,4 +4396,96 @@ celtra.com
 celtraidentity.com
 ! 2021-05-30 https://www.youtube.com
 www.youtube.com##.GoogleActiveViewElement.ytd-watch-next-secondary-results-renderer.style-scope
+
+! 2021-05-31 http://shop.danawa.com
+shop.danawa.com##.adreader_box
+
+! 2021-06-05 http://news.tvchosun.com
+news.tvchosun.com##.banner_list
+news.tvchosun.com###banner_header
+news.tvchosun.com##.realssp
+news.tvchosun.com##.view_banner
+
+! 2021-06-05 https://www.econovill.com
+www.econovill.com##.banner_box
+
+! 2021-06-06 http://www.redian.org
+www.redian.org##.main_ad_banner
+www.redian.org##.right-ad
+www.redian.org##.head_ad
+
+! 2021-06-08 https://www.youtube.com
+www.youtube.com##ytd-thumbnail-overlay-time-status-renderer.ytd-thumbnail.style-scope
+
+! 2021-06-09 https://www.hani.co.kr
+www.hani.co.kr###ad_tag
+www.hani.co.kr##.bn-promotion-support
+www.hani.co.kr##.ad_top
+www.hani.co.kr##.bn-support-character
+www.hani.co.kr##.support-box
+www.hani.co.kr##.ad-banner
+
+! 2021-06-09 https://www.ytn.co.kr
+www.ytn.co.kr##.top_banner
+www.ytn.co.kr##.YTN_CSA_mainbnr
+
+! 2021-06-10 https://www.asiatoday.co.kr
+www.asiatoday.co.kr###scrolling_left_banner
+www.asiatoday.co.kr###scrolling_banner
+www.asiatoday.co.kr##.section_top_ad_nb
+
+! 2021-06-10 https://dongascience.com
+dongascience.com##.advertise
+dongascience.com##.top_ad
+
+! 2021-06-10 https://mail.naver.com
+mail.naver.com##.cmn_promotion_image
+
+! 2021-06-10 http://www.danawa.com
+www.danawa.com##.header_banner
+
+! 2021-06-10 http://prod.danawa.com
+prod.danawa.com##.tooltip_layer
+prod.danawa.com##.power_link
+prod.danawa.com##.ad_slide_area
+prod.danawa.com##.ad_wide_slide
+
+! 2021-06-10 http://dpg.danawa.com
+dpg.danawa.com##.bbs_power_link
+dpg.danawa.com##.floatbnr_btm
+
+! 2021-06-10 https://www.tmon.co.kr
+www.tmon.co.kr##.topline_ad
+www.tmon.co.kr##.wrap-bg
+www.tmon.co.kr##.special_banner
+
+! 2021-06-10 https://www.yonhapnewstv.co.kr
+www.yonhapnewstv.co.kr##.noticeBannerWrap
+
+! 2021-06-11 https://cafe.naver.com
+cafe.naver.com##.ArticleFormBanner
+
+! 2021-06-11 http://www.upinews.kr
+www.upinews.kr##.adlink
+
+! 2021-06-12 https://m.naver.com
+m.naver.com##.id_comp_promotion_tablet
+m.naver.com##.comp_banner
+! 2021-06-12 http://nene25.com
+nene25.com##a[href^="http://nene25.com/bbs/board.php"]
+
+
+! 2021-06-12 https://xhamster19.com
+xhamster19.com##.wio-vspot-container.wio-vright-rectangle--video.wio-vright-rectangle
+xhamster19.com##.wio-vspot-container.bottom-widget-section
+xhamster19.com##.wio-vspa.wio-vspb
+xhamster19.com##.clipstore-bottom.width-wrap
+xhamster19.com##.cookie-announce.bottom-announce
+
+! 2021-06-12 https://xhamster19.com
+xhamster19.com##.group_d_six.wio-vspot-container--top.wio-vspot-container
+xhamster19.com##.wio-vspot-container--bottom.wio-vspot-container
+xhamster19.com##.no-swap.wio-vspot-container--middle.wio-vspot-container
+xhamster19.com##.wio-vbanner-container
+xhamster19.com##.big-thumb-block
 
